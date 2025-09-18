@@ -32,6 +32,49 @@ bool pj_ready;
 CTime startTime;
 CArray<Shortcut, Shortcut> shortcuts;
 
+namespace {
+
+static LPCTSTR const kWonitUsersDirectoryTemplate = _T("http://{domain}/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
+static LPCTSTR const kWonitUsersDirectorySuffix = _T("/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
+
+CString NormalizeUsersDirectory(const CString &value)
+{
+	CString directory = value;
+	directory.Trim();
+
+	if (directory.IsEmpty()) {
+		return CString(kWonitUsersDirectoryTemplate);
+	}
+	if (directory.Find(_T("%s")) != -1 || directory.Find(_T("{")) != -1) {
+		return directory;
+	}
+
+	CString directoryLower(directory);
+	directoryLower.MakeLower();
+	CString suffixLower(kWonitUsersDirectorySuffix);
+	suffixLower.MakeLower();
+
+	if (directoryLower.Right(suffixLower.GetLength()) == suffixLower) {
+		CString prefixLower = directoryLower.Left(directoryLower.GetLength() - suffixLower.GetLength());
+		CString scheme;
+		if (prefixLower.Left(8) == _T("https://")) {
+			scheme = _T("https://");
+		}
+		else if (prefixLower.Left(7) == _T("http://")) {
+			scheme = _T("http://");
+		}
+		if (!scheme.IsEmpty()) {
+			CString templateValue;
+			templateValue.Format(_T("%s{domain}%s"), scheme, kWonitUsersDirectorySuffix);
+			return templateValue;
+		}
+	}
+
+	return directory;
+}
+
+} // namespace
+
 static LONGLONG FileSize(const wchar_t* name)
 {
 	WIN32_FILE_ATTRIBUTE_DATA fad;
@@ -470,8 +513,9 @@ void AccountSettings::Init()
 
 	//--
 	ptr = usersDirectory.GetBuffer(255);
-	GetPrivateProfileString(section, _T("usersDirectory"), NULL, ptr, 256, iniFile);
+	GetPrivateProfileString(section, _T("usersDirectory"), kWonitUsersDirectoryTemplate, ptr, 256, iniFile);
 	usersDirectory.ReleaseBuffer();
+	EnsureUsersDirectoryTemplate();
 
 	ptr = defaultAction.GetBuffer(255);
 	GetPrivateProfileString(section, _T("defaultAction"), NULL, ptr, 256, iniFile);
@@ -1013,6 +1057,8 @@ void AccountSettings::SettingsSave()
 	str.Format(_T("%d"), accountId);
 	WritePrivateProfileString(section, _T("accountId"), str, iniFile);
 
+	EnsureUsersDirectoryTemplate();
+
 // save user settings
 
 	WritePrivateProfileString(section, _T("singleMode"), singleMode ? _T("1") : _T("0"), iniFile);
@@ -1186,6 +1232,11 @@ void AccountSettings::SettingsSave()
 	WritePrivateProfileString(section, _T("shortcutsBottom"), shortcutsBottom ? _T("1") : _T("0"), iniFile);
 	WritePrivateProfileString(section, _T("lastCallNumber"), lastCallNumber, iniFile);
 	WritePrivateProfileString(section, _T("lastCallHasVideo"), lastCallHasVideo ? _T("1") : _T("0"), iniFile);
+}
+
+void AccountSettings::EnsureUsersDirectoryTemplate()
+{
+	usersDirectory = NormalizeUsersDirectory(usersDirectory);
 }
 
 CString ShortcutEncode(Shortcut *pShortcut)
