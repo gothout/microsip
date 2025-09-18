@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+அழைப்பு
+[End Call]
+இறுதி அழைப்பு
+[Contacts]
+தொடர்புகள்
+[Account]
+கணக்கு
+[Settings]
+அமைப்புகள்
+[Visit Website]
+வலைத்தளத்தைப் பார்வையிடவும்
+[Exit]
+வெளியேறு
+[Browse...]
+உலாவு ...
+[Default]
+இயல்புநிலை
+[Auto Answer]
+ஆட்டோ பதில்
+[Disable Local Account]
+உள்ளூர் கணக்கை முடக்கு
+[OK]
+சரி
+[Save]
+சேமி
+[Cancel]
+ரத்துசெய்
+[SIP Server]
+SIP சேவையகம்
+[SIP Proxy]
+SIP ப்ராக்ஸி
+[Domain]
+களம்
+[Password]
+கடவுச்சொல்
+[Connecting...]
+இணைக்கிறது ...
+[Online]
+நிகழ்நிலை
+[Local]
+உள்ளூர்
+[Message]
+செய்தி
+[Edit]
+தொகு
+[Delete]
+அழி
+[Add]
+கூட்டு
+[Bad Gateway]
+மோசமான நுழைவாயில்
+[Request Timeout]
+கோரிக்கை நேரம் முடிந்தது
+[Number]
+எண்
+[Name]
+பெயர்
+[Contact]
+தொடர்பு கொள்ளுங்கள்
+[Incoming Call]
+உள்வரும் அழைப்பு
+[Answer]
+பதில்
+[Decline]
+சரிவு
+[Calling]
+அழைக்கிறது
+[Connecting]
+இணைக்கிறது
+[Connected]
+இணைக்கப்பட்டுள்ளது
+[Auto]
+ஆட்டோ
+[Transport]
+போக்குவரத்து
+[Incorrect Password]
+தவறான கடவுச்சொல்
+[Public Address]
+பொது முகவரி
+[Media Encryption]
+மீடியா குறியாக்கம்
+[Disabled]
+முடக்கப்பட்டது
+[Optional]
+விரும்பினால்
+[Mandatory]
+கட்டாயமாகும்
+[STUN Server]
+STUN சேவையகம்
+[Presence Subscription]
+இருப்பு சந்தா
+[Ringing]
+ரிங்கிங்
+[Call Ended]
+அழைப்பு முடிந்தது
+[Declined]
+குறைந்தது
+[No address found]
+முகவரி எதுவும் கிடைக்கவில்லை
+[Request Terminated]
+கோரிக்கை நிறுத்தப்பட்டது
+[Away]
+தொலைவில்
+[Publish Presence]
+இருப்பை வெளியிடுங்கள்
+[Session Progress]
+அமர்வு முன்னேற்றம்
+[Camera]
+புகைப்பட கருவி
+[Video Call]
+வீடியோ அழைப்பு
+[Answer with Video]
+வீடியோவுடன் பதில்
+[View Log File]
+பதிவு கோப்பைக் காண்க
+[Microphone]
+மைக்ரோஃபோன்
+[Speaker]
+சபாநாயகர்
+[Video Codec]
+வீடியோ கோடெக்
+[Check for Updates]
+புதுப்பிப்புகளைச் சரிபார்க்கவும்
+[Daily]
+தினசரி
+[Weekly]
+வாராந்திர
+[Monthly]
+மாதாந்திர
+[Quarterly]
+காலாண்டு
+[Never]
+ஒருபோதும்
+[Update Available]
+புதுப்பிப்பு கிடைக்கிறது
+[Force Codec for Incoming]
+உள்வரும் கோடெக்கை கட்டாயப்படுத்துங்கள்
+[Invalid Number]
+தவறான URI
+[Offline]
+ஆஃப்லைனில்
+[Single Call Mode]
+ஒற்றை அழைப்பு முறை
+[Local Video]
+உள்ளூர் வீடியோ
+[Call Transfer]
+அழைப்பு பரிமாற்றம்
+[final]
+இறுதி
+[Call transfered successfully, disconnecting call]
+அழைப்பு வெற்றிகரமாக மாற்றப்பட்டது, அழைப்பைத் துண்டிக்கிறது
+[Hold]
+பிடி
+[Transfer]
+இடமாற்றம்
+[Sound Events]
+ஒலி நிகழ்வுகள்
+[Bitrate]
+பிட்ரேட்
+[Login]
+உள்நுழைய
+[Enable Log File]
+பதிவு கோப்பை இயக்கு
+[Duration]
+காலம்
+[Info]
+தகவல்
+[display password]
+கடவுச்சொல்லைக் காண்பி
+[From]
+இருந்து
+[To]
+க்கு
+[Ring Device]
+ரிங் சாதனம்
+[Service Unavailable]
+சேவை கிடைக்கவில்லை
+[Unable to connect to remote server.]
+தொலை சேவையகத்துடன் இணைக்க முடியவில்லை.
+[Busy Here]
+இங்கே பிஸி
+[Trying]
+முயற்சிக்கிறது
+[Method Not Allowed]
+இந்த முறைக்கு அனுமதியில்லை
+[Not Found]
+கிடைக்கவில்லை
+[Always on Top]
+எப்போதும் மேலே
+[Connect]
+இணைக்கவும்
+[Last Call]
+கடைசி அழைப்பு
+[Close All]
+அனைத்தையும் மூடு
+[Copy]
+நகலெடுக்கவும்
+[Select All]
+அனைத்தையும் தெரிவுசெய்
+[Display Name]
+காட்சி பெயர்
+[Remember Details]
+விவரங்களை நினைவில் கொள்க
+[PIN]
+பின்
+[No]
+இல்லை
+[All Calls]
+அனைத்து அழைப்புகள்
+[SIP Header]
+SIP தலைப்பு
+[Different User]
+வெவ்வேறு பயனர்
+[Different Domain]
+வெவ்வேறு டொமைன்
+[Different User or Domain]
+வெவ்வேறு பயனர் அல்லது டொமைன்
+[Different Remote Domain]
+வெவ்வேறு தொலைநிலை கள
+[Deny Incoming]
+உள்வரும் மறுக்க
+[Allow IP Rewrite]
+ஐபி மீண்டும் எழுத அனுமதிக்கவும்
+[Directory of Users]
+பயனர்களின் அடைவு
+[Call on Remote Hold]
+ரிமோட் ஹோல்டில் அழைக்கவும்
+[Call on Local Hold]
+லோக்கல் ஹோல்டில் அழைக்கவும்
+[Call on Hold]
+ஹோல்டில் அழைக்கவும்
+[Call is Active]
+அழைப்பு செயலில் உள்ளது
+[Menu]
+பட்டியல்
+[Edit Account]
+கணக்கைத் திருத்து
+[Add Account...]
+கணக்கு சேர்க்க...
+[Remove Account]
+கணக்கை அகற்று
+[Make Active]
+செயலில் கொள்ளுங்கள்
+[Are you sure you want to remove?]
+நீங்கள் நிச்சயமாக அகற்ற விரும்புகிறீர்களா?
+[Call Pickup]
+பிக்கப்பை அழைக்கவும்
+[Speaker Level]
+சபாநாயகர் நிலை
+[Microphone Level]
+மைக்ரோஃபோன் நிலை
+[Mute Speaker]
+முடக்கு சபாநாயகர்
+[Mute Microphone]
+மைக்ரோஃபோனை முடக்கு
+[Balance]
+இருப்பு
+[Custom INI Path]
+தனிப்பயன் இந்த பாதை
+[Contact Us]
+எங்களை தொடர்பு கொள்ள
+[Please fill out at least the required fields marked with *.]
+* எனக் குறிக்கப்பட்ட தேவையான புலங்களையாவது நிரப்பவும்.
+[Ask your SIP provider how to configure the account correctly.]
+கணக்கை சரியாக எவ்வாறு கட்டமைப்பது என்று உங்கள் SIP வழங்குநரிடம் கேளுங்கள்.
+[Time]
+நேரம்
+[Phone]
+தொலைபேசி
+[Ringtone]
+ரிங்டோன்
+[Username]
+பயனர்பெயர்
+[Do you want to update now?]
+நீங்கள் இப்போது புதுப்பிக்க விரும்புகிறீர்களா?
+[Available Codecs]
+கிடைக்கும் கோடெக்குகள்
+[Enabled Codecs]
+இயக்கப்பட்ட கோடெக்குகள்
+[Logs]
+பதிவுகள்
+[Random Popup Position]
+சீரற்ற பாப்அப் நிலை
+[Attended Transfer]
+இடமாற்றத்தில் கலந்து கொண்டார்
+[Launch URL on incoming call]
+உள்வரும் அழைப்பில் URL ஐத் தொடங்கவும்
+[Enable Local Account]
+உள்ளூர் கணக்கை இயக்கு
+[Send Crash Report]
+செயலிழப்பு அறிக்கையை அனுப்பவும்
+[Account Name]
+கணக்கின் பெயர்
+[Invite to Conference]
+மாநாட்டிற்கு அழைக்கவும்
+[Merge]
+பயணத்தின்
+[Separate]
+தனி
+[Disconnect]
+துண்டிக்கவும்
+[DTMF Method]
+டி.டி.எம்.எஃப் முறை
+[Voicemail Number]
+குரல் அஞ்சல் எண்
+[Disable Session Timers]
+அமர்வு டைமர்களை முடக்கு
+[Microphone Amplification]
+மைக்ரோஃபோன் பெருக்கம்
+[Software Level Adjustment]
+மென்பொருள் நிலை சரிசெய்தல்
+[Shortcuts]
+குறுக்குவழிகள்
+[Enable]
+இயக்கு
+[Label]
+லேபிள்
+[Type]
+வகை
+[Bottom Position]
+கீழே நிலை
+[You need to restart application for the changes to take effect.]
+மாற்றங்கள் நடைமுறைக்கு வர நீங்கள் விண்ணப்பத்தை மறுதொடக்கம் செய்ய வேண்டும்.
+[Handle Media Buttons]
+மீடியா பொத்தான்களைக் கையாளவும்
+[Bring to Front on Incoming Call]
+உள்வரும் அழைப்பில் முன்னணியில் கொண்டு வாருங்கள்
+[SIP account]
+SIP கணக்கு
+[SIP password]
+SIP கடவுச்சொல்
+[Help]
+உதவி
+[Video Bitrate]
+வீடியோ பிட்ரேட்
+[Control Button]
+கட்டுப்பாட்டு பொத்தான்
+[Do Not Disturb]
+தொந்தரவு செய்யாதீர்
+[Source Port]
+மூல போர்ட்
+[RTP Ports]
+RTP துறைமுகங்கள்
+[Unregister the account when the operator is Away]
+ஆபரேட்டர் தொலைவில் இருக்கும்போது கணக்கைப் பதிவுசெய்யவும்
+[Ask for the sip USER and SECRET everytime]
+SIP USER மற்றும் SECRET ஐ ஒவ்வொரு முறையும் கேளுங்கள்
+[Import]
+இறக்குமதி
+[Server]
+சேவையகம்
+[Attendant Transfer]
+உதவியாளர் இடமாற்றம்
+[Blind Transfer]
+குருட்டு பரிமாற்றம்
+[Redial]
+மீண்டும்
+[Backspace]
+பின்வெளி
+[Clear]
+அழி
+[Use Space key to enable selected codec]
+தேர்ந்தெடுக்கப்பட்ட கோடெக்கை இயக்க விண்வெளி விசையைப் பயன்படுத்தவும்
+[Use Delele key to disable selected codec]
+தேர்ந்தெடுக்கப்பட்ட கோடெக்கை முடக்க டெலீல் விசையைப் பயன்படுத்தவும்
+[Make Inactive]
+செயலற்றதாக ஆக்குங்கள்
+[Conference]
+மாநாடு
+[Dialing Prefix]
+டயலிங் முன்னொட்டு
+[Register Refresh]
+பதிவு புதுப்பிப்பு
+[Keep-Alive]
+உயிரோடு வைத்திரு
+[Ringtone Volume]
+ரிங்டோன் தொகுதி
+[Call Recording]
+அழைப்பு பதிவு
+[Nameserver]
+பெயர்செர்வர்
+[Default List Action]
+இயல்புநிலை பட்டியல் செயல்
+[Edit Local Account]
+உள்ளூர் கணக்கைத் திருத்து
+[Export]
+ஏற்றுமதி
+[Version]
+பதிப்பு
+[Call Waiting]
+அழைப்பில் காத்திருக்கவும்
+[Ready]
+தயார்
+[Not online]
+ஆன்லைனில் இல்லை
+[On the phone]
+தொலைபேசியில் பேசிக்கொண்டிருக்கிறேன்
+[First Name]
+முதல் பெயர்
+[Last Name]
+கடைசி பெயர்
+[Phone Number]
+தொலைபேசி எண்
+[Mobile Number]
+கைபேசி எண்
+[E-mail Address]
+மின்னஞ்சல் முகவரி
+[Address]
+முகவரி
+[City]
+நகரம்
+[State]
+நிலை
+[Postal Code]
+அஞ்சல் குறியீடு
+[Comment]
+கருத்து
+[Extension]
+நீட்டிப்பு
+[Port]
+துறைமுகம்
+[User ID]
+பயனர் ஐடி
+[Authentication failed]
+அங்கீகரிப்பு தோல்வியுற்றது
+[API URL is empty]
+API URL காலியாக உள்ளது
+[API connection failed]
+API இணைப்பு தோல்வியுற்றது
+[API request failed. Response code:]
+API கோரிக்கை தோல்வியடைந்தது. மறுமொழி குறியீடு:
+[API response is empty]
+API பதில் காலியாக உள்ளது
+[API response parse error]
+API பதில் பாகுபடுத்தல் பிழை
+[API data type is wrong]
+API தரவு வகை தவறானது
+[Login failed]
+உள்நுழைவு தோல்வியுற்றது
+[Request failed]
+கோரிக்கை தோல்வியடைந்தது
+[close window to ignore call]
+அழைப்பை புறக்கணிக்க சாளரத்தை மூடு
+[Transfer Code]
+பரிமாற்றக் குறியீடு
+[Headset Support]
+ஹெட்செட் ஆதரவு
+[Privacy Policy]
+தனியுரிமைக் கொள்கை
+[sec]
+நொடி
+[Call Forwarding]
+அழைப்பு பகிர்தல்
+[Are you sure you want to delete?]
+இதை நீக்க வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா?
+[Delete contact]
+தொடர்பை நீக்கு
+[Account or credentials not found.]
+கணக்கு அல்லது நற்சான்றிதழ் கிடைக்கவில்லை
+[Please fill out all required fields.]
+தேவையான அனைத்து புலங்களையும் நிரப்பவும்.
+[Change Account]
+கணக்கை மாற்றவும்
+[Dial Plan]
+டயல் திட்டம்
+[Disable Video]
+வீடியோவை முடக்கு
+[Disable Messaging]
+செய்தியிடலை முடக்கு
+[Headphones]
+ஹெட்ஃபோன்கள்
+[Are you sure you want to close the application?]
+விண்ணப்பத்தை மூட விரும்புகிறீர்களா?
+[Dashboard Access]
+டாஷ்போர்டு அணுகல்
+[Break]
+இடைவெளி
+[Non-Telephone Work]
+தொலைபேசி அல்லாத வேலை
+[On Break]
+இடைவேளையில்
+[Telephone Work]
+தொலைபேசி வேலை
+[Register]
+பதிவு
+[Unregister]
+பதிவுசெய்தல்
+[Options]
+விருப்பங்கள்
+[Delay]
+தாமதம்
+[Caller Number]
+அழைப்பாளர் எண்
+[Purchase a Number]
+ஒரு எண்ணை வாங்கவும்
+[Line Number (4 digits)]
+வரி எண் (4 இலக்கங்கள்)
+[Line Password]
+வரி கடவுச்சொல்
+[Set Password]
+கடவுச்சொல்லை அமைக்கவும்
+[Reset Password]
+கடவுச்சொல்லை மீட்டமைக்க
+[Open]
+திறக்க
+[Unable to find default audio device]
+ஆடியோ சாதனம் எதுவும் கிடைக்கவில்லை
+[Network is unreachable]
+நெட்வொர்க் அணுக முடியாதது
+[Allow access to the microphone in your antivirus settings.]
+உங்கள் வைரஸ் தடுப்பு அமைப்புகளில் மைக்ரோஃபோனை அணுக அனுமதிக்கவும்.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+விண்டோஸ் அமைப்புகளில் மைக்ரோஃபோன் அனுமதியை சரிசெய்யவும் (விண்டோஸ் அமைப்புகள் =&gt; தனியுரிமை =&gt; மைக்ரோஃபோன்).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+பேச்சாளர்கள் மற்றும் மைக்ரோஃபோன் இரண்டும் தேவை. அழைப்புகளைச் செய்ய உங்கள் கணினியில் உள்ளீடு மற்றும் வெளியீட்டு ஒலி சாதனம் இருக்க வேண்டும்.
+[Canceled]
+ரத்து செய்யப்பட்டது
+[Unknown format]
+தெரியாத வடிவம்
+[Softphone is not initialized. Check your settings.]
+மென்பொருள் துவக்கப்படவில்லை. உங்கள் அமைப்புகளைச் சரிபார்க்கவும்.
+[Unable to initialize network sockets.]
+பிணைய சாக்கெட்டுகளை துவக்க முடியவில்லை.
+[Starred]
+நடித்தார்
+[Run at System Startup]
+கணினி தொடக்கத்தில் இயக்கவும்
+[Run Batch]
+தொகுப்பை இயக்கவும்
+[Call URL]
+URL ஐ அழைக்கவும்
+[Call All]
+அனைவரையும் அழைக்கவும்
+[Custom]
+தனிப்பயன்
+[Take Back]
+மீண்டும் எடு
+[Add Contact]
+தொடர்பைச் சேர்க்கவும்
+[Incorrect dialing or non-existent number]
+தவறான டயலிங் அல்லது இல்லாத எண்
+[Profile]
+சுயவிவரம்
+[Use Outbound Proxy]
+வெளிச்செல்லும் ப்ராக்ஸியைப் பயன்படுத்தவும்
+[End]
+இறுதி அழைப்பு
+[Address Incomplete]
+முகவரி முழுமையடையவில்லை
+[Not acceptable here]
+இங்கு ஏற்க முடியாது
+[Direct Transfer]
+நேரடி பரிமாற்றம்
+[Idle]
+சும்மா
+[Toggle]
+நிலைமாற்று
+[Enter Password]
+கடவுச்சொல்லை உள்ளிடவும்
+[Connection refused]
+இணைப்பு மறுக்கப்பட்டது
+[Connection timed out]
+இணைப்பின் நேரம் முடிந்தது
+[Cannot get IP address of the called host]
+அழைக்கப்பட்ட ஹோஸ்டின் ஐபி முகவரியைப் பெற முடியவில்லை
+[Answered Elsewhere]
+வேறொரு இடத்தில் பதிலளித்தார்
+[Missed Call]
+தவறிய அழைப்பு
+[Do you want to delete user data and program settings? This action cannot be undone.]
+பயனர் தரவு மற்றும் நிரல் அமைப்புகளை நீக்க விரும்புகிறீர்களா? இந்தச் செயலைச் செயல்தவிர்க்க முடியாது.
+[Unavailable]
+கிடைக்கவில்லை
+[Call Limit]
+அழைப்பு வரம்பு
+[Hide Caller ID]
+அழைப்பாளர் ஐடியை மறை
+[External Program]
+வெளிப்புற திட்டம்
+[]

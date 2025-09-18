@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Bang
+[End Call]
+Banga Dawiyê
+[Contacts]
+Têkilî
+[Account]
+Hesab
+[Settings]
+Mîhengên
+[Visit Website]
+Serdana Malperê bikin
+[Exit]
+Jêçûn
+[Browse...]
+Browse ...
+[Default]
+Jidestrevandin
+[Auto Answer]
+Bersivê Auto
+[Disable Local Account]
+Hesabê Herêmî seyr bikin
+[OK]
+OK
+[Save]
+Rizgarkirin
+[Cancel]
+Bişûndekirin
+[SIP Server]
+SIP Server
+[SIP Proxy]
+Proxy SIP
+[Domain]
+Domain
+[Password]
+Şîfre
+[Connecting...]
+Têkelî ...
+[Online]
+Serhêl
+[Local]
+Herêmî
+[Message]
+Agah
+[Edit]
+Weşandin
+[Delete]
+Jêkirin
+[Add]
+Lêzêdekirin
+[Bad Gateway]
+Gateway xerab
+[Request Timeout]
+Demjimêrê daxwaz bikin
+[Number]
+Jimare
+[Name]
+Nav
+[Contact]
+Têkelî
+[Incoming Call]
+Gazîkirina bihayê
+[Answer]
+Bersiv
+[Decline]
+Paşvegerrî
+[Calling]
+Gazî kirin
+[Connecting]
+Girêdana
+[Connected]
+Têkildar bûn
+[Auto]
+Auto
+[Transport]
+Neqilkirin
+[Incorrect Password]
+Passwordîfreya çewt
+[Public Address]
+Navnîşa Giştî
+[Media Encryption]
+Ragihandina Medyayê
+[Disabled]
+Bêmecel
+[Optional]
+Bixwe
+[Mandatory]
+Bicî
+[STUN Server]
+Server STUN
+[Presence Subscription]
+Abonetiya Hebûna
+[Ringing]
+Rengîn kirin
+[Call Ended]
+Banga Dawîn bi dawî bû
+[Declined]
+Keleş daxist
+[No address found]
+Navnîşan nehat dîtin
+[Request Terminated]
+Daxwaz bi dawî kirin
+[Away]
+Serve
+[Publish Presence]
+Serokatiyê çap bikin
+[Session Progress]
+Pêşveçûna Session
+[Camera]
+Kamîra
+[Video Call]
+Lêgerîna bidîmen
+[Answer with Video]
+Bersiv bi Video
+[View Log File]
+Pelê Log binêrin
+[Microphone]
+Mîkrofon
+[Speaker]
+Hoparlo
+[Video Codec]
+Video Codec
+[Check for Updates]
+Ji bo Nûvekirinan kontrol bikin
+[Daily]
+Rojane
+[Weekly]
+Heftane
+[Monthly]
+Mehane
+[Quarterly]
+Quarterly
+[Never]
+Qet
+[Update Available]
+Xwerû berdan
+[Force Codec for Incoming]
+Hêza Codec ji bo Inoming
+[Invalid Number]
+URI ya çewt
+[Offline]
+Jê negirtî
+[Single Call Mode]
+Mode-yek-bang
+[Local Video]
+Vîdyoya Herêmî
+[Call Transfer]
+Veguhestinê bang dikin
+[final]
+dawî
+[Call transfered successfully, disconnecting call]
+Banga bi serfiraziyê ve hatî veguhestin, banga veqetandinê
+[Hold]
+Rawestan
+[Transfer]
+Derbaskirin
+[Sound Events]
+Bûyerên Deng
+[Bitrate]
+Bitrate
+[Login]
+Têkeftin
+[Enable Log File]
+Pelê Logê çalak bikin
+[Duration]
+Demajok
+[Info]
+Agahdarî
+[display password]
+şîfreya nîşanî
+[From]
+Ji
+[To]
+Ber
+[Ring Device]
+Amûra ring
+[Service Unavailable]
+Xizmet nayê peyda kirin
+[Unable to connect to remote server.]
+Nikare bi servera dûr ve girêbide.
+[Busy Here]
+Li vir Busy
+[Trying]
+Ceribandin
+[Method Not Allowed]
+Rêbaz nayê destûr kirin
+[Not Found]
+Peyda nebû
+[Always on Top]
+Her tim li ser Top
+[Connect]
+Bihevgirêdan
+[Last Call]
+Banga Dawîn
+[Close All]
+Hemî bigire
+[Copy]
+Kopî
+[Select All]
+Hemî hilbijêrin
+[Display Name]
+Navê nîşanê
+[Remember Details]
+Hûragahiyan bi bîr bînin
+[PIN]
+DERZÎ
+[No]
+Na
+[All Calls]
+Hemû bangên
+[SIP Header]
+Head SIP
+[Different User]
+Bikarhênerê cûda
+[Different Domain]
+Domainê cûda
+[Different User or Domain]
+Bikarhêner an Domainê cûda
+[Different Remote Domain]
+Domaina dûr a cihêreng
+[Deny Incoming]
+Inoming înkar bikin
+[Allow IP Rewrite]
+Destûr bidin Rewandin IP
+[Directory of Users]
+Rêbernameya bikarhêneran
+[Call on Remote Hold]
+Gazî Remote Hold
+[Call on Local Hold]
+Gazî li ser Hold Hold herêmî bikin
+[Call on Hold]
+Gazî rawestin
+[Call is Active]
+Gazî Activealak e
+[Menu]
+Qerta xûrekê
+[Edit Account]
+Hesabê biguherînin
+[Add Account...]
+Hesabê zêde bikin ...
+[Remove Account]
+Hesabê derxistin
+[Make Active]
+Activealak bike
+[Are you sure you want to remove?]
+Ma hûn guman dikin ku hûn dixwazin derxistin?
+[Call Pickup]
+Pickup bang bikin
+[Speaker Level]
+Asta Axaftinê
+[Microphone Level]
+Asta Mîkrofonê
+[Mute Speaker]
+Axaftina Mute
+[Mute Microphone]
+Mîkrofona Mute bikin
+[Balance]
+Bîlanço
+[Custom INI Path]
+P THN VE VE VIKE
+[Contact Us]
+Paqij bûn
+[Please fill out at least the required fields marked with *.]
+Ji kerema xwe bi kêmî zeviyên pêwist bi * ve dagirtin dagirin.
+[Ask your SIP provider how to configure the account correctly.]
+Ji pêşkêşvanê xweya SIP re bipirsin ka hûn çawa çawa rast hesabê rast bikin.
+[Time]
+Dem
+[Phone]
+Telefon
+[Ringtone]
+Ringtone
+[Username]
+Nav
+[Do you want to update now?]
+Ma hûn niha dixwazin nûve bikin?
+[Available Codecs]
+Koda kodên berdest
+[Enabled Codecs]
+Codecs çalak kirin
+[Logs]
+Logs
+[Random Popup Position]
+Pozîsyona Rastîn
+[Attended Transfer]
+Beşdarî Veguhastinê bûn
+[Launch URL on incoming call]
+Li ser banga navgîniyê URL-yê dest pê bike
+[Enable Local Account]
+Hesaba herêmî aktîf bike
+[Send Crash Report]
+Rapora Crash bişînin
+[Account Name]
+Navê hesabê
+[Invite to Conference]
+Vexwendin Konferansê
+[Merge]
+go
+[Separate]
+Veqetandin
+[Disconnect]
+Hevqetandin
+[DTMF Method]
+Method DTMF
+[Voicemail Number]
+Number of Voicemail
+[Disable Session Timers]
+Timers Session asteng bikin
+[Microphone Amplification]
+Amûrkirina mîkrofonê
+[Software Level Adjustment]
+Rêzkirina asta Nermalavê
+[Shortcuts]
+Kurteçîrok
+[Enable]
+Bikêrkirin
+[Label]
+Awanasî
+[Type]
+Awa
+[Bottom Position]
+Positiona jêrîn
+[You need to restart application for the changes to take effect.]
+Hûn hewce ne ku serlêdana ji nû ve bidin destpêkirin da ku pêkanînan bikin.
+[Handle Media Buttons]
+Bişkojkên Medyayê Handle
+[Bring to Front on Incoming Call]
+Li ser banga comingnşeger serî rakin
+[SIP account]
+Hesabê SIP
+[SIP password]
+IPîfreya SIP
+[Help]
+Alîkarî
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Button Control
+[Do Not Disturb]
+Xemgîn nakin
+[Source Port]
+Portavkanî Port
+[RTP Ports]
+Portên RTP
+[Unregister the account when the operator is Away]
+Dema ku operator ne dûr e hesabê jêbirin
+[Ask for the sip USER and SECRET everytime]
+Her hefte ji SIP USER û SECRET bipirsin
+[Import]
+Anîn
+[Server]
+Server
+[Attendant Transfer]
+Veguhestina Beşdar
+[Blind Transfer]
+Veguhestina kor
+[Redial]
+Redkirin
+[Backspace]
+Backspace
+[Clear]
+Zelal
+[Use Space key to enable selected codec]
+Bişkojka Space-ê bikar bînin da ku kodekek bijare hilbijêrin
+[Use Delele key to disable selected codec]
+Vebijêrk Delele bikar bînin da ku kodek vebijarkê neçalak bike
+[Make Inactive]
+Neçalak bike
+[Conference]
+Şêwre
+[Dialing Prefix]
+Pêşeka Dîyalîkî
+[Register Refresh]
+Refresh tomar bikin
+[Keep-Alive]
+Keep-Alive
+[Ringtone Volume]
+Ringtone Volume
+[Call Recording]
+Guhdarîkirina Gazî
+[Nameserver]
+Nameserver
+[Default List Action]
+Listalakiya Lîsteya Default
+[Edit Local Account]
+Hesaba herêmî biguherînin
+[Export]
+Eksport
+[Version]
+Awa
+[Call Waiting]
+Gazin Waiting
+[Ready]
+Amade
+[Not online]
+Ne bi serhêl
+[On the phone]
+Bi têlefonê
+[First Name]
+Nav
+[Last Name]
+Paşnav
+[Phone Number]
+Jimare telefon
+[Mobile Number]
+Hejmara Mobile
+[E-mail Address]
+Navnîşana emailê
+[Address]
+Navnîşan
+[City]
+Bajar
+[State]
+Rewş
+[Postal Code]
+Koda Postê
+[Comment]
+Agahkişîn
+[Extension]
+Dirêjkirinî
+[Port]
+Bender
+[User ID]
+Nasnameya bikarhêner
+[Authentication failed]
+Nîşanber neket
+[API URL is empty]
+URL-a API-ê vala ye
+[API connection failed]
+Têkçûna API bi ser neket
+[API request failed. Response code:]
+Daxwaza API bi ser neket. Koda bersivê:
+[API response is empty]
+Bersiva API ne vala ye
+[API response parse error]
+Bersiva API çewtiyek çewt dike
+[API data type is wrong]
+Cureya daneya API şaş e
+[Login failed]
+Têkeftin têk çû
+[Request failed]
+Daxwaz bi ser neket
+[close window to ignore call]
+girtina pencereyê ku guh nede bangê
+[Transfer Code]
+Koda Veguheztinê
+[Headset Support]
+Piştgiriya Headset
+[Privacy Policy]
+Siyaseta taybetîtiyê
+[sec]
+sec
+[Call Forwarding]
+Gazî wardandinê bikin
+[Are you sure you want to delete?]
+Hûn pê ewle ne ku hûn dixwazin jêbikin?
+[Delete contact]
+Têkilî jêbirin
+[Account or credentials not found.]
+Hesab an pêbawerî nehat dîtin
+[Please fill out all required fields.]
+Ji kerema xwe hemî qadên pêwîst dagirin.
+[Change Account]
+Change Account
+[Dial Plan]
+Plan Dial
+[Disable Video]
+Vîdyoyê Neçalak bikin
+[Disable Messaging]
+Mesajê neçalak bikin
+[Headphones]
+Headphones
+[Are you sure you want to close the application?]
+Ma hûn pê ewle ne ku hûn dixwazin serîlêdanê bigirin?
+[Dashboard Access]
+Destûra Dashboard
+[Break]
+Şikesta
+[Non-Telephone Work]
+Karê Ne-Telefon
+[On Break]
+Li ser Break
+[Telephone Work]
+Karê Telefonê
+[Register]
+Fêhrist
+[Unregister]
+Qeyd nekin
+[Options]
+Vebijarkên
+[Delay]
+Derengxistin
+[Caller Number]
+Jimareya Bangker
+[Purchase a Number]
+Hejmarek bikirin
+[Line Number (4 digits)]
+Jimara Rêzeyê (4 reqemî)
+[Line Password]
+Line Passwordîfre
+[Set Password]
+Passwordîfreyê saz bikin
+[Reset Password]
+Etîfreyê nûve bikin
+[Open]
+To Open
+[Unable to find default audio device]
+Amûrek bihîstbar nehat dîtin
+[Network is unreachable]
+Torgilok nagihîje
+[Allow access to the microphone in your antivirus settings.]
+Di nav mîhengên xwe yên antivirus de destûrê bidin destûra mîkrofonê.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Destûra mîkrofonê di mîhengên Windows-ê de sererast bikin (Mîhengên Windows =&gt; Taybetî =&gt; Mîkrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Axaftvan û mîkrofon herdu jî hewce ne. Ji bo ku hûn bangan bikin divê hûn di pergala xwe de amûra dengê têketin û derketinê hebe.
+[Canceled]
+Hat betalkirin
+[Unknown format]
+Formata nenas
+[Softphone is not initialized. Check your settings.]
+Softphone nayê destpêkirin. Mîhengên xwe venêrin.
+[Unable to initialize network sockets.]
+Nikare soketên torê destnîşan bike.
+[Starred]
+Stêrk kirin
+[Run at System Startup]
+Di Destpêka Pergalê de bixebitin
+[Run Batch]
+Batchê bimeşînin
+[Call URL]
+Banga URL
+[Call All]
+Gazî Hemî bikin
+[Custom]
+Hûnbunî
+[Take Back]
+Vegere
+[Add Contact]
+Têkilî lê zêde bike
+[Incorrect dialing or non-existent number]
+Hejmara nerast an jî tune
+[Profile]
+Tengal
+[Use Outbound Proxy]
+Proxy Outbound bikar bînin
+[End]
+Banga Dawiyê
+[Address Incomplete]
+Navnîşan Ne temam e
+[Not acceptable here]
+Li vir nayê qebûlkirin
+[Direct Transfer]
+Veguheztina rasterast
+[Idle]
+Bêçalak
+[Toggle]
+Toggle
+[Enter Password]
+Şifreyê têke
+[Connection refused]
+Têkilî red kir
+[Connection timed out]
+Têkilî demborî
+[Cannot get IP address of the called host]
+Nikare navnîşana IP-ya mêvandarê tê gotin bistînin
+[Answered Elsewhere]
+Li cihekî din bersiv da
+[Missed Call]
+Lêgerîna bêbersiv
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Ma hûn dixwazin daneyên bikarhêner û mîhengên bernameyê jêbirin? Ev kiryar nayê betal kirin.
+[Unavailable]
+Unavailable
+[Call Limit]
+Banga Sînora
+[Hide Caller ID]
+Nasnameya Bangdêrê veşêre
+[External Program]
+Bernameya Derveyî
+[]

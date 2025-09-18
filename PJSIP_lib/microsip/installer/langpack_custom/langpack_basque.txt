@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Deia
+[End Call]
+Amaitzeko deia
+[Contacts]
+Kontaktuak
+[Account]
+Kontua
+[Settings]
+ezarpenak
+[Visit Website]
+Bisitatu Webgunea
+[Exit]
+Irten
+[Browse...]
+Bilatu...
+[Default]
+Default
+[Auto Answer]
+Erantzun automatikoa
+[Disable Local Account]
+Desgaitu tokiko kontua
+[OK]
+Ados
+[Save]
+Gorde
+[Cancel]
+Ezeztatu
+[SIP Server]
+SIP zerbitzaria
+[SIP Proxy]
+SIP proxy
+[Domain]
+Domain
+[Password]
+Pasahitza
+[Connecting...]
+Konektatzen...
+[Online]
+Online
+[Local]
+Tokiko
+[Message]
+Mezua
+[Edit]
+Editatu
+[Delete]
+Ezabatu
+[Add]
+Gehitu
+[Bad Gateway]
+Ate Txarra
+[Request Timeout]
+Eskatu denbora-muga
+[Number]
+Zenbakia
+[Name]
+Izena
+[Contact]
+Kontaktua
+[Incoming Call]
+Sarrerako deia
+[Answer]
+Erantzun
+[Decline]
+Ezeztatu
+[Calling]
+Deitzen
+[Connecting]
+Konektatzen
+[Connected]
+Konektatuta
+[Auto]
+Auto
+[Transport]
+Garraioa
+[Incorrect Password]
+Pasahitz okerra
+[Public Address]
+Helbide publikoa
+[Media Encryption]
+Komunikabideen zifratzea
+[Disabled]
+Desgaituta
+[Optional]
+Aukerako
+[Mandatory]
+derrigorrezko
+[STUN Server]
+STUN zerbitzaria
+[Presence Subscription]
+Presentzia Harpidetza
+[Ringing]
+Deitzen
+[Call Ended]
+Deia bukatuta
+[Declined]
+Ezeztatuta
+[No address found]
+Ez da helbiderik aurkitu
+[Request Terminated]
+Eskaera amaitu da
+[Away]
+Kampoan
+[Publish Presence]
+Argitaratu Presentzia
+[Session Progress]
+Saioaren aurrerapena
+[Camera]
+Kamera
+[Video Call]
+Bideo deia
+[Answer with Video]
+Bideoaz erantzun
+[View Log File]
+Ikusi egunkariaren fitxategia
+[Microphone]
+Mikrofonoa
+[Speaker]
+Hizlaria
+[Video Codec]
+Bideo-kodeka
+[Check for Updates]
+Gaurkotzeak bilatu
+[Daily]
+Egunero
+[Weekly]
+Astero
+[Monthly]
+Hilero
+[Quarterly]
+Hiruhilekoen
+[Never]
+Inoiz ez
+[Update Available]
+Eguneratzea Eskuragarri
+[Force Codec for Incoming]
+Force Codec Sarrerako
+[Invalid Number]
+URI baliogabea
+[Offline]
+Offline
+[Single Call Mode]
+Deia modu bakarra
+[Local Video]
+Tokiko bideoa
+[Call Transfer]
+Dei-Transferentzia
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Deia transferentzia egin da, deia deskonektatuz
+[Hold]
+hold
+[Transfer]
+Transfer
+[Sound Events]
+Soinu Ekitaldiak
+[Bitrate]
+Bitrate
+[Login]
+Saioa hasi
+[Enable Log File]
+Gaitu egunkariaren fitxategia
+[Duration]
+Iraupena
+[Info]
+info
+[display password]
+erakutsi pasahitza
+[From]
+aurrera
+[To]
+to
+[Ring Device]
+Eraztun gailua
+[Service Unavailable]
+Zerbitzua ez dago erabilgarri
+[Unable to connect to remote server.]
+Ezin da urruneko zerbitzarira konektatu.
+[Busy Here]
+Hemen okupatuta
+[Trying]
+Trying
+[Method Not Allowed]
+Ez da onartzen metodoa
+[Not Found]
+Ez Aurkituta
+[Always on Top]
+Beti ikusgaia
+[Connect]
+Konektatu
+[Last Call]
+Azken deia
+[Close All]
+Dena itxi
+[Copy]
+Kopia
+[Select All]
+Dena aukeratu
+[Display Name]
+Bistaratu izena
+[Remember Details]
+Gogoratu Xehetasunak
+[PIN]
+PIN
+[No]
+Ez
+[All Calls]
+Dei guztiak
+[SIP Header]
+SIP goiburua
+[Different User]
+Erabiltzaile ezberdina
+[Different Domain]
+Domeinu desberdinak
+[Different User or Domain]
+Erabiltzaile edo domeinu desberdinak
+[Different Remote Domain]
+Urruneko domeinu desberdinak
+[Deny Incoming]
+Ukatu sarrerak
+[Allow IP Rewrite]
+IPa berridazketa baimendu
+[Directory of Users]
+Erabiltzaileen direktorioa
+[Call on Remote Hold]
+Deitu urruneko atxikimenduan
+[Call on Local Hold]
+Deitu Tokiko Egoitzan
+[Call on Hold]
+Deitu itxaron
+[Call is Active]
+Deia Aktiboa da
+[Menu]
+Menu
+[Edit Account]
+Editatu kontua
+[Add Account...]
+Kontua gehitu...
+[Remove Account]
+Kendu kontua
+[Make Active]
+Aktibatu
+[Are you sure you want to remove?]
+Segurua ezabatu nahi duzula?
+[Call Pickup]
+Deia jasotzea
+[Speaker Level]
+Hizlari maila
+[Microphone Level]
+Mikrofonoen maila
+[Mute Speaker]
+Mutu Hizlaria
+[Mute Microphone]
+Mutu Mikrofonoa
+[Balance]
+Balance
+[Custom INI Path]
+Bide pertsonalizatua HAU
+[Contact Us]
+Jarri gurekin harremanetan
+[Please fill out at least the required fields marked with *.]
+Mesedez bete * -rekin markatutako beharrezko eremuak.
+[Ask your SIP provider how to configure the account correctly.]
+Galde iezaiozu SIP-a bere hornitzaileari kontua zuzenki nola itxuratu.
+[Time]
+Denbora
+[Phone]
+Telefonoa
+[Ringtone]
+Ringtone
+[Username]
+Erabiltzaile-izena
+[Do you want to update now?]
+Eguneratu nahi duzu?
+[Available Codecs]
+Kodeka erabilgarriak
+[Enabled Codecs]
+Gaitutako kodeak
+[Logs]
+Agerraldiak
+[Random Popup Position]
+Ausazko lasterketa posizioa
+[Attended Transfer]
+Bertaratutako transferentzia
+[Launch URL on incoming call]
+Abiarazi URLa sarrerako deian
+[Enable Local Account]
+Gaitu tokiko kontua
+[Send Crash Report]
+Bidali kraskaduraren berri
+[Account Name]
+Kontuaren izena
+[Invite to Conference]
+Gonbidatu hitzaldira
+[Merge]
+go
+[Separate]
+Banandu
+[Disconnect]
+Deskonektatu
+[DTMF Method]
+DTMF metodoa
+[Voicemail Number]
+Ahots-postaren zenbakia
+[Disable Session Timers]
+Desgaitu saioen kontagailuak
+[Microphone Amplification]
+Mikrofonoaren anplifikazioa
+[Software Level Adjustment]
+Software maila egokitzea
+[Shortcuts]
+lasterbideak
+[Enable]
+gaitu
+[Label]
+Label
+[Type]
+Mota
+[Bottom Position]
+Beheko posizioa
+[You need to restart application for the changes to take effect.]
+Aldaketak indarrean jartzeko aplikazioa berrabiarazi behar duzu.
+[Handle Media Buttons]
+Kudeatu multimedia-botoiak
+[Bring to Front on Incoming Call]
+Ekar Ezazu Aurrealdera Dei Berrian
+[SIP account]
+SIP kontua
+[SIP password]
+SIP pasahitza
+[Help]
+Laguntza
+[Video Bitrate]
+Bideo-abiadura
+[Control Button]
+Kontrol-botoia
+[Do Not Disturb]
+Ez molestatu
+[Source Port]
+Iturburu-portua
+[RTP Ports]
+RTP portuak
+[Unregister the account when the operator is Away]
+Kontua erregistratu operadorea kanpoan dagoenean
+[Ask for the sip USER and SECRET everytime]
+Eskatu edonor ERABILTZAILEA eta IDATZEKO edonoiz
+[Import]
+Inportazio
+[Server]
+zerbitzaria
+[Attendant Transfer]
+Laguntzailearen transferentzia
+[Blind Transfer]
+Itsas Transferentzia
+[Redial]
+Redial
+[Backspace]
+Atzera
+[Clear]
+Garbitu
+[Use Space key to enable selected codec]
+Erabili Space tekla hautatutako codec gaitzeko
+[Use Delele key to disable selected codec]
+Erabili Delele tekla hautatutako codec desgaitzeko
+[Make Inactive]
+Ezarri aktiboa
+[Conference]
+Konferentzia
+[Dialing Prefix]
+Markaketa aurrizkia
+[Register Refresh]
+Erregistratu Eguneratu
+[Keep-Alive]
+Keep-Alive
+[Ringtone Volume]
+Doinu tonuen bolumena
+[Call Recording]
+Deien grabazioa
+[Nameserver]
+izen
+[Default List Action]
+Lehenetsitako zerrenda-ekintza
+[Edit Local Account]
+Editatu tokiko kontua
+[Export]
+Export
+[Version]
+Bertsio
+[Call Waiting]
+Itxaron zain
+[Ready]
+prest
+[Not online]
+Ez dago linean
+[On the phone]
+Telefonoan
+[First Name]
+Izena
+[Last Name]
+Abizena
+[Phone Number]
+Telefono zenbakia
+[Mobile Number]
+Telefono zenbakia
+[E-mail Address]
+Posta elektroniko helbidea
+[Address]
+Helbidea
+[City]
+hiria
+[State]
+Estatu
+[Postal Code]
+posta kodea
+[Comment]
+Iruzkina
+[Extension]
+Extension
+[Port]
+Port
+[User ID]
+Erabiltzaile IDa
+[Authentication failed]
+Autentifikazioa huts egin du
+[API URL is empty]
+APIaren URLa hutsik dago
+[API connection failed]
+API konexioak huts egin du
+[API request failed. Response code:]
+API eskaerak huts egin du. Erantzun kodea:
+[API response is empty]
+APIaren erantzuna hutsik dago
+[API response parse error]
+APIaren erantzuna analizatzeko errorea
+[API data type is wrong]
+API datu mota okerra da
+[Login failed]
+Errorea saioa hastean
+[Request failed]
+Eskaerak huts egin du
+[close window to ignore call]
+itxi leihoa deiari muzin egiteko
+[Transfer Code]
+Transferentzia kodea
+[Headset Support]
+Entzungailuen euskarria
+[Privacy Policy]
+Pribatutasun politika
+[sec]
+seg
+[Call Forwarding]
+Deiak desbideratzea
+[Are you sure you want to delete?]
+Ziur zaude ezabatu nahi duzula?
+[Delete contact]
+Ezabatu kontaktua
+[Account or credentials not found.]
+Ez da kontua edo kredentziala aurkitu
+[Please fill out all required fields.]
+Mesedez bete beharrezko eremu guztiak.
+[Change Account]
+Aldatu kontua
+[Dial Plan]
+Markatu plana
+[Disable Video]
+Desgaitu bideoa
+[Disable Messaging]
+Desgaitu Mezularitza
+[Headphones]
+Entzungailuak
+[Are you sure you want to close the application?]
+Ziur zaude aplikazioa itxi nahi duzula?
+[Dashboard Access]
+Arbelaren sarbidea
+[Break]
+Atsedenaldia
+[Non-Telephone Work]
+Telefonoz kanpoko lana
+[On Break]
+Atsedenaldian
+[Telephone Work]
+Telefono bidezko lana
+[Register]
+Izena eman
+[Unregister]
+Erregistratu
+[Options]
+Aukerak
+[Delay]
+Atzerapena
+[Caller Number]
+Deitzailearen zenbakia
+[Purchase a Number]
+Zenbaki bat erosi
+[Line Number (4 digits)]
+Lerro zenbakia (4 digitu)
+[Line Password]
+Linea pasahitza
+[Set Password]
+Ezarri pasahitza
+[Reset Password]
+Pasahitza berrezarri
+[Open]
+Ireki
+[Unable to find default audio device]
+Ez da audio gailurik aurkitu
+[Network is unreachable]
+Sarea ezin da iritsi
+[Allow access to the microphone in your antivirus settings.]
+Baimendu mikrofonorako sarbidea birusen aurkako ezarpenetan.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Konpondu mikrofonoaren baimena Windows ezarpenetan (Windows ezarpenak =&gt; Pribatutasuna =&gt; Mikrofonoa).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Bozgorailuak eta mikrofonoa behar dira. Deiak egiteko sarrera eta irteerako soinu gailua izan behar duzu zure sisteman.
+[Canceled]
+Bertan behera utzi da
+[Unknown format]
+Formatu ezezaguna
+[Softphone is not initialized. Check your settings.]
+Softphone-a ez da hasieratu. Egiaztatu ezarpenak.
+[Unable to initialize network sockets.]
+Ezin dira sareko socketak hasieratu.
+[Starred]
+Izarrak
+[Run at System Startup]
+Exekutatu sistema abiaraztean
+[Run Batch]
+Exekutatu Batch
+[Call URL]
+Deitu URLa
+[Call All]
+Deitu guztiei
+[Custom]
+Pertsonalizatua
+[Take Back]
+Hartu Atzera
+[Add Contact]
+Gehitu kontaktua
+[Incorrect dialing or non-existent number]
+Markatze okerra edo existitzen ez den zenbakia
+[Profile]
+Profila
+[Use Outbound Proxy]
+Erabili irteerako proxy
+[End]
+Amaitzeko deia
+[Address Incomplete]
+Helbidea osatu gabe
+[Not acceptable here]
+Hemen ez da onargarria
+[Direct Transfer]
+Zuzeneko transferentzia
+[Idle]
+Geldirik
+[Toggle]
+Txandakatu
+[Enter Password]
+Sartu pasahitza
+[Connection refused]
+Konexioa ukatu da
+[Connection timed out]
+Konexioaren denbora-muga gainditu da
+[Cannot get IP address of the called host]
+Ezin da lortu deitutako ostalariaren IP helbidea
+[Answered Elsewhere]
+Beste nonbait erantzun
+[Missed Call]
+Dei galdua
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Erabiltzailearen datuak eta programaren ezarpenak ezabatu nahi dituzu? Ekintza hau ezin da desegin.
+[Unavailable]
+Ez dago erabilgarri
+[Call Limit]
+Deiaren muga
+[Hide Caller ID]
+Ezkutatu deitzailearen IDa
+[External Program]
+Kanpoko Programa
+[]

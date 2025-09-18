@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Вызов
+[End Call]
+Завершить
+[Contacts]
+Контакты
+[Account]
+Аккаунт
+[Settings]
+Настройки
+[Visit Website]
+Посетить сайт
+[Exit]
+Выход
+[Browse...]
+Просмотреть...
+[Default]
+По умолчанию
+[Auto Answer]
+Авто ответ
+[Disable Local Account]
+Отключить локальный аккаунт
+[OK]
+ОК
+[Save]
+Сохранить
+[Cancel]
+Отмена
+[SIP Server]
+SIP-сервер
+[SIP Proxy]
+SIP-прокси
+[Domain]
+Домен
+[Password]
+Пароль
+[Connecting...]
+Подключение...
+[Online]
+Онлайн
+[Local]
+Локальный
+[Message]
+Сообщение
+[Edit]
+Изменить
+[Delete]
+Удалить
+[Add]
+Добавить
+[Bad Gateway]
+Сервер не найден
+[Request Timeout]
+Таймаут запроса
+[Number]
+Номер
+[Name]
+Имя
+[Contact]
+Контакт
+[Incoming Call]
+Входящий вызов
+[Answer]
+Ответить
+[Decline]
+Отклонить
+[Calling]
+Набор номера
+[Connecting]
+Подключение
+[Connected]
+Подключен
+[Auto]
+Авто
+[Transport]
+Транспорт
+[Incorrect Password]
+Неверный пароль
+[Public Address]
+Публичный адрес
+[Media Encryption]
+Шифрование медиа
+[Disabled]
+Отключено
+[Optional]
+Необязательно
+[Mandatory]
+Обязательно
+[STUN Server]
+STUN-сервер
+[Presence Subscription]
+Подписка на присутствие
+[Ringing]
+Идет вызов
+[Call Ended]
+Вызов завершен
+[Declined]
+Вызов отклонен
+[No address found]
+Адрес не найден
+[Request Terminated]
+Вызов отменен
+[Away]
+Отошел
+[Publish Presence]
+Публиковать присутствие
+[Session Progress]
+Соединение устанавливается
+[Camera]
+Камера
+[Video Call]
+Видеовызов
+[Answer with Video]
+Ответить с видео
+[View Log File]
+Просмотр журнала
+[Microphone]
+Микрофон
+[Speaker]
+Динамики
+[Video Codec]
+Видео кодек
+[Check for Updates]
+Проверять обновления
+[Daily]
+Раз в день
+[Weekly]
+Раз в неделю
+[Monthly]
+Раз в месяц
+[Quarterly]
+Раз в три месяца
+[Never]
+Никогда
+[Update Available]
+Доступно обновление
+[Force Codec for Incoming]
+Задавать кодек для входящих
+[Invalid Number]
+Неправильный номер
+[Offline]
+Офлайн
+[Single Call Mode]
+Режим одиночного вызова
+[Local Video]
+Локальное видео
+[Call Transfer]
+Перенаправление вызова
+[final]
+последний
+[Call transfered successfully, disconnecting call]
+Вызов успешно перенаправлен, отключение
+[Hold]
+Удержание
+[Transfer]
+Перенаправление
+[Sound Events]
+Звуковые события
+[Bitrate]
+Битрейт
+[Login]
+Логин
+[Enable Log File]
+Включить журнал
+[Duration]
+Длительность
+[Info]
+Инфо
+[display password]
+показать пароль
+[From]
+От
+[To]
+Кому
+[Ring Device]
+Устройство для вызова
+[Service Unavailable]
+Сервис недоступен
+[Unable to connect to remote server.]
+Невозможно подключиться к удаленному серверу.
+[Busy Here]
+Занято
+[Trying]
+Попытка
+[Method Not Allowed]
+Не разрешено
+[Not Found]
+Не найден
+[Always on Top]
+Всегда сверху
+[Connect]
+Подключиться
+[Last Call]
+Последний
+[Close All]
+Закрыть все
+[Copy]
+Копировать
+[Select All]
+Выбрать все
+[Display Name]
+Отображаемое имя
+[Remember Details]
+Запомнить пароль
+[PIN]
+PIN
+[No]
+Нет
+[All Calls]
+Все вызовы
+[SIP Header]
+SIP-заголовок
+[Different User]
+Другой пользователь
+[Different Domain]
+Другой домен
+[Different User or Domain]
+Другой пользователь или домен
+[Different Remote Domain]
+Другой удаленный домен
+[Deny Incoming]
+Запретить входящие
+[Allow IP Rewrite]
+Разрешить перезапись IP
+[Directory of Users]
+Каталог пользователей
+[Call on Remote Hold]
+Вызов на удаленном удержании
+[Call on Local Hold]
+Вызов на локальном удержании
+[Call on Hold]
+Вызов на удержании
+[Call is Active]
+Вызов активен
+[Menu]
+Меню
+[Edit Account]
+Изменить аккаунт
+[Add Account...]
+Добавить аккаунт...
+[Remove Account]
+Удалить аккаунт
+[Make Active]
+Сделать активным
+[Are you sure you want to remove?]
+Вы действительно хотите удалить?
+[Call Pickup]
+Перехват вызова
+[Speaker Level]
+Уровень динамиков
+[Microphone Level]
+Уровень микрофона
+[Mute Speaker]
+Выключить динамики
+[Mute Microphone]
+Выключить микрофон
+[Balance]
+Баланс
+[Custom INI Path]
+Путь к INI файлу
+[Contact Us]
+Связаться с нами
+[Please fill out at least the required fields marked with *.]
+Пожалуйста, заполните по крайней мере все обязательные поля, отмеченные *.
+[Ask your SIP provider how to configure the account correctly.]
+Узнайте у вашего SIP-провайдера как правильно настроить аккаунт.
+[Time]
+Время
+[Phone]
+Набор
+[Ringtone]
+Звук вызова
+[Username]
+Имя пользователя
+[Do you want to update now?]
+Вы хотите обновить сейчас?
+[Available Codecs]
+Доступные кодеки
+[Enabled Codecs]
+Активные кодеки
+[Logs]
+Вызовы
+[Random Popup Position]
+Случайная позиция окошка
+[Attended Transfer]
+Перевод звонка с сопровождением
+[Launch URL on incoming call]
+Вызывать URL при входящем
+[Enable Local Account]
+Включить локальный аккаунт
+[Send Crash Report]
+Отправлять отчет об ошибке
+[Account Name]
+Название аккаунта
+[Invite to Conference]
+Пригласить в конференцию
+[Merge]
+Объединить
+[Separate]
+Разделить
+[Disconnect]
+Разъединить
+[DTMF Method]
+Метод DTMF
+[Voicemail Number]
+Голосовая почта
+[Disable Session Timers]
+Отключить таймеры сессии
+[Microphone Amplification]
+Усиление микрофона
+[Software Level Adjustment]
+Автоматическая регулировка громкости
+[Shortcuts]
+Горячие клавиши
+[Enable]
+Включить
+[Label]
+Метка
+[Type]
+Тип
+[Bottom Position]
+Расположение внизу
+[You need to restart application for the changes to take effect.]
+Перезапустите приложение, чтобы изменения вступили в силу.
+[Handle Media Buttons]
+Управление мультимедийными кнопками
+[Bring to Front on Incoming Call]
+Переместить на передний план при входящем звонке
+[SIP account]
+SIP-аккаунт
+[SIP password]
+SIP пароль
+[Help]
+Справка
+[Video Bitrate]
+Битрейт видео
+[Control Button]
+Кнопка управления
+[Do Not Disturb]
+Не беспокоить
+[Source Port]
+Исходящий порт
+[RTP Ports]
+Порты RTP
+[Unregister the account when the operator is Away]
+Отменить регистрацию аккаунта, когда оператор в гостях
+[Ask for the sip USER and SECRET everytime]
+Просите глоток ПОЛЬЗОВАТЕЛЯ и СЕКРЕТ каждый раз
+[Import]
+Импорт
+[Server]
+Сервер
+[Attendant Transfer]
+Переводчик
+[Blind Transfer]
+Слепой перевод
+[Redial]
+Повторный вызов
+[Backspace]
+Вернуть назад
+[Clear]
+Очистить
+[Use Space key to enable selected codec]
+Используйте Пробел, чтобы включить кодек
+[Use Delele key to disable selected codec]
+Используйте клавишу Del, чтобы выключить кодек
+[Make Inactive]
+Сделать неактивным
+[Conference]
+Конференция
+[Dialing Prefix]
+Префикс набора
+[Register Refresh]
+Обновление регистрации
+[Keep-Alive]
+Периодическая проверка
+[Ringtone Volume]
+Громкость звонка
+[Call Recording]
+Запись звонков
+[Nameserver]
+Сервер имен
+[Default List Action]
+Действие списка
+[Edit Local Account]
+Редактировать локальный аккаунт
+[Export]
+Экспорт
+[Version]
+Версия
+[Call Waiting]
+Ожидание вызова
+[Ready]
+Готов
+[Not online]
+Не в сети
+[On the phone]
+У телефона
+[First Name]
+Имя
+[Last Name]
+Фамилия
+[Phone Number]
+Номер телефона
+[Mobile Number]
+Номер мобильного
+[E-mail Address]
+Адрес эл. почты
+[Address]
+Адрес
+[City]
+Город
+[State]
+Регион
+[Postal Code]
+Почтовый код
+[Comment]
+Комментарий
+[Extension]
+расширение
+[Port]
+порт
+[User ID]
+ID пользователя
+[Authentication failed]
+Ошибка аутентификации
+[API URL is empty]
+URL API пуст
+[API connection failed]
+Ошибка подключения к API
+[API request failed. Response code:]
+Запрос API не выполнен. Код ответа:
+[API response is empty]
+Ответ API пуст
+[API response parse error]
+Ошибка разбора ответа API
+[API data type is wrong]
+Неправильный тип данных API
+[Login failed]
+Ошибка входа
+[Request failed]
+Запрос не выполнен
+[close window to ignore call]
+закрыть окно, чтобы игнорировать звонок
+[Transfer Code]
+Код передачи
+[Headset Support]
+Поддержка гарнитуры
+[Privacy Policy]
+политика конфиденциальности
+[sec]
+сек
+[Call Forwarding]
+Переадресация звонков
+[Are you sure you want to delete?]
+Вы уверены, что хотите удалить?
+[Delete contact]
+Удалить контакт
+[Account or credentials not found.]
+Аккаунт или учетные данные не найдены.
+[Please fill out all required fields.]
+Пожалуйста, заполните все обязательные поля.
+[Change Account]
+Сменить аккаунт
+[Dial Plan]
+План набора
+[Disable Video]
+Отключить видео
+[Disable Messaging]
+Отключить обмен сообщениями
+[Headphones]
+Наушники
+[Are you sure you want to close the application?]
+Вы уверены, что хотите закрыть приложение?
+[Dashboard Access]
+Доступ к приборной панели
+[Break]
+Перемена
+[Non-Telephone Work]
+Работа без телефона
+[On Break]
+В перерыве
+[Telephone Work]
+Телефонная работа
+[Register]
+Зарегистрироваться
+[Unregister]
+Отменить регистрацию
+[Options]
+Опции
+[Delay]
+Задержка
+[Caller Number]
+Номер звонящего
+[Purchase a Number]
+Купить номер
+[Line Number (4 digits)]
+Номер линии (4 цифры)
+[Line Password]
+Пароль линии
+[Set Password]
+Установка пароля
+[Reset Password]
+Сброс пароля
+[Open]
+Открыть
+[Unable to find default audio device]
+Звуковое устройство не найдено
+[Network is unreachable]
+Сеть недоступна
+[Allow access to the microphone in your antivirus settings.]
+Разрешите доступ к микрофону в настройках антивируса.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Разрешите использование микрофона в настройках Windows (Настройки Windows => Конфиденциальность => Микрофон).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Требуются динамики и микрофон. Для совершения звонков в вашей системе должны быть устройства ввода и вывода звука.
+[Canceled]
+Отменено
+[Unknown format]
+Неизвестный формат
+[Softphone is not initialized. Check your settings.]
+Программный телефон не инициализирован. Проверьте свои настройки.
+[Unable to initialize network sockets.]
+Невозможно инициализировать сетевые сокеты.
+[Starred]
+Избранное
+[Run at System Startup]
+Запускать при запуске системы
+[Run Batch]
+Запустить пакет
+[Call URL]
+URL вызова
+[Call All]
+Позвонить всем
+[Custom]
+Своё
+[Take Back]
+Забрать
+[Add Contact]
+Добавить контакт
+[Incorrect dialing or non-existent number]
+Неверный набор или несуществующий номер
+[Profile]
+Профиль
+[Use Outbound Proxy]
+Использовать исходящий прокси
+[End]
+Завершить
+[Address Incomplete]
+Адрес не заполнен
+[Not acceptable here]
+Не применимо здесь
+[Direct Transfer]
+Прямой трансфер
+[Idle]
+Свободен
+[Toggle]
+Переключить
+[Enter Password]
+Введите пароль
+[Connection refused]
+В соединении отказано
+[Connection timed out]
+Время соединения истекло
+[Cannot get IP address of the called host]
+Невозможно получить IP-адрес вызываемого хоста
+[Answered Elsewhere]
+Ответил в другом месте
+[Missed Call]
+Пропущенный звонок
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Хотите удалить пользовательские данные и настройки программы? Это действие не может быть отменено.
+[Unavailable]
+Недоступен
+[Call Limit]
+Лимит вызовов
+[Hide Caller ID]
+Скрыть идентификатор вызывающего абонента
+[External Program]
+Внешняя программа
+[]

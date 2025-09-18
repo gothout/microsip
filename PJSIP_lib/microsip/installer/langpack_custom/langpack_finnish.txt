@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Soita
+[End Call]
+Katkaise puhelu
+[Contacts]
+Yhteystiedot
+[Account]
+Käyttäjätili
+[Settings]
+Asetukset
+[Visit Website]
+Verkkosivusto
+[Exit]
+Lopeta
+[Browse...]
+Selaa...
+[Default]
+Oletus
+[Auto Answer]
+Automaattivastaus
+[Disable Local Account]
+Ei paikallisia käyttäjätilejä
+[OK]
+OK
+[Save]
+Tallenna
+[Cancel]
+Peruuta
+[SIP Server]
+SIP-palvelin
+[SIP Proxy]
+SIP-välityspalvelin
+[Domain]
+Palvelin
+[Password]
+Salasana
+[Connecting...]
+Yhdistetään...
+[Online]
+Saatavilla
+[Local]
+Paikallinen
+[Message]
+Lähetä viesti
+[Edit]
+Muokkaa
+[Delete]
+Poista
+[Add]
+Lisää
+[Bad Gateway]
+Virheellinen yhdyskäytävä
+[Request Timeout]
+Pyyntö aikakatkaistu
+[Number]
+Numero
+[Name]
+Nimi
+[Contact]
+Yhteystieto
+[Incoming Call]
+Saapuva puhelu
+[Answer]
+Vastaa
+[Decline]
+Hylkää
+[Calling]
+Soitetaan
+[Connecting]
+Yhdistetään
+[Connected]
+Yhdistetty
+[Auto]
+Automaattinen
+[Transport]
+Siirtoprotokolla
+[Incorrect Password]
+Salasana väärin
+[Public Address]
+Julkinen osoite
+[Media Encryption]
+Salaus
+[Disabled]
+Ei käytössä
+[Optional]
+Valinnainen
+[Mandatory]
+Pakotettu
+[STUN Server]
+STUN-palvelin
+[Presence Subscription]
+Tilatiedon tilaus
+[Ringing]
+Soittaa
+[Call Ended]
+Puhelu loppui
+[Declined]
+Hylätty
+[No address found]
+Osoitetta ei löytynyt
+[Request Terminated]
+Pyyntö katkaistu
+[Away]
+Poissa
+[Publish Presence]
+Tilatiedon julkaisu
+[Session Progress]
+Istunnon tila
+[Camera]
+Kamera
+[Video Call]
+Videopuhelu
+[Answer with Video]
+Vastaa videon kanssa
+[View Log File]
+Näytä loki
+[Microphone]
+Mikrofoni
+[Speaker]
+Kaiutin
+[Video Codec]
+Videon pakkaus
+[Check for Updates]
+Tarkista päivitykset
+[Daily]
+Päivittäin
+[Weekly]
+Viikoittain
+[Monthly]
+Kuukauden välein
+[Quarterly]
+3 kuukauden välein
+[Never]
+Ei koskaan
+[Update Available]
+Päivitys saatavilla
+[Force Codec for Incoming]
+Pakota pakkaus saapuviin
+[Invalid Number]
+Virheellinen URI
+[Offline]
+Ei saatavilla
+[Single Call Mode]
+Yksinkertaistettu soittoikkuna
+[Local Video]
+Paikallinen video
+[Call Transfer]
+Puhelun siirto
+[final]
+lopullinen
+[Call transfered successfully, disconnecting call]
+Puhelun siirto onnistui, puhelua katkaistaan
+[Hold]
+Pidossa
+[Transfer]
+Siirto
+[Sound Events]
+Näppäinäänet
+[Bitrate]
+Bittitaajuus
+[Login]
+Käyttäjänimi
+[Enable Log File]
+Lokiin kirjaaminen käytössä
+[Duration]
+Kesto
+[Info]
+Tiedot
+[display password]
+näytä salasana
+[From]
+Keneltä
+[To]
+Kenelle
+[Ring Device]
+Soittoäänen toistolaite
+[Service Unavailable]
+Palvelu ei saatavilla
+[Unable to connect to remote server.]
+Yhteyden muodostaminen etäpalvelimeen epäonnistui.
+[Busy Here]
+Varattu
+[Trying]
+Yritetään
+[Method Not Allowed]
+Toimintoa ei sallittu
+[Not Found]
+Ei löytynyt
+[Always on Top]
+Aina päälimmäisenä
+[Connect]
+Yhdistä
+[Last Call]
+Edellinen
+[Close All]
+Sulje kaikki
+[Copy]
+Kopioi
+[Select All]
+Valitse kaikki
+[Display Name]
+Näyttönimi
+[Remember Details]
+Muista yksityiskohdat
+[PIN]
+PIN
+[No]
+Ei käytössä
+[All Calls]
+Kaikki puhelut
+[SIP Header]
+SIP-otsikkotunnisteen mukainen
+[Different User]
+Vieras käyttäjä
+[Different Domain]
+Vieras toimialue
+[Different User or Domain]
+Vieras käyttäjä tai toimialue
+[Different Remote Domain]
+Vieras etätoimialue
+[Deny Incoming]
+Estä saapuvat
+[Allow IP Rewrite]
+Salli IP ylikirjoitus
+[Directory of Users]
+Käyttäjähakemisto
+[Call on Remote Hold]
+Puhelu kauko pitoon
+[Call on Local Hold]
+Puhelu paikallisista pitoon
+[Call on Hold]
+Puhelu on pidossa
+[Call is Active]
+Puhelu on käynnissä
+[Menu]
+Valikko
+[Edit Account]
+Muokkaa käyttäjätiliä
+[Add Account...]
+Lisää tili...
+[Remove Account]
+Poista käyttäjätili
+[Make Active]
+Tee aktiiviseksi
+[Are you sure you want to remove?]
+Haluatko varmasti poistaa?
+[Call Pickup]
+Puhelun poimiminen
+[Speaker Level]
+Kaiuttimen voimakkuus
+[Microphone Level]
+Mikrofonin taso
+[Mute Speaker]
+Mykistä kaiutin
+[Mute Microphone]
+Mykistä mikrofoni
+[Balance]
+Saldo
+[Custom INI Path]
+Muokattu TÄMÄ polku
+[Contact Us]
+Ota meihin yhteyttä
+[Please fill out at least the required fields marked with *.]
+Täytäthän ainakin tähdellä (*) merkityt kentät.
+[Ask your SIP provider how to configure the account correctly.]
+Kysy tarvittaessa neuvoa SIP-palveluntarjoajaltasi.
+[Time]
+Aika
+[Phone]
+Näppäimistö
+[Ringtone]
+Soittoääni
+[Username]
+Käyttäjätunnus
+[Do you want to update now?]
+Haluatko päivittää ohjelman?
+[Available Codecs]
+Saatavilla
+[Enabled Codecs]
+Käytössä
+[Logs]
+Puhelut
+[Random Popup Position]
+Satunnainen vastausikkunan sijainti
+[Attended Transfer]
+Soiton siirto
+[Launch URL on incoming call]
+Käynnistä URL tulevaa puhelua varten
+[Enable Local Account]
+Käytä paikallista käyttäjätiliä
+[Send Crash Report]
+Lähetä vikaraportti
+[Account Name]
+Tili nimi
+[Invite to Conference]
+Kutsu neuvotteluun
+[Merge]
+Yhdistä
+[Separate]
+Erota
+[Disconnect]
+Katkaise
+[DTMF Method]
+DTMF Tyyppi
+[Voicemail Number]
+Puhepostin numero
+[Disable Session Timers]
+Poista ajastimet käytöstä
+[Microphone Amplification]
+Mikrofonin vahvistus
+[Software Level Adjustment]
+Ohjelmistopohjainen tasonsäätö
+[Shortcuts]
+Pikavalinnat
+[Enable]
+Ota käyttöön
+[Label]
+Otsikko
+[Type]
+Tyyppi
+[Bottom Position]
+Sijoita alas
+[You need to restart application for the changes to take effect.]
+Sovellus on käynnistettävä uudelleen asetusten käyttöönottamiseksi
+[Handle Media Buttons]
+Mediapainikkeet
+[Bring to Front on Incoming Call]
+Tuo päällimmäiseksi puhelun saapuessa
+[SIP account]
+SIP-tili
+[SIP password]
+SIP-salasana
+[Help]
+Ohje
+[Video Bitrate]
+Videon bittinopeus
+[Control Button]
+Hallintanäppäin
+[Do Not Disturb]
+Älä häiritse
+[Source Port]
+Lähdeportti
+[RTP Ports]
+RTP Portit
+[Unregister the account when the operator is Away]
+Poista tilin rekisteröinti, kun operaattori on poissa
+[Ask for the sip USER and SECRET everytime]
+Pyydä sip USER ja SECRET aina
+[Import]
+Tuo
+[Server]
+server
+[Attendant Transfer]
+Osallistujan siirto
+[Blind Transfer]
+Sokeiden siirto
+[Redial]
+Valinnantoisto
+[Backspace]
+Delete nappi
+[Clear]
+Tyhjennä
+[Use Space key to enable selected codec]
+Käytä välilyöntiä valitaksesi koodekin
+[Use Delele key to disable selected codec]
+Käytä deleteä poistaaksesi koodekin
+[Make Inactive]
+Tee passiiviseksi
+[Conference]
+Neuvottelu
+[Dialing Prefix]
+Soiton etuliite
+[Register Refresh]
+Päivitä kirjautuminen
+[Keep-Alive]
+Pidä elossa
+[Ringtone Volume]
+Soittoäänen voimakkuus
+[Call Recording]
+Puhelun nauhoitus
+[Nameserver]
+Nimipalvelin
+[Default List Action]
+Oletus lista toiminto
+[Edit Local Account]
+Muokkaa tiliasetuksia
+[Export]
+Vie
+[Version]
+Versio
+[Call Waiting]
+Puhelin odotus
+[Ready]
+Valmis
+[Not online]
+Ei linjalla
+[On the phone]
+Puhelimessa
+[First Name]
+Etunimi
+[Last Name]
+Sukunimi
+[Phone Number]
+Puhelinnumero
+[Mobile Number]
+Matkapuhelinnumero
+[E-mail Address]
+Sähköpostiosoite
+[Address]
+Osoite
+[City]
+Kaupunki
+[State]
+Osavaltio
+[Postal Code]
+postinumero
+[Comment]
+Kommentti
+[Extension]
+laajentaminen
+[Port]
+portti
+[User ID]
+käyttäjätunnus
+[Authentication failed]
+Todennus epäonnistui
+[API URL is empty]
+Sovellusliittymän URL-osoite on tyhjä
+[API connection failed]
+API-yhteys epäonnistui
+[API request failed. Response code:]
+API-pyyntö epäonnistui. Vastauskoodi:
+[API response is empty]
+API-vastaus on tyhjä
+[API response parse error]
+API-vastauksen jäsentämisvirhe
+[API data type is wrong]
+API-tietotyyppi on väärä
+[Login failed]
+Kirjautuminen epäonnistui
+[Request failed]
+Pyyntö epäonnistui
+[close window to ignore call]
+sulje ikkuna ohittaaksesi puhelun
+[Transfer Code]
+Siirtokoodi
+[Headset Support]
+Kuulokkeiden tuki
+[Privacy Policy]
+Tietosuojakäytäntö
+[sec]
+sek
+[Call Forwarding]
+Soitonsiirto
+[Are you sure you want to delete?]
+Haluatko varmasti poistaa?
+[Delete contact]
+Poista yhteystieto
+[Account or credentials not found.]
+Tiliä tai kirjautumistietoja ei löydy
+[Please fill out all required fields.]
+Täytä kaikki pakolliset kentät.
+[Change Account]
+Vaihda tiliä
+[Dial Plan]
+Valitse suunnitelma
+[Disable Video]
+Poista video käytöstä
+[Disable Messaging]
+Poista Viestit käytöstä
+[Headphones]
+Kuulokkeet
+[Are you sure you want to close the application?]
+Haluatko varmasti sulkea sovelluksen?
+[Dashboard Access]
+Kojelaudan käyttö
+[Break]
+Tauko
+[Non-Telephone Work]
+Muu kuin puhelintyö
+[On Break]
+Tauolla
+[Telephone Work]
+Puhelintyö
+[Register]
+Rekisteröidy
+[Unregister]
+Peruuta rekisteröinti
+[Options]
+Vaihtoehdot
+[Delay]
+Viive
+[Caller Number]
+Soittajan numero
+[Purchase a Number]
+Osta numero
+[Line Number (4 digits)]
+Rivinumero (4 numeroa)
+[Line Password]
+Linjan salasana
+[Set Password]
+Aseta salasana
+[Reset Password]
+Nollaa salasana
+[Open]
+Avata
+[Unable to find default audio device]
+Ei äänilaitetta
+[Network is unreachable]
+Verkkoa ei tavoiteta
+[Allow access to the microphone in your antivirus settings.]
+Salli mikrofonin käyttö virustentorjunta-asetuksissa.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Korjaa mikrofonin käyttöoikeudet Windowsin asetuksissa (Windowsin asetukset =&gt; Tietosuoja =&gt; Mikrofoni).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Kaiuttimet ja mikrofoni vaaditaan. Puhelujen soittaminen edellyttää, että järjestelmässäsi on tulo- ja lähtöäänilaite.
+[Canceled]
+Peruutettu
+[Unknown format]
+Tuntematon muoto
+[Softphone is not initialized. Check your settings.]
+Ohjelmistopuhelinta ei alusteta. Tarkista asetukset.
+[Unable to initialize network sockets.]
+Verkkoliittimiä ei voi alustaa.
+[Starred]
+Tähdellä merkitty
+[Run at System Startup]
+Suorita järjestelmän käynnistyksen yhteydessä
+[Run Batch]
+Suorita erä
+[Call URL]
+Soita URL-osoitteeseen
+[Call All]
+Soita kaikille
+[Custom]
+Mukautettu
+[Take Back]
+Ottaa takaisin
+[Add Contact]
+Lisää yhteystieto
+[Incorrect dialing or non-existent number]
+Väärä valinta tai numero ei ole olemassa
+[Profile]
+Profiili
+[Use Outbound Proxy]
+Käytä lähtevää välityspalvelinta
+[End]
+Katkaise puhelu
+[Address Incomplete]
+Osoite epätäydellinen
+[Not acceptable here]
+Ei hyväksyttävää täällä
+[Direct Transfer]
+Suora siirto
+[Idle]
+Tyhjäkäynti
+[Toggle]
+Vaihda
+[Enter Password]
+Kirjoita salasana
+[Connection refused]
+yhteys evätty
+[Connection timed out]
+Yhteyden aikakatkaisu
+[Cannot get IP address of the called host]
+Kutsutun isännän IP-osoitetta ei voi saada
+[Answered Elsewhere]
+Vastattu muualla
+[Missed Call]
+Vastaamaton puhelu
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Haluatko poistaa käyttäjätiedot ja ohjelma-asetukset? Tätä toimintoa ei voi kumota.
+[Unavailable]
+Ei saatavilla
+[Call Limit]
+Puhelurajoitus
+[Hide Caller ID]
+Piilota soittajan tunnus
+[External Program]
+Ulkoinen ohjelma
+[]

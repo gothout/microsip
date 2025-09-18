@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+ზარი
+[End Call]
+ზარის გათიშვა
+[Contacts]
+კონტაქტები
+[Account]
+ანგარიში
+[Settings]
+პარამეტრები
+[Visit Website]
+ნახეთ პროგრამის საიტი
+[Exit]
+გამოსვლა
+[Browse...]
+დათვალიერება...
+[Default]
+დუმილის წესით
+[Auto Answer]
+ავტო მოპასუხე
+[Disable Local Account]
+ადგ. ანგარიშის გათიშვა
+[OK]
+კარგი
+[Save]
+შენახვა
+[Cancel]
+გაუქმება
+[SIP Server]
+SIP სერვერი
+[SIP Proxy]
+SIP პროქსი
+[Domain]
+დომენი
+[Password]
+პაროლი
+[Connecting...]
+ვუკავშირდებით...
+[Online]
+ონლიანი
+[Local]
+ადგილობრივი
+[Message]
+შეტყობინება
+[Edit]
+რედაქტირება
+[Delete]
+წაშლა
+[Add]
+დამატება
+[Bad Gateway]
+არასწორი გეითვეი
+[Request Timeout]
+მოთხოვნის დროის ამოწურვა
+[Number]
+ნომერი
+[Name]
+სახელი
+[Contact]
+კონტაქტი
+[Incoming Call]
+შემომავალი ზარი
+[Answer]
+ვუპასუხოთ
+[Decline]
+დავაიგნოროთ
+[Calling]
+ირეკება
+[Connecting]
+ვუკავშირდებით
+[Connected]
+დაკავშირებულია
+[Auto]
+ავტო
+[Transport]
+ტრანსპორტი
+[Incorrect Password]
+არასწორი პაროლი
+[Public Address]
+საჯარო მისამართი
+[Media Encryption]
+მედიის დაშიფვრა
+[Disabled]
+გამორთული
+[Optional]
+ფაკულტატიური
+[Mandatory]
+აუცილებელი
+[STUN Server]
+STUN სერვერი
+[Presence Subscription]
+პრეზანსის გამოწერა
+[Ringing]
+რეკავს
+[Call Ended]
+ზარი დასრულდა
+[Declined]
+უარყოფილია
+[No address found]
+მისამართი არ მოიძებნა
+[Request Terminated]
+მოთხოვნა დასრულდა
+[Away]
+გასულია
+[Publish Presence]
+გაასაჯაროვე პრეზანსი
+[Session Progress]
+სესიის პროგრესი
+[Camera]
+ვებკამი
+[Video Call]
+ვიდეო ზარი
+[Answer with Video]
+უპასუხე ვიდეოთი
+[View Log File]
+ოქმის ფაილის ნახვა
+[Microphone]
+მიკროფონი
+[Speaker]
+ხმამაღლამოლაპარაკე
+[Video Codec]
+ვიდეო კოდეკი
+[Check for Updates]
+განახლებ. შემოწმება
+[Daily]
+ყოველდღიურად
+[Weekly]
+ყოველკვირეულად
+[Monthly]
+ყოველთვიურად
+[Quarterly]
+ყოველკვარტლურად
+[Never]
+არასოდეს
+[Update Available]
+განახლება ხელმისაწვდომია
+[Force Codec for Incoming]
+შემომ. კოდეკის ფორსირება
+[Invalid Number]
+არასწორი URI
+[Offline]
+ოფლაინი
+[Single Call Mode]
+მარტო ერთი ზარის რეჟიმი
+[Local Video]
+ადგილობრივი ვიდეო
+[Call Transfer]
+ზარის გადატანა
+[final]
+საბოლოო
+[Call transfered successfully, disconnecting call]
+ზარის გადატანა წარმატებით მოხდა, ვთიშავთ ზარს
+[Hold]
+დაპაუზება
+[Transfer]
+ტრანსფერი
+[Sound Events]
+ხმის ივენთები
+[Bitrate]
+ბიტ.სიჩქარე
+[Login]
+მომხმ.სახელი
+[Enable Log File]
+ოქმის ფაილის ჩართვა
+[Duration]
+ხანგრძლივობა
+[Info]
+ინფო
+[display password]
+პაროლის ჩვენება
+[From]
+ვისგან
+[To]
+ვის
+[Ring Device]
+დაირეკოს მოწყობილობაზე
+[Service Unavailable]
+სერვისი მიუწვდომელია
+[Unable to connect to remote server.]
+დისტანციურ სერვერთან დაკავშირება შეუძლებელია.
+[Busy Here]
+დაკავებაა
+[Trying]
+მცდელობა
+[Method Not Allowed]
+მეთოდი არ არის დაშვებული
+[Not Found]
+არ მოიძებნა
+[Always on Top]
+სულ ზევიდან
+[Connect]
+დაკავშირება
+[Last Call]
+ბოლო ზარი
+[Close All]
+ყვ. დახურვა
+[Copy]
+კოპირება
+[Select All]
+ყველას არჩევა
+[Display Name]
+ეკრანზე სახელი
+[Remember Details]
+დეტალების დამახსოვრება
+[PIN]
+PIN
+[No]
+არა
+[All Calls]
+ყველა ზარი
+[SIP Header]
+SIP სათაური
+[Different User]
+სხვა მომხმარებელი
+[Different Domain]
+სხვა დომენი
+[Different User or Domain]
+სხვა მომხმარებელი ან დომენი
+[Different Remote Domain]
+სხვა შორი დომენი
+[Deny Incoming]
+შემომავლის დაიგნორირება
+[Allow IP Rewrite]
+IP-ს გადაწერის დაშვება
+[Directory of Users]
+მომხმარებლების დირექტორია
+[Call on Remote Hold]
+ზარი შორეულ პაუზაზეა
+[Call on Local Hold]
+ზარი ადგილობრივ პაუზაზეა
+[Call on Hold]
+ზარი დაპაუზებულია
+[Call is Active]
+ზარი აქტიურია
+[Menu]
+მენიუ
+[Edit Account]
+ანგარიშის რედაქტირება
+[Add Account...]
+ანგარიშის დამატება
+[Remove Account]
+ანგარიშის წაშლა
+[Make Active]
+გააქტიურება
+[Are you sure you want to remove?]
+მართლა გსურთ ამოშლა?
+[Call Pickup]
+ზარის აღება
+[Speaker Level]
+ხმამაღლამოლაპარაკის დონე
+[Microphone Level]
+მიკროფონის დონე
+[Mute Speaker]
+ხმამაღლამოლაპარაკის გაჩუმება
+[Mute Microphone]
+მიკროფონის გაჩუმება
+[Balance]
+Ბალანსი
+[Custom INI Path]
+შეასრულეთ ეს გზა
+[Contact Us]
+Დაგვიკავშირდით
+[Please fill out at least the required fields marked with *.]
+გთხოვთ შეავსოთ სულ ცოტა * აღნიშნული ველები მაინც
+[Ask your SIP provider how to configure the account correctly.]
+ჰკითხეთ თქვენს SIP პროვაიდერს თუ როგორ უნდა დააკონფიგუროთ სწორად ანგარიში.
+[Time]
+დრო
+[Phone]
+ციფერბლატი
+[Ringtone]
+ზარის ხმა
+[Username]
+მომხმარებელი
+[Do you want to update now?]
+გნებავთ პროგრამის განახლება?
+[Available Codecs]
+ხელმისაწვდომია
+[Enabled Codecs]
+ჩართულია
+[Logs]
+ზარები
+[Random Popup Position]
+საპასუხო ყუთის შემთხვევითი პოზიცია
+[Attended Transfer]
+დაესწრო გადაცემას
+[Launch URL on incoming call]
+დაიწყეთ URL შემომავალი ზარზე
+[Enable Local Account]
+ადგილობრივი ანგარიშის ჩართვა
+[Send Crash Report]
+გაუგზავნეთ Crash Report
+[Account Name]
+Ანგარიშის სახელი
+[Invite to Conference]
+მოიწვიე კონფერენციაზე
+[Merge]
+go
+[Separate]
+ცალკე
+[Disconnect]
+გათიშვა
+[DTMF Method]
+DTMF მეთოდი
+[Voicemail Number]
+ხმოვანი ფოსტის ნომერი
+[Disable Session Timers]
+გამორთეთ სესიის ქრონომეტრები
+[Microphone Amplification]
+მიკროფონის გამაძლიერებელი
+[Software Level Adjustment]
+პროგრამული უზრუნველყოფის დონის რეგულირება
+[Shortcuts]
+მალსახმობები
+[Enable]
+ჩართვა
+[Label]
+იარლიყი
+[Type]
+ტიპი
+[Bottom Position]
+ქვედა პოზიცია
+[You need to restart application for the changes to take effect.]
+საჭიროა ცვლილების მისაღებად განაცხადის გადატვირთვა.
+[Handle Media Buttons]
+გაუმკლავდეთ მედიის ღილაკებს
+[Bring to Front on Incoming Call]
+შემოიტანეთ წინა შემოსავალზე
+[SIP account]
+SIP ანგარიში
+[SIP password]
+SIP პაროლი
+[Help]
+დახმარება
+[Video Bitrate]
+ვიდეო Bitrate
+[Control Button]
+კონტროლის ღილაკი
+[Do Not Disturb]
+Არ შემაწუხოთ
+[Source Port]
+წყარო პორტი
+[RTP Ports]
+RTP პორტები
+[Unregister the account when the operator is Away]
+ანგარიში დარეგისტრირდით, როდესაც ოპერატორს გაუქმებულია
+[Ask for the sip USER and SECRET everytime]
+სთხოვეთ წაკითხვას USER და SECRET ყოველთვის
+[Import]
+იმპორტი
+[Server]
+სერვერი
+[Attendant Transfer]
+დამსწრე ტრანსფერი
+[Blind Transfer]
+უსინათლო გადაცემა
+[Redial]
+გადაკეთება
+[Backspace]
+უკანა სივრცე
+[Clear]
+ნათელია
+[Use Space key to enable selected codec]
+გამოიყენეთ Space კლავიატურა, რომ აირჩიოთ კოდირებული კოდი
+[Use Delele key to disable selected codec]
+გამოიყენეთ Delele კლავიატურა გამორჩეული კოდეკის გამორთვისთვის
+[Make Inactive]
+არააქტიური გახადე
+[Conference]
+კონფერენცია
+[Dialing Prefix]
+აკრიფეთ პრეფიქსი
+[Register Refresh]
+რეგისტრაცია განახლება
+[Keep-Alive]
+შენარჩუნება-ცოცხალი
+[Ringtone Volume]
+ზარის მელოდია
+[Call Recording]
+ზარი იწერება
+[Nameserver]
+ნემსერვერი
+[Default List Action]
+ნაგულისხმევი სიის მოქმედება
+[Edit Local Account]
+ადგილობრივი ანგარიშის რედაქტირება
+[Export]
+ექსპორტი
+[Version]
+ვერსია
+[Call Waiting]
+Ზარის ლოდინი
+[Ready]
+მზადაა
+[Not online]
+არა ინტერნეტით
+[On the phone]
+Ტელეფონზე
+[First Name]
+Სახელი
+[Last Name]
+Გვარი
+[Phone Number]
+Ტელეფონის ნომერი
+[Mobile Number]
+Მობილურის ნომერი
+[E-mail Address]
+Ელექტრონული მისამართი
+[Address]
+მისამართი
+[City]
+ქალაქი
+[State]
+სახელმწიფო
+[Postal Code]
+საფოსტო ინდექსი
+[Comment]
+კომენტარი
+[Extension]
+გაფართოება
+[Port]
+პორტი
+[User ID]
+მომხმარებლის იდენტიფიკაცია
+[Authentication failed]
+ავთენტიფიკაცია ვერ განხორციელდა
+[API URL is empty]
+API URL ცარიელია
+[API connection failed]
+API კავშირი ვერ მოხერხდა
+[API request failed. Response code:]
+API მოთხოვნა ვერ მოხერხდა. რეაგირების კოდი:
+[API response is empty]
+API პასუხი ცარიელია
+[API response parse error]
+API პასუხი შეცვალა შეცდომა
+[API data type is wrong]
+API მონაცემთა ტიპი არასწორია
+[Login failed]
+Სისტემაში შესვლა ვერ მოხერხდა
+[Request failed]
+მოთხოვნა ვერ განხორციელდა
+[close window to ignore call]
+ფანჯრის დახურვა ზარის უგულებელყოფისთვის
+[Transfer Code]
+გადაცემის კოდი
+[Headset Support]
+ყურსასმენის მხარდაჭერა
+[Privacy Policy]
+Კონფიდენციალურობის პოლიტიკა
+[sec]
+წმ
+[Call Forwarding]
+ზარის გადამისამართება
+[Are you sure you want to delete?]
+დარწმუნებული ხარ რომ წაშლა გინდა?
+[Delete contact]
+კონტაქტის წაშლა
+[Account or credentials not found.]
+ანგარიში ან სერთიფიკატი ვერ მოიძებნა
+[Please fill out all required fields.]
+გთხოვთ, შეავსოთ ყველა საჭირო ველი.
+[Change Account]
+შეცვალეთ ანგარიში
+[Dial Plan]
+აკრიფეთ გეგმა
+[Disable Video]
+ვიდეოს გამორთვა
+[Disable Messaging]
+გამორთეთ შეტყობინებები
+[Headphones]
+ყურსასმენები
+[Are you sure you want to close the application?]
+დარწმუნებული ხართ, რომ გსურთ აპლიკაციის დახურვა?
+[Dashboard Access]
+დაფაზე წვდომა
+[Break]
+შესვენება
+[Non-Telephone Work]
+არა სატელეფონო სამუშაო
+[On Break]
+შესვენებაზე
+[Telephone Work]
+სატელეფონო მუშაობა
+[Register]
+დარეგისტრირება
+[Unregister]
+დარეგისტრირება
+[Options]
+Პარამეტრები
+[Delay]
+შეფერხება
+[Caller Number]
+აბონენტის ნომერი
+[Purchase a Number]
+შეიძინეთ ნომერი
+[Line Number (4 digits)]
+ხაზის ნომერი (4 ციფრი)
+[Line Password]
+ხაზის პაროლი
+[Set Password]
+Პაროლის დაყენება
+[Reset Password]
+პაროლის გადაყენება
+[Open]
+გახსნა
+[Unable to find default audio device]
+აუდიო მოწყობილობა ვერ მოიძებნა
+[Network is unreachable]
+ქსელი მიუწვდომელია
+[Allow access to the microphone in your antivirus settings.]
+ანტივირუსული პარამეტრების მიკროფონზე წვდომის დაშვება.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+დააფიქსირეთ მიკროფონის ნებართვა Windows– ის პარამეტრებში (Windows Settings =&gt; Privacy =&gt; Microphone).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+საჭიროა დინამიკები და მიკროფონი. ზარების განსახორციელებლად თქვენს სისტემაში უნდა გქონდეთ შემავალი და გამომავალი ხმის მოწყობილობა.
+[Canceled]
+გაუქმებულია
+[Unknown format]
+უცნობი ფორმატი
+[Softphone is not initialized. Check your settings.]
+Softphone არ არის ინიცირებული. შეამოწმეთ თქვენი პარამეტრები.
+[Unable to initialize network sockets.]
+ქსელის სოკეტების ინიცირება შეუძლებელია.
+[Starred]
+ვარსკვლავიანი
+[Run at System Startup]
+გაუშვით სისტემის გაშვებისას
+[Run Batch]
+გაუშვით Batch
+[Call URL]
+ზარის URL
+[Call All]
+დარეკე ყველას
+[Custom]
+საბაჟო
+[Take Back]
+Უკან წაღება
+[Add Contact]
+Კონტაქტის დამატება
+[Incorrect dialing or non-existent number]
+არასწორი აკრეფა ან არარსებული ნომერი
+[Profile]
+პროფილი
+[Use Outbound Proxy]
+გამოიყენეთ გამავალი პროქსი
+[End]
+ზარის გათიშვა
+[Address Incomplete]
+მისამართი არასრულია
+[Not acceptable here]
+აქ მიუღებელია
+[Direct Transfer]
+პირდაპირი ტრანსფერი
+[Idle]
+უსაქმური
+[Toggle]
+გადართვა
+[Enter Password]
+შეიყვანეთ პაროლი
+[Connection refused]
+დაკავშირება შეუძლებელია
+[Connection timed out]
+კავშირის დრო ამოიწურა
+[Cannot get IP address of the called host]
+გამოძახებული ჰოსტის IP მისამართის მიღება შეუძლებელია
+[Answered Elsewhere]
+სხვაგან უპასუხა
+[Missed Call]
+Გამოტოვებული ზარი
+[Do you want to delete user data and program settings? This action cannot be undone.]
+გსურთ წაშალოთ მომხმარებლის მონაცემები და პროგრამის პარამეტრები? ამ მოქმედების გაუქმება შეუძლებელია.
+[Unavailable]
+მიუწვდომელია
+[Call Limit]
+ზარის ლიმიტი
+[Hide Caller ID]
+აბონენტის ID დამალვა
+[External Program]
+გარე პროგრამა
+[]

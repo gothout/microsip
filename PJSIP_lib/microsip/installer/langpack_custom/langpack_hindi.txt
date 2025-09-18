@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+कॉल
+[End Call]
+कॉल बंद
+[Contacts]
+संपर्क
+[Account]
+खाता
+[Settings]
+समायोजन
+[Visit Website]
+बेवसाइट देखना
+[Exit]
+बाहर जाएं
+[Browse...]
+ब्राउज़ करें ...
+[Default]
+चूक
+[Auto Answer]
+स्वत: जवाब देने दे
+[Disable Local Account]
+स्थानीय खाता अक्षम करें
+[OK]
+ठीक
+[Save]
+सहेजें
+[Cancel]
+रद्द करना
+[SIP Server]
+एसआईपी सर्वर
+[SIP Proxy]
+एसआईपी प्रॉक्सी
+[Domain]
+डोमेन
+[Password]
+कुंजिका
+[Connecting...]
+कनेक्ट ...
+[Online]
+ऑनलाइन
+[Local]
+स्थानीय
+[Message]
+संदेश
+[Edit]
+संपादित करें
+[Delete]
+हटाएं
+[Add]
+जोड़े
+[Bad Gateway]
+खराब गेटवे
+[Request Timeout]
+ब्रेक का अनुरोध
+[Number]
+संख्या
+[Name]
+नाम
+[Contact]
+संपर्क करें
+[Incoming Call]
+आने वाली कॉल
+[Answer]
+उत्तर दें
+[Decline]
+पतन
+[Calling]
+कॉलिंग
+[Connecting]
+कनेक्ट
+[Connected]
+जुड़े हुए
+[Auto]
+स्वत:
+[Transport]
+परिवहन
+[Incorrect Password]
+गलत पासवर्ड
+[Public Address]
+सार्वजनिक उद्घोषणा
+[Media Encryption]
+मीडिया एन्क्रिप्शन
+[Disabled]
+विकलांग
+[Optional]
+ऐच्छिक
+[Mandatory]
+अनिवार्य
+[STUN Server]
+STUN सर्वर
+[Presence Subscription]
+उपस्थिति सदस्यता
+[Ringing]
+बज
+[Call Ended]
+कॉल समाप्त
+[Declined]
+इंकार कर दिया
+[No address found]
+कोई पता नहीं मिला
+[Request Terminated]
+अनुरोध समाप्त हो गया
+[Away]
+अभी दूर है
+[Publish Presence]
+उपस्थिति प्रकाशित करें
+[Session Progress]
+सत्र प्रगति
+[Camera]
+कैमरा
+[Video Call]
+वीडियो कॉल
+[Answer with Video]
+वीडियो के साथ उत्तर दें
+[View Log File]
+लॉग फ़ाइल देखें
+[Microphone]
+माइक्रोफ़ोन
+[Speaker]
+वक्ता
+[Video Codec]
+वीडियो कोडेक
+[Check for Updates]
+अद्यतन के लिए जाँच
+[Daily]
+रोज
+[Weekly]
+साप्ताहिक
+[Monthly]
+महीने के
+[Quarterly]
+त्रैमासिक
+[Never]
+कभी नहीँ
+[Update Available]
+उपलब्ध अद्यतन
+[Force Codec for Incoming]
+आने के लिए फोर्स कोडेक
+[Invalid Number]
+अमान्य यू.आर.आई.
+[Offline]
+ऑफलाइन
+[Single Call Mode]
+सिंगल कॉल मोड
+[Local Video]
+स्थानीय वीडियो
+[Call Transfer]
+कॉल ट्रांसफर
+[final]
+अंतिम
+[Call transfered successfully, disconnecting call]
+कॉल सफलतापूर्वक स्थानांतरित, कॉल डिस्कनेक्ट हो रहा है
+[Hold]
+होल्ड
+[Transfer]
+स्थानांतरण
+[Sound Events]
+ध्वनि घटनाएँ
+[Bitrate]
+बिटरेट
+[Login]
+लॉग इन करें
+[Enable Log File]
+लॉग फ़ाइल सक्षम करें
+[Duration]
+अवधि
+[Info]
+जानकारी
+[display password]
+पासवर्ड प्रदर्शित करें
+[From]
+से
+[To]
+को
+[Ring Device]
+रिंग डिवाइस
+[Service Unavailable]
+सेवा उप्लब्ध् नहीं है
+[Unable to connect to remote server.]
+दूरस्थ सर्वर से कनेक्ट करने में असमर्थ.
+[Busy Here]
+अभी व्यस्त है
+[Trying]
+कोशिश कर रहे हैं
+[Method Not Allowed]
+विधि की अनुमति नहीं है
+[Not Found]
+नहीं मिला
+[Always on Top]
+हमेशा ऊपर रखे
+[Connect]
+जुडिये
+[Last Call]
+आखिरी कॉल
+[Close All]
+सब बंद करें
+[Copy]
+प्रतिलिपि
+[Select All]
+सभी का चयन करे
+[Display Name]
+प्रदर्शित होने वाला नाम
+[Remember Details]
+विवरण याद रखें
+[PIN]
+पिन
+[No]
+नहीं
+[All Calls]
+सभी कॉल्स
+[SIP Header]
+सिप हैडर
+[Different User]
+अलग-अलग उपयोगकर्ता
+[Different Domain]
+अलग डोमेन
+[Different User or Domain]
+अलग-अलग उपयोगकर्ता या डोमेन
+[Different Remote Domain]
+विभिन्न दूरस्थ डोमेन
+[Deny Incoming]
+आने वाली इनकार
+[Allow IP Rewrite]
+IP पुनर्लेखन
+[Directory of Users]
+उपयोगकर्ताओं की निर्देशिका
+[Call on Remote Hold]
+कॉल के पश्चात रिमोट हॉल्ड पर रखे
+[Call on Local Hold]
+लोकल कॉल हॉल्ड पर रखे
+[Call on Hold]
+कॉल हॉल्ड पे रखे
+[Call is Active]
+कॉल एक्टिव है
+[Menu]
+मेन्यू
+[Edit Account]
+खाता संपादित करें
+[Add Account...]
+खाता जोड़े
+[Remove Account]
+खाता हटाएं
+[Make Active]
+सक्रिय बनाना
+[Are you sure you want to remove?]
+क्या आप सचमुच हटाना चाहते हैं?
+[Call Pickup]
+कॉल उठाये
+[Speaker Level]
+अध्यक्ष स्तर
+[Microphone Level]
+माइक्रोफोन स्तर
+[Mute Speaker]
+मूक वक्ता
+[Mute Microphone]
+म्यूट माइक्रोफोन
+[Balance]
+संतुलन
+[Custom INI Path]
+कस्टम इस पथ
+[Contact Us]
+संपर्क करें
+[Please fill out at least the required fields marked with *.]
+कृपया कम से कम आवश्यक फ़ील्ड भरें *।
+[Ask your SIP provider how to configure the account correctly.]
+अपने SIP प्रदाता से पूछें कि खाते को सही तरीके से कैसे स्थापित करना है |
+[Time]
+समय
+[Phone]
+फ़ोन
+[Ringtone]
+रिंगटोन
+[Username]
+उपयोगकर्ता नाम
+[Do you want to update now?]
+क्या आप अभी अपडेट करना चाहते हैं?
+[Available Codecs]
+उपलब्ध Codecs
+[Enabled Codecs]
+सक्षम कोडेक
+[Logs]
+लॉग्स
+[Random Popup Position]
+रैंडम पॉपअप स्थिति
+[Attended Transfer]
+ट्रांसफर किया
+[Launch URL on incoming call]
+इनकमिंग कॉल पर URL लॉन्च करें
+[Enable Local Account]
+स्थानीय खाता सक्षम करें
+[Send Crash Report]
+क्रैश रिपोर्ट भेजें
+[Account Name]
+खाते का नाम
+[Invite to Conference]
+सम्मेलन के लिए आमंत्रित करें
+[Merge]
+जाने
+[Separate]
+अलग
+[Disconnect]
+डिस्कनेक्ट
+[DTMF Method]
+DTMF विधि
+[Voicemail Number]
+ध्वनिमेल संख्या
+[Disable Session Timers]
+सत्र टाइमर को अक्षम करें
+[Microphone Amplification]
+माइक्रोफोन प्रवर्धन
+[Software Level Adjustment]
+सॉफ्टवेयर स्तर समायोजन
+[Shortcuts]
+शॉर्टकट
+[Enable]
+सक्षम करें
+[Label]
+लेबल
+[Type]
+प्रकार
+[Bottom Position]
+नीचे की स्थिति
+[You need to restart application for the changes to take effect.]
+परिवर्तनों को प्रभावी करने के लिए आपको एप्लिकेशन को पुनः आरंभ करना होगा।
+[Handle Media Buttons]
+मीडिया बटन संभालें
+[Bring to Front on Incoming Call]
+आने वाली कॉल पर सामने लाएं
+[SIP account]
+एसआईपी खाता
+[SIP password]
+SIP पासवर्ड
+[Help]
+मदद
+[Video Bitrate]
+वीडियो बिटरेट
+[Control Button]
+नियंत्रण बटन
+[Do Not Disturb]
+परेशान न करें
+[Source Port]
+स्रोत पोर्ट
+[RTP Ports]
+RTP पोर्ट
+[Unregister the account when the operator is Away]
+ऑपरेटर के दूर होने पर खाते को अपंजीकृत करें
+[Ask for the sip USER and SECRET everytime]
+हर समय घूंट USER और SECRET के लिए पूछें
+[Import]
+आयात
+[Server]
+सर्वर
+[Attendant Transfer]
+परिचर का स्थानांतरण
+[Blind Transfer]
+अंधा स्थानांतरण
+[Redial]
+रीडायल
+[Backspace]
+बैकस्पेस
+[Clear]
+स्पष्ट
+[Use Space key to enable selected codec]
+चयनित कोडेक को सक्षम करने के लिए स्पेस कुंजी का उपयोग करें
+[Use Delele key to disable selected codec]
+चयनित कोडेक को अक्षम करने के लिए डिलेले कुंजी का उपयोग करें
+[Make Inactive]
+निष्क्रिय कर दें
+[Conference]
+सम्मेलन
+[Dialing Prefix]
+डायल उपसर्ग
+[Register Refresh]
+ताज़ा करें रजिस्टर
+[Keep-Alive]
+जिंदा रहो
+[Ringtone Volume]
+रिंगटोन वॉल्यूम
+[Call Recording]
+कॉल रिकॉर्डिंग
+[Nameserver]
+नाम सर्वर
+[Default List Action]
+डिफ़ॉल्ट सूची कार्रवाई
+[Edit Local Account]
+स्थानीय खाता संपादित करें
+[Export]
+निर्यात
+[Version]
+संस्करण
+[Call Waiting]
+फोन का इंतज़ार
+[Ready]
+तैयार
+[Not online]
+ऑनलाइन नहीं
+[On the phone]
+फोन पर
+[First Name]
+पहला नाम
+[Last Name]
+उपनाम
+[Phone Number]
+फ़ोन नंबर
+[Mobile Number]
+मोबाइल नंबर
+[E-mail Address]
+ईमेल पता
+[Address]
+पता
+[City]
+शहर
+[State]
+राज्य
+[Postal Code]
+डाक कोड
+[Comment]
+टिप्पणी
+[Extension]
+एक्सटेंशन
+[Port]
+बंदरगाह
+[User ID]
+यूज़र आईडी
+[Authentication failed]
+प्रमाणीकरण विफल हो गया
+[API URL is empty]
+API URL खाली है
+[API connection failed]
+एपीआई कनेक्शन विफल रहा
+[API request failed. Response code:]
+API अनुरोध विफल रहा। रेस्पोंस कोड:
+[API response is empty]
+एपीआई प्रतिक्रिया खाली है
+[API response parse error]
+एपीआई प्रतिक्रिया पार्स त्रुटि
+[API data type is wrong]
+एपीआई डेटा प्रकार गलत है
+[Login failed]
+लॉगिन विफल
+[Request failed]
+अनुरोध विफल रहा
+[close window to ignore call]
+कॉल को अनदेखा करने के लिए विंडो बंद करें
+[Transfer Code]
+ट्रांसफर कोड
+[Headset Support]
+हेडसेट का समर्थन
+[Privacy Policy]
+गोपनीयता नीति
+[sec]
+सेकंड
+[Call Forwarding]
+कॉल अग्रेषण
+[Are you sure you want to delete?]
+क्या आप पक्का इसे हटाना चाहते हैं?
+[Delete contact]
+संपर्क मिटा दें
+[Account or credentials not found.]
+खाता या क्रेडेंशियल नहीं मिला
+[Please fill out all required fields.]
+कृपया सभी आवश्यक जगर भरें।
+[Change Account]
+खाता बदलें
+[Dial Plan]
+डायल प्लान
+[Disable Video]
+वीडियो अक्षम करें
+[Disable Messaging]
+मैसेजिंग अक्षम करें
+[Headphones]
+हेडफोन
+[Are you sure you want to close the application?]
+क्या आप वाकई एप्लिकेशन को बंद करना चाहते हैं?
+[Dashboard Access]
+डैशबोर्ड एक्सेस
+[Break]
+टूटना
+[Non-Telephone Work]
+गैर-टेलीफोन काम
+[On Break]
+छुट्टी पर
+[Telephone Work]
+टेलीफोन का काम
+[Register]
+रजिस्टर करें
+[Unregister]
+अपंजीकृत
+[Options]
+विकल्प
+[Delay]
+देरी
+[Caller Number]
+कॉलर नंबर
+[Purchase a Number]
+एक नंबर खरीद
+[Line Number (4 digits)]
+लाइन नंबर (4 अंक)
+[Line Password]
+लाइन पासवर्ड
+[Set Password]
+पासवर्ड सेट करें
+[Reset Password]
+पासवर्ड रीसेट
+[Open]
+को खोलने के लिए
+[Unable to find default audio device]
+कोई ऑडियो उपकरण नहीं मिला
+[Network is unreachable]
+नेटवर्क तक नहीं पहुंचा जा सकता
+[Allow access to the microphone in your antivirus settings.]
+अपनी एंटीवायरस सेटिंग में माइक्रोफ़ोन तक पहुंच की अनुमति दें।
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+विंडोज सेटिंग्स (विंडोज सेटिंग्स =&gt; गोपनीयता =&gt; माइक्रोफ़ोन) में माइक्रोफ़ोन अनुमति को ठीक करें।
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+स्पीकर और माइक्रोफोन दोनों आवश्यक हैं। कॉल करने के लिए आपके सिस्टम में इनपुट और आउटपुट साउंड डिवाइस होना चाहिए।
+[Canceled]
+रद्द
+[Unknown format]
+अज्ञात स्वरूप
+[Softphone is not initialized. Check your settings.]
+सॉफ़्टफ़ोन प्रारंभ नहीं किया गया है। अपनी सेटिंग्स जांचें।
+[Unable to initialize network sockets.]
+नेटवर्क सॉकेट प्रारंभ करने में असमर्थ।
+[Starred]
+तारांकित
+[Run at System Startup]
+सिस्टम स्टार्टअप पर चलाएं
+[Run Batch]
+भागो बैच
+[Call URL]
+कॉल यूआरएल
+[Call All]
+सभी को कॉल करें
+[Custom]
+रीति
+[Take Back]
+वापिस लो
+[Add Contact]
+संपर्क जोड़ें
+[Incorrect dialing or non-existent number]
+गलत डायलिंग या गैर-मौजूद नंबर
+[Profile]
+प्रोफ़ाइल
+[Use Outbound Proxy]
+आउटबाउंड प्रॉक्सी का उपयोग करें
+[End]
+कॉल बंद
+[Address Incomplete]
+पता अधूरा
+[Not acceptable here]
+यहाँ स्वीकार्य नहीं है
+[Direct Transfer]
+सीधा स्थानांतरण
+[Idle]
+निठल्ला
+[Toggle]
+टॉगल
+[Enter Password]
+पास वर्ड दर्ज करें
+[Connection refused]
+कनेक्शन नहीं हो सका
+[Connection timed out]
+कनेक्शन का समय समाप्त
+[Cannot get IP address of the called host]
+कॉल किए गए होस्ट का आईपी पता नहीं मिल सका
+[Answered Elsewhere]
+अन्यत्र उत्तर दिया गया
+[Missed Call]
+मिस कॉल
+[Do you want to delete user data and program settings? This action cannot be undone.]
+क्या आप उपयोगकर्ता डेटा और प्रोग्राम सेटिंग हटाना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता।
+[Unavailable]
+अनुपलब्ध
+[Call Limit]
+कॉल सीमा
+[Hide Caller ID]
+कॉलर आईडी छिपाएं
+[External Program]
+बाह्य कार्यक्रम
+[]

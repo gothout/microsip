@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Залгах
+[End Call]
+Дуудлагыг дуусгах
+[Contacts]
+Утасны жагсаалт
+[Account]
+Бүртгэлийн нэр
+[Settings]
+Тохиргоо
+[Visit Website]
+Вэбсайт руу орох
+[Exit]
+Гарах
+[Browse...]
+Файл сонгох...
+[Default]
+Үндсэн
+[Auto Answer]
+Автоматаар хариулах
+[Disable Local Account]
+Дотоод эрхийг хаах
+[OK]
+ОК
+[Save]
+Хадгалах
+[Cancel]
+Цуцлах
+[SIP Server]
+SIP сервер
+[SIP Proxy]
+SIP прокси
+[Domain]
+Домэйн
+[Password]
+Нууц үг
+[Connecting...]
+Холбогдож байна...
+[Online]
+Холбогдсон
+[Local]
+Дотоод
+[Message]
+Зурвас
+[Edit]
+Өөрчлөх
+[Delete]
+Устгах
+[Add]
+Нэмэх
+[Bad Gateway]
+Буруу гарц тохируулсан
+[Request Timeout]
+Хүсэлт амжилтгүй
+[Number]
+Дугаар
+[Name]
+Нэр
+[Contact]
+Утасны дугаар
+[Incoming Call]
+Дуудлага ирлээ
+[Answer]
+Хариулах
+[Decline]
+Таслах
+[Calling]
+Дуудаж байна
+[Connecting]
+Холбогдож байна
+[Connected]
+Холбогдсон
+[Auto]
+Автомат
+[Transport]
+Транспорт
+[Incorrect Password]
+Нууц үг буруу байна
+[Public Address]
+Интернет хаяг
+[Media Encryption]
+Ярианы нууцлал
+[Disabled]
+Идэвхигүй
+[Optional]
+Заавал шаардлагагүй
+[Mandatory]
+Заавал оруулна
+[STUN Server]
+STUN сервер
+[Presence Subscription]
+Захиалга хийх боломжтой
+[Ringing]
+Дуудаж байна
+[Call Ended]
+Дуудлага дууслаа
+[Declined]
+Тасалсан
+[No address found]
+Хаяг олдсонгүй
+[Request Terminated]
+Хүсэлт цуцлагдсан
+[Away]
+Эзгүй
+[Publish Presence]
+Төлвийг харуулах
+[Session Progress]
+Дуудлагын явц
+[Camera]
+Камер
+[Video Call]
+Видео дуудлага
+[Answer with Video]
+Хариулах /Дүрстэй/
+[View Log File]
+Лог файлыг харах
+[Microphone]
+Микрофон
+[Speaker]
+Аудио
+[Video Codec]
+Видео кодек
+[Check for Updates]
+Шинэ хувилбарыг шалгах
+[Daily]
+Өдөр бүр
+[Weekly]
+7 хоног бүр
+[Monthly]
+Сар бүр
+[Quarterly]
+Улирал бүр
+[Never]
+Үгүй
+[Update Available]
+Шинэ хувилбар гарсан
+[Force Codec for Incoming]
+Орох дуудлагын кодек
+[Invalid Number]
+URI буруу
+[Offline]
+Холбогдоогүй
+[Single Call Mode]
+Хялбаршуулсан дуудлагын горим
+[Local Video]
+Дотоод видео
+[Call Transfer]
+Дуудлага шилжүүлэх
+[final]
+эцсийн
+[Call transfered successfully, disconnecting call]
+Дуудлагыг шилжүүллээ. Холболтыг тасалж байна
+[Hold]
+Хүлээлгэх
+[Transfer]
+Шилжүүлэх
+[Sound Events]
+Дуут дохио өгөх
+[Bitrate]
+Битийн хурд /rate/
+[Login]
+Нэвтрэх
+[Enable Log File]
+Лог файлыг идэвхижүүлэх
+[Duration]
+Хугацаа
+[Info]
+Мэдээлэл
+[display password]
+Нууц үгийг харуулах
+[From]
+Залгагч
+[To]
+Хүлээн авагч
+[Ring Device]
+Дохио өгөх төхөөрөмж
+[Service Unavailable]
+Үйлчилгээ тасарсан
+[Unable to connect to remote server.]
+Алсын сервертэй холбогдох боломжгүй байна.
+[Busy Here]
+Завгүй
+[Trying]
+Түр хүлээнэ үү
+[Method Not Allowed]
+Зөвшөөрөгдөөгүй арга
+[Not Found]
+Олдсонгүй
+[Always on Top]
+Байнга дэлгэцэнд харуулна
+[Connect]
+Холбогдох
+[Last Call]
+Сүүлийн дуудлага
+[Close All]
+Бүгдийг хаах
+[Copy]
+Хуулах
+[Select All]
+Бүгдийг сонгох
+[Display Name]
+Харагдах нэр
+[Remember Details]
+Мэдээллийг санах
+[PIN]
+ПИН код
+[No]
+Үгүй
+[All Calls]
+Бүх дуудлага
+[SIP Header]
+SIP Header
+[Different User]
+Өөр хэрэглэгч
+[Different Domain]
+Өөр домэйн
+[Different User or Domain]
+Өөр хэрэглэгч/домэйн
+[Different Remote Domain]
+Өөр remote домэйн
+[Deny Incoming]
+Ирэх дуудлагыг хаах
+[Allow IP Rewrite]
+IP хаяг дарж бичихийг зөвшөөрөх
+[Directory of Users]
+Хэрэглэгчийн жагсаалт
+[Call on Remote Hold]
+Дуудлагыг нөгөө талд хүлээлгэсэн
+[Call on Local Hold]
+Дуудлагыг дотоодод хүлээлгэсэн
+[Call on Hold]
+Дуудлага хүлээгдсэн
+[Call is Active]
+Дуудлага идэвхтэй
+[Menu]
+Цэс
+[Edit Account]
+Мэдээллийг өөрчлөх
+[Add Account...]
+Хэрэглэгч нэмэх...
+[Remove Account]
+Хаягийг устгах
+[Make Active]
+Идэвхижүүлэх
+[Are you sure you want to remove?]
+Та устгахдаа итгэлтэй байна уу?
+[Call Pickup]
+Дуудлага авах
+[Speaker Level]
+Аудионы түвшин
+[Microphone Level]
+Микрофоны түвшин
+[Mute Speaker]
+Аудиог хаах
+[Mute Microphone]
+Микрофоныг хаах
+[Balance]
+Тэнцвэржүүлэх
+[Custom INI Path]
+ЭНЭ замыг өөрчлөх
+[Contact Us]
+Холбоо барих
+[Please fill out at least the required fields marked with *.]
+* тэмдгээр тэмдэглэгдсэн хэсгүүдийг заавал бөглөнө үү.
+[Ask your SIP provider how to configure the account correctly.]
+Та хэрхэн тохиргоо хийхээ SIP үйлчилгээ үзүүлэгчээс лавлана уу
+[Time]
+Хугацаа
+[Phone]
+Товчлуур
+[Ringtone]
+Дуудах ая
+[Username]
+Нэвтрэх нэр
+[Do you want to update now?]
+Програмыг одоо шинэчлэх үү?
+[Available Codecs]
+Боломжит кодек
+[Enabled Codecs]
+Идэвхижүүлсэн кодек
+[Logs]
+Бүртгэл
+[Random Popup Position]
+Хаана ч нээгдэх боломжтой
+[Attended Transfer]
+Оролцоотой шилжүүлэг
+[Launch URL on incoming call]
+Ирж буй дуудлага дээр URL-г ажиллуулна уу
+[Enable Local Account]
+Дотоод хаягийг зөвшөөрөх
+[Send Crash Report]
+Алдааны мэдээллийг илгээх
+[Account Name]
+Хэрэглэгчийн нэр
+[Invite to Conference]
+Телефон хуралд урих
+[Merge]
+Нэгтгэх
+[Separate]
+Салгах
+[Disconnect]
+Салгах
+[DTMF Method]
+DTMF төрөл
+[Voicemail Number]
+Дуут шуудангийн дугаар
+[Disable Session Timers]
+Дуудлагын хугацааг хаах
+[Microphone Amplification]
+Микрофоны чадал
+[Software Level Adjustment]
+Програмын түвшингийн тохируулга
+[Shortcuts]
+Товчнууд
+[Enable]
+Идэвхижүүлэх
+[Label]
+Шошго
+[Type]
+Төрөл
+[Bottom Position]
+Доод байрлал
+[You need to restart application for the changes to take effect.]
+Тохиргоог идэвхижүүлэхэд програмаас гараад дахин ажиллуулна уу.
+[Handle Media Buttons]
+Төхөөрөмжийн товчлууруудыг ажиллуулах
+[Bring to Front on Incoming Call]
+Дуудлага ирэхэд урд харуулах
+[SIP account]
+SIP данс
+[SIP password]
+SIP нууц үг
+[Help]
+Тусламж
+[Video Bitrate]
+Видеоны bitrate
+[Control Button]
+Удирдлагын товчлуур
+[Do Not Disturb]
+Дуудлага хүлээн авахгүй
+[Source Port]
+Source порт
+[RTP Ports]
+RTP портууд
+[Unregister the account when the operator is Away]
+Оператор байхгүй байх үед дансаа бүртгэлээс хас
+[Ask for the sip USER and SECRET everytime]
+Дээш үргэлж USER, SECRET-г асуу
+[Import]
+Импорт
+[Server]
+Сервер
+[Attendant Transfer]
+Үйлчлэгч шилжүүлэх
+[Blind Transfer]
+Сохор шилжүүлэг
+[Redial]
+Эргэж залгах
+[Backspace]
+Буцаах
+[Clear]
+Цэвэрлэх
+[Use Space key to enable selected codec]
+Space товчоор сонгосон кодекыг нэмэх
+[Use Delele key to disable selected codec]
+Delete товчоор сонгосон кодекыг хасах
+[Make Inactive]
+Идэвхгүй болгох
+[Conference]
+Хурал
+[Dialing Prefix]
+Залгалтийн угтвар
+[Register Refresh]
+Бүргтэл шинэчлэх
+[Keep-Alive]
+Амь сэргээх
+[Ringtone Volume]
+Дуулагийн аяийн чанга
+[Call Recording]
+Дуудлагийн бичлэг хийх
+[Nameserver]
+Нэрийн сервер
+[Default List Action]
+Үйлдлийн үндсэн цэс
+[Edit Local Account]
+Дотоод бүргтэл засах
+[Export]
+Гадагшлуулах
+[Version]
+Хувилбар
+[Call Waiting]
+Дуудлага хүлээлгэнд байна
+[Ready]
+Бэлэн
+[Not online]
+Сүлжээнд идэвхгүй
+[On the phone]
+Дуудлаганд байна
+[First Name]
+Нэр
+[Last Name]
+Овог нэр
+[Phone Number]
+Утасны дугаар
+[Mobile Number]
+Гар утасны дугаар
+[E-mail Address]
+Имэйл хаяг
+[Address]
+Хаяг
+[City]
+Хот
+[State]
+Улсын
+[Postal Code]
+Шуудангийн код
+[Comment]
+Сэтгэгдэл бичих
+[Extension]
+Өргөтгөл
+[Port]
+Боомт
+[User ID]
+Хэрэглэгчийн ID
+[Authentication failed]
+Гэрчлэлт амжилтгүй болсон
+[API URL is empty]
+API URL хоосон байна
+[API connection failed]
+API холболт амжилтгүй болсон байна
+[API request failed. Response code:]
+API хүсэлт амжилтгүй боллоо. Хариултын код:
+[API response is empty]
+API хариулт хоосон байна
+[API response parse error]
+API хариуг задлах алдаа
+[API data type is wrong]
+API дата төрөл буруу байна
+[Login failed]
+Нэвтрэх үйл ажиллагаа бүтэлгүйтэв
+[Request failed]
+Хүсэлт амжилтгүй болсон
+[close window to ignore call]
+дуудлагыг үл тоомсорлох цонхыг хаах
+[Transfer Code]
+Шилжүүлэх код
+[Headset Support]
+Чихэвчний дэмжлэг
+[Privacy Policy]
+Нууцлалын бодлого
+[sec]
+сек
+[Call Forwarding]
+Дуудлага дамжуулах
+[Are you sure you want to delete?]
+Та устгахдаа итгэлтэй байна уу?
+[Delete contact]
+Харилцагчийг устгах
+[Account or credentials not found.]
+Бүртгэл эсвэл итгэмжлэл олдсонгүй.
+[Please fill out all required fields.]
+Шаардлагатай бүх талбарыг бөглөнө үү.
+[Change Account]
+Дансаа солих
+[Dial Plan]
+Залгах төлөвлөгөө
+[Disable Video]
+Видеог идэвхгүй болгох
+[Disable Messaging]
+Мессежийг идэвхгүйжүүлэх
+[Headphones]
+Чихэвч
+[Are you sure you want to close the application?]
+Та програмыг хаахдаа итгэлтэй байна уу?
+[Dashboard Access]
+Хяналтын самбар руу нэвтрэх
+[Break]
+Завсарлага
+[Non-Telephone Work]
+Утасны бус ажил
+[On Break]
+Завсарлагааны үеэр
+[Telephone Work]
+Утасны ажил
+[Register]
+Бүртгүүлэх
+[Unregister]
+Бүртгэлээс хасах
+[Options]
+Сонголтууд
+[Delay]
+Саатал
+[Caller Number]
+Дуудлагын дугаар
+[Purchase a Number]
+Дугаар худалдаж аваарай
+[Line Number (4 digits)]
+Мөрийн дугаар (4 оронтой)
+[Line Password]
+Шугамын нууц үг
+[Set Password]
+Нууц үгээ тохируулна уу
+[Reset Password]
+Нууц үгээ анхны байдалд нь оруулж
+[Open]
+Нээх
+[Unable to find default audio device]
+Аудио төхөөрөмж олдсонгүй
+[Network is unreachable]
+Сүлжээнд холбогдох боломжгүй байна
+[Allow access to the microphone in your antivirus settings.]
+Вирусны эсрэг тохиргоондоо микрофонд хандахыг зөвшөөрнө үү.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Windows-ийн тохиргооноос микрофоны зөвшөөрлийг засах (Windows Settings =&gt; Privacy =&gt; Microphone).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Чанга яригч, микрофон хоёулаа шаардлагатай. Дуудлага хийхийн тулд таны системд оролт, гаралтын дууны төхөөрөмж байх ёстой.
+[Canceled]
+Цуцлагдсан
+[Unknown format]
+Үл мэдэгдэх формат
+[Softphone is not initialized. Check your settings.]
+Зөөлөн утсыг анх тохируулаагүй байна. Тохиргоогоо шалгана уу.
+[Unable to initialize network sockets.]
+Сүлжээний залгууруудыг эхлүүлэх боломжгүй байна.
+[Starred]
+Одтой
+[Run at System Startup]
+Системийг эхлүүлэх үед ажиллуулна уу
+[Run Batch]
+Багцыг ажиллуул
+[Call URL]
+Дуудлагын URL
+[Call All]
+Бүгдийг дууд
+[Custom]
+Захиалгат
+[Take Back]
+Буцааж авах
+[Add Contact]
+Харилцагч нэмэх
+[Incorrect dialing or non-existent number]
+Буруу залгасан эсвэл байхгүй дугаар
+[Profile]
+Профайл
+[Use Outbound Proxy]
+Outbound Proxy ашиглах
+[End]
+Дуудлагыг дуусгах
+[Address Incomplete]
+Хаяг бүрэн бус
+[Not acceptable here]
+Энд хүлээн зөвшөөрөх боломжгүй
+[Direct Transfer]
+Шууд шилжүүлэг
+[Idle]
+Сул зогсолт
+[Toggle]
+Сэлгэх
+[Enter Password]
+Нууц үгээ оруулна
+[Connection refused]
+Холболтоос татгалзсан
+[Connection timed out]
+Холболтын хугацаа дууссан
+[Cannot get IP address of the called host]
+Дуудсан хостын IP хаягийг авч чадахгүй байна
+[Answered Elsewhere]
+Өөр газар хариулав
+[Missed Call]
+Аваагүй дуудлага
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Та хэрэглэгчийн өгөгдөл болон програмын тохиргоог устгахыг хүсэж байна уу? Энэ үйлдлийг буцаах боломжгүй.
+[Unavailable]
+Боломжгүй
+[Call Limit]
+Дуудлагын хязгаар
+[Hide Caller ID]
+Дуудлагын дугаарыг нуух
+[External Program]
+Гадаад програм
+[]

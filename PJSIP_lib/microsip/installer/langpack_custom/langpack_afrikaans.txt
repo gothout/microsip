@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Bel
+[End Call]
+Beiendig Oproep
+[Contacts]
+Kontakte
+[Account]
+Rekening
+[Settings]
+Stellings
+[Visit Website]
+Besoek WebWerf
+[Exit]
+Verlaat
+[Browse...]
+Snuffel...
+[Default]
+Verstek
+[Auto Answer]
+outomaties antwoord
+[Disable Local Account]
+Deaktiveer Plaaslike Rekening
+[OK]
+Reg
+[Save]
+Stoor
+[Cancel]
+Kanseleer
+[SIP Server]
+SIP bediener
+[SIP Proxy]
+SIP instaanbediener
+[Domain]
+Domein
+[Password]
+Wagwoord
+[Connecting...]
+Verbinding...
+[Online]
+Aanlyn
+[Local]
+Lokaal
+[Message]
+Boodskap
+[Edit]
+Wysig
+[Delete]
+Verwyder
+[Add]
+voeg by
+[Bad Gateway]
+Verkeerde Gateway
+[Request Timeout]
+Versoek tydsverloop
+[Number]
+Nommer
+[Name]
+Naam
+[Contact]
+Kontak
+[Incoming Call]
+Inkomende Oproep
+[Answer]
+antwoord
+[Decline]
+Afkeur
+[Calling]
+Bel
+[Connecting]
+Verbinding
+[Connected]
+Gekonnekteer
+[Auto]
+outomaties
+[Transport]
+Vervoer
+[Incorrect Password]
+Foutiefe Wagwoord
+[Public Address]
+Publieke Adres
+[Media Encryption]
+Medie Enkripsie
+[Disabled]
+afskakel
+[Optional]
+Optioneel
+[Mandatory]
+Verpligtend
+[STUN Server]
+STUN Bediener
+[Presence Subscription]
+Teenwoordigheidsintekening
+[Ringing]
+Lui
+[Call Ended]
+Oproep geëindig
+[Declined]
+Afgekeur
+[No address found]
+geen address gevind nie
+[Request Terminated]
+Versoek beëindig
+[Away]
+Weg
+[Publish Presence]
+Publiseer teenwoordigheid
+[Session Progress]
+Sessie Vordering
+[Camera]
+Kamera
+[Video Call]
+Video Oproep
+[Answer with Video]
+antwoord met video
+[View Log File]
+beskou log lêer
+[Microphone]
+Mikrofoon
+[Speaker]
+Luidspreker
+[Video Codec]
+video kodek
+[Check for Updates]
+Soek vir opgradeerings middels
+[Daily]
+Daagliks
+[Weekly]
+weekliks
+[Monthly]
+Maandeliks
+[Quarterly]
+Kwartaaliks
+[Never]
+Nooit
+[Update Available]
+New Weergawe beskikbaar
+[Force Codec for Incoming]
+Dwing kodek vir inkomende
+[Invalid Number]
+Ongeldige URI
+[Offline]
+Van Lyn Af
+[Single Call Mode]
+Enkeloproep-modus
+[Local Video]
+Lokaal Video
+[Call Transfer]
+Oproep oorplasing
+[final]
+Finaal
+[Call transfered successfully, disconnecting call]
+Oproep oorplasing suksesvol, oproep afgeskakel
+[Hold]
+Hou
+[Transfer]
+Oordrag
+[Sound Events]
+Klankgebeurtenisse
+[Bitrate]
+bistempo
+[Login]
+Teken aan
+[Enable Log File]
+Aktiveer loglêer
+[Duration]
+Lengte
+[Info]
+Inligting
+[display password]
+Vertoon Wagwoord
+[From]
+Van
+[To]
+Na
+[Ring Device]
+Bel Toestel
+[Service Unavailable]
+Diens onbeskibaar
+[Unable to connect to remote server.]
+Kan nie aan &#39;n afgeleë bediener koppel nie.
+[Busy Here]
+Besig Hier
+[Trying]
+Tik
+[Method Not Allowed]
+Metode Nie Toegelaat
+[Not Found]
+Nie Gevind nie
+[Always on Top]
+Altyd Bo
+[Connect]
+Konnekteer
+[Last Call]
+Laaste Oproep
+[Close All]
+Eindig Alles
+[Copy]
+Kopie
+[Select All]
+Kies Almal
+[Display Name]
+Jou naam
+[Remember Details]
+Onthou inligting
+[PIN]
+SPELD
+[No]
+Nee
+[All Calls]
+alle oproepe
+[SIP Header]
+SIP Opskrif
+[Different User]
+Verskilende Gebruiker
+[Different Domain]
+Verskillende Domein
+[Different User or Domain]
+Verskilende Gebruiker of Domein
+[Different Remote Domain]
+Verskillende Eksterne domein
+[Deny Incoming]
+Ontken Inkomende
+[Allow IP Rewrite]
+laat IP rewrite toe
+[Directory of Users]
+Gids van Gebruikers
+[Call on Remote Hold]
+Oproep op afgeleëde breek
+[Call on Local Hold]
+Oproep op plaaslike breek
+[Call on Hold]
+Oproep op breek
+[Call is Active]
+Oproep is aktief
+[Menu]
+Spyskaart
+[Edit Account]
+Wysig Rekening
+[Add Account...]
+voeg nuwe rekening
+[Remove Account]
+Verwyder Rekenign
+[Make Active]
+Maak Aktief
+[Are you sure you want to remove?]
+Is u seker u wil verwyder?
+[Call Pickup]
+Oproep optel
+[Speaker Level]
+Luidspreker Vlak
+[Microphone Level]
+Mikrofoon Vlak
+[Mute Speaker]
+Demp luidspreeker
+[Mute Microphone]
+Demp mikrofoon
+[Balance]
+balans
+[Custom INI Path]
+Pas hierdie pad aan
+[Contact Us]
+Kontak Ons
+[Please fill out at least the required fields marked with *.]
+Velde gemerk met * is verpligtend
+[Ask your SIP provider how to configure the account correctly.]
+Vra jou SIP verskaffer hoe om die rekening reg op te stel.
+[Time]
+Tyd
+[Phone]
+Foon
+[Ringtone]
+Lui Geluid
+[Username]
+Gebruiker
+[Do you want to update now?]
+Wil u nou opdateur
+[Available Codecs]
+Beskikbaar
+[Enabled Codecs]
+Aktiveer Kodeks
+[Logs]
+Oproepe
+[Random Popup Position]
+Willekeurige pop-up posisie
+[Attended Transfer]
+Bygewoonde Oorplasing
+[Launch URL on incoming call]
+Begin URL tydens inkomende oproep
+[Enable Local Account]
+Aktiveer plaaslike rekening
+[Send Crash Report]
+Stuur probleem verslag
+[Account Name]
+rekening naam
+[Invite to Conference]
+Nooi na konferensie
+[Merge]
+ineensmelt
+[Separate]
+Skei
+[Disconnect]
+Ontkoppel
+[DTMF Method]
+DTMF Metode
+[Voicemail Number]
+Stempos nommer
+[Disable Session Timers]
+Deaktiveer sessietyders
+[Microphone Amplification]
+Mikrofoon Versterker
+[Software Level Adjustment]
+Aanpassing van sagteware vlak
+[Shortcuts]
+Kortpad
+[Enable]
+Aktiveer
+[Label]
+Etiket
+[Type]
+Tipe
+[Bottom Position]
+Onderste posisie
+[You need to restart application for the changes to take effect.]
+Die program moet herbegin word vir veranderinge om in werking te tree
+[Handle Media Buttons]
+Hanteer mediaknoppies
+[Bring to Front on Incoming Call]
+Bring na die voorkant by die inkomende oproep
+[SIP account]
+SIP-rekening
+[SIP password]
+SIP wagwoord
+[Help]
+Hulp
+[Video Bitrate]
+video bistempo
+[Control Button]
+Beheer Knoppie
+[Do Not Disturb]
+Moenie Versteur Nie
+[Source Port]
+Bron poort
+[RTP Ports]
+RTP poorte
+[Unregister the account when the operator is Away]
+Ontdek die rekening as die operateur weg is
+[Ask for the sip USER and SECRET everytime]
+Vra elke keer vir die sluip USER en GEHEIM
+[Import]
+Invoer
+[Server]
+bediener
+[Attendant Transfer]
+Attendant Transfer
+[Blind Transfer]
+Blinde oordrag
+[Redial]
+Herskakel
+[Backspace]
+terugspasieer
+[Clear]
+verwyder
+[Use Space key to enable selected codec]
+gebruik space sleutel om gekieste kodek te aktiveer
+[Use Delele key to disable selected codec]
+gebruik delete sleutel om gekieste kodek te deaktiveer
+[Make Inactive]
+Maak onaktief
+[Conference]
+Konferensie
+[Dialing Prefix]
+oproep voorvoegsel
+[Register Refresh]
+Registreer verfris
+[Keep-Alive]
+Hou-lewendig
+[Ringtone Volume]
+Luitoonvolume
+[Call Recording]
+oproep opname
+[Nameserver]
+naambediener
+[Default List Action]
+standaard lys aksie
+[Edit Local Account]
+Wysig plaaslike rekening
+[Export]
+uitvoer
+[Version]
+weergawe
+[Call Waiting]
+oproep wat wag
+[Ready]
+Gereed
+[Not online]
+Nie aanlyn nie
+[On the phone]
+Op die foon
+[First Name]
+Eerste naam
+[Last Name]
+Van
+[Phone Number]
+Telefoon nommer
+[Mobile Number]
+Selfoon nommer
+[E-mail Address]
+E-pos adres
+[Address]
+adres
+[City]
+Stad
+[State]
+staat
+[Postal Code]
+Poskode
+[Comment]
+kommentaar
+[Extension]
+Uitbreiding
+[Port]
+Port
+[User ID]
+Gebruiker-ID
+[Authentication failed]
+Verifikasie misluk
+[API URL is empty]
+API-URL is leeg
+[API connection failed]
+API-verbinding misluk
+[API request failed. Response code:]
+API-versoek misluk. Antwoordkode:
+[API response is empty]
+API-antwoord is leeg
+[API response parse error]
+API-antwoord ontleed fout
+[API data type is wrong]
+API-datatipe is verkeerd
+[Login failed]
+Aanmelding misluk
+[Request failed]
+Versoek het misluk
+[close window to ignore call]
+sluit venster om oproep te ignoreer
+[Transfer Code]
+Oordragkode
+[Headset Support]
+Ondersteuning vir headset
+[Privacy Policy]
+Privaatheidsbeleid
+[sec]
+sek
+[Call Forwarding]
+Oproep aanstuur
+[Are you sure you want to delete?]
+Is u seker u wil verwyder?
+[Delete contact]
+Vee kontak uit
+[Account or credentials not found.]
+Rekening of iie
+[Please fill out all required fields.]
+Vul asseblief alle vereiste velde in.
+[Change Account]
+Verander rekening
+[Dial Plan]
+Skakelplan
+[Disable Video]
+Deaktiveer video
+[Disable Messaging]
+Deaktiveer boodskappe
+[Headphones]
+Oorfone
+[Are you sure you want to close the application?]
+Is u seker dat u die aansoek wil sluit?
+[Dashboard Access]
+Toegang tot dashboard
+[Break]
+Breek
+[Non-Telephone Work]
+Nie-telefoonwerk
+[On Break]
+On Break
+[Telephone Work]
+Telefoonwerk
+[Register]
+Registreer
+[Unregister]
+Registreer
+[Options]
+Opsies
+[Delay]
+Vertraag
+[Caller Number]
+Oproeper nommer
+[Purchase a Number]
+Koop &#39;n nommer
+[Line Number (4 digits)]
+Reëlnommer (4 syfers)
+[Line Password]
+Lynwagwoord
+[Set Password]
+Stel wagwoord in
+[Reset Password]
+Herstel wagwoord
+[Open]
+Om oop te maak
+[Unable to find default audio device]
+Geen klanktoestel gevind nie
+[Network is unreachable]
+Netwerk is onbereikbaar
+[Allow access to the microphone in your antivirus settings.]
+Gee toegang tot die mikrofoon in u antivirus-instellings.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Stel mikrofoon toestemming op in die Windows-instellings (Windows Instellings =&gt; Privaatheid =&gt; Mikrofoon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Albei luidsprekers en mikrofoon is nodig. Om oproepe te maak, moet u &#39;n toevoer- en uitvoerklankapparaat in u stelsel hê.
+[Canceled]
+Gekanselleer
+[Unknown format]
+Onbekende formaat
+[Softphone is not initialized. Check your settings.]
+Softphone is nie geïnisialiseer nie. Gaan u instellings na.
+[Unable to initialize network sockets.]
+Kan nie netwerkkaste initialiseer nie.
+[Starred]
+Gester
+[Run at System Startup]
+Begin met stelselopstart
+[Run Batch]
+Begin Batch
+[Call URL]
+Bel URL
+[Call All]
+Bel Almal
+[Custom]
+Pasgemaak
+[Take Back]
+Neem Terug
+[Add Contact]
+Voeg kontak by
+[Incorrect dialing or non-existent number]
+Verkeerde skakeling of nie-bestaande nommer
+[Profile]
+Profiel
+[Use Outbound Proxy]
+Gebruik uitgaande proxy
+[End]
+Beiendig Oproep
+[Address Incomplete]
+Adres onvolledig
+[Not acceptable here]
+Nie aanvaarbaar hier nie
+[Direct Transfer]
+Direkte oordrag
+[Idle]
+Ledig
+[Toggle]
+Wissel
+[Enter Password]
+Sleutel wagwoord in
+[Connection refused]
+verbinding geweier
+[Connection timed out]
+Verbinding het uitgetel
+[Cannot get IP address of the called host]
+Kan nie die IP-adres van die geroepe gasheer kry nie
+[Answered Elsewhere]
+Elders beantwoord
+[Missed Call]
+Gemiste oproep
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Wil jy gebruikerdata en programinstellings uitvee? Hierdie handeling kan nie ontdoen word nie.
+[Unavailable]
+Onbeskikbaar
+[Call Limit]
+Oproeplimiet
+[Hide Caller ID]
+Versteek beller-ID
+[External Program]
+Eksterne program
+[]

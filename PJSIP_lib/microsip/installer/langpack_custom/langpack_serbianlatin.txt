@@ -1,0 +1,527 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Poziv
+[End Call]
+Završi razgovor
+[Contacts]
+Kontakti
+[Account]
+Nalog
+[Settings]
+Podešavanja
+[Visit Website]
+Poseti sajt
+[Exit]
+Izlaz
+[Browse...]
+Pretražite...
+[Default]
+Podrazumevano
+[Auto Answer]
+Automatski Odgovori
+[Disable Local Account]
+Isključi lokalni nalog
+[OK]
+OK
+[Save]
+Sačuvaj
+[Cancel]
+Poništi
+[SIP Server]
+SIP server
+[SIP Proxy]
+SIP proksi
+[Domain]
+Domen
+[Password]
+Lozinka
+[Connecting...]
+Povezivanje...
+[Online]
+Na mreži
+[Local]
+Lokal
+[Message]
+Poruka
+[Edit]
+Izmeni
+[Delete]
+Obriši
+[Add]
+Dodaj
+[Bad Gateway]
+Loš Prolaz
+[Request Timeout]
+Zahtev istekao
+[Number]
+Broj
+[Name]
+Ime
+[Contact]
+Kontakt
+[Incoming Call]
+Dolazni poziv
+[Answer]
+Odgovori
+[Decline]
+Odbij
+[Calling]
+Pozivanje
+[Connecting]
+Povezivanje
+[Connected]
+Povezano
+[Auto]
+Automatski
+[Transport]
+Preusmeri
+[Incorrect Password]
+Pogrešna lozinka
+[Public Address]
+Javna adresa
+[Media Encryption]
+Zaštita medija
+[Disabled]
+Isključeno
+[Optional]
+Opciono
+[Mandatory]
+Obavezno
+[STUN Server]
+STUN server
+[Presence Subscription]
+nalog prisustva
+[Ringing]
+Zvono
+[Call Ended]
+Završen Poziv
+[Declined]
+Odbijeno
+[No address found]
+Adresa nije pronadjena
+[Request Terminated]
+Zahtev prekinut
+[Away]
+Otsutan
+[Publish Presence]
+Prikaži prisustvo
+[Session Progress]
+Napredak sesije
+[Camera]
+Kamera
+[Video Call]
+Video poziv
+[Answer with Video]
+Odgovori Sa Videom
+[View Log File]
+Vidi log fajl
+[Microphone]
+Mikrofon
+[Speaker]
+Zvučnik
+[Video Codec]
+Video kodek
+[Check for Updates]
+Provera Unapređenja
+[Daily]
+Dnevno
+[Weekly]
+Nedeljno
+[Monthly]
+Mesečno
+[Quarterly]
+Kvartalno
+[Never]
+Nikad
+[Update Available]
+Dostupno ažuriranje
+[Force Codec for Incoming]
+Prisilni kodek za dolzane
+[Invalid Number]
+Pogrešan URL
+[Offline]
+Van mreže
+[Single Call Mode]
+Mod jednog poziva
+[Local Video]
+Lokalni video
+[Call Transfer]
+Prebacivanje Poziva
+[final]
+Krajnje
+[Call transfered successfully, disconnecting call]
+Uspešno Prebačen Poziv, Prekid Poziva
+[Hold]
+Zadrži
+[Transfer]
+Prebaci
+[Sound Events]
+Zvučna obaveštenja
+[Bitrate]
+Brzina prenosa
+[Login]
+Login
+[Enable Log File]
+Uključi logovanje
+[Duration]
+Trajanje
+[Info]
+Info
+[display password]
+Prikaži lozinku
+[From]
+Od
+[To]
+Za
+[Ring Device]
+Uredjaj za zvonjenje
+[Service Unavailable]
+Servis nedostupan
+[Unable to connect to remote server.]
+Nije moguće povezati se sa udaljenim serverom.
+[Busy Here]
+Zauzeto Ovde
+[Trying]
+Pokušavam
+[Method Not Allowed]
+Nedozvoljeni metod
+[Not Found]
+Nije pronadjeno
+[Always on Top]
+Uvek Na Vrhu
+[Connect]
+Poveži
+[Last Call]
+Poslednji poziv
+[Close All]
+Zatvori Sve
+[Copy]
+Kopiraj
+[Select All]
+Izaberi sve
+[Display Name]
+Vaše ime
+[Remember Details]
+Zapamti detalje
+[PIN]
+[No]
+Ne
+[All Calls]
+Svi Pozivi
+[SIP Header]
+SIP zaglavlje
+[Different User]
+Drugi korisnik
+[Different Domain]
+Drugačiji Domen
+[Different User or Domain]
+Drugi korisnik ili domen
+[Different Remote Domain]
+Drugačiji Udaljeni Domen
+[Deny Incoming]
+Odbij Dolazne
+[Allow IP Rewrite]
+Dozvoli IP Prepisavanje
+[Directory of Users]
+Direktorijum korisnika
+[Call on Remote Hold]
+Poziv Na Udaljenom Čekanju
+[Call on Local Hold]
+Poziv Na Lokalnom Čekanju
+[Call on Hold]
+Poziv Na Čekanju
+[Call is Active]
+Aktivan Poziv
+[Menu]
+Izbor
+[Edit Account]
+Izmeni nalog
+[Add Account...]
+Dodaj Nalog...
+[Remove Account]
+Ukloni Nalog
+[Make Active]
+Aktiviraj
+[Are you sure you want to remove?]
+Da li ste sigurni da želite ukloniti?
+[Call Pickup]
+Preuzimanje poziva
+[Speaker Level]
+Jačina zvučnika
+[Microphone Level]
+Jačina mikrofona
+[Mute Speaker]
+Isključi zvučnik
+[Mute Microphone]
+Isključi mikrofon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Молимо вас да попуните барем поља означена са *.
+[Ask your SIP provider how to configure the account correctly.]
+Pitajte svog Sip provajdera kako da pravilno podesite nalog.
+[Time]
+Vreme
+[Phone]
+Tastatura
+[Ringtone]
+Zvuk zvona
+[Username]
+Korisnik
+[Do you want to update now?]
+Hoćete li da osvežite?
+[Available Codecs]
+Dostupni kodeki
+[Enabled Codecs]
+Uključeno
+[Logs]
+Pozivi
+[Random Popup Position]
+Slučajna popup pozicija
+[Attended Transfer]
+Prisutan transfer
+[Launch URL on incoming call]
+[Enable Local Account]
+Aktiviraj lkalni nalog
+[Send Crash Report]
+Pošalji izveštaj o krahu aplikacije
+[Account Name]
+Naziv naloga
+[Invite to Conference]
+Pozovi na konferenciju
+[Merge]
+Sastavi
+[Separate]
+Razdvoj
+[Disconnect]
+Prekini vezu
+[DTMF Method]
+DTMF metoda
+[Voicemail Number]
+Broj govorne pošte
+[Disable Session Timers]
+Onemogućite tajmere sesije
+[Microphone Amplification]
+Amplifikacija mikrofona
+[Software Level Adjustment]
+Podešavanje nivoa softvera
+[Shortcuts]
+Prečice
+[Enable]
+Omogući
+[Label]
+Etiketa
+[Type]
+Tip
+[Bottom Position]
+Donja pozicija
+[You need to restart application for the changes to take effect.]
+Morate ponovo pokrenuti aplikaciju da bi promene stupile na snagu.
+[Handle Media Buttons]
+Rukovanje medijskim dugmićima
+[Bring to Front on Incoming Call]
+Prikaži ispred ostalh prozora kada dolazi poziv
+[SIP account]
+[SIP password]
+[Help]
+Pomoć
+[Video Bitrate]
+Video bitrate
+[Control Button]
+Kontrolno dugme
+[Do Not Disturb]
+Ne uznemiravaj
+[Source Port]
+Izvorni port
+[RTP Ports]
+RTP portovi
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Uvezi
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Pozovi ponovo
+[Backspace]
+Povratnik
+[Clear]
+Obriši
+[Use Space key to enable selected codec]
+Koristite razmaklicu kako bi uključili izabrani kodek
+[Use Delele key to disable selected codec]
+Koristite 'Delete' taster kako bi isključili izabrani kodek
+[Make Inactive]
+[Conference]
+Konferencija
+[Dialing Prefix]
+Prefiks za biranje
+[Register Refresh]
+Registar osveži
+[Keep-Alive]
+Drži živo
+[Ringtone Volume]
+Jačina zvuka zvona
+[Call Recording]
+Snimanje poziva
+[Nameserver]
+Ime server
+[Default List Action]
+Standardna akcija liste
+[Edit Local Account]
+Uređivanje lokalnog naloga
+[Export]
+Izvezi
+[Version]
+[Call Waiting]
+Poziv na čekanju
+[Ready]
+Spremno
+[Not online]
+Nije na mreži
+[On the phone]
+Na telefonu
+[First Name]
+Ime
+[Last Name]
+Prezime
+[Phone Number]
+Broj telefona
+[Mobile Number]
+Mobilni broj
+[E-mail Address]
+Adresa E-pošte
+[Address]
+Adresa
+[City]
+Grad
+[State]
+Država
+[Postal Code]
+Poštanski broj
+[Comment]
+Komentar
+[Extension]
+[Port]
+[User ID]
+[Authentication failed]
+[API URL is empty]
+[API connection failed]
+[API request failed. Response code:]
+[API response is empty]
+[API response parse error]
+[API data type is wrong]
+[Login failed]
+[Request failed]
+[close window to ignore call]
+затворите прозор да бисте игнорисали позив
+[Transfer Code]
+[Headset Support]
+Подршка за слушалице
+[Privacy Policy]
+[sec]
+sek
+[Call Forwarding]
+Prosledjivanje poziva
+[Are you sure you want to delete?]
+Da li zelite da obrisete?
+[Delete contact]
+Obrisi kontakt
+[Account or credentials not found.]
+Nije pronadjeno
+[Please fill out all required fields.]
+Popunite sve
+[Change Account]
+[Dial Plan]
+Plan pozivanja
+[Disable Video]
+Iskljuci video
+[Disable Messaging]
+Iskljuci dopisivanje
+[Headphones]
+[Are you sure you want to close the application?]
+[Dashboard Access]
+[Break]
+[Non-Telephone Work]
+[On Break]
+[Telephone Work]
+[Register]
+Registruj
+[Unregister]
+Deregistruj
+[Options]
+Opcije
+[Delay]
+Zakasnjenje
+[Caller Number]
+Broj pozivaoca
+[Purchase a Number]
+[Line Number (4 digits)]
+[Line Password]
+[Set Password]
+[Reset Password]
+[Open]
+[Unable to find default audio device]
+Nije moguće pronaći podrazumevani audio uređaj
+[Network is unreachable]
+Mreža nije dostupna
+[Allow access to the microphone in your antivirus settings.]
+Dozvolite pristup mikrofonu u podešavanjima antivirusnog programa.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Popravite dozvolu za mikrofon u podešavanjima operativnog sistema Vindovs (Podešavanja za Vindovs => Privatnost => Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Potrebni su i zvučnici i mikrofon. Da biste obavljali pozive, morate imati ulazni i izlazni zvučni uređaj u vašem sistemu.
+[Canceled]
+Otkazano
+[Unknown format]
+Nepoznati format
+[Softphone is not initialized. Check your settings.]
+Aplikacija nije inicijalizovana. Proverite podešavanja.
+[Unable to initialize network sockets.]
+Nije moguće inicijalizovati mrežne priključake.
+[Starred]
+Oznaceno
+[Run at System Startup]
+Pokrenite pri pokretanju sistema
+[Run Batch]
+Pokreni skriptu
+[Call URL]
+Pozovi URL
+[Call All]
+Pozovi sve
+[Custom]
+Prilagodi
+[Take Back]
+[Add Contact]
+Dodaj
+[Incorrect dialing or non-existent number]
+Neispravno biranje ili nepos
+[Profile]
+[Use Outbound Proxy]
+[End]
+Završi razgovor
+[Address Incomplete]
+Adresa nije potpuna
+[Not acceptable here]
+Ovde nije prihvatljivo
+[Direct Transfer]
+[Idle]
+[Toggle]
+[Enter Password]
+[Connection refused]
+[Connection timed out]
+[Cannot get IP address of the called host]
+[Answered Elsewhere]
+[Missed Call]
+[Do you want to delete user data and program settings? This action cannot be undone.]
+[Unavailable]
+[Call Limit]
+[Hide Caller ID]
+[External Program]
+[]

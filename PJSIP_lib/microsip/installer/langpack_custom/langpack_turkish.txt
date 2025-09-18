@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Ara
+[End Call]
+Çağrıyı bitir
+[Contacts]
+Kişiler
+[Account]
+Hesap
+[Settings]
+Ayarlar
+[Visit Website]
+Web sitesini ziyaret et
+[Exit]
+Çık
+[Browse...]
+Göz at...
+[Default]
+Varsayılan
+[Auto Answer]
+Otomatik Yanıtla
+[Disable Local Account]
+Yerel hesabı etkisizleştir
+[OK]
+Tamam
+[Save]
+Kaydet
+[Cancel]
+İptal
+[SIP Server]
+SIP sunucu
+[SIP Proxy]
+SIP vekil sunucu
+[Domain]
+Etki alanı
+[Password]
+Parola
+[Connecting...]
+Bağlanıyor...
+[Online]
+Çevrimiçi
+[Local]
+Yerel
+[Message]
+İleti
+[Edit]
+Düzenle
+[Delete]
+Sil
+[Add]
+Ekle
+[Bad Gateway]
+Geçersiz Ağ Geçidi
+[Request Timeout]
+İstek zaman aşımı
+[Number]
+Numara
+[Name]
+İsim
+[Contact]
+Kişi
+[Incoming Call]
+Gelen arama
+[Answer]
+Yanıtla
+[Decline]
+Reddet
+[Calling]
+Arıyor
+[Connecting]
+Bağlanıyor
+[Connected]
+Bağlandı
+[Auto]
+Otomatik
+[Transport]
+Nakil
+[Incorrect Password]
+Yanlış parola
+[Public Address]
+Genel adres
+[Media Encryption]
+Ortam şifrelemesi
+[Disabled]
+Etkin değil
+[Optional]
+İsteğe bağlı
+[Mandatory]
+Zorunlu
+[STUN Server]
+STUN Sunucu
+[Presence Subscription]
+Varlık Durumunu Göster
+[Ringing]
+Çalıyor
+[Call Ended]
+Arama sonlandı
+[Declined]
+Reddedildi
+[No address found]
+Adres bulunamadı
+[Request Terminated]
+İsteğe son verildi
+[Away]
+Uzakta
+[Publish Presence]
+Varlığı yayımla
+[Session Progress]
+Oturum süreci
+[Camera]
+Kamera
+[Video Call]
+Görüntülü ara
+[Answer with Video]
+Görüntülü Yanıtla
+[View Log File]
+Kayıt dosyasını görüntüle
+[Microphone]
+Mikrofon
+[Speaker]
+Hoparlör
+[Video Codec]
+Görüntü çözücü
+[Check for Updates]
+Güncelleştirmeleri denetle
+[Daily]
+Günlük
+[Weekly]
+Haftalık
+[Monthly]
+Aylık
+[Quarterly]
+Üç ayda bir
+[Never]
+Asla
+[Update Available]
+Güncelleştirme mevcut
+[Force Codec for Incoming]
+Gelen arama için çözücüyü zorla
+[Invalid Number]
+Geçersiz Numara
+[Offline]
+Çevrimdışı
+[Single Call Mode]
+Tekil arama modu
+[Local Video]
+Yerel görüntü
+[Call Transfer]
+Arama aktarma
+[final]
+son
+[Call transfered successfully, disconnecting call]
+Arama başarıyla aktarıldı, arama kapatılıyor.
+[Hold]
+Beklet
+[Transfer]
+Aktar
+[Sound Events]
+Sesleri çal
+[Bitrate]
+Bit Oranı
+[Login]
+Oturum aç
+[Enable Log File]
+Kayıt dosyasını etkinleştir
+[Duration]
+Süre
+[Info]
+Bilgi
+[display password]
+parolayı göster
+[From]
+Kimden
+[To]
+Kime
+[Ring Device]
+Zil aygıtı
+[Service Unavailable]
+Hizmet mevcut değil
+[Unable to connect to remote server.]
+Uzak sunucuya bağlanılamıyor.
+[Busy Here]
+Meşgul
+[Trying]
+Deniyor
+[Method Not Allowed]
+Kabul edilmeyen yöntem
+[Not Found]
+Bulunamadı
+[Always on Top]
+Her Zaman Üstte
+[Connect]
+Bağlan
+[Last Call]
+Son arama
+[Close All]
+Hepsini kapat
+[Copy]
+Kopyala
+[Select All]
+Hepsini seç
+[Display Name]
+Görünen ad
+[Remember Details]
+Ayrıntıları hatırla
+[PIN]
+TOPLU İĞNE
+[No]
+Hayır
+[All Calls]
+Tüm Aramalar
+[SIP Header]
+SIP Başlığı
+[Different User]
+Farklı kullanıcı
+[Different Domain]
+Farklı etki alanı
+[Different User or Domain]
+Farklı kullanıcı veya etki alanı
+[Different Remote Domain]
+Farklı uzak etki alanı
+[Deny Incoming]
+Gelen aramaları reddet
+[Allow IP Rewrite]
+IP Yeniden Yazmaya İzin Ver
+[Directory of Users]
+Kullanıcılar dizini
+[Call on Remote Hold]
+Arama uzak beklemede
+[Call on Local Hold]
+Arama yerel beklemede
+[Call on Hold]
+Arama beklemede
+[Call is Active]
+Arama etkin
+[Menu]
+Menü
+[Edit Account]
+Hesabı düzenle
+[Add Account...]
+Hesap Ekle...
+[Remove Account]
+Hesabı kaldır
+[Make Active]
+Etkinleştir
+[Are you sure you want to remove?]
+Kaldırmak istediğine emin misiniz?
+[Call Pickup]
+Çağrı topla
+[Speaker Level]
+Hoparlör seviyesi
+[Microphone Level]
+Mikrofon seviyesi
+[Mute Speaker]
+Hoparlörü sustur
+[Mute Microphone]
+Mikrofonu sustur
+[Balance]
+Denge
+[Custom INI Path]
+Özel BU Yol
+[Contact Us]
+Bize Ulaşın
+[Please fill out at least the required fields marked with *.]
+Lütfen * ile işaretli alanları doldurun.
+[Ask your SIP provider how to configure the account correctly.]
+Hesap ayarlarının nasıl doğru şekilde yapılandırılacağını SIP sağlayıcınıza sorun.
+[Time]
+Zaman
+[Phone]
+Tuşlar
+[Ringtone]
+Zil sesi
+[Username]
+Kullanıcı
+[Do you want to update now?]
+Şimdi güncelleştirmek ister misiniz?
+[Available Codecs]
+Kullanılabilir Kodlayıcı/Çözücüler
+[Enabled Codecs]
+Etkin kod çözücüler
+[Logs]
+Aramalar
+[Random Popup Position]
+Konumu değişken cevaplama kutusu
+[Attended Transfer]
+Katılımlı Aktarım
+[Launch URL on incoming call]
+Gelen çağrıda URL&#39;yi başlat
+[Enable Local Account]
+Yerel hesabı etkinleştir
+[Send Crash Report]
+Çökme raporu gönder
+[Account Name]
+Hesap Adı
+[Invite to Conference]
+Konferansa davet et
+[Merge]
+Birleştir
+[Separate]
+Ayır
+[Disconnect]
+Kapat
+[DTMF Method]
+DTMF metodu
+[Voicemail Number]
+Sesli mesaj numarası
+[Disable Session Timers]
+Oturum süre ölçerini etkisizleştir
+[Microphone Amplification]
+Mikrofon seviyesi yükseltme
+[Software Level Adjustment]
+Yazılım seviye ayarlama
+[Shortcuts]
+Kısayollar
+[Enable]
+Etkinleştir
+[Label]
+Etiket
+[Type]
+Türü
+[Bottom Position]
+Alt Konum
+[You need to restart application for the changes to take effect.]
+Değişikliklerin etkili olması için uygulamayı yeniden başlatmanız gerekir.
+[Handle Media Buttons]
+Görüntü ve ses butonları
+[Bring to Front on Incoming Call]
+Gelen aramayı ön tarafa getir
+[SIP account]
+SIP hesabı
+[SIP password]
+SIP şifresi
+[Help]
+Yardım
+[Video Bitrate]
+Video Bit Hızı
+[Control Button]
+Kontrol düğmesi
+[Do Not Disturb]
+Rahatsız Etme
+[Source Port]
+Kaynak Bağlantı Noktası
+[RTP Ports]
+RTP Portları
+[Unregister the account when the operator is Away]
+Operatör Uzaktayken hesabın kaydını silin
+[Ask for the sip USER and SECRET everytime]
+Yudum KULLANICI ve GİZLİ isteyin
+[Import]
+İçeri Aktar
+[Server]
+Sunucu
+[Attendant Transfer]
+Görevli Transferi
+[Blind Transfer]
+Kör Transfer
+[Redial]
+Tekrar ara
+[Backspace]
+Geri tuşu
+[Clear]
+Temizle
+[Use Space key to enable selected codec]
+Seçili codec'i aktifleştirmek için Space tuşunu kullanın
+[Use Delele key to disable selected codec]
+Seçili codec'i etkisizleştirmek için Delete tuşunu kullanın
+[Make Inactive]
+Devre Dışı Bırak
+[Conference]
+Konferans
+[Dialing Prefix]
+Arama Öneki
+[Register Refresh]
+Kayıtçı yenile
+[Keep-Alive]
+Canlı Tut
+[Ringtone Volume]
+Zil Sesi Yüksekliği
+[Call Recording]
+Arama Kaydı
+[Nameserver]
+İsim Sunucusu
+[Default List Action]
+Varsayılan Liste Eylemi
+[Edit Local Account]
+Yerel Hesabı Düzenle
+[Export]
+Dışa aktar
+[Version]
+versiyon
+[Call Waiting]
+Arama beklemede
+[Ready]
+Hazır
+[Not online]
+Çevrimiçi değil
+[On the phone]
+Telefonda
+[First Name]
+İlk adı
+[Last Name]
+Soyadı
+[Phone Number]
+Telefon numarası
+[Mobile Number]
+Cep numarası
+[E-mail Address]
+e-Posta adresi
+[Address]
+Adres
+[City]
+Şehir
+[State]
+İlçe
+[Postal Code]
+Posta Kodu
+[Comment]
+Açıklama
+[Extension]
+Uzantı
+[Port]
+Liman
+[User ID]
+Kullanıcı kimliği
+[Authentication failed]
+Kimlik doğrulama başarısız oldu
+[API URL is empty]
+API URL&#39;si boş
+[API connection failed]
+API bağlantısı başarısız oldu
+[API request failed. Response code:]
+API isteği başarısız oldu. Cevap kodu:
+[API response is empty]
+API yanıtı boş
+[API response parse error]
+API yanıtı ayrıştırma hatası
+[API data type is wrong]
+API veri türü yanlış
+[Login failed]
+Giriş başarısız
+[Request failed]
+İstek başarısız oldu
+[close window to ignore call]
+çağrıyı yok saymak için pencereyi kapat
+[Transfer Code]
+Kontrollü Transfer
+[Headset Support]
+Kulaklık Desteği
+[Privacy Policy]
+Gizlilik Politikası
+[sec]
+saniye
+[Call Forwarding]
+Çağrı yönlendirme
+[Are you sure you want to delete?]
+Silmek istediğine emin misin?
+[Delete contact]
+Kişi sil
+[Account or credentials not found.]
+Hesap veya kimlik bilgisi bulunamadı
+[Please fill out all required fields.]
+Lütfen tüm gerekli alanları doldurunuz.
+[Change Account]
+Hesabı Değiştir
+[Dial Plan]
+Arama Planı
+[Disable Video]
+Videoyu Devre Dışı Bırak
+[Disable Messaging]
+Mesajlaşmayı Devre Dışı Bırak
+[Headphones]
+Kulaklıklar
+[Are you sure you want to close the application?]
+Uygulamayı kapatmak istediğinizden emin misiniz?
+[Dashboard Access]
+Kontrol Paneli Erişimi
+[Break]
+Break
+[Non-Telephone Work]
+Telefonsuz Çalışma
+[On Break]
+Molada
+[Telephone Work]
+Telefonla Çalışma
+[Register]
+Kayıt ol
+[Unregister]
+Kaydı iptal et
+[Options]
+Seçenekler
+[Delay]
+Gecikme
+[Caller Number]
+Arayanın Numarası
+[Purchase a Number]
+Bir Numara Satın Alın
+[Line Number (4 digits)]
+Satır Numarası (4 hane)
+[Line Password]
+Hat Şifresi
+[Set Password]
+Şifreyi belirle
+[Reset Password]
+Şifreyi yenile
+[Open]
+Açmak
+[Unable to find default audio device]
+Ses cihazı bulunamadı
+[Network is unreachable]
+Ağa erişilemiyor
+[Allow access to the microphone in your antivirus settings.]
+Virüsten koruma ayarlarınızda mikrofona erişime izin ver.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Windows ayarlarında mikrofon iznini düzeltin (Windows Ayarları => Gizlilik => Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Hem hoparlör hem de mikrofon gereklidir. Arama yapabilmek için sisteminizde giriş ve çıkış ses cihazı bulunmalıdır.
+[Canceled]
+İptal edildi
+[Unknown format]
+Bilinmeyen biçim
+[Softphone is not initialized. Check your settings.]
+Yazılım telefonu başlatılmamış. Ayarlarınızı kontrol edin.
+[Unable to initialize network sockets.]
+Ağ yuvaları başlatılamıyor.
+[Starred]
+Yıldızlı
+[Run at System Startup]
+Sistem Başlangıcında Çalıştır
+[Run Batch]
+Toplu Çalıştır
+[Call URL]
+Çağrı URL'si
+[Call All]
+Tümünü Ara
+[Custom]
+Gelenek
+[Take Back]
+Geri al
+[Add Contact]
+Kişi ekle
+[Incorrect dialing or non-existent number]
+Yanlış arama veya var olmayan numara
+[Profile]
+Profil
+[Use Outbound Proxy]
+Giden Proxy Kullan
+[End]
+Çağrıyı bitir
+[Address Incomplete]
+Adres Eksik
+[Not acceptable here]
+Burada kabul edilemez
+[Direct Transfer]
+Doğrudan Transfer
+[Idle]
+Boşta
+[Toggle]
+Değiştir
+[Enter Password]
+Parolanı Gir
+[Connection refused]
+bağlantı reddedildi
+[Connection timed out]
+Bağlantı zaman aşımı
+[Cannot get IP address of the called host]
+Aranan ana bilgisayarın IP adresi alınamıyor
+[Answered Elsewhere]
+Başka Yerde Yanıtlandı
+[Missed Call]
+Cevapsız çağrı
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Kullanıcı verilerini ve program ayarlarını silmek istiyor musunuz? Bu eylem geri alınamaz.
+[Unavailable]
+Kullanım dışı
+[Call Limit]
+Arama Limiti
+[Hide Caller ID]
+Arayanın Kimliğini Gizle
+[External Program]
+Harici Program
+[]

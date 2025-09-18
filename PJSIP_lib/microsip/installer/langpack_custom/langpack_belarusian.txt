@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Выклік
+[End Call]
+Завяршыць выклік
+[Contacts]
+Кантакты
+[Account]
+Уліковы запіс
+[Settings]
+Налады
+[Visit Website]
+Наведаць сайт
+[Exit]
+Выйсці
+[Browse...]
+Агляд...
+[Default]
+Па змаўчанні
+[Auto Answer]
+Адказваць адразу
+[Disable Local Account]
+Адключыць лакальны рахунак
+[OK]
+Добра
+[Save]
+Захаваць
+[Cancel]
+Адмена
+[SIP Server]
+SIP-сервер
+[SIP Proxy]
+SIP-проксі
+[Domain]
+Дамен
+[Password]
+Пароль
+[Connecting...]
+Злучэнне...
+[Online]
+У сеціве
+[Local]
+Лакальны
+[Message]
+Паведамленне
+[Edit]
+Змяніць
+[Delete]
+Выдаліць
+[Add]
+Дадаць
+[Bad Gateway]
+Сервер не знойдзены
+[Request Timeout]
+Таймаўт запыту
+[Number]
+Нумар
+[Name]
+Імя
+[Contact]
+Кантакт
+[Incoming Call]
+Уваходны выклік
+[Answer]
+Адказаць
+[Decline]
+Адхіліць
+[Calling]
+Набор нумара
+[Connecting]
+Злучэнне
+[Connected]
+Злучаны
+[Auto]
+Аўтаматычна
+[Transport]
+Транспарт
+[Incorrect Password]
+Няправільны пароль
+[Public Address]
+Публічны адрас
+[Media Encryption]
+Шыфраванне медыя
+[Disabled]
+Адключана
+[Optional]
+Неабавязкова
+[Mandatory]
+Абавязкова
+[STUN Server]
+STUN-сервер
+[Presence Subscription]
+Падпіска на прысутнасць
+[Ringing]
+Ідзе выклік
+[Call Ended]
+Выклік завершаны
+[Declined]
+Выклік адхілены
+[No address found]
+Адрас не знойдзены
+[Request Terminated]
+Выклік скасаваны
+[Away]
+Няма на месцы
+[Publish Presence]
+Публікаваць прысутнасць
+[Session Progress]
+Ход выканання сесіі
+[Camera]
+Камера
+[Video Call]
+Відэавыклік
+[Answer with Video]
+Адказаць з відэа
+[View Log File]
+Прагляд журнала
+[Microphone]
+Мікрафон
+[Speaker]
+Дынамікі
+[Video Codec]
+Кодэк відэа
+[Check for Updates]
+Правяраць абнаўленні
+[Daily]
+Штодзень
+[Weekly]
+Штотыдзень
+[Monthly]
+Штомесяц
+[Quarterly]
+Раз на квартал
+[Never]
+Ніколі
+[Update Available]
+Даступна абнаўленне
+[Force Codec for Incoming]
+Задаць кодэк для ўваходных выклікаў
+[Invalid Number]
+Няправільны нумар
+[Offline]
+Па-за сецівам
+[Single Call Mode]
+Рэжым адзіночнага выкліку
+[Local Video]
+Лакальнае відэа
+[Call Transfer]
+Перанакіраванне выкліку
+[final]
+апошні
+[Call transfered successfully, disconnecting call]
+Выклік паспяхова перанакіраваны. Завяршэнне злучэння...
+[Hold]
+Утрыманне
+[Transfer]
+Перанакіраванне
+[Sound Events]
+Агучваць падзеі
+[Bitrate]
+Бітрэйт
+[Login]
+Лагін
+[Enable Log File]
+Рабіць запіс у журнал
+[Duration]
+Працягласць
+[Info]
+Звесткі
+[display password]
+паказаць пароль
+[From]
+Ад
+[To]
+Каму
+[Ring Device]
+Прылада для выкліку
+[Service Unavailable]
+Сэрвіс недаступны
+[Unable to connect to remote server.]
+Немагчыма падключыцца да аддаленага сервера.
+[Busy Here]
+Занята
+[Trying]
+Спроба
+[Method Not Allowed]
+Забаронена
+[Not Found]
+Не знойдзена
+[Always on Top]
+Заўсёды зверху
+[Connect]
+Падлучыць
+[Last Call]
+Апошні выклік
+[Close All]
+Закрыць усе
+[Copy]
+Скапіяваць
+[Select All]
+Выбраць усе
+[Display Name]
+Адлюстроўваць імя
+[Remember Details]
+Памятаць дэталі
+[PIN]
+PIN-код
+[No]
+Не
+[All Calls]
+Усе выклікі
+[SIP Header]
+SIP-загаловак
+[Different User]
+Іншы карыстальнік
+[Different Domain]
+Іншы дамен
+[Different User or Domain]
+Іншы карыстальнік або дамен
+[Different Remote Domain]
+Іншы аддалены дамен
+[Deny Incoming]
+Забараніць уваходныя
+[Allow IP Rewrite]
+Дазволіць перазапіс IP-адрасоў
+[Directory of Users]
+Каталог карыстальнікаў
+[Call on Remote Hold]
+Выклік на аддаленым утрыманні
+[Call on Local Hold]
+Выклік на лакальным утрыманні
+[Call on Hold]
+Выклік на ўтрыманні
+[Call is Active]
+Выклік актыўны
+[Menu]
+Меню
+[Edit Account]
+Змяніць уліковы запіс
+[Add Account...]
+Дадаць уліковы запіс...
+[Remove Account]
+Выдаліць уліковы запіс
+[Make Active]
+Зрабіць актыўным
+[Are you sure you want to remove?]
+Вы сапраўды жадаеце выдаліць?
+[Call Pickup]
+Перахоп выкліку
+[Speaker Level]
+Узровень дынамікаў
+[Microphone Level]
+Узровень мікрафона
+[Mute Speaker]
+Адключыць дынамікі
+[Mute Microphone]
+Адключыць мікрафон
+[Balance]
+Баланс
+[Custom INI Path]
+Прыстасаваны гэты шлях
+[Contact Us]
+Звяжыцеся з намі
+[Please fill out at least the required fields marked with *.]
+Прынамсі, неабходна запоўніць палі пазначаныя *.
+[Ask your SIP provider how to configure the account correctly.]
+Спытайце вашага SIP-правайдара, як правільна наладзіць уліковы запіс.
+[Time]
+Час
+[Phone]
+Набор нумара
+[Ringtone]
+Гук выкліку
+[Username]
+Карыстальнік
+[Do you want to update now?]
+Абнавіць праграму зараз?
+[Available Codecs]
+Даступныя кодэкі
+[Enabled Codecs]
+Актыўныя кодэкі
+[Logs]
+Журнал выклікаў
+[Random Popup Position]
+Адвольная пазіцыя успл. акна
+[Attended Transfer]
+Перавод выкліку з суправаджэннем
+[Launch URL on incoming call]
+Запусціце URL пры ўваходным званку
+[Enable Local Account]
+Укл. лакальны ўліковы запіс
+[Send Crash Report]
+Адпр. журнал з памылкамі
+[Account Name]
+Назва ўліковага запісу
+[Invite to Conference]
+Запрасіць у канферэнцыю
+[Merge]
+Аб'яднаць
+[Separate]
+Раздзяліць
+[Disconnect]
+Адучыць
+[DTMF Method]
+DTMF-метад
+[Voicemail Number]
+Галасавая пошта
+[Disable Session Timers]
+Адключыць таймеры сесіі
+[Microphone Amplification]
+Узмацненне мікрафона
+[Software Level Adjustment]
+Праграмнае рэгуляванне ўзроўню
+[Shortcuts]
+Хуткія клавішы
+[Enable]
+Уключыць
+[Label]
+Пазнака
+[Type]
+Тып
+[Bottom Position]
+Размяшчэнне ўнізе
+[You need to restart application for the changes to take effect.]
+Перазапусціце праграму, каб убачыць зробленыя змяненні.
+[Handle Media Buttons]
+Кіраванне мультымедыйнымі клавішамі
+[Bring to Front on Incoming Call]
+Усплыв. акно пры ўваходным выкліку
+[SIP account]
+Уліковы запіс SIP
+[SIP password]
+SIP-пароль
+[Help]
+Даведка
+[Video Bitrate]
+Бітрэйт відэа
+[Control Button]
+Клавішы кіравання
+[Do Not Disturb]
+Не турбаваць
+[Source Port]
+Зыходны порт
+[RTP Ports]
+RTP-порты
+[Unregister the account when the operator is Away]
+Адмяніце рэгістрацыю ўліковага запісу, калі аператар у гасцях
+[Ask for the sip USER and SECRET everytime]
+Запытайцеся пра паглынальнік USER і SECRET кожны раз
+[Import]
+Імпарт
+[Server]
+Сервер
+[Attendant Transfer]
+Перакладчык
+[Blind Transfer]
+Перадача сляпых
+[Redial]
+Паўтарыць выклік
+[Backspace]
+Вярнуць назад
+[Clear]
+Ачысціць
+[Use Space key to enable selected codec]
+Выкарыстоўвайце прабел, каб уключыць кодэк
+[Use Delele key to disable selected codec]
+Выкарыстоўвайце клавішу Delete, каб выключыць кодэк
+[Make Inactive]
+Зрабіце неактыўным
+[Conference]
+Канферэнцыя
+[Dialing Prefix]
+Прэфікс дазвону
+[Register Refresh]
+Абнаўленне рэгістрацыі
+[Keep-Alive]
+Keep-Alive
+[Ringtone Volume]
+Гучнасць званка
+[Call Recording]
+Запіс званка
+[Nameserver]
+Назва сервера
+[Default List Action]
+Дзеянне спіса
+[Edit Local Account]
+Змяніць уліковы запіс
+[Export]
+Экспарт
+[Version]
+Версія
+[Call Waiting]
+Выклік у чаканні
+[Ready]
+Гатовы
+[Not online]
+Не ў Інтэрнэце
+[On the phone]
+Па тэлефоне
+[First Name]
+Імя
+[Last Name]
+Прозвішча
+[Phone Number]
+Нумар тэлефона
+[Mobile Number]
+Нумар мабільнага
+[E-mail Address]
+Адрас электроннай пошты
+[Address]
+Адрас
+[City]
+Горад
+[State]
+Дзярж
+[Postal Code]
+паштовы індэкс
+[Comment]
+Каментаваць
+[Extension]
+Падаўжэнне
+[Port]
+Порт
+[User ID]
+Ідэнтыфікатар карыстальніка
+[Authentication failed]
+Аўтэнтыфікацыя не атрымалася
+[API URL is empty]
+URL API пусты
+[API connection failed]
+Падключэнне API не атрымалася
+[API request failed. Response code:]
+Памылка запыту API. Код адказу:
+[API response is empty]
+Адказ API пусты
+[API response parse error]
+Памылка разбору адказу API
+[API data type is wrong]
+Тып дадзеных API няправільны
+[Login failed]
+Уваход не атрымаўся
+[Request failed]
+Не атрымаўся запыт
+[close window to ignore call]
+зачыніць акно, каб праігнараваць званок
+[Transfer Code]
+Код перадачы
+[Headset Support]
+Падтрымка гарнітуры
+[Privacy Policy]
+Палітыка прыватнасці
+[sec]
+сек
+[Call Forwarding]
+Пераадрасацыя выклікаў
+[Are you sure you want to delete?]
+Вы ўпэўнены, што хочаце выдаліць?
+[Delete contact]
+Выдаліць кантакт
+[Account or credentials not found.]
+Уліковы запіс або ўліковыя дадзеныя не знойдзены
+[Please fill out all required fields.]
+Калі ласка, запоўніце ўсе абавязковыя палі.
+[Change Account]
+Змяніць рахунак
+[Dial Plan]
+План набору
+[Disable Video]
+Адключыць відэа
+[Disable Messaging]
+Адключыць абмен паведамленнямі
+[Headphones]
+Навушнікі
+[Are you sure you want to close the application?]
+Сапраўды закрыць прыкладанне?
+[Dashboard Access]
+Доступ да прыборнай панэлі
+[Break]
+Перапынак
+[Non-Telephone Work]
+Нетэлефонная праца
+[On Break]
+На перапынку
+[Telephone Work]
+Тэлефонная праца
+[Register]
+Рэгістрацыя
+[Unregister]
+Адмяніць рэгістрацыю
+[Options]
+Варыянты
+[Delay]
+Затрымка
+[Caller Number]
+Нумар абанента
+[Purchase a Number]
+Набудзьце нумар
+[Line Number (4 digits)]
+Нумар радка (4 лічбы)
+[Line Password]
+Пароль лініі
+[Set Password]
+Усталюйце пароль
+[Reset Password]
+Скід пароля
+[Open]
+Адкрыць
+[Unable to find default audio device]
+Аўдыяпрылада не знойдзена
+[Network is unreachable]
+Сетка недаступная
+[Allow access to the microphone in your antivirus settings.]
+Дазвольце доступ да мікрафона ў наладах антывіруса.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Выпраўце дазвол мікрафона ў наладах Windows (Налады Windows =&gt; Прыватнасць =&gt; Мікрафон).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Неабходныя дынамікі і мікрафон. Для званкоў у вашай сістэме павінна быць прылада ўводу і вываду гуку.
+[Canceled]
+Адменена
+[Unknown format]
+Невядомы фармат
+[Softphone is not initialized. Check your settings.]
+Софтфон не ініцыялізаваны. Праверце свае налады.
+[Unable to initialize network sockets.]
+Немагчыма ініцыялізаваць сеткавыя сокеты.
+[Starred]
+З зоркамі
+[Run at System Startup]
+Запусціць пры запуску сістэмы
+[Run Batch]
+Запусціце пакет
+[Call URL]
+URL выкліку
+[Call All]
+Патэлефануйце ўсім
+[Custom]
+Карыстальніцкія
+[Take Back]
+Забраць
+[Add Contact]
+Дадаць кантакт
+[Incorrect dialing or non-existent number]
+Няправільны набор або неіснуючы нумар
+[Profile]
+Профіль
+[Use Outbound Proxy]
+Выкарыстоўвайце Outbound Proxy
+[End]
+Завяршыць выклік
+[Address Incomplete]
+Адрас няпоўны
+[Not acceptable here]
+Тут непрымальна
+[Direct Transfer]
+Прамая перадача
+[Idle]
+Бяздзейны
+[Toggle]
+Пераключыць
+[Enter Password]
+Увядзіце пароль
+[Connection refused]
+Падключэнне адмоўлена
+[Connection timed out]
+Тайм-аўт падлучэння
+[Cannot get IP address of the called host]
+Немагчыма атрымаць IP-адрас выкліканага хоста
+[Answered Elsewhere]
+Адказ у іншым месцы
+[Missed Call]
+Прапушчаны выклік
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Вы хочаце выдаліць карыстальніцкія дадзеныя і налады праграмы? Гэта дзеянне нельга адмяніць.
+[Unavailable]
+Недаступны
+[Call Limit]
+Ліміт выклікаў
+[Hide Caller ID]
+Схаваць ідэнтыфікатар абанента
+[External Program]
+Знешняя праграма
+[]

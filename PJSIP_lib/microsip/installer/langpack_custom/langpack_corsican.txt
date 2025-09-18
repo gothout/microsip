@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Chjamate
+[End Call]
+Chjama finita
+[Contacts]
+Cuntatti
+[Account]
+U so contu
+[Settings]
+Settings
+[Visit Website]
+Visita u situ Web
+[Exit]
+Escia
+[Browse...]
+Cerca ...
+[Default]
+Impagamentu
+[Auto Answer]
+Risposta Auto
+[Disable Local Account]
+Disattivà cuntu locale
+[OK]
+Vale bè
+[Save]
+Salvà
+[Cancel]
+Annulla
+[SIP Server]
+Servitore SIP
+[SIP Proxy]
+Proxy SIP
+[Domain]
+Duminiu
+[Password]
+Codice
+[Connecting...]
+Cunnessione ...
+[Online]
+In linea
+[Local]
+Locali
+[Message]
+Missaghju
+[Edit]
+Edità
+[Delete]
+Elimina
+[Add]
+Aggiungi
+[Bad Gateway]
+Porta Bad
+[Request Timeout]
+Richiesta Timeout
+[Number]
+Numero
+[Name]
+Nome
+[Contact]
+Cuntattate
+[Incoming Call]
+Chjamata in entrata
+[Answer]
+Rispondi
+[Decline]
+Declinà
+[Calling]
+Chjamate
+[Connecting]
+Cunnessione
+[Connected]
+Cunnessu
+[Auto]
+Auto
+[Transport]
+U trasportu
+[Incorrect Password]
+Password sbagliata
+[Public Address]
+Indirizzu Publicu
+[Media Encryption]
+Criptazione di i media
+[Disabled]
+Disabilitata
+[Optional]
+Opzionale
+[Mandatory]
+Ubligatoriu
+[STUN Server]
+Servitore STUN
+[Presence Subscription]
+Abbunamentu prisenza
+[Ringing]
+Sona
+[Call Ended]
+Chjamata Finita
+[Declined]
+Declinatu
+[No address found]
+Nisun indirizzu truvatu
+[Request Terminated]
+Richiesta Terminata
+[Away]
+Luntanu
+[Publish Presence]
+Publicà a Presenza
+[Session Progress]
+Progressione Sessione
+[Camera]
+Camera
+[Video Call]
+Chjama Video
+[Answer with Video]
+Risposta cù Video
+[View Log File]
+Vede Log File
+[Microphone]
+Microfonu
+[Speaker]
+Speaker
+[Video Codec]
+Video Codec
+[Check for Updates]
+Verificate l&#39;aghjurnamenti
+[Daily]
+Ogni ghjornu
+[Weekly]
+Settimanale
+[Monthly]
+Mensuale
+[Quarterly]
+Trimestrale
+[Never]
+Mai
+[Update Available]
+Aghjurnà dispunibule
+[Force Codec for Incoming]
+Forza Codec per entrata
+[Invalid Number]
+URI micca validu
+[Offline]
+Offline
+[Single Call Mode]
+Modu di chjamata sola
+[Local Video]
+Video Locali
+[Call Transfer]
+Chjama Trasferitu
+[final]
+finale
+[Call transfered successfully, disconnecting call]
+Chjama trasferita cun successu, disconnecting call
+[Hold]
+Mantene
+[Transfer]
+Trasferitu
+[Sound Events]
+Avvenimenti sonori
+[Bitrate]
+Bitrate
+[Login]
+Accedi
+[Enable Log File]
+Habilita u File Log
+[Duration]
+Durata
+[Info]
+Infurmazioni
+[display password]
+visualizà password
+[From]
+Da
+[To]
+To
+[Ring Device]
+Ring Device
+[Service Unavailable]
+Servizio Indisponibile
+[Unable to connect to remote server.]
+Impussibule di cunnette vi à u servitore luntanu.
+[Busy Here]
+Ocupatu Quì
+[Trying]
+Pruvucendu
+[Method Not Allowed]
+Metudu micca Permessu
+[Not Found]
+Micca trovu
+[Always on Top]
+Sempre in cima
+[Connect]
+Cunnette
+[Last Call]
+Last Call
+[Close All]
+Chiudi Tuttu
+[Copy]
+Copia
+[Select All]
+Selezziunate Tuttu
+[Display Name]
+Nomu Display
+[Remember Details]
+Ricurdativi dittagli
+[PIN]
+PIN
+[No]
+Innò
+[All Calls]
+Tutte e Chjachje
+[SIP Header]
+Intestazione SIP
+[Different User]
+Utilizatore Differente
+[Different Domain]
+Diferente duminiu
+[Different User or Domain]
+Usuariu o Dominiu Differente
+[Different Remote Domain]
+Duminiu Remote Different
+[Deny Incoming]
+Nigà entrata
+[Allow IP Rewrite]
+Permettite Rewrite IP
+[Directory of Users]
+Directory di l&#39;utilizatori
+[Call on Remote Hold]
+Chjamate Remote Hold
+[Call on Local Hold]
+Chjamate nantu à Local Hold
+[Call on Hold]
+Chjamate in Hold
+[Call is Active]
+Chjamata hè Attiva
+[Menu]
+Menu
+[Edit Account]
+Edita u cuntu
+[Add Account...]
+Aghjunghjite cuntu ...
+[Remove Account]
+Elimina u cuntu
+[Make Active]
+Fate Attivu
+[Are you sure you want to remove?]
+Hè sicura chì vulete sguassà?
+[Call Pickup]
+Chjamate a Pickup
+[Speaker Level]
+Livellu Parlante
+[Microphone Level]
+Livellu microfonu
+[Mute Speaker]
+Mute Speaker
+[Mute Microphone]
+Microfonu Mutu
+[Balance]
+Equilibrio
+[Custom INI Path]
+Persunalizà QUESTA Pista
+[Contact Us]
+Cuntatta ci
+[Please fill out at least the required fields marked with *.]
+Riempie almenu i campi obligatori marcati cun *.
+[Ask your SIP provider how to configure the account correctly.]
+Pregunte à u vostru SIP provider cumu configurà u cuntu currettamente.
+[Time]
+U tempu
+[Phone]
+U telefunu
+[Ringtone]
+Ringtone
+[Username]
+Usuariu
+[Do you want to update now?]
+Vulete aghjurnà avà?
+[Available Codecs]
+Codecs dispunibuli
+[Enabled Codecs]
+Codecs attivati
+[Logs]
+Ghjurnali
+[Random Popup Position]
+Posizione Popup Casuale
+[Attended Transfer]
+Trasferitu Attenditu
+[Launch URL on incoming call]
+Lanciate l&#39;URL nantu à una chjama entrata
+[Enable Local Account]
+Habilita u Contu Locale
+[Send Crash Report]
+Mandate u Rapportu di Crash
+[Account Name]
+Nome di contu
+[Invite to Conference]
+Invita à Conferenza
+[Merge]
+G
+[Separate]
+Separati
+[Disconnect]
+Disconnect
+[DTMF Method]
+Metudu DTMF
+[Voicemail Number]
+Numero di Voicemail
+[Disable Session Timers]
+Disattivà Timers Session
+[Microphone Amplification]
+Amplificazione di microfonu
+[Software Level Adjustment]
+Ajustazione di u Livellu di Software
+[Shortcuts]
+Scorciateie
+[Enable]
+Activa
+[Label]
+Etichetta
+[Type]
+Tipu
+[Bottom Position]
+Posizione in fondu
+[You need to restart application for the changes to take effect.]
+Hè necessariu riavvia l&#39;applicazione per chì i cambiamenti facenu effettu.
+[Handle Media Buttons]
+Handle Buttons Media
+[Bring to Front on Incoming Call]
+Purtate à u front in u Call in arrivu
+[SIP account]
+Contu SIP
+[SIP password]
+Password SIP
+[Help]
+Aiutu
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Pulsante di cuntrollu
+[Do Not Disturb]
+Ùn disturbà micca
+[Source Port]
+Portu Source
+[RTP Ports]
+Porti RTP
+[Unregister the account when the operator is Away]
+Unregistrate u cuntu quandu l&#39;operatore hè Away
+[Ask for the sip USER and SECRET everytime]
+Dumandate u SUCCUSATU UTENTE e SECRETO ogni volta
+[Import]
+Importa
+[Server]
+Servitore
+[Attendant Transfer]
+Trasferitu Attendante
+[Blind Transfer]
+Trasferimentu cecu
+[Redial]
+Redial
+[Backspace]
+Ritornu
+[Clear]
+Chjaru
+[Use Space key to enable selected codec]
+Aduprate a chjave Spaziu per attivà u codec selezziunatu
+[Use Delele key to disable selected codec]
+Utilizà a chjave Delele per disabilità u codec sceltu
+[Make Inactive]
+Fate Inattivu
+[Conference]
+Conferenza
+[Dialing Prefix]
+Prefissu di Dialing
+[Register Refresh]
+Registru Aggiornamentu
+[Keep-Alive]
+Mantene-Alive
+[Ringtone Volume]
+Volume Voltu
+[Call Recording]
+Chjama Registrazione
+[Nameserver]
+Servitore di nomi
+[Default List Action]
+Azione di Lista Predefinita
+[Edit Local Account]
+Edita u Contu Locale
+[Export]
+Esporta
+[Version]
+Versione
+[Call Waiting]
+Chjamate aspittendu
+[Ready]
+Prestu
+[Not online]
+Micca in ligna
+[On the phone]
+In telefonu
+[First Name]
+Nome
+[Last Name]
+Casata
+[Phone Number]
+Numeru di telefonu
+[Mobile Number]
+Nùmeru Mobile
+[E-mail Address]
+Indirizzu mail
+[Address]
+Indirizzu
+[City]
+Cità
+[State]
+Statu
+[Postal Code]
+Codice pustale
+[Comment]
+Cumentate
+[Extension]
+Estensione
+[Port]
+Portu
+[User ID]
+ID d&#39;Usuariu
+[Authentication failed]
+L&#39;autenticazione hà fiascatu
+[API URL is empty]
+L&#39;URL API hè viotu
+[API connection failed]
+A connessione API ha fallito
+[API request failed. Response code:]
+A richiesta API fallò. Codice di risposta:
+[API response is empty]
+A risposta di l&#39;API hè viota
+[API response parse error]
+Errore di analisi di risposta API
+[API data type is wrong]
+U tippu di dati API hè sbagliatu
+[Login failed]
+U logu hà fallutu
+[Request failed]
+A dumanda hà fallutu
+[close window to ignore call]
+chjude a finestra per ignurà a chjamata
+[Transfer Code]
+Codice di Trasferimentu
+[Headset Support]
+Supportu cuffie
+[Privacy Policy]
+Pulitica di Privacidad
+[sec]
+sec
+[Call Forwarding]
+Trasmissione di Chjami
+[Are you sure you want to delete?]
+Site sicuru di vulè sguassà?
+[Delete contact]
+Sguassà u cuntattu
+[Account or credentials not found.]
+Contu o credenziale micca truvatu
+[Please fill out all required fields.]
+Per piacè riempite tutti i campi richiesti.
+[Change Account]
+Cambia Account
+[Dial Plan]
+Pianu Dial
+[Disable Video]
+Disattivà Video
+[Disable Messaging]
+Disattivà a Messageria
+[Headphones]
+Cuffie
+[Are you sure you want to close the application?]
+Site sicuru di vulè chjode l&#39;applicazione?
+[Dashboard Access]
+Accessu à u Dashboard
+[Break]
+Break!
+[Non-Telephone Work]
+Travagliu Non Telefunicu
+[On Break]
+On Break
+[Telephone Work]
+U travagliu Telefunicu
+[Register]
+Iscrizzione
+[Unregister]
+Annullà a registrazione
+[Options]
+Opzioni
+[Delay]
+Ritardu
+[Caller Number]
+Numeru di Caller
+[Purchase a Number]
+Cumprate un Numaru
+[Line Number (4 digits)]
+Numaru di Linea (4 cifre)
+[Line Password]
+Password di linea
+[Set Password]
+Set Password
+[Reset Password]
+Reset Password
+[Open]
+Da apre
+[Unable to find default audio device]
+Nisun dispositivu audio truvatu
+[Network is unreachable]
+A rete ùn hè micca ghjunghje
+[Allow access to the microphone in your antivirus settings.]
+Permettite l&#39;accessu à u micrufonu in i vostri paràmetri antivirus.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Fighjate l&#39;autorizazione di u micru in i paràmetri di Windows (Windows Settings =&gt; Privacy =&gt; Microphone).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Altoparlanti è microfunu sò richiesti. Per fà chjamate duvete avè un dispositivu di sonu di input è output in u vostru sistema.
+[Canceled]
+Annullatu
+[Unknown format]
+Formatu scunnisciutu
+[Softphone is not initialized. Check your settings.]
+Softphone ùn hè micca inizializatu. Verificate e vostre impostazioni.
+[Unable to initialize network sockets.]
+Impussibule di inizializà i sockets di rete.
+[Starred]
+Stellati
+[Run at System Startup]
+Curriri à Startup System
+[Run Batch]
+Run Batch
+[Call URL]
+Chjamate l&#39;URL
+[Call All]
+Chjamate tutti
+[Custom]
+Custom
+[Take Back]
+Ripiglià
+[Add Contact]
+Aghjunghjite u cuntattu
+[Incorrect dialing or non-existent number]
+Dialing incorrettu o numeru inesistente
+[Profile]
+Prufilu
+[Use Outbound Proxy]
+Utilizà u Proxy Outbound
+[End]
+Chjama finita
+[Address Incomplete]
+Indirizzu incomplete
+[Not acceptable here]
+Ùn hè micca accettatu quì
+[Direct Transfer]
+Trasferimentu direttu
+[Idle]
+Idle
+[Toggle]
+Toggle
+[Enter Password]
+Entre Password
+[Connection refused]
+Cunnessione rifiutata
+[Connection timed out]
+A cunnessione hè scaduta
+[Cannot get IP address of the called host]
+Ùn pò micca uttene l&#39;indirizzu IP di l&#39;ospite chjamatu
+[Answered Elsewhere]
+Risposta in Altrò
+[Missed Call]
+Chjama mancata
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Vulete sguassà i dati di l&#39;utilizatori è i paràmetri di u prugramma? Questa azzione ùn pò esse annullata.
+[Unavailable]
+Indisponibile
+[Call Limit]
+Call Limit
+[Hide Caller ID]
+Oculta l&#39;ID di u Caller
+[External Program]
+Programma Esternu
+[]

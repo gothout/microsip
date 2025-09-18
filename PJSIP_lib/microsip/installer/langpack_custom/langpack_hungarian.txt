@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Hívás
+[End Call]
+Befejezés
+[Contacts]
+Névjegyek
+[Account]
+Fiók
+[Settings]
+Beállítások
+[Visit Website]
+Honlap
+[Exit]
+Kilépés
+[Browse...]
+Tallózás...
+[Default]
+Alaphelyzet
+[Auto Answer]
+Automatikus válasz
+[Disable Local Account]
+Helyi fiók kikapcsolása
+[OK]
+Rendben
+[Save]
+Mentés
+[Cancel]
+Mégse
+[SIP Server]
+SIP szerver
+[SIP Proxy]
+SIP proxy
+[Domain]
+Domain
+[Password]
+Jelszó
+[Connecting...]
+Kapcsolódás...
+[Online]
+Online
+[Local]
+Helyi
+[Message]
+Üzenet
+[Edit]
+Szerkesztés
+[Delete]
+Törlés
+[Add]
+Hozzáadás
+[Bad Gateway]
+Hibás átjáró
+[Request Timeout]
+Kérés időtúllépése
+[Number]
+Telefonszám
+[Name]
+Név
+[Contact]
+Névjegy
+[Incoming Call]
+Bejövő hívás
+[Answer]
+Válasz
+[Decline]
+Elutasít
+[Calling]
+Hívás
+[Connecting]
+Kapcsolódás
+[Connected]
+Kapcsolódva
+[Auto]
+Automatikus
+[Transport]
+Átvitel
+[Incorrect Password]
+Hibás jelszó
+[Public Address]
+Nyilvános cím
+[Media Encryption]
+Média titkosítás
+[Disabled]
+Kikapcsolva
+[Optional]
+Opcionális
+[Mandatory]
+Kötelező
+[STUN Server]
+STUN szerver
+[Presence Subscription]
+Elérhetőség jelzése
+[Ringing]
+Csengés
+[Call Ended]
+Hívás vége
+[Declined]
+Elutasítva
+[No address found]
+Cím nem található
+[Request Terminated]
+Kérés lezárva
+[Away]
+Vendég
+[Publish Presence]
+Jelenlét közzététel
+[Session Progress]
+Haladás
+[Camera]
+Kamera
+[Video Call]
+Video hívás
+[Answer with Video]
+Válasz videoval
+[View Log File]
+Naplófájl nézés
+[Microphone]
+Mikrofon
+[Speaker]
+Hangszóró
+[Video Codec]
+Video kodek
+[Check for Updates]
+Frissítések ellenőrzése
+[Daily]
+Naponta
+[Weekly]
+Hetente
+[Monthly]
+Havonta
+[Quarterly]
+Negyedévenként
+[Never]
+Soha
+[Update Available]
+Frissítés érhető el
+[Force Codec for Incoming]
+Kodek kényszerítése a bejövő hívásokra
+[Invalid Number]
+Érvénytelen URI
+[Offline]
+Kapcsolat nélkül
+[Single Call Mode]
+Egy hívás mód
+[Local Video]
+Helyi video
+[Call Transfer]
+Hívás átadása
+[final]
+Utolsó
+[Call transfered successfully, disconnecting call]
+Hívás megtörtént, hívás bontása
+[Hold]
+Tartás
+[Transfer]
+Átvitel
+[Sound Events]
+Hang események
+[Bitrate]
+Bitráta
+[Login]
+Bejelentkezés
+[Enable Log File]
+Naplózás engedélyezés
+[Duration]
+Időtartam
+[Info]
+Információ
+[display password]
+Jelszó megjelenítése
+[From]
+Küldő
+[To]
+Címzett
+[Ring Device]
+Csengetés
+[Service Unavailable]
+Szolgáltatás nem elérhető
+[Unable to connect to remote server.]
+Nem sikerült csatlakozni a távoli szerverhez.
+[Busy Here]
+Foglalt
+[Trying]
+Próbálkozás
+[Method Not Allowed]
+Nem engedélyezett metódus
+[Not Found]
+Nem található
+[Always on Top]
+Mindig felül
+[Connect]
+Kapcsolódás
+[Last Call]
+Utolsó hívás
+[Close All]
+Mindent bezár
+[Copy]
+Másolás
+[Select All]
+Mindent kijelöl
+[Display Name]
+Az Ön neve
+[Remember Details]
+Adatok megjegyzése
+[PIN]
+PIN
+[No]
+Nem
+[All Calls]
+Összes hívás
+[SIP Header]
+SIP fejléc
+[Different User]
+Más felhasználó
+[Different Domain]
+Másik domain
+[Different User or Domain]
+Más felhasználó vagy domain
+[Different Remote Domain]
+Másik távoli domain
+[Deny Incoming]
+Bejövő tiltása
+[Allow IP Rewrite]
+IP átírányítás engedélyezése
+[Directory of Users]
+Felhasználók listája
+[Call on Remote Hold]
+Hívás távoli tartásban
+[Call on Local Hold]
+Hívás tartásban helyileg
+[Call on Hold]
+Hívás tartásban
+[Call is Active]
+Hívás aktív
+[Menu]
+Menü
+[Edit Account]
+Fiók szerkesztése
+[Add Account...]
+Fiók hozzáadása...
+[Remove Account]
+Fiók eltávolítása
+[Make Active]
+Legyen aktív
+[Are you sure you want to remove?]
+Biztos, hogy el akarja távolítani?
+[Call Pickup]
+Hívás fogadása
+[Speaker Level]
+Hangszóró hangerő
+[Microphone Level]
+Mikrofon szint
+[Mute Speaker]
+Hangszóró némítása
+[Mute Microphone]
+Mikrofon némítása
+[Balance]
+Egyensúly
+[Custom INI Path]
+Egyéni EZ ÚT
+[Contact Us]
+Lépjen kapcsolatba velünk
+[Please fill out at least the required fields marked with *.]
+Kérjük, töltse ki legalább a kötelező, *-gal jelölt mezőket.
+[Ask your SIP provider how to configure the account correctly.]
+Kérdezze meg a SIP-szolgáltatót, hogyan kell beállítani a fiókot helyesen.
+[Time]
+Idő
+[Phone]
+Tárcsázó
+[Ringtone]
+Csengőhang
+[Username]
+Felhasználónév
+[Do you want to update now?]
+Szeretné frissíteni a programot?
+[Available Codecs]
+Elérhető
+[Enabled Codecs]
+Engedélyezve
+[Logs]
+Hívások
+[Random Popup Position]
+Véletlenszerű pozíció
+[Attended Transfer]
+Hívásátkapcsolás
+[Launch URL on incoming call]
+Indítsa el az URL-t a bejövő híváshoz
+[Enable Local Account]
+Helyi fiók engedélyezése
+[Send Crash Report]
+Összeomlási jelentés küldése
+[Account Name]
+Fióknév
+[Invite to Conference]
+Meghívás konferenciába
+[Merge]
+Összevon
+[Separate]
+Szétválaszt
+[Disconnect]
+Szétkapcsolás
+[DTMF Method]
+DTMF metódus
+[Voicemail Number]
+Hangposta száma
+[Disable Session Timers]
+Session időzítők kikapcsolása
+[Microphone Amplification]
+Mikrofon erősítés
+[Software Level Adjustment]
+Szoftveres szint beállítás
+[Shortcuts]
+Parancsikonok
+[Enable]
+Engedélyezés
+[Label]
+Címke
+[Type]
+Típus
+[Bottom Position]
+Megjelenítés alul
+[You need to restart application for the changes to take effect.]
+Újra kell indítania az alkalmazást a változtatások életbeléptetéséhez.
+[Handle Media Buttons]
+Média gombok kezelése
+[Bring to Front on Incoming Call]
+Bejövő hívásnál ablak előrehozása
+[SIP account]
+SIP fiók
+[SIP password]
+SIP jelszó
+[Help]
+Segítség
+[Video Bitrate]
+Videó Bitráta
+[Control Button]
+Vezérlőgomb
+[Do Not Disturb]
+Ne Zavarjanak
+[Source Port]
+Forrás port
+[RTP Ports]
+RTP portok
+[Unregister the account when the operator is Away]
+Törölje a fiók regisztrációját, ha az operátor távol van
+[Ask for the sip USER and SECRET everytime]
+Kérjen mindennap korty USER-t és SECRET-t
+[Import]
+Import
+[Server]
+szerver
+[Attendant Transfer]
+Kísérő transzfer
+[Blind Transfer]
+Blind Transfer
+[Redial]
+Újrahívás
+[Backspace]
+Visszatörlés
+[Clear]
+Törlés
+[Use Space key to enable selected codec]
+Space-el a kiválasztott codec engedélyezve
+[Use Delele key to disable selected codec]
+A kijelölt codec letiltása Delete-el
+[Make Inactive]
+Legyen inaktív
+[Conference]
+Konferencia
+[Dialing Prefix]
+Előhívó
+[Register Refresh]
+Register frissítés
+[Keep-Alive]
+Keep-Alive
+[Ringtone Volume]
+Csengőhang erősség
+[Call Recording]
+Hívás rögzítés
+[Nameserver]
+Névszerver
+[Default List Action]
+Alapértelmezett lista tevékenység
+[Edit Local Account]
+Helyi fiók szerkesztése
+[Export]
+Export
+[Version]
+Változat
+[Call Waiting]
+Hívás várakoztatás
+[Ready]
+Kész
+[Not online]
+Nem online
+[On the phone]
+A telefonon
+[First Name]
+Keresztnév
+[Last Name]
+Vezetéknév
+[Phone Number]
+Telefonszám
+[Mobile Number]
+Mobil szám
+[E-mail Address]
+Email cím
+[Address]
+Cím
+[City]
+Város
+[State]
+Állam
+[Postal Code]
+Irányítószám
+[Comment]
+Megjegyzés
+[Extension]
+Kiterjesztés
+[Port]
+Kikötő
+[User ID]
+Felhasználói azonosító
+[Authentication failed]
+Hitelesítés sikertelen
+[API URL is empty]
+Az API URL-címe üres
+[API connection failed]
+API kapcsolat sikertelen
+[API request failed. Response code:]
+API kérés sikertelen. Válaszkód:
+[API response is empty]
+Az API-válasz üres
+[API response parse error]
+API-válasz elemzési hiba
+[API data type is wrong]
+Az API adattípus hibás
+[Login failed]
+Bejelentkezés sikertelen
+[Request failed]
+Kérés sikertelen
+[close window to ignore call]
+bezárja az ablakot a hívás figyelmen kívül hagyásához
+[Transfer Code]
+Átutalási kód
+[Headset Support]
+Fejhallgató támogatás
+[Privacy Policy]
+Adatvédelmi irányelvek
+[sec]
+mp
+[Call Forwarding]
+Hívásátirányítás
+[Are you sure you want to delete?]
+Biztos, hogy törölni akarod?
+[Delete contact]
+Névjegy törlése
+[Account or credentials not found.]
+Fiók vagy hitelesítő adat nem található
+[Please fill out all required fields.]
+Kérjük, töltse ki az összes kötelező mezőt.
+[Change Account]
+Fiók módosítása
+[Dial Plan]
+Tárcsázási terv
+[Disable Video]
+Videó letiltása
+[Disable Messaging]
+Tiltsa le az üzenetküldést
+[Headphones]
+Fejhallgató
+[Are you sure you want to close the application?]
+Biztosan bezárja az alkalmazást?
+[Dashboard Access]
+Irányítópult-hozzáférés
+[Break]
+Szünet
+[Non-Telephone Work]
+Nem telefonos munka
+[On Break]
+Szüneten
+[Telephone Work]
+Telefonos munka
+[Register]
+Regisztráció
+[Unregister]
+Regisztráció törlése
+[Options]
+Lehetőségek
+[Delay]
+Késleltetés
+[Caller Number]
+Hívószám
+[Purchase a Number]
+Vásároljon egy számot
+[Line Number (4 digits)]
+Vonalszám (4 számjegy)
+[Line Password]
+Vonaljelszó
+[Set Password]
+Állítsd be a jelszót
+[Reset Password]
+Jelszó visszaállítása
+[Open]
+Kinyitni
+[Unable to find default audio device]
+Nem található audioeszköz
+[Network is unreachable]
+A hálózat elérhetetlen
+[Allow access to the microphone in your antivirus settings.]
+Engedélyezze a mikrofonhoz való hozzáférést a víruskereső beállításaiban.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Javítsa ki a mikrofon engedélyét a Windows beállításaiban (Windows beállítások =&gt; Adatvédelem =&gt; Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Hangszórók és mikrofon egyaránt szükségesek. Hívás kezdeményezéséhez a rendszerben be- és kimeneti hangeszköznek kell lennie.
+[Canceled]
+Törölve
+[Unknown format]
+Ismeretlen formátum
+[Softphone is not initialized. Check your settings.]
+A softphone nincs inicializálva. Ellenőrizze a beállításokat.
+[Unable to initialize network sockets.]
+Nem lehet inicializálni a hálózati aljzatokat.
+[Starred]
+Csillagos
+[Run at System Startup]
+Futtassa a rendszer indításakor
+[Run Batch]
+Futtassa a Batch-et
+[Call URL]
+URL hívása
+[Call All]
+Hívja az összeset
+[Custom]
+Egyedi
+[Take Back]
+Visszavesz
+[Add Contact]
+Kapcsolat hozzáadása
+[Incorrect dialing or non-existent number]
+Helytelen tárcsázás vagy nem létező szám
+[Profile]
+Profil
+[Use Outbound Proxy]
+Kimenő proxy használata
+[End]
+Befejezés
+[Address Incomplete]
+A cím hiányos
+[Not acceptable here]
+Itt nem fogadható el
+[Direct Transfer]
+Közvetlen átvitel
+[Idle]
+Tétlen
+[Toggle]
+Váltás
+[Enter Password]
+Írd be a jelszót
+[Connection refused]
+kapcsolódás elutasítva
+[Connection timed out]
+Kapcsolat időtúllépés
+[Cannot get IP address of the called host]
+Nem lehet lekérni a hívott gazdagép IP-címét
+[Answered Elsewhere]
+Máshol válaszolt
+[Missed Call]
+Nem fogadott hívás
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Törölni szeretné a felhasználói adatokat és a programbeállításokat? Ez a művelet nem visszavonható.
+[Unavailable]
+Nem érhető el
+[Call Limit]
+Híváskorlát
+[Hide Caller ID]
+Hívóazonosító elrejtése
+[External Program]
+Külső program
+[]

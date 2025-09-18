@@ -1,0 +1,1 @@
+"%ProgramFiles(x86)%\Windows Kits\8.1\bin\x86\signtool" sign /v /f %1 /t http://timestamp.sectigo.com /p %2 %3

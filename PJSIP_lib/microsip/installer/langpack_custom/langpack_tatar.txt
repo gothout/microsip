@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Шалтыратыгыз
+[End Call]
+Соңгы шалтырату
+[Contacts]
+Контактлар
+[Account]
+Аккаунт
+[Settings]
+Көйләүләр
+[Visit Website]
+Вебсайтка керегез
+[Exit]
+Чыгу
+[Browse...]
+Браузер ...
+[Default]
+Килешү
+[Auto Answer]
+Авто җавап
+[Disable Local Account]
+Localирле счетны сүндерегез
+[OK]
+Ярар
+[Save]
+Саклагыз
+[Cancel]
+Баш тарту
+[SIP Server]
+SIP сервер
+[SIP Proxy]
+SIP прокси
+[Domain]
+Домен
+[Password]
+Серсүз
+[Connecting...]
+Тоташу ...
+[Online]
+Онлайн
+[Local]
+Localирле
+[Message]
+Хәбәр
+[Edit]
+Редакцияләү
+[Delete]
+Бетерү
+[Add]
+Кушарга
+[Bad Gateway]
+Начар шлюз
+[Request Timeout]
+Вакытны сорау
+[Number]
+Сан
+[Name]
+Исем
+[Contact]
+Контакт
+[Incoming Call]
+Килүче шалтырату
+[Answer]
+.Авап
+[Decline]
+Баш тарту
+[Calling]
+Шалтырату
+[Connecting]
+Тоташу
+[Connected]
+Бәйләнгән
+[Auto]
+Авто
+[Transport]
+Транспорт
+[Incorrect Password]
+Ялгыш серсүз
+[Public Address]
+Халык адресы
+[Media Encryption]
+Медиа шифрлау
+[Disabled]
+Инвалид
+[Optional]
+Ихтыярсыз
+[Mandatory]
+Мәҗбүри
+[STUN Server]
+STUN серверы
+[Presence Subscription]
+Подписка
+[Ringing]
+Кыңгырау
+[Call Ended]
+Шалтырату бетте
+[Declined]
+Әр сүзнең
+[No address found]
+Адрес табылмады
+[Request Terminated]
+Сорау туктатылды
+[Away]
+Ерак
+[Publish Presence]
+Презентацияне бастыру
+[Session Progress]
+Сессиянең барышы
+[Camera]
+Камера
+[Video Call]
+Видео шалтырату
+[Answer with Video]
+Видео белән җавап
+[View Log File]
+Бүрәнә файлын карау
+[Microphone]
+Микрофон
+[Speaker]
+Спикер
+[Video Codec]
+Видео Кодек
+[Check for Updates]
+Яңартуларны тикшерегез
+[Daily]
+Көн саен
+[Weekly]
+Атна саен
+[Monthly]
+Ай саен
+[Quarterly]
+Квартал
+[Never]
+Беркайчан да
+[Update Available]
+Яңарту бар
+[Force Codec for Incoming]
+Килү өчен кодексны көчләү
+[Invalid Number]
+Яраксыз сан
+[Offline]
+Оффлайн
+[Single Call Mode]
+Бердәм шалтырату режимы
+[Local Video]
+Localирле видео
+[Call Transfer]
+Шалтыратуны күчерү
+[final]
+финал
+[Call transfered successfully, disconnecting call]
+Шалтыратуны өзеп, шалтыратуны уңышлы күчерделәр
+[Hold]
+Тукта
+[Transfer]
+Күчерү
+[Sound Events]
+Тавыш вакыйгалары
+[Bitrate]
+Битрт
+[Login]
+Керергә
+[Enable Log File]
+Бүрәнә файлын кушу
+[Duration]
+Озынлыгы
+[Info]
+Мәгълүмат
+[display password]
+серсүзне күрсәтү
+[From]
+Кемнән
+[To]
+Toәр сүзнең
+[Ring Device]
+Кыңгырау җайланмасы
+[Service Unavailable]
+Хезмәт мөмкин түгел
+[Unable to connect to remote server.]
+Ерак серверга тоташа алмый.
+[Busy Here]
+Монда мәшгуль
+[Trying]
+Сынап карау
+[Method Not Allowed]
+Метод рөхсәт ителмәгән
+[Not Found]
+Табылмады
+[Always on Top]
+Waysәрвакыт өстендә
+[Connect]
+Бәйләнегез
+[Last Call]
+Соңгы шалтырату
+[Close All]
+Барысын да ябу
+[Copy]
+Күчереп алу
+[Select All]
+Барысын да сайлагыз
+[Display Name]
+Күрсәтелгән исеме
+[Remember Details]
+Детальләрне исегездә тотыгыз
+[PIN]
+PIN
+[No]
+.К
+[All Calls]
+Барлык шалтыратулар
+[SIP Header]
+SIP башламы
+[Different User]
+Төрле кулланучы
+[Different Domain]
+Төрле домен
+[Different User or Domain]
+Төрле кулланучы яки домен
+[Different Remote Domain]
+Төрле ерак домен
+[Deny Incoming]
+Керүне кире кага
+[Allow IP Rewrite]
+Рөхсәт итәргә перезапись IP
+[Directory of Users]
+Кулланучылар белешмәсе
+[Call on Remote Hold]
+Дистанцион тотуга шалтыратыгыз
+[Call on Local Hold]
+Localирле холдингка шалтыратыгыз
+[Call on Hold]
+Туктагыз
+[Call is Active]
+Шалтырату актив
+[Menu]
+Меню
+[Edit Account]
+Хисапны үзгәртү
+[Add Account...]
+Аккаунт кушарга
+[Remove Account]
+Хисапны бетерегез
+[Make Active]
+Актив бул
+[Are you sure you want to remove?]
+Сез бетерергә телисезме?
+[Call Pickup]
+Пикупка шалтыратыгыз
+[Speaker Level]
+Спикер дәрәҗәсе
+[Microphone Level]
+Микрофон дәрәҗәсе
+[Mute Speaker]
+Сөйләүче
+[Mute Microphone]
+Тавышсыз микрофон
+[Balance]
+Баланс
+[Custom INI Path]
+Махсус INI юлы
+[Contact Us]
+Безнең белән элемтәгә чыгу
+[Please fill out at least the required fields marked with *.]
+Зинһар, ким дигәндә * белән билгеләнгән кирәкле кырларны тутырыгыз.
+[Ask your SIP provider how to configure the account correctly.]
+Хисапны дөрес конфигурацияләү өчен SIP провайдерыннан сора.
+[Time]
+Вакыт
+[Phone]
+Телефон
+[Ringtone]
+Кыңгырау тавышы
+[Username]
+Кулланучы исеме
+[Do you want to update now?]
+Хәзер яңартасыгыз киләме?
+[Available Codecs]
+Мөмкин булган кодеклар
+[Enabled Codecs]
+Кодеклар кушылган
+[Logs]
+Бүрәнәләр
+[Random Popup Position]
+Очраклы попу позициясе
+[Attended Transfer]
+Трансферда
+[Launch URL on incoming call]
+Килгән шалтыратуда URL җибәрү
+[Enable Local Account]
+Localирле счетны рөхсәт итегез
+[Send Crash Report]
+Crashәлакәт турында хәбәр җибәр
+[Account Name]
+Аккаунт исеме
+[Invite to Conference]
+Конференциягә чакырыгыз
+[Merge]
+Кушылу
+[Separate]
+Аерым
+[Disconnect]
+Аерыгыз
+[DTMF Method]
+DTMF ысулы
+[Voicemail Number]
+Тавыш номеры
+[Disable Session Timers]
+Сессия таймерларын сүндерегез
+[Microphone Amplification]
+Микрофон көчәйтү
+[Software Level Adjustment]
+Программа дәрәҗәсен көйләү
+[Shortcuts]
+Кыска юллар
+[Enable]
+Эшләтергә
+[Label]
+Ярлык
+[Type]
+Тип
+[Bottom Position]
+Түбән позиция
+[You need to restart application for the changes to take effect.]
+Changesзгәрешләр көченә керү өчен кушымтаны яңадан башларга кирәк.
+[Handle Media Buttons]
+Медиа төймәләрен эшләгез
+[Bring to Front on Incoming Call]
+Килгән шалтыратуда фронтка китерегез
+[SIP account]
+SIP хисап
+[SIP password]
+SIP серсүз
+[Help]
+Ярдәм итегез
+[Video Bitrate]
+Видео Битрат
+[Control Button]
+Контроль төймә
+[Do Not Disturb]
+Комачаулама
+[Source Port]
+Чыганак порты
+[RTP Ports]
+РТП портлары
+[Unregister the account when the operator is Away]
+Оператор ерак булганда счетны теркәлмәгез
+[Ask for the sip USER and SECRET everytime]
+USER һәм Яшерен серне һәрвакыт сора
+[Import]
+Импорт
+[Server]
+Сервер
+[Attendant Transfer]
+Хезмәткәр трансферы
+[Blind Transfer]
+Сукыр күчү
+[Redial]
+Редаль
+[Backspace]
+Арткы урын
+[Clear]
+Чиста
+[Use Space key to enable selected codec]
+Сайланган кодекны эшләтеп җибәрү өчен Space ачкычын кулланыгыз
+[Use Delele key to disable selected codec]
+Сайланган кодекны сүндерү өчен Delele ачкычын кулланыгыз
+[Make Inactive]
+Актив булма
+[Conference]
+Конференция
+[Dialing Prefix]
+Префикска шалтырату
+[Register Refresh]
+Яңартуны теркәү
+[Keep-Alive]
+Саклагыз
+[Ringtone Volume]
+Кыңгырау тавышы
+[Call Recording]
+Шалтырату язуы
+[Nameserver]
+Nameserver
+[Default List Action]
+Килешенгән исемлек эше
+[Edit Local Account]
+Localирле счетны үзгәртү
+[Export]
+Экспорт
+[Version]
+Вариант
+[Call Waiting]
+Шалтыратуны көтү
+[Ready]
+Әзер
+[Not online]
+Онлайн түгел
+[On the phone]
+Телефонда
+[First Name]
+Исем
+[Last Name]
+Фамилия
+[Phone Number]
+Телефон номеры
+[Mobile Number]
+Мобиль телефон номеры
+[E-mail Address]
+Мэйл адресы
+[Address]
+Адрес
+[City]
+Шәһәр
+[State]
+Дәүләт
+[Postal Code]
+Индекс
+[Comment]
+Аңлатма
+[Extension]
+Киңәйтү
+[Port]
+Порт
+[User ID]
+Кулланучы таныклыгы
+[Authentication failed]
+Аутентификация уңышсыз
+[API URL is empty]
+API URL буш
+[API connection failed]
+API тоташуы уңышсыз
+[API request failed. Response code:]
+API соравы уңышсыз калды. Codeавап коды:
+[API response is empty]
+API җавап буш
+[API response parse error]
+API җавап анализы
+[API data type is wrong]
+API мәгълүмат төре дөрес түгел
+[Login failed]
+Керүдә хата
+[Request failed]
+Сорау үтәлмәде
+[close window to ignore call]
+шалтыратуны санга сукмас өчен тәрәзәне ябу
+[Transfer Code]
+Күчерү коды
+[Headset Support]
+Гарнитура ярдәме
+[Privacy Policy]
+Шәхсилек сәясәте
+[sec]
+сек
+[Call Forwarding]
+Алга шалтырату
+[Are you sure you want to delete?]
+Сез бетерергә телисезме?
+[Delete contact]
+Контактны бетерегез
+[Account or credentials not found.]
+Аккаунт яки хисап мәгълүматлар табылмады
+[Please fill out all required fields.]
+Зинһар, барлык кирәкле кырларны тутырыгыз.
+[Change Account]
+Хисапны үзгәртү
+[Dial Plan]
+Диалог планы
+[Disable Video]
+Видеоны сүндерегез
+[Disable Messaging]
+Хәбәрләшүне сүндерегез
+[Headphones]
+Наушниклар
+[Are you sure you want to close the application?]
+Сез кушымтаны ябарга телисезме?
+[Dashboard Access]
+Тактага керү
+[Break]
+Тәнәфес
+[Non-Telephone Work]
+Телефон булмаган эш
+[On Break]
+Тәнәфес вакытында
+[Telephone Work]
+Телефон эше
+[Register]
+Теркәлү
+[Unregister]
+Теркәлү
+[Options]
+Вариантлар
+[Delay]
+Соңга калу
+[Caller Number]
+Шалтыратучы номеры
+[Purchase a Number]
+Номер сатып алу
+[Line Number (4 digits)]
+Сызык саны (4 сан)
+[Line Password]
+Сызык серсүзе
+[Set Password]
+Серсүз куегыз
+[Reset Password]
+Серсүзне яңадан урнаштыру
+[Open]
+Ачык
+[Unable to find default audio device]
+Килешү аудио җайланма таба алмый
+[Network is unreachable]
+Челтәргә ирешеп булмый
+[Allow access to the microphone in your antivirus settings.]
+Антивирус көйләүләрендә микрофонга керергә рөхсәт итегез.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Windows көйләүләрендә микрофон рөхсәтен төзәтегез (Windows көйләүләре =&gt; Хосусыйлык =&gt; Микрофон).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Динамиклар һәм микрофон икесе дә кирәк. Шалтырату өчен сезнең системада кертү һәм чыгару тавыш җайланмасы булырга тиеш.
+[Canceled]
+Беркетелде
+[Unknown format]
+Билгесез формат
+[Softphone is not initialized. Check your settings.]
+Йомшак телефон башланмаган. Сезнең көйләүләрне тикшерегез.
+[Unable to initialize network sockets.]
+Челтәр розеткаларын башлап җибәрә алмый.
+[Starred]
+Йолдызлы
+[Run at System Startup]
+Система стартында йөгерегез
+[Run Batch]
+Пакетны эшләгез
+[Call URL]
+URL шалтыратыгыз
+[Call All]
+Барысына да шалтыратыгыз
+[Custom]
+Гадәт
+[Take Back]
+Кайт
+[Add Contact]
+Контактны өстәгез
+[Incorrect dialing or non-existent number]
+Дөрес булмаган теркәү яки булмаган номер
+[Profile]
+Профиль
+[Use Outbound Proxy]
+Чыгыш прокси кулланыгыз
+[End]
+Соңгы шалтырату
+[Address Incomplete]
+Адрес тулы түгел
+[Not acceptable here]
+Монда кабул ителми
+[Direct Transfer]
+Туры күчү
+[Idle]
+Эшсез
+[Toggle]
+Күчерү
+[Enter Password]
+Серсүз кертегез
+[Connection refused]
+Тоташу кире кагылды
+[Connection timed out]
+Бәйләнү вакыты бетте
+[Cannot get IP address of the called host]
+Чакырылган хостның IP адресын ала алмый
+[Answered Elsewhere]
+Башка җирдә җавап бирделәр
+[Missed Call]
+Сагыну
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Кулланучының мәгълүматларын һәм программа көйләнмәләрен бетерергә телисезме? Бу гамәлне кире кайтарып булмый.
+[Unavailable]
+Мөмкин түгел
+[Call Limit]
+Чакыру лимиты
+[Hide Caller ID]
+Шалтыратучының таныклыгын яшерегез
+[External Program]
+Тышкы программа
+[]

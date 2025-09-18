@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Helista
+[End Call]
+Lõpeta
+[Contacts]
+Kontaktid
+[Account]
+Konto
+[Settings]
+Seaded
+[Visit Website]
+Külasta veebi
+[Exit]
+Välju
+[Browse...]
+Sirvi...
+[Default]
+Taasta algne
+[Auto Answer]
+Automaatne vastamine
+[Disable Local Account]
+Keela kohalik konto
+[OK]
+Sobib
+[Save]
+Salvesta
+[Cancel]
+Loobu
+[SIP Server]
+SIP server
+[SIP Proxy]
+SIP proksi
+[Domain]
+Domeen
+[Password]
+Parool
+[Connecting...]
+Ühendan...
+[Online]
+Saadaval
+[Local]
+Kohalik
+[Message]
+Sõnum
+[Edit]
+Redigeeri
+[Delete]
+Kustuta
+[Add]
+Lisa
+[Bad Gateway]
+Gateway viga
+[Request Timeout]
+Päringu aeg läbi
+[Number]
+Number
+[Name]
+Nimi
+[Contact]
+Kontakt
+[Incoming Call]
+Sisenev kõne
+[Answer]
+Vasta
+[Decline]
+Keeldu
+[Calling]
+Helistan
+[Connecting]
+Ühendan
+[Connected]
+Ühendatud
+[Auto]
+Automaatne
+[Transport]
+Protokolli tüüp
+[Incorrect Password]
+Vale salasõna
+[Public Address]
+Avalik aadress
+[Media Encryption]
+Side turvalisus
+[Disabled]
+Puudub
+[Optional]
+Valikuline
+[Mandatory]
+Kohustuslik
+[STUN Server]
+STUN server
+[Presence Subscription]
+Kohalolu registreering
+[Ringing]
+Helisemine
+[Call Ended]
+Kõne lõpp
+[Declined]
+Keeldutud
+[No address found]
+Aadressi pole leitud
+[Request Terminated]
+Päring lõpetatud
+[Away]
+Eemal
+[Publish Presence]
+Teavita kohalolust
+[Session Progress]
+Seansi edenemine
+[Camera]
+Kaamera
+[Video Call]
+Videokõne
+[Answer with Video]
+Vasta videoga
+[View Log File]
+Vaata logifaili
+[Microphone]
+Mikrofon
+[Speaker]
+Kõlar
+[Video Codec]
+Videokoodek
+[Check for Updates]
+Kontrolli uuendusi
+[Daily]
+Iga päev
+[Weekly]
+Nädalati
+[Monthly]
+Igakuiselt
+[Quarterly]
+Kvartaalselt
+[Never]
+Iialgi
+[Update Available]
+Uuendus on saadaval
+[Force Codec for Incoming]
+Sissetulevale jõusta koodek
+[Invalid Number]
+Kehtetu URI
+[Offline]
+Võrgust väljas
+[Single Call Mode]
+Ainsa kõne moodus
+[Local Video]
+Kohalik video
+[Call Transfer]
+Kõne suunamine
+[final]
+lõplik
+[Call transfered successfully, disconnecting call]
+Kõne on edukalt suunatud, ühendan lahti
+[Hold]
+Ootel
+[Transfer]
+Suunamine
+[Sound Events]
+Heli seigad
+[Bitrate]
+Bitikiirus
+[Login]
+Logi sisse
+[Enable Log File]
+Võimaldada logimine
+[Duration]
+Kestvus
+[Info]
+Info
+[display password]
+näita parooli
+[From]
+Kust
+[To]
+Kuhu
+[Ring Device]
+Helisemise seade
+[Service Unavailable]
+Teenus pole saadaval
+[Unable to connect to remote server.]
+Kaugserveriga ei saa ühendust luua.
+[Busy Here]
+Olen hõivatud
+[Trying]
+Proovimas
+[Method Not Allowed]
+Meetod pole lubatud
+[Not Found]
+Pole leitud
+[Always on Top]
+Alati pealmine
+[Connect]
+Ühenda
+[Last Call]
+Viimane kõne
+[Close All]
+Sulge kõik
+[Copy]
+Kopeeri
+[Select All]
+Vali kõik
+[Display Name]
+Su nimi
+[Remember Details]
+Mäleta detaile
+[PIN]
+PIN-kood
+[No]
+Ei
+[All Calls]
+Kõik kõned
+[SIP Header]
+SIP päis
+[Different User]
+Erinev kasutaja
+[Different Domain]
+Erinev domeen
+[Different User or Domain]
+Erinev kasutaja või domeen
+[Different Remote Domain]
+Erinev kaugdomeen
+[Deny Incoming]
+Keeldu vastuvõtust
+[Allow IP Rewrite]
+Luba IP ülekirjutada
+[Directory of Users]
+Kasutajate nimistu
+[Call on Remote Hold]
+Kõne on kaugootel
+[Call on Local Hold]
+Kõne on kohalikul ootel
+[Call on Hold]
+Kõne on ootel
+[Call is Active]
+Aktiivne kõne
+[Menu]
+Menüü
+[Edit Account]
+Muuda kontot
+[Add Account...]
+Lisa konto...
+[Remove Account]
+Kõrvalda konto
+[Make Active]
+Muuda aktiiveks
+[Are you sure you want to remove?]
+Kas oled kindel, et soovid kõrvaldada?
+[Call Pickup]
+Kõnele vastamine
+[Speaker Level]
+Kõlari tase
+[Microphone Level]
+Mikrofoni tase
+[Mute Speaker]
+Vaigista kõlar
+[Mute Microphone]
+Vaigista mikrofon
+[Balance]
+Tasakaal
+[Custom INI Path]
+Kohandatud see tee
+[Contact Us]
+Võta meiega ühendust
+[Please fill out at least the required fields marked with *.]
+Palun täida vähemalt * märgitud nõutavad väljad
+[Ask your SIP provider how to configure the account correctly.]
+Päri SIP-pakkujalt, kuidas õieti kontot konfigureerida.
+[Time]
+Aeg
+[Phone]
+Numbrilaud
+[Ringtone]
+Helina fail
+[Username]
+Kasutajanimi
+[Do you want to update now?]
+Kas soovid praegu uuendada?
+[Available Codecs]
+Saadaval koodekid
+[Enabled Codecs]
+Võimaldatud
+[Logs]
+Kõned
+[Random Popup Position]
+Vastusekasti suvaline asukoht
+[Attended Transfer]
+Kaasnev edastus
+[Launch URL on incoming call]
+Käivita sissetuleva kõne URL
+[Enable Local Account]
+Ava kohalik konto
+[Send Crash Report]
+Saada veateade
+[Account Name]
+Konto nimi
+[Invite to Conference]
+Kutsu konverentsile
+[Merge]
+Mesti
+[Separate]
+Eralda
+[Disconnect]
+Ühenda lahti
+[DTMF Method]
+DTMF meetod
+[Voicemail Number]
+Häälemaili number
+[Disable Session Timers]
+Keela seansi taimerid
+[Microphone Amplification]
+Mikrofoni võimendus
+[Software Level Adjustment]
+Muudatused tarkvara tasemel
+[Shortcuts]
+Otseteed
+[Enable]
+Võimalda
+[Label]
+Silt
+[Type]
+Tüüp
+[Bottom Position]
+Alumine asukoht
+[You need to restart application for the changes to take effect.]
+Muudatuste jõustamiseks pead sa programmi taaskäivitama.
+[Handle Media Buttons]
+Halda meedia-nuppe
+[Bring to Front on Incoming Call]
+Sissetuleva kõne puhul too ette
+[SIP account]
+SIP-konto
+[SIP password]
+SIP parool
+[Help]
+Abi
+[Video Bitrate]
+Video bitikiirus
+[Control Button]
+Kontrollnupp
+[Do Not Disturb]
+Ära häiri
+[Source Port]
+Algne port
+[RTP Ports]
+RTP portid
+[Unregister the account when the operator is Away]
+Registreeri konto, kui operaator on eemal
+[Ask for the sip USER and SECRET everytime]
+Küsige sip USER ja SECRET alati
+[Import]
+Impordi
+[Server]
+Server
+[Attendant Transfer]
+Osalejate üleandmine
+[Blind Transfer]
+Pimedate ülekandmine
+[Redial]
+Vali uuesti
+[Backspace]
+Tagasi
+[Clear]
+Tühjenda
+[Use Space key to enable selected codec]
+Kasuta Space-klahvi valitud koodeki lubamiseks
+[Use Delele key to disable selected codec]
+Kasuta Delete-klahvi valitud koodeki keelamiseks
+[Make Inactive]
+Muutke passiivseks
+[Conference]
+Konverents
+[Dialing Prefix]
+Numbri prefix
+[Register Refresh]
+Registreeri värskendus
+[Keep-Alive]
+Hoia püsiv
+[Ringtone Volume]
+Helina tugevus
+[Call Recording]
+Kõne lindistamine
+[Nameserver]
+Nimeserver
+[Default List Action]
+Harilike tegevuste nimekiri
+[Edit Local Account]
+Muuda kohalikku kontot
+[Export]
+Ekspordi
+[Version]
+Versioon
+[Call Waiting]
+Ootel kõne
+[Ready]
+Valmis
+[Not online]
+Pole veebis
+[On the phone]
+Telefonil
+[First Name]
+Eesnimi
+[Last Name]
+Perekonnanimi
+[Phone Number]
+Telefoninumber
+[Mobile Number]
+Mobiili number
+[E-mail Address]
+E-posti aadress
+[Address]
+Aadress
+[City]
+Linn
+[State]
+Osariik
+[Postal Code]
+Postiindeks
+[Comment]
+Kommenteeri
+[Extension]
+Pikendus
+[Port]
+Sadam
+[User ID]
+kasutaja ID
+[Authentication failed]
+Tuvastamine ebaõnnestus
+[API URL is empty]
+API URL on tühi
+[API connection failed]
+API-ühenduse loomine ebaõnnestus
+[API request failed. Response code:]
+API taotlus nurjus. Vastuse kood:
+[API response is empty]
+API vastus on tühi
+[API response parse error]
+API vastuse parsimisviga
+[API data type is wrong]
+API andmetüüp on vale
+[Login failed]
+Sisselogimine ebaõnnestus
+[Request failed]
+Taotlus nurjus
+[close window to ignore call]
+kõne ignoreerimiseks sulgege aken
+[Transfer Code]
+Ülekandekood
+[Headset Support]
+Peakomplekti tugi
+[Privacy Policy]
+Privaatsuspoliitika
+[sec]
+s
+[Call Forwarding]
+Kõne suunamine
+[Are you sure you want to delete?]
+Kas soovite kindlasti kustutada?
+[Delete contact]
+Kustuta kontakt
+[Account or credentials not found.]
+Konto või mandaati ei leitud
+[Please fill out all required fields.]
+Palun täitke kõik kohustuslikud väljad.
+[Change Account]
+Muuda kontot
+[Dial Plan]
+Helistamisplaan
+[Disable Video]
+Keela video
+[Disable Messaging]
+Keela sõnumside
+[Headphones]
+Kõrvaklapid
+[Are you sure you want to close the application?]
+Kas olete kindel, et soovite rakenduse sulgeda?
+[Dashboard Access]
+Armatuurlauale juurdepääs
+[Break]
+Break
+[Non-Telephone Work]
+Telefoniväline töö
+[On Break]
+Vaheajal
+[Telephone Work]
+Telefonitöö
+[Register]
+Registreeri
+[Unregister]
+Tühista registreerimine
+[Options]
+Valikud
+[Delay]
+Viivitus
+[Caller Number]
+Helistaja number
+[Purchase a Number]
+Osta number
+[Line Number (4 digits)]
+Rea number (4 numbrit)
+[Line Password]
+Rea parool
+[Set Password]
+Määra parool
+[Reset Password]
+Lähtesta parool
+[Open]
+Avama
+[Unable to find default audio device]
+Heliseadet ei leitud
+[Network is unreachable]
+Võrgustik pole kättesaadav
+[Allow access to the microphone in your antivirus settings.]
+Luba viirusetõrjeseadetes juurdepääs mikrofonile.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Parandage Windowsi sätetes mikrofoni luba (Windowsi seaded =&gt; Privaatsus =&gt; Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Vaja on nii kõlareid kui ka mikrofoni. Helistamiseks peab teie süsteemis olema sisend- ja väljundseade.
+[Canceled]
+Tühistatud
+[Unknown format]
+Tundmatu formaat
+[Softphone is not initialized. Check your settings.]
+Tarkvaratelefoni ei lähtestata. Kontrollige oma seadeid.
+[Unable to initialize network sockets.]
+Võrgupesasid ei saa lähtestada.
+[Starred]
+Tärniga tähistatud
+[Run at System Startup]
+Käivitage süsteemi käivitamisel
+[Run Batch]
+Käivitage Batch
+[Call URL]
+Helista URL
+[Call All]
+Helista kõigile
+[Custom]
+Kohandatud
+[Take Back]
+Tagasi võtma
+[Add Contact]
+Lisa kontakt
+[Incorrect dialing or non-existent number]
+Vale valimine või olematu number
+[Profile]
+Profiil
+[Use Outbound Proxy]
+Kasutage väljaminevat puhverserverit
+[End]
+Lõpeta
+[Address Incomplete]
+Aadress on puudulik
+[Not acceptable here]
+Siin pole vastuvõetav
+[Direct Transfer]
+Otsene ülekanne
+[Idle]
+Tühikäik
+[Toggle]
+Lülita
+[Enter Password]
+Sisestage parool
+[Connection refused]
+Ühendamisest keelduti
+[Connection timed out]
+Ühendus aegunud
+[Cannot get IP address of the called host]
+Helistatava hosti IP-aadressi ei saa hankida
+[Answered Elsewhere]
+Vastatud mujal
+[Missed Call]
+Vastamata kõne
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Kas soovite kustutada kasutajaandmed ja programmi sätted? Seda toimingut ei saa tagasi võtta.
+[Unavailable]
+Pole saadaval
+[Call Limit]
+Kõnepiirang
+[Hide Caller ID]
+Peida helistaja ID
+[External Program]
+Väline programm
+[]

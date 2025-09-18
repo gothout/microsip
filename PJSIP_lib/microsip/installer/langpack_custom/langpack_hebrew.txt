@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+חיוג
+[End Call]
+ניתוק
+[Contacts]
+אנשי קשר
+[Account]
+חשבון
+[Settings]
+הגדרות
+[Visit Website]
+בקר בעמוד הבית
+[Exit]
+יציאה
+[Browse...]
+עיון...
+[Default]
+ברירת מחדל
+[Auto Answer]
+מענה אוטומטי
+[Disable Local Account]
+השבת חשבון מקומי
+[OK]
+אישור
+[Save]
+שמור
+[Cancel]
+בטל
+[SIP Server]
+שרת SIP
+[SIP Proxy]
+פרוקסי SIP
+[Domain]
+תחום (Domain)
+[Password]
+סיסמה
+[Connecting...]
+מתחבר...
+[Online]
+מקוון
+[Local]
+מקומי
+[Message]
+הודעה
+[Edit]
+ערוך
+[Delete]
+מחק
+[Add]
+הוספה
+[Bad Gateway]
+שער לא תקין
+[Request Timeout]
+תם זמן בקשה
+[Number]
+מספר טלפון
+[Name]
+שם
+[Contact]
+איש קשר
+[Incoming Call]
+שיחה נכנסת
+[Answer]
+קבל
+[Decline]
+דחה/י
+[Calling]
+מתקשר
+[Connecting]
+מתחבר
+[Connected]
+מחובר
+[Auto]
+אוטומטי
+[Transport]
+מוביל
+[Incorrect Password]
+סיסמא שגויה
+[Public Address]
+כתובת ציבורית
+[Media Encryption]
+הצפנת מדיה
+[Disabled]
+מושבת
+[Optional]
+רשות
+[Mandatory]
+חובה
+[STUN Server]
+שרת STUN
+[Presence Subscription]
+הצגת מצב נוכחות
+[Ringing]
+מצלצל
+[Call Ended]
+שיחה הסתיימה
+[Declined]
+נדחתה
+[No address found]
+לא נמצאה כתובת
+[Request Terminated]
+בקשה הסתיימה
+[Away]
+לא נמצא
+[Publish Presence]
+פרסום נוכחות
+[Session Progress]
+התקדמות
+[Camera]
+מצלמה
+[Video Call]
+שיחת וידאו
+[Answer with Video]
+מענה עם וידאו
+[View Log File]
+הצג קובץ יומן
+[Microphone]
+מיקרופון
+[Speaker]
+רמקול
+[Video Codec]
+קודק וידאו
+[Check for Updates]
+בדוק עדכונים
+[Daily]
+יומי
+[Weekly]
+שבועי
+[Monthly]
+חודשי
+[Quarterly]
+רִבעוֹן
+[Never]
+אף פעם
+[Update Available]
+קיים עדכון זמין
+[Force Codec for Incoming]
+כפה מקודד עבור שיחות נכנסות
+[Invalid Number]
+מספר שגוי
+[Offline]
+לא מקוון
+[Single Call Mode]
+מצב שיחה בודדת
+[Local Video]
+וידאו מקומי
+[Call Transfer]
+העברת שיחה
+[final]
+סיים
+[Call transfered successfully, disconnecting call]
+השיחה הועברה בהצלחה, מנתק את השיחה.
+[Hold]
+החזק
+[Transfer]
+העבר
+[Sound Events]
+אירועי צליל
+[Bitrate]
+קצב סיביות
+[Login]
+כניסה
+[Enable Log File]
+אפשר קובץ יומן
+[Duration]
+משך שיחה
+[Info]
+פרטים
+[display password]
+הצג סיסמה
+[From]
+מאת
+[To]
+אל
+[Ring Device]
+התקן צליל
+[Service Unavailable]
+שירות לא זמין
+[Unable to connect to remote server.]
+לא ניתן להתחבר לשרת מרוחק.
+[Busy Here]
+אני עסוק/ה
+[Trying]
+מנסה
+[Method Not Allowed]
+השיטה אינה מותרת
+[Not Found]
+לא נמצא
+[Always on Top]
+תמיד עליון
+[Connect]
+חבר
+[Last Call]
+שיחה אחרונה
+[Close All]
+סגור הכל
+[Copy]
+העתק
+[Select All]
+בחר הכל
+[Display Name]
+הצג שם
+[Remember Details]
+זכור פרטים
+[PIN]
+מספר זיהוי אישי
+[No]
+לא
+[All Calls]
+כל השיחות
+[SIP Header]
+תקורת SIP
+[Different User]
+משתמש שונה
+[Different Domain]
+תחום שונה
+[Different User or Domain]
+משתמש או תחום שונה
+[Different Remote Domain]
+תחום מרוחק שונה
+[Deny Incoming]
+דחה שיחות נכנסות
+[Allow IP Rewrite]
+התר שכתוב IP
+[Directory of Users]
+ספריית משתמשים
+[Call on Remote Hold]
+שיחה בהמתנה מרוחקת
+[Call on Local Hold]
+שיחה בהמתנה מקומית
+[Call on Hold]
+שיחה בהמתנה
+[Call is Active]
+שיחה פעילה
+[Menu]
+תפריט
+[Edit Account]
+עריכת חשבון
+[Add Account...]
+הוספת חשבון...
+[Remove Account]
+הסר חשבון
+[Make Active]
+הפוך לפעיל
+[Are you sure you want to remove?]
+האם אתה בטוח כי ברצונך להסיר?
+[Call Pickup]
+מענה לשיחה
+[Speaker Level]
+רמת רמקול
+[Microphone Level]
+רמת עוצמת מיקרופון
+[Mute Speaker]
+השתק רמקול
+[Mute Microphone]
+השתק מיקרופון
+[Balance]
+איזון
+[Custom INI Path]
+נתיב זה מותאם אישית
+[Contact Us]
+צור קשר
+[Please fill out at least the required fields marked with *.]
+מלא לפחות את השדות המסומנים בכוכבית
+[Ask your SIP provider how to configure the account correctly.]
+שאל את מנהל החשבון שלך כיצד להגדיר את החשבון כראוי
+[Time]
+שעה ותאריך
+[Phone]
+לוח חיוג
+[Ringtone]
+צלצול
+[Username]
+שם משתמש
+[Do you want to update now?]
+האם ברצונך לעדכן כעת?
+[Available Codecs]
+קודקים זמינים
+[Enabled Codecs]
+קודקים מאופשרים
+[Logs]
+יומן שיחות
+[Random Popup Position]
+מיקום אקראי של חלון קופץ
+[Attended Transfer]
+העברת שיחה פעילה
+[Launch URL on incoming call]
+הפעל כתובת אתר בשיחה נכנסת
+[Enable Local Account]
+אפשר חשבון מקומי
+[Send Crash Report]
+שלח דו"ח קריסה
+[Account Name]
+שם החשבון
+[Invite to Conference]
+הזמן לשיחת ועידה
+[Merge]
+מיזוג
+[Separate]
+נפרד
+[Disconnect]
+נתק
+[DTMF Method]
+תצורת DTMF
+[Voicemail Number]
+מספר תא קולי
+[Disable Session Timers]
+השבת Session Timers
+[Microphone Amplification]
+הגברת מיקרופון
+[Software Level Adjustment]
+התאמות ברמת התוכנה
+[Shortcuts]
+מקשי קיצור
+[Enable]
+אפשר
+[Label]
+תווית
+[Type]
+סוג
+[Bottom Position]
+מיקום בתחתית
+[You need to restart application for the changes to take effect.]
+נדרשת הפעלה מחדש של תוכנת הטלפון בכדי להחיל את השינויים
+[Handle Media Buttons]
+שליטה באמצעות כפתורי מדיה
+[Bring to Front on Incoming Call]
+הקפץ חלון לחזית בשיחה נכנסת
+[SIP account]
+חשבון SIP
+[SIP password]
+SIP סיסמא
+[Help]
+עזרה / גרסת מוצר
+[Video Bitrate]
+קצב העברת וידאו
+[Control Button]
+כפתור שליטה
+[Do Not Disturb]
+נא לא להפריע
+[Source Port]
+Port מקור
+[RTP Ports]
+טווח RTP
+[Unregister the account when the operator is Away]
+בטל את הרישום של החשבון כאשר המפעיל איננו
+[Ask for the sip USER and SECRET everytime]
+בקש מהלגימה USER ו- SECRET בכל פעם
+[Import]
+ייבוא
+[Server]
+שרת
+[Attendant Transfer]
+העברת דייל
+[Blind Transfer]
+העברה עיוורת
+[Redial]
+חיוג חוזר
+[Backspace]
+חזרה לאחור
+[Clear]
+ניקוי
+[Use Space key to enable selected codec]
+השתמש במקש הרווח בכדי לאפשר את הקודק הנבחר
+[Use Delele key to disable selected codec]
+השתמש בכפתור "Delete" כדי לבטל את המוקדד הנבחר
+[Make Inactive]
+הפוך לא פעיל
+[Conference]
+ועידה
+[Dialing Prefix]
+קידומת חיוג
+[Register Refresh]
+רענן רישום
+[Keep-Alive]
+השאר פעיל
+[Ringtone Volume]
+עוצמת צלצול
+[Call Recording]
+הקלטת שיחה
+[Nameserver]
+שם שרת
+[Default List Action]
+פעולת ברירת מחדל
+[Edit Local Account]
+ערוך חשבון מקומי
+[Export]
+ייצוא
+[Version]
+גרסה
+[Call Waiting]
+שיחה ממתינה
+[Ready]
+מוכן
+[Not online]
+לא מקוון
+[On the phone]
+בשיחה
+[First Name]
+שם פרטי
+[Last Name]
+שם משפחה
+[Phone Number]
+מספר טלפון
+[Mobile Number]
+מספר טלפון נייד
+[E-mail Address]
+כתובת דוא"ל
+[Address]
+כתובת
+[City]
+עיר
+[State]
+מדינה
+[Postal Code]
+מיקוד
+[Comment]
+תגובה
+[Extension]
+סיומת
+[Port]
+נמל
+[User ID]
+תעודת זהות של המשתמש
+[Authentication failed]
+אימות נכשל
+[API URL is empty]
+כתובת ה- API ריקה
+[API connection failed]
+חיבור ה- API נכשל
+[API request failed. Response code:]
+בקשת ה- API נכשלה. קוד תגובה:
+[API response is empty]
+תגובת ה- API ריקה
+[API response parse error]
+שגיאת ניתוח API של תגובה
+[API data type is wrong]
+סוג נתוני ה- API שגוי
+[Login failed]
+ההתחברות נכשלה
+[Request failed]
+בקשה נכשלה
+[close window to ignore call]
+סגור חלון כדי להתעלם משיחה
+[Transfer Code]
+קוד העברה
+[Headset Support]
+תמיכה באוזניות
+[Privacy Policy]
+מדיניות פרטיות
+[sec]
+שניות
+[Call Forwarding]
+העברת שיחה
+[Are you sure you want to delete?]
+האם אתה בטוח כי ברצונך למחוק?
+[Delete contact]
+מחק איש קשר
+[Account or credentials not found.]
+החשבון או האישורים לא נמצאו.
+[Please fill out all required fields.]
+אנא מלא את כל השדות הנדרשים.
+[Change Account]
+שנה חשבון
+[Dial Plan]
+תוכנית חיוג
+[Disable Video]
+השבת וידאו
+[Disable Messaging]
+השבת הודעות
+[Headphones]
+אוזניות
+[Are you sure you want to close the application?]
+האם אתה בטוח שברצונך לסגור את היישום?
+[Dashboard Access]
+גישה למרכז השליטה
+[Break]
+לשבור
+[Non-Telephone Work]
+עבודה שאינה טלפונית
+[On Break]
+בהפסקה
+[Telephone Work]
+עבודה טלפונית
+[Register]
+הירשם
+[Unregister]
+בטל את הרישום
+[Options]
+אפשרויות
+[Delay]
+מצב לא פעיל
+[Caller Number]
+מספר טלפון של המתקשר
+[Purchase a Number]
+רכוש מספר
+[Line Number (4 digits)]
+מספר שורה (4 ספרות)
+[Line Password]
+סיסמת קו
+[Set Password]
+הגדר סיסמא
+[Reset Password]
+לאפס את הסיסמה
+[Open]
+לפתוח
+[Unable to find default audio device]
+לא נמצא התקן שמע
+[Network is unreachable]
+רשת לא נגישה
+[Allow access to the microphone in your antivirus settings.]
+אפשר גישה למיקרופון בהגדרות האנטי-וירוס שלך.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+תקן הרשאת מיקרופון בהגדרות Windows (הגדרות וינדוס => פרטיות => מיקרופון).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+נדרשים רמקולים ומיקרופון. כדי לבצע שיחות, עליך להתקין התקן קול קלט ופלט במערכת שלך.
+[Canceled]
+בוטל
+[Unknown format]
+פורמט לא ידוע
+[Softphone is not initialized. Check your settings.]
+תוכנת הטלפון אינה מאותחל. בדוק את ההגדרות שלך.
+[Unable to initialize network sockets.]
+לא ניתן לאתחל שקעי רשת.
+[Starred]
+כוכב
+[Run at System Startup]
+הפעל בעת אתחול מערכת
+[Run Batch]
+הפעל אצווה
+[Call URL]
+כתובת URL של שיחה
+[Call All]
+התקשר לכולם
+[Custom]
+מותאם אישית
+[Take Back]
+קח בחזרה
+[Add Contact]
+הוסף איש קשר
+[Incorrect dialing or non-existent number]
+חיוג שגוי או מספר לא קיים
+[Profile]
+פּרוֹפִיל
+[Use Outbound Proxy]
+השתמש ב-Proxy יוצא
+[End]
+סיום
+[Address Incomplete]
+כתובת לא שלמה
+[Not acceptable here]
+לא מקובל כאן
+[Direct Transfer]
+העברה ישירה
+[Idle]
+לְהִתְבַּטֵל
+[Toggle]
+לְמַתֵג
+[Enter Password]
+הזן את הסיסמה
+[Connection refused]
+התחברות נדחתה
+[Connection timed out]
+זמן החיבור נגמר
+[Cannot get IP address of the called host]
+לא ניתן לקבל את כתובת ה-IP של המארח שנקרא
+[Answered Elsewhere]
+ענה במקום אחר
+[Missed Call]
+שיחה שלא נענתה
+[Do you want to delete user data and program settings? This action cannot be undone.]
+האם ברצונך למחוק נתוני משתמש והגדרות תוכנית? לא ניתן לבטל פעולה זו.
+[Unavailable]
+אינו זמין
+[Call Limit]
+הגבלת שיחות
+[Hide Caller ID]
+הסתר זיהוי מתקשר
+[External Program]
+תוכנית חיצונית
+[]

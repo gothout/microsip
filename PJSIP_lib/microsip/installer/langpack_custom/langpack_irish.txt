@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Glaoigh
+[End Call]
+Deireadh Glaoigh
+[Contacts]
+Teagmhálacha
+[Account]
+Cuntas
+[Settings]
+Socruithe
+[Visit Website]
+Tabhair cuairt ar an Láithreán Gréasáin
+[Exit]
+An slí amach
+[Browse...]
+Brabhsáil ...
+[Default]
+Réamhshocrú
+[Auto Answer]
+Freagra Auto
+[Disable Local Account]
+Díchumasaigh an Cuntas Áitiúil
+[OK]
+OK
+[Save]
+Sábháil
+[Cancel]
+Cealaigh
+[SIP Server]
+Freastalaí SIP
+[SIP Proxy]
+Seachfhreastalaí SIP
+[Domain]
+Fearann
+[Password]
+Pasfhocal
+[Connecting...]
+Nascadh ...
+[Online]
+Ar Líne
+[Local]
+Áitiúil
+[Message]
+Teachtaireacht
+[Edit]
+Athraigh
+[Delete]
+Scrios
+[Add]
+Cuir leis
+[Bad Gateway]
+Bad Gateway
+[Request Timeout]
+Iarratas ar Amchlár
+[Number]
+Uimhir
+[Name]
+Ainm
+[Contact]
+Teagmháil
+[Incoming Call]
+Glao isteach
+[Answer]
+Freagra
+[Decline]
+Meath
+[Calling]
+Ag glaoch
+[Connecting]
+Nascadh
+[Connected]
+Ceangailte
+[Auto]
+Auto
+[Transport]
+Iompar
+[Incorrect Password]
+Pasfhocal mícheart
+[Public Address]
+Seoladh Poiblí
+[Media Encryption]
+Criptiú Meáin
+[Disabled]
+Faoi mhíchumas
+[Optional]
+Roghnach
+[Mandatory]
+Éigeantach
+[STUN Server]
+STUN Server
+[Presence Subscription]
+Suibscríobh Láithreachta
+[Ringing]
+Ag glaoch
+[Call Ended]
+Glao ar deireadh
+[Declined]
+Diúltaithe
+[No address found]
+Níor aimsíodh aon seoladh
+[Request Terminated]
+Iarratas Críochnaithe
+[Away]
+Away
+[Publish Presence]
+Láithreacht a Fhoilsiú
+[Session Progress]
+Dul chun cinn an tseisiúin
+[Camera]
+Ceamara
+[Video Call]
+Glao Físeáin
+[Answer with Video]
+Freagair le Fís
+[View Log File]
+Féach Comhad Loga
+[Microphone]
+Micreafón
+[Speaker]
+Cainteoir
+[Video Codec]
+Codec Físeáin
+[Check for Updates]
+Seiceáil do nuashrónaithe
+[Daily]
+Laethúil
+[Weekly]
+Seachtainiúil
+[Monthly]
+Míosúil
+[Quarterly]
+Ráithiúil
+[Never]
+Ná
+[Update Available]
+Nuashonrú ar Fáil
+[Force Codec for Incoming]
+Fórsa Cóid maidir le Teacht Isteach
+[Invalid Number]
+URI neamhbhailí
+[Offline]
+Líne
+[Single Call Mode]
+Mód Glao Aonair
+[Local Video]
+Físeán Áitiúil
+[Call Transfer]
+Aistriú Glaonna
+[final]
+deiridh
+[Call transfered successfully, disconnecting call]
+D&#39;aistrigh glao go rathúil, glaoigh an glao
+[Hold]
+Coinnigh
+[Transfer]
+Aistriú
+[Sound Events]
+Imeachtaí Fuaime
+[Bitrate]
+Giotán
+[Login]
+Logáil isteach
+[Enable Log File]
+Cumasaigh Comhad Loga
+[Duration]
+Fad ama
+[Info]
+Eolas
+[display password]
+taispeáin focal faire
+[From]
+Ón
+[To]
+Chun
+[Ring Device]
+Gléas Fáinne
+[Service Unavailable]
+Seirbhís nach bhfuil ar fáil
+[Unable to connect to remote server.]
+Ní féidir ceangal le cianfhreastalaí.
+[Busy Here]
+Busy Anseo
+[Trying]
+Ag iarraidh
+[Method Not Allowed]
+Modh nach bhfuil ceadaithe
+[Not Found]
+Gan Aimsiú
+[Always on Top]
+I gcónaí ar barr
+[Connect]
+Ceangal
+[Last Call]
+Last Call
+[Close All]
+Close All
+[Copy]
+Cóip
+[Select All]
+Roghnú go léir
+[Display Name]
+Ainm taispeána
+[Remember Details]
+Cuimhnigh ar na sonraí
+[PIN]
+PIN
+[No]
+Níl
+[All Calls]
+Gach Glao
+[SIP Header]
+Ceanntásc SIP
+[Different User]
+Úsáideoir Éagsúil
+[Different Domain]
+Fearann Éagsúil
+[Different User or Domain]
+Úsáideoir nó Fearann Éagsúil
+[Different Remote Domain]
+Fearann Cianda Éagsúil
+[Deny Incoming]
+Teacht isteach
+[Allow IP Rewrite]
+Ceadaigh IP Rewrite
+[Directory of Users]
+Eolaire Úsáideoirí
+[Call on Remote Hold]
+Glaoigh ar Choimeád cianda
+[Call on Local Hold]
+Glaoigh ar Choinnigh Áitiúil
+[Call on Hold]
+Glao ar Choinneáil
+[Call is Active]
+Call is Active
+[Menu]
+Clár
+[Edit Account]
+Cuir an Cuntas in Eagar
+[Add Account...]
+Cuir Cuntas leis
+[Remove Account]
+Bain an Cuntas
+[Make Active]
+Déan Gníomhach
+[Are you sure you want to remove?]
+An bhfuil tú cinnte gur mian leat a bhaint?
+[Call Pickup]
+Glaoigh Pickup
+[Speaker Level]
+Leibhéal Cainteoir
+[Microphone Level]
+Leibhéal Micreafóin
+[Mute Speaker]
+Cainteoir Mute
+[Mute Microphone]
+Micreafón Mute
+[Balance]
+Iarmhéid
+[Custom INI Path]
+Saincheap an Conair SEO
+[Contact Us]
+Glaoigh orainn
+[Please fill out at least the required fields marked with *.]
+Líon isteach ar a laghad na réimsí riachtanacha atá marcáilte le *.
+[Ask your SIP provider how to configure the account correctly.]
+Iarr ar do sholáthraí SIP conas an cuntas a chumrú i gceart.
+[Time]
+Am
+[Phone]
+Fón
+[Ringtone]
+Ringtone
+[Username]
+Ainm Úsáideora
+[Do you want to update now?]
+Ar mhaith leat nuashonrú anois?
+[Available Codecs]
+Codecs atá ar fáil
+[Enabled Codecs]
+Cóidéisí Cumasaithe
+[Logs]
+Logchomhaid
+[Random Popup Position]
+Seasamh Popup Fánach
+[Attended Transfer]
+Aistriú Aistrithe
+[Launch URL on incoming call]
+Seoladh URL ar ghlaoch isteach
+[Enable Local Account]
+Cumasaigh Cuntas Áitiúil
+[Send Crash Report]
+Tuarascáil Crash Send
+[Account Name]
+Ainm chuntais
+[Invite to Conference]
+Cuireadh don Chomhdháil
+[Merge]
+dul
+[Separate]
+Ar leithligh
+[Disconnect]
+Dícheangail
+[DTMF Method]
+Modh DTMF
+[Voicemail Number]
+Uimhir glórphoist
+[Disable Session Timers]
+Díchumasaigh Timers Seisiúin
+[Microphone Amplification]
+Microphone Amplification
+[Software Level Adjustment]
+Coigeartú ar Leibhéal Bogearraí
+[Shortcuts]
+Aicearraí
+[Enable]
+Cumasaigh
+[Label]
+Lipéad
+[Type]
+Cineál
+[Bottom Position]
+Bunstaid
+[You need to restart application for the changes to take effect.]
+Ní mór duit an t-iarratas a atosú chun go mbeidh éifeacht leis na hathruithe.
+[Handle Media Buttons]
+Cnaipí Meáin a Láimhseáil
+[Bring to Front on Incoming Call]
+Cuir ar aghaidh chun tosaigh ar ghlaoch isteach
+[SIP account]
+Cuntas SIP
+[SIP password]
+Focal faire SIP
+[Help]
+Cabhrú
+[Video Bitrate]
+Giotán Físeáin
+[Control Button]
+Cnaipe Rialúcháin
+[Do Not Disturb]
+Ná cur as
+[Source Port]
+Foinse Calafoirt
+[RTP Ports]
+Calafoirt RTP
+[Unregister the account when the operator is Away]
+Díchláraigh an cuntas nuair a bhíonn an t-oibreoir Away
+[Ask for the sip USER and SECRET everytime]
+Iarr an sip USER agus SECRET gach uair
+[Import]
+Iompórtáil
+[Server]
+Freastalaí
+[Attendant Transfer]
+Aistriú Tinrimh
+[Blind Transfer]
+Aistriú Dall
+[Redial]
+Athdhéanamh
+[Backspace]
+Backspace
+[Clear]
+Glan
+[Use Space key to enable selected codec]
+Úsáid eochair spáis chun CODEC roghnaithe a chumasú
+[Use Delele key to disable selected codec]
+Úsáid eochair Scrios chun CODEC roghnaithe a dhíchumasú
+[Make Inactive]
+Déan Neamhghníomhach
+[Conference]
+Comhdháil
+[Dialing Prefix]
+Réiteach a Réiteach
+[Register Refresh]
+Cláraigh Athnuachan
+[Keep-Alive]
+Coinnigh Beo
+[Ringtone Volume]
+Imleabhar Ringtone
+[Call Recording]
+Taifeadadh Glaonna
+[Nameserver]
+Ainmneoir
+[Default List Action]
+Gníomh Liosta Réamhshocraithe
+[Edit Local Account]
+Cuir an Cuntas Áitiúil in Eagar
+[Export]
+Easpórtáil
+[Version]
+Leagan
+[Call Waiting]
+Ag feitheamh ar ghlaoch
+[Ready]
+Réidh
+[Not online]
+Ní ar líne
+[On the phone]
+Ar an fón
+[First Name]
+Ainm
+[Last Name]
+Sloinne
+[Phone Number]
+Uimhir teileafón
+[Mobile Number]
+Uimhir Fón póca
+[E-mail Address]
+Seoladh ríomhphoist
+[Address]
+Seoladh
+[City]
+Cathair
+[State]
+Stát
+[Postal Code]
+Cód Poist
+[Comment]
+Trácht
+[Extension]
+Síneadh
+[Port]
+Port
+[User ID]
+ID Úsáideora
+[Authentication failed]
+Theip ar fíordheimhniú
+[API URL is empty]
+Tá URL API folamh
+[API connection failed]
+Theip ar nasc API
+[API request failed. Response code:]
+Theip ar iarratas API. Cód freagartha:
+[API response is empty]
+Tá freagra API folamh
+[API response parse error]
+Earráid pharsála freagra API
+[API data type is wrong]
+Tá cineál sonraí API mícheart
+[Login failed]
+Theip ar logáil isteach
+[Request failed]
+Theip ar an iarratas
+[close window to ignore call]
+dún an fhuinneog chun neamhaird a dhéanamh den ghlao
+[Transfer Code]
+Cód Aistrithe
+[Headset Support]
+Tacaíocht Headset
+[Privacy Policy]
+Beartas Príobháideachais
+[sec]
+soic
+[Call Forwarding]
+Glaoigh ar Aghaidh
+[Are you sure you want to delete?]
+An bhfuil tú cinnte gur mhaith leat scriosadh?
+[Delete contact]
+Scrios teagmháil
+[Account or credentials not found.]
+Ní bhfuarthas cuntas nó dintiúr
+[Please fill out all required fields.]
+Líon na réimsí riachtanacha go léir le do thoil.
+[Change Account]
+Athraigh Cuntas
+[Dial Plan]
+Plean Diailithe
+[Disable Video]
+Físeán a dhíchumasú
+[Disable Messaging]
+Teachtaireachtaí a dhíchumasú
+[Headphones]
+Cluasáin
+[Are you sure you want to close the application?]
+An bhfuil tú cinnte gur mhaith leat an feidhmchlár a dhúnadh?
+[Dashboard Access]
+Rochtain ar Phainéal
+[Break]
+Sos
+[Non-Telephone Work]
+Obair Neamh-Teileafóin
+[On Break]
+Ar Sos
+[Telephone Work]
+Obair Teileafóin
+[Register]
+Cláraigh
+[Unregister]
+Neamhchláraithe
+[Options]
+Roghanna
+[Delay]
+Moill
+[Caller Number]
+Uimhir Glaoiteora
+[Purchase a Number]
+Uimhir a Cheannach
+[Line Number (4 digits)]
+Uimhir Líne (4 dhigit)
+[Line Password]
+Pasfhocal Líne
+[Set Password]
+Socraigh Pasfhocal
+[Reset Password]
+Athshocraigh Pasfhocal
+[Open]
+Oscail
+[Unable to find default audio device]
+Níor aimsíodh aon ghaireas fuaime
+[Network is unreachable]
+Tá an líonra neamh-inúsáidte
+[Allow access to the microphone in your antivirus settings.]
+Lig rochtain ar an micreafón i do shuíomhanna frithvíreas.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Deisigh cead micreafón i socruithe Windows (Socruithe Windows =&gt; Príobháideacht =&gt; Micreafón).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Teastaíonn cainteoirí agus micreafón araon. Chun glaonna a dhéanamh caithfidh gléas fuaime ionchuir agus aschuir a bheith agat i do chóras.
+[Canceled]
+Cealaithe
+[Unknown format]
+Formáid anaithnid
+[Softphone is not initialized. Check your settings.]
+Ní chuirtear tús le fón bog. Seiceáil do chuid socruithe.
+[Unable to initialize network sockets.]
+Ní féidir soicéid líonra a thionscnamh.
+[Starred]
+Réalta
+[Run at System Startup]
+Rith ag Tosaithe an Chórais
+[Run Batch]
+Rith Baisc
+[Call URL]
+Glaoigh ar URL
+[Call All]
+Glaoigh ar Uile
+[Custom]
+Saincheaptha
+[Take Back]
+Thógáil ar ais
+[Add Contact]
+Cuir Teagmháil leis
+[Incorrect dialing or non-existent number]
+Diailiú mícheart nó uimhir nach bhfuil ann
+[Profile]
+Próifíl
+[Use Outbound Proxy]
+Úsáid Seachfhreastalaí Amach
+[End]
+Deireadh Glaoigh
+[Address Incomplete]
+Seoladh Neamhiomlán
+[Not acceptable here]
+Níl sé inghlactha anseo
+[Direct Transfer]
+Aistriú Díreach
+[Idle]
+Díomhaoin
+[Toggle]
+Scoránaigh
+[Enter Password]
+Iontráil Pasfhocal
+[Connection refused]
+Ceangal dhiúltaigh
+[Connection timed out]
+Ceangal thar am
+[Cannot get IP address of the called host]
+Ní féidir seoladh IP an óstaigh ar a dtugtar a fháil
+[Answered Elsewhere]
+Freagraí Áit eile
+[Missed Call]
+Glaoch caillte
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Ar mhaith leat sonraí úsáideora agus socruithe ríomhchláir a scriosadh? Ní féidir an gníomh seo a chealú.
+[Unavailable]
+Níl fáil air
+[Call Limit]
+Teorainn Glaonna
+[Hide Caller ID]
+Folaigh Aitheantas an Ghlaoiteora
+[External Program]
+Clár Seachtrach
+[]

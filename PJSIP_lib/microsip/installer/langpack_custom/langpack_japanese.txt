@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+発信
+[End Call]
+切断
+[Contacts]
+コンタクト
+[Account]
+アカウント
+[Settings]
+設定
+[Visit Website]
+サイトへ
+[Exit]
+終了
+[Browse...]
+参照...
+[Default]
+デフォルト
+[Auto Answer]
+自動応答
+[Disable Local Account]
+ローカル接続無効
+[OK]
+OK
+[Save]
+保存
+[Cancel]
+キャンセル
+[SIP Server]
+SIP サーバ
+[SIP Proxy]
+SIP プロキシ
+[Domain]
+ドメイン
+[Password]
+パスワード
+[Connecting...]
+接続中...
+[Online]
+オンライン
+[Local]
+ローカル
+[Message]
+メッセージ
+[Edit]
+編集
+[Delete]
+削除
+[Add]
+追加
+[Bad Gateway]
+不正なゲートウェイ
+[Request Timeout]
+リクエストタイムアウト
+[Number]
+番号
+[Name]
+名前
+[Contact]
+コンタクト
+[Incoming Call]
+着信
+[Answer]
+応答
+[Decline]
+着信拒否
+[Calling]
+呼び出し中
+[Connecting]
+接続中
+[Connected]
+接続済
+[Auto]
+自動
+[Transport]
+トランスポート
+[Incorrect Password]
+パスワードが違います
+[Public Address]
+公開アドレス
+[Media Encryption]
+音声／映像暗号化
+[Disabled]
+無効
+[Optional]
+接続先による
+[Mandatory]
+必須
+[STUN Server]
+STUN サーバ
+[Presence Subscription]
+在席確認登録
+[Ringing]
+呼出中
+[Call Ended]
+通話の終了
+[Declined]
+着信拒否済み
+[No address found]
+アドレスが見つかりません
+[Request Terminated]
+リクエスト終了
+[Away]
+退席中
+[Publish Presence]
+在席状況通知
+[Session Progress]
+通話中
+[Camera]
+カメラ
+[Video Call]
+ビデオ通話
+[Answer with Video]
+ビデオ通話で応答
+[View Log File]
+ログファイル表示
+[Microphone]
+マイク
+[Speaker]
+スピーカー
+[Video Codec]
+ビデオコーデック
+[Check for Updates]
+更新の確認
+[Daily]
+毎日
+[Weekly]
+毎週
+[Monthly]
+毎月
+[Quarterly]
+3ヶ月毎
+[Never]
+しない
+[Update Available]
+更新があります
+[Force Codec for Incoming]
+コーデックを強制使用する
+[Invalid Number]
+URIが不正です
+[Offline]
+オフライン
+[Single Call Mode]
+シングルモード
+[Local Video]
+私の映像
+[Call Transfer]
+通話転送
+[final]
+最終
+[Call transfered successfully, disconnecting call]
+転送しました。終了処理中です。
+[Hold]
+保留
+[Transfer]
+転送
+[Sound Events]
+トーン信号音再生
+[Bitrate]
+ビットレート
+[Login]
+ログイン
+[Enable Log File]
+ログを保存する
+[Duration]
+通話時間
+[Info]
+情報
+[display password]
+パスワードを表示する
+[From]
+From
+[To]
+～
+[Ring Device]
+呼出音再生
+[Service Unavailable]
+サービスは利用不可
+[Unable to connect to remote server.]
+リモートサーバーに接続できません。
+[Busy Here]
+使用中
+[Trying]
+試行中
+[Method Not Allowed]
+許可されていないメソッド
+[Not Found]
+見つかりません
+[Always on Top]
+常に最前面に表示
+[Connect]
+接続
+[Last Call]
+最後の通話
+[Close All]
+すべて閉じる
+[Copy]
+コピー
+[Select All]
+すべて選択
+[Display Name]
+あなたの名前
+[Remember Details]
+詳細を記憶
+[PIN]
+暗証番号
+[No]
+いいえ
+[All Calls]
+全ての通話
+[SIP Header]
+SIPヘッダー
+[Different User]
+異なるユーザー
+[Different Domain]
+異なるドメイン
+[Different User or Domain]
+異なるユーザーかドメイン
+[Different Remote Domain]
+異なるリモートドメイン
+[Deny Incoming]
+着信拒否
+[Allow IP Rewrite]
+IP上書きを許可
+[Directory of Users]
+ユーザーのディレクトリ
+[Call on Remote Hold]
+相手が保留
+[Call on Local Hold]
+こちらが保留
+[Call on Hold]
+保留
+[Call is Active]
+通話有効
+[Menu]
+メニュー
+[Edit Account]
+アカウント編集
+[Add Account...]
+アカウントの追加
+[Remove Account]
+アカウント削除
+[Make Active]
+有効化
+[Are you sure you want to remove?]
+本当に削除しますか？
+[Call Pickup]
+コールピックアップ
+[Speaker Level]
+音量
+[Microphone Level]
+マイク音量
+[Mute Speaker]
+消音
+[Mute Microphone]
+マイク消音
+[Balance]
+残高
+[Custom INI Path]
+カスタムのこのパス
+[Contact Us]
+お問い合わせ
+[Please fill out at least the required fields marked with *.]
+必須(*)のマークのついている部分を記入してください。
+[Ask your SIP provider how to configure the account correctly.]
+正しくアカウントを設定する方法をSIPプロバイダーに確認して下さい。
+[Time]
+時間
+[Phone]
+キーパッド
+[Ringtone]
+呼出音
+[Username]
+ユーザ名
+[Do you want to update now?]
+今すぐ更新しますか?
+[Available Codecs]
+利用可能なコーデック
+[Enabled Codecs]
+有効
+[Logs]
+履歴
+[Random Popup Position]
+ポップアップのランダムな位置
+[Attended Transfer]
+仲介転送
+[Launch URL on incoming call]
+着信時に起動URL
+[Enable Local Account]
+ローカルアカウントを有効にする
+[Send Crash Report]
+クラッシュレポートを送信する
+[Account Name]
+アカウント名
+[Invite to Conference]
+会議通話に招待する
+[Merge]
+統合
+[Separate]
+分割
+[Disconnect]
+切断
+[DTMF Method]
+トーン信号方式
+[Voicemail Number]
+ボイスメール番号
+[Disable Session Timers]
+セッション タイマーを無効にする
+[Microphone Amplification]
+マイクアンプ
+[Software Level Adjustment]
+ソフトウェア レベルの調整
+[Shortcuts]
+ショートカット
+[Enable]
+有効
+[Label]
+ラベル
+[Type]
+タイプ
+[Bottom Position]
+下部位置
+[You need to restart application for the changes to take effect.]
+変更内容を有効にするには、アプリケーションを再起動する必要があります。
+[Handle Media Buttons]
+メディア ボタンを扱う
+[Bring to Front on Incoming Call]
+着信時に最前面へ表示
+[SIP account]
+SIPアカウント
+[SIP password]
+SIPパスワード
+[Help]
+ヘルプ
+[Video Bitrate]
+ビデオ ビットレート
+[Control Button]
+ボタン制御
+[Do Not Disturb]
+応答不可
+[Source Port]
+ソース ポート
+[RTP Ports]
+RTP ポート
+[Unregister the account when the operator is Away]
+オペレーターが不在の場合にアカウントを登録解除します
+[Ask for the sip USER and SECRET everytime]
+毎回USERおよびSECRETを要求する
+[Import]
+取り込む
+[Server]
+サーバ
+[Attendant Transfer]
+アテンダント転送
+[Blind Transfer]
+ブラインド転送
+[Redial]
+再ダイアル
+[Backspace]
+バックスペース
+[Clear]
+クリア
+[Use Space key to enable selected codec]
+選択済みコーデックを有効にするため SPACE キーを使用
+[Use Delele key to disable selected codec]
+選択済みコーデックを無効にするため DELETE キーを使用
+[Make Inactive]
+非アクティブにする
+[Conference]
+会議
+[Dialing Prefix]
+発信番号
+[Register Refresh]
+登録の更新間隔
+[Keep-Alive]
+キープアライブ
+[Ringtone Volume]
+着信音の音量
+[Call Recording]
+通話録音
+[Nameserver]
+ネームサーバー
+[Default List Action]
+既定のリスト動作
+[Edit Local Account]
+ローカルアカウントの編集
+[Export]
+エクスポート
+[Version]
+バージョン
+[Call Waiting]
+コールウェイティング
+[Ready]
+準備完了
+[Not online]
+オンラインではありません
+[On the phone]
+電話で
+[First Name]
+ファーストネーム
+[Last Name]
+苗字
+[Phone Number]
+電話番号
+[Mobile Number]
+携帯電話番号
+[E-mail Address]
+電子メールアドレス
+[Address]
+住所
+[City]
+市
+[State]
+状態
+[Postal Code]
+郵便番号
+[Comment]
+コメント
+[Extension]
+拡張
+[Port]
+ポート
+[User ID]
+ユーザーID
+[Authentication failed]
+認証に失敗しました
+[API URL is empty]
+API URLが空です
+[API connection failed]
+API接続に失敗しました
+[API request failed. Response code:]
+APIリクエストが失敗しました。応答コード：
+[API response is empty]
+API応答が空です
+[API response parse error]
+API応答解析エラー
+[API data type is wrong]
+APIデータ型が間違っています
+[Login failed]
+ログインに失敗しました
+[Request failed]
+要求が失敗しました
+[close window to ignore call]
+ウィンドウを閉じて通話を無視
+[Transfer Code]
+転送コード
+[Headset Support]
+ヘッドセットのサポート
+[Privacy Policy]
+個人情報保護方針
+[sec]
+秒
+[Call Forwarding]
+コール転送
+[Are you sure you want to delete?]
+本当に削除してもよろしいですか？
+[Delete contact]
+連絡先を削除する
+[Account or credentials not found.]
+アカウントまたは資格情報が見つかりません
+[Please fill out all required fields.]
+すべての必須フィールドに入力してください。
+[Change Account]
+アカウントの変更
+[Dial Plan]
+ダイヤルプラン
+[Disable Video]
+ビデオを無効にする
+[Disable Messaging]
+メッセージングを無効にする
+[Headphones]
+ヘッドホン
+[Are you sure you want to close the application?]
+アプリケーションを閉じてもよろしいですか？
+[Dashboard Access]
+ダッシュボードアクセス
+[Break]
+ブレーク
+[Non-Telephone Work]
+電話以外の仕事
+[On Break]
+休んで
+[Telephone Work]
+電話の仕事
+[Register]
+登録
+[Unregister]
+登録解除
+[Options]
+オプション
+[Delay]
+ディレイ
+[Caller Number]
+発信者番号
+[Purchase a Number]
+番号を購入する
+[Line Number (4 digits)]
+行番号（4桁）
+[Line Password]
+回線パスワード
+[Set Password]
+パスワードを設定してください
+[Reset Password]
+パスワードを再設定する
+[Open]
+開く
+[Unable to find default audio device]
+オーディオデバイスが見つかりません
+[Network is unreachable]
+ネットワークに到達できません
+[Allow access to the microphone in your antivirus settings.]
+ウイルス対策設定でマイクへのアクセスを許可します。
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Windows設定（Windows設定=&gt;プライバシー=&gt;マイク）でマイクの許可を修正します。
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+スピーカーとマイクの両方が必要です。電話をかけるには、システムに入力および出力サウンドデバイスが必要です。
+[Canceled]
+キャンセル
+[Unknown format]
+不明な形式
+[Softphone is not initialized. Check your settings.]
+ソフトフォンが初期化されていません。設定を確認してください。
+[Unable to initialize network sockets.]
+ネットワークソケットを初期化できません。
+[Starred]
+スター付き
+[Run at System Startup]
+システム起動時に実行
+[Run Batch]
+バッチの実行
+[Call URL]
+通話URL
+[Call All]
+すべて電話
+[Custom]
+カスタム
+[Take Back]
+取り戻す
+[Add Contact]
+連絡先を追加
+[Incorrect dialing or non-existent number]
+間違ったダイヤルまたは存在しない番号
+[Profile]
+プロフィール
+[Use Outbound Proxy]
+アウトバウンド プロキシを使用する
+[End]
+切断
+[Address Incomplete]
+住所が不完全です
+[Not acceptable here]
+ここでは受け入れられません
+[Direct Transfer]
+直接転送
+[Idle]
+アイドル状態
+[Toggle]
+トグル
+[Enter Password]
+パスワードを入力する
+[Connection refused]
+接続拒否
+[Connection timed out]
+接続がタイムアウトしました
+[Cannot get IP address of the called host]
+呼び出し先ホストのIPアドレスを取得できません
+[Answered Elsewhere]
+他の場所で回答済み
+[Missed Call]
+不在着信
+[Do you want to delete user data and program settings? This action cannot be undone.]
+ユーザーデータとプログラム設定を削除しますか? この操作は元に戻せません。
+[Unavailable]
+利用不可
+[Call Limit]
+通話制限
+[Hide Caller ID]
+発信者IDを非表示
+[External Program]
+外部プログラム
+[]

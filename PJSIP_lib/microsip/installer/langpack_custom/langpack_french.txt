@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Appel
+[End Call]
+Raccrocher
+[Contacts]
+Contacts
+[Account]
+Compte
+[Settings]
+Paramètres
+[Visit Website]
+Visiter le site web
+[Exit]
+Quitter
+[Browse...]
+Parcourir...
+[Default]
+Défaut
+[Auto Answer]
+Réponse automatique
+[Disable Local Account]
+Désactiver le compte local
+[OK]
+OK
+[Save]
+Sauvegarder
+[Cancel]
+Annuler
+[SIP Server]
+Serveur SIP
+[SIP Proxy]
+Proxy SIP
+[Domain]
+Domaine
+[Password]
+Mot de passe
+[Connecting...]
+Connexion...
+[Online]
+Disponible
+[Local]
+Local
+[Message]
+Message
+[Edit]
+Modifier
+[Delete]
+Supprimer
+[Add]
+Ajouter
+[Bad Gateway]
+Erreur de passerelle
+[Request Timeout]
+Aucune réponse
+[Number]
+Numéro
+[Name]
+Nom
+[Contact]
+Contact
+[Incoming Call]
+Appel entrant
+[Answer]
+Répondre
+[Decline]
+Refuser
+[Calling]
+Appel en cours
+[Connecting]
+Connexion
+[Connected]
+Connecté
+[Auto]
+Auto
+[Transport]
+Transport
+[Incorrect Password]
+Mot de passe incorrect
+[Public Address]
+Adresse publique
+[Media Encryption]
+Chiffrement
+[Disabled]
+Désactivé
+[Optional]
+Optionnel
+[Mandatory]
+Obligatoire
+[STUN Server]
+Serveur STUN
+[Presence Subscription]
+Afficher la présence en ligne
+[Ringing]
+Sonnerie en cours
+[Call Ended]
+Appel terminé
+[Declined]
+Refusé
+[No address found]
+Adresse non trouvée
+[Request Terminated]
+Requête terminée
+[Away]
+Absent
+[Publish Presence]
+Afficher ma présence
+[Session Progress]
+Session en cours
+[Camera]
+Caméra
+[Video Call]
+Appel vidéo
+[Answer with Video]
+Répondre en vidéo
+[View Log File]
+Fichier journal
+[Microphone]
+Microphone
+[Speaker]
+Haut-parleur
+[Video Codec]
+Codec vidéo
+[Check for Updates]
+Vérification des mises à jour
+[Daily]
+Quotidienne
+[Weekly]
+Hebdomadaire
+[Monthly]
+Mensuelle
+[Quarterly]
+Trimestrielle
+[Never]
+Jamais
+[Update Available]
+Une mise à jour est disponible
+[Force Codec for Incoming]
+Forcer le codec des appels entrants
+[Invalid Number]
+Numéro invalide
+[Offline]
+Hors-ligne
+[Single Call Mode]
+Mode appel simple
+[Local Video]
+Vidéo locale
+[Call Transfer]
+Transfert d'appel
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Succès du transfert d'appel, déconnexion...
+[Hold]
+En attente
+[Transfer]
+Transfert
+[Sound Events]
+Événements sonores
+[Bitrate]
+Débit
+[Login]
+Login
+[Enable Log File]
+Activer la journalisation
+[Duration]
+Durée
+[Info]
+Info
+[display password]
+Afficher le mot de passe
+[From]
+De
+[To]
+à
+[Ring Device]
+Périphérique pour sonnerie
+[Service Unavailable]
+Service indisponible
+[Unable to connect to remote server.]
+Impossible de se connecter au serveur distant.
+[Busy Here]
+Occupé
+[Trying]
+Tentative
+[Method Not Allowed]
+Méthode non autorisée
+[Not Found]
+Non trouvé
+[Always on Top]
+Toujours visible
+[Connect]
+Connecter
+[Last Call]
+Dernier appel
+[Close All]
+Tout fermer
+[Copy]
+Copier
+[Select All]
+Tout sélectionner
+[Display Name]
+Nom à afficher
+[Remember Details]
+Se souvenir des informations
+[PIN]
+ÉPINGLE
+[No]
+Non
+[All Calls]
+Tous les appels
+[SIP Header]
+Entête SIP
+[Different User]
+Utilisateur différent
+[Different Domain]
+Domaine différent
+[Different User or Domain]
+Utilisateur ou domaine différent
+[Different Remote Domain]
+Domaine distant différent
+[Deny Incoming]
+Refuser appels entrants
+[Allow IP Rewrite]
+Autoriser la réécriture de l'IP
+[Directory of Users]
+Carnet d'adresses
+[Call on Remote Hold]
+Appel en attente (distant)
+[Call on Local Hold]
+Appel en attente (local)
+[Call on Hold]
+Appel en attente
+[Call is Active]
+Appel en cours
+[Menu]
+Menu
+[Edit Account]
+Modifier le compte
+[Add Account...]
+Ajouter un compte...
+[Remove Account]
+Supprimer le compte
+[Make Active]
+Activer
+[Are you sure you want to remove?]
+Êtes-vous sûr de vouloir supprimer le compte ?
+[Call Pickup]
+Prise d'appel
+[Speaker Level]
+Volume du haut-parleur
+[Microphone Level]
+Volume du micro
+[Mute Speaker]
+Haut-parleur muet
+[Mute Microphone]
+Couper le micro
+[Balance]
+Équilibre
+[Custom INI Path]
+CE chemin personnalisé
+[Contact Us]
+Nous contacter
+[Please fill out at least the required fields marked with *.]
+Veuillez remplir les champs requis marqués *.
+[Ask your SIP provider how to configure the account correctly.]
+Demandez au fournisseur SIP pour configurer le compte correctement.
+[Time]
+Heure
+[Phone]
+Clavier
+[Ringtone]
+Sonnerie
+[Username]
+Nom d'utilisateur
+[Do you want to update now?]
+Voulez-vous mettre à jour maintenant?
+[Available Codecs]
+Codecs disponibles
+[Enabled Codecs]
+Codecs activés
+[Logs]
+Journaux
+[Random Popup Position]
+Position aléatoire du popup
+[Attended Transfer]
+Transfert supervisé
+[Launch URL on incoming call]
+Lancer l&#39;URL lors d&#39;un appel entrant
+[Enable Local Account]
+Activer le compte local
+[Send Crash Report]
+Envoyer le rapport de crash
+[Account Name]
+Nom du compte
+[Invite to Conference]
+Invitation à la conférence
+[Merge]
+Fusionner
+[Separate]
+Séparer
+[Disconnect]
+Déconnecter
+[DTMF Method]
+Méthode DTMF
+[Voicemail Number]
+N° de la boîte vocale
+[Disable Session Timers]
+Désactiver les minuteurs de session
+[Microphone Amplification]
+Amplification du micro
+[Software Level Adjustment]
+Réglage logiciel du niveau sonore
+[Shortcuts]
+Numérotation rapide
+[Enable]
+Activer
+[Label]
+Étiquette
+[Type]
+Type
+[Bottom Position]
+Position inférieure
+[You need to restart application for the changes to take effect.]
+Vous devez redémarrer l'application pour que les modifications prennent effet.
+[Handle Media Buttons]
+Gérer les boutons média
+[Bring to Front on Incoming Call]
+Mettre au 1er plan un appel entrant
+[SIP account]
+Compte SIP
+[SIP password]
+Mot de passe SIP
+[Help]
+Aide
+[Video Bitrate]
+Débit vidéo
+[Control Button]
+Bouton de contrôle
+[Do Not Disturb]
+Ne pas déranger
+[Source Port]
+Port source
+[RTP Ports]
+Ports RTP
+[Unregister the account when the operator is Away]
+Annuler l&#39;enregistrement du compte lorsque l&#39;opérateur est absent
+[Ask for the sip USER and SECRET everytime]
+Demandez le SIP USER et SECRET à chaque fois
+[Import]
+Import
+[Server]
+Serveur
+[Attendant Transfer]
+Transfert de préposé
+[Blind Transfer]
+Transfert aveugle
+[Redial]
+Rappel
+[Backspace]
+Retour
+[Clear]
+Effacement
+[Use Space key to enable selected codec]
+Utiliser la barre "Espace" pour activer le codec sélectionné
+[Use Delele key to disable selected codec]
+Utiliser la touche "Suppr" pour désactiver le codec sélectionné
+[Make Inactive]
+Rendre inactif
+[Conference]
+Conférence
+[Dialing Prefix]
+Préfixe d'appel
+[Register Refresh]
+Actualiser l'enregistrement
+[Keep-Alive]
+Signalisation
+[Ringtone Volume]
+Volume de la sonnerie
+[Call Recording]
+Enregistrer l'appel
+[Nameserver]
+Nom du serveur
+[Default List Action]
+Action par défaut liste
+[Edit Local Account]
+Modifier le compte local
+[Export]
+Export
+[Version]
+Version
+[Call Waiting]
+Appel en attente
+[Ready]
+Prêt
+[Not online]
+Déconnecté
+[On the phone]
+Au téléphone
+[First Name]
+Prénom
+[Last Name]
+Nom de famille
+[Phone Number]
+Numéro de téléphone
+[Mobile Number]
+Numéro de portable
+[E-mail Address]
+Adresse e-mail
+[Address]
+Adresse
+[City]
+Ville
+[State]
+État
+[Postal Code]
+Code postal
+[Comment]
+Commentaire
+[Extension]
+Extension
+[Port]
+Port
+[User ID]
+Identifiant d&#39;utilisateur
+[Authentication failed]
+Authentification échouée
+[API URL is empty]
+L&#39;URL de l&#39;API est vide
+[API connection failed]
+La connexion à l&#39;API a échoué
+[API request failed. Response code:]
+Échec de la demande d&#39;API. Code de réponse:
+[API response is empty]
+La réponse de l&#39;API est vide
+[API response parse error]
+Erreur d&#39;analyse de la réponse de l&#39;API
+[API data type is wrong]
+Le type de données de l&#39;API est incorrect
+[Login failed]
+Échec de la connexion
+[Request failed]
+Demande échoué
+[close window to ignore call]
+fermer la fenêtre pour ignorer l'appel
+[Transfer Code]
+Code de transfert
+[Headset Support]
+Prise en charge du casque
+[Privacy Policy]
+Politique de confidentialité
+[sec]
+sec
+[Call Forwarding]
+Renvoi d'appel
+[Are you sure you want to delete?]
+Êtes-vous sûr que vous voulez supprimer ?
+[Delete contact]
+Effacer le contact
+[Account or credentials not found.]
+Compte ou identifiant introuvable.
+[Please fill out all required fields.]
+S'il-vous-plaît remplissez tous les champs requis.
+[Change Account]
+Changer de compte
+[Dial Plan]
+Plan de numérotation
+[Disable Video]
+Désactiver la vidéo
+[Disable Messaging]
+Désactiver la messagerie
+[Headphones]
+Écouteurs
+[Are you sure you want to close the application?]
+Voulez-vous vraiment fermer l&#39;application?
+[Dashboard Access]
+Accès au tableau de bord
+[Break]
+Pause
+[Non-Telephone Work]
+Travail non téléphonique
+[On Break]
+En pause
+[Telephone Work]
+Travail téléphonique
+[Register]
+S'inscrire
+[Unregister]
+Se désinscrire
+[Options]
+Options
+[Delay]
+Retard
+[Caller Number]
+Numéro de l'appelant
+[Purchase a Number]
+Acheter un numéro
+[Line Number (4 digits)]
+Numéro de ligne (4 chiffres)
+[Line Password]
+Mot de passe de ligne
+[Set Password]
+Définir le mot de passe
+[Reset Password]
+réinitialiser le mot de passe
+[Open]
+Ouvrir
+[Unable to find default audio device]
+Aucun périphérique audio trouvé
+[Network is unreachable]
+Le réseau est inaccessible
+[Allow access to the microphone in your antivirus settings.]
+Autorisez l'accès au microphone dans vos paramètres antivirus.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Corrigez l'autorisation du microphone dans les paramètres Windows (Paramètres Windows => Confidentialité => Microphone).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Des haut-parleurs et un microphone sont nécessaires. Pour passer des appels, vous devez disposer d'un périphérique audio d'entrée et de sortie dans votre système.
+[Canceled]
+Annulé
+[Unknown format]
+Format inconnu
+[Softphone is not initialized. Check your settings.]
+Le logiciel de téléphonie n'est pas initialisé. Vérifiez vos paramètres.
+[Unable to initialize network sockets.]
+Impossible d'initialiser les sockets réseau.
+[Starred]
+Favoris
+[Run at System Startup]
+Exécuter au démarrage du système
+[Run Batch]
+Exécuter le lot
+[Call URL]
+URL d'appel
+[Call All]
+Tout appeler
+[Custom]
+Personnalisé
+[Take Back]
+Reprendre
+[Add Contact]
+Ajouter le contact
+[Incorrect dialing or non-existent number]
+Numérotation incorrecte ou numéro inexistant
+[Profile]
+Profil
+[Use Outbound Proxy]
+Utiliser le proxy sortant
+[End]
+Fin d'appel
+[Address Incomplete]
+Adresse incomplète
+[Not acceptable here]
+Interdit ici
+[Direct Transfer]
+Transfert direct
+[Idle]
+Inactif
+[Toggle]
+Basculer
+[Enter Password]
+Entrer le mot de passe
+[Connection refused]
+Connexion refusée
+[Connection timed out]
+La connexion a expiré
+[Cannot get IP address of the called host]
+Impossible d'obtenir l'adresse IP de l'hôte appelant
+[Answered Elsewhere]
+Répondu ailleurs
+[Missed Call]
+Appel manqué
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Souhaitez-vous effacer les données utilisateurs et préférences du programe ? Annulation impossible..
+[Unavailable]
+Indisponible
+[Call Limit]
+Limite d&#39;appels
+[Hide Caller ID]
+Masquer l&#39;identification de l&#39;appelant
+[External Program]
+Programme externe
+[]

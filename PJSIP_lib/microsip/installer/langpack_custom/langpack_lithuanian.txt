@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Skambinti
+[End Call]
+Baigti skambutį
+[Contacts]
+Kontaktai
+[Account]
+Paskyra
+[Settings]
+Nustatymai
+[Visit Website]
+Aplankyti tinklalapį
+[Exit]
+Išeiti
+[Browse...]
+Ieškoti...
+[Default]
+Pagrindinis
+[Auto Answer]
+Automatinis atsakymas
+[Disable Local Account]
+Išjungti vietinę paskyrą
+[OK]
+Gerai
+[Save]
+Išsaugoti
+[Cancel]
+Atšaukti
+[SIP Server]
+SIP serveris
+[SIP Proxy]
+SIP Proxy
+[Domain]
+Domenas
+[Password]
+Slaptažodis
+[Connecting...]
+Jungiasi...
+[Online]
+Prisijungęs
+[Local]
+Vietinis
+[Message]
+Žinutė
+[Edit]
+Redaguoti
+[Delete]
+Ištrinti
+[Add]
+Pridėti
+[Bad Gateway]
+Blogas šliuzas
+[Request Timeout]
+Užklausos laikas baigėsi
+[Number]
+Numeris
+[Name]
+Vardas
+[Contact]
+Kontaktas
+[Incoming Call]
+Įeinantis skambutis
+[Answer]
+Atsakyti
+[Decline]
+Atmesti
+[Calling]
+Skambina
+[Connecting]
+Jungiamasi
+[Connected]
+Prisijungta
+[Auto]
+Auto
+[Transport]
+Pernešimas
+[Incorrect Password]
+Neteisingas slaptažodis
+[Public Address]
+Išorinis adresas
+[Media Encryption]
+Media šifravimas
+[Disabled]
+Išjungta
+[Optional]
+Pasirinktinai
+[Mandatory]
+Privalomas
+[STUN Server]
+STUN serveris
+[Presence Subscription]
+Būsenos užsakymas
+[Ringing]
+Skamba
+[Call Ended]
+Skambutis baigtas
+[Declined]
+Atmestas
+[No address found]
+Nerastas adresas
+[Request Terminated]
+Užklausa nutraukta
+[Away]
+Nesu
+[Publish Presence]
+Skelbti būseną
+[Session Progress]
+Sesijos eiga
+[Camera]
+Kamera
+[Video Call]
+Video skambutis
+[Answer with Video]
+Atsakyti su vaizdu
+[View Log File]
+Peržiūrėti įvykių žurnalą
+[Microphone]
+Mikrofonas
+[Speaker]
+Garsiakalbis
+[Video Codec]
+Vaizdo kodekas
+[Check for Updates]
+Ieškoti atnaujinimų
+[Daily]
+Kasdien
+[Weekly]
+Kas savaitę
+[Monthly]
+Kas mėnesį
+[Quarterly]
+Kas ketvirtį
+[Never]
+Niekada
+[Update Available]
+Yra atnaujinimų
+[Force Codec for Incoming]
+Forsuoti kodeką įeinantiems skambučiams
+[Invalid Number]
+Klaidingas URI
+[Offline]
+Atsijungęs
+[Single Call Mode]
+Pavienio skambučio režimas
+[Local Video]
+Vietinis vaizdas
+[Call Transfer]
+Skambučio perjungimas
+[final]
+galutinis
+[Call transfered successfully, disconnecting call]
+Skambutis perjungtas sėkmingai, atjungiama
+[Hold]
+Sulaikyti
+[Transfer]
+Perduoti
+[Sound Events]
+Įvykių garsai
+[Bitrate]
+Bitrate
+[Login]
+Prisijungimas
+[Enable Log File]
+Įgalinti įrašų failą
+[Duration]
+Trukmė
+[Info]
+Info
+[display password]
+rodyti slaptažodį
+[From]
+Nuo
+[To]
+Kam
+[Ring Device]
+Skambėjimo įrenginys
+[Service Unavailable]
+Paslauga neprieinama
+[Unable to connect to remote server.]
+Nepavyko prisijungti prie nuotolinio serverio.
+[Busy Here]
+Čia užimta
+[Trying]
+Bandoma
+[Method Not Allowed]
+Metodas neleidžiamas
+[Not Found]
+Nerasta
+[Always on Top]
+Visada viršuje
+[Connect]
+Prisijungti
+[Last Call]
+Paskutinis skambutis
+[Close All]
+Uždaryti visus
+[Copy]
+Kopijuoti
+[Select All]
+Parinkti visus
+[Display Name]
+Rodomas vardas
+[Remember Details]
+Atsiminti detales
+[PIN]
+PIN kodas
+[No]
+Ne
+[All Calls]
+Visi skambučiai
+[SIP Header]
+SIP antraštė
+[Different User]
+Skirtingas vartotojas
+[Different Domain]
+Skirtingas domenas
+[Different User or Domain]
+Skirtingas vartotojas ar domenas
+[Different Remote Domain]
+Skirtingas nutolęs domenas
+[Deny Incoming]
+Atmesti įeinančius
+[Allow IP Rewrite]
+Leisti IP perrašymą
+[Directory of Users]
+Naudotojų katalogas
+[Call on Remote Hold]
+Skambutis nuotoliniame sulaikyme
+[Call on Local Hold]
+Skambutis pristabdytas
+[Call on Hold]
+Skambutis sulaikomas
+[Call is Active]
+Skambutis aktyvus
+[Menu]
+Meniu
+[Edit Account]
+Redaguoti paskyrą
+[Add Account...]
+Pridėti paskyrą
+[Remove Account]
+Pašalinti paskyrą
+[Make Active]
+Aktyvuoti
+[Are you sure you want to remove?]
+Ar tikrai norite pašalinti?
+[Call Pickup]
+Priimti skambutį
+[Speaker Level]
+Garso lygis
+[Microphone Level]
+Mokrofono lygis
+[Mute Speaker]
+Užtildyti garsiakalbį
+[Mute Microphone]
+Užtildyti mikrofoną
+[Balance]
+Balansas
+[Custom INI Path]
+Pasirinktinis ŠIS Kelias
+[Contact Us]
+Susisiekite su mumis
+[Please fill out at least the required fields marked with *.]
+Užpildykite bent jau privalomus laukelius pažymėtus *.
+[Ask your SIP provider how to configure the account correctly.]
+Kaip teisingai sukonfigūruoti paskyrą klauskite savo SIP tiekėjo.
+[Time]
+Laikas
+[Phone]
+Skaičių klaviatūra
+[Ringtone]
+Skambėjimo tonas
+[Username]
+Naudotojo vardas
+[Do you want to update now?]
+Ar norite atnaujinti dabar?
+[Available Codecs]
+Galimi kodekai
+[Enabled Codecs]
+Įgalinti kodekai
+[Logs]
+Istorija
+[Random Popup Position]
+Atsitiktinė pranešimo vieta
+[Attended Transfer]
+Atliktas peradresavimas
+[Launch URL on incoming call]
+Paleiskite įeinančio skambučio URL
+[Enable Local Account]
+Įgalinti vietinę paskyrą
+[Send Crash Report]
+Siųsti gedimo pranešimą
+[Account Name]
+Paskyros pavadinimas
+[Invite to Conference]
+Pakviesti į konferenciją
+[Merge]
+Sujungti
+[Separate]
+Atskirti
+[Disconnect]
+Atjungti
+[DTMF Method]
+DTMF metodas
+[Voicemail Number]
+Balso pašto numeris
+[Disable Session Timers]
+Išjungti sesijos laikmačius
+[Microphone Amplification]
+Mikrofono stiprinimas
+[Software Level Adjustment]
+Programinis lygio pritaikymas
+[Shortcuts]
+Nuorodos
+[Enable]
+Įgalinti
+[Label]
+Žyma
+[Type]
+Tipas
+[Bottom Position]
+Apatinė pozicija
+[You need to restart application for the changes to take effect.]
+Kad pasikeitimai įsigaliotų reikia perkrauti aplikaciją
+[Handle Media Buttons]
+Valdyti Media mygtukus
+[Bring to Front on Incoming Call]
+Iškelti į priekį su įeinančiu skambučiu
+[SIP account]
+SIP sąskaita
+[SIP password]
+SIP slaptažodis
+[Help]
+Pagalba
+[Video Bitrate]
+Vaizdo kokybė
+[Control Button]
+Valdymo mygtukas
+[Do Not Disturb]
+Netrukdyti
+[Source Port]
+Šaltinio prievadas
+[RTP Ports]
+RTP prievadai
+[Unregister the account when the operator is Away]
+Išregistruokite sąskaitą, kai operatorius nėra
+[Ask for the sip USER and SECRET everytime]
+Prašykite bet kada gurkšnoti USER ir SECRET
+[Import]
+Importuoti
+[Server]
+Serveris
+[Attendant Transfer]
+Lėktuvo perkėlimas
+[Blind Transfer]
+Aklas perdavimas
+[Redial]
+Perrinkti
+[Backspace]
+Atgal
+[Clear]
+Išvalyti
+[Use Space key to enable selected codec]
+Naudoti tarpo mygtuką pasirinkto kodeko įjungimui
+[Use Delele key to disable selected codec]
+Naudoti Delete mygtuką pasirinkto kodeko išjungimui
+[Make Inactive]
+Padaryti neaktyvų
+[Conference]
+Konferencija
+[Dialing Prefix]
+Numerio rinkimo prefiksas
+[Register Refresh]
+Registracijos atnaujinimas
+[Keep-Alive]
+Laikyti aktyvų
+[Ringtone Volume]
+Skambėjimo garsas
+[Call Recording]
+Skambučių įrašymas
+[Nameserver]
+Vardų serveris
+[Default List Action]
+Numatytoji sąrašo veiksena
+[Edit Local Account]
+Redaguoti vietinę paskyrą
+[Export]
+Eksportuoti
+[Version]
+Versija
+[Call Waiting]
+Laukiantis skambutis
+[Ready]
+Pasiruošęs
+[Not online]
+Neprisijungęs
+[On the phone]
+Kalba
+[First Name]
+Pirmas vardas
+[Last Name]
+Pavardė
+[Phone Number]
+Telefono numeris
+[Mobile Number]
+Mobilaus telefono numeris
+[E-mail Address]
+Elektroninio pašto adresas
+[Address]
+Adresas
+[City]
+Miestas
+[State]
+Valstybė
+[Postal Code]
+Pašto kodas
+[Comment]
+Komentuok
+[Extension]
+Pratęsimas
+[Port]
+Uostas
+[User ID]
+Vartotojo ID
+[Authentication failed]
+Autentifikuoti nepavyko
+[API URL is empty]
+API URL tuščias
+[API connection failed]
+Nepavyko prisijungti prie API
+[API request failed. Response code:]
+API užklausa nepavyko. Atsakymo kodas:
+[API response is empty]
+API atsakymas tuščias
+[API response parse error]
+API atsakymo analizės klaida
+[API data type is wrong]
+Netinkamas API duomenų tipas
+[Login failed]
+Prisijungimas nepavyko
+[Request failed]
+Užklausa nepavyko
+[close window to ignore call]
+uždarykite langą, kad nepaisytumėte skambučio
+[Transfer Code]
+Perkėlimo kodas
+[Headset Support]
+Ausinių palaikymas
+[Privacy Policy]
+Privatumo politika
+[sec]
+sek
+[Call Forwarding]
+Skambučių peradresavimas
+[Are you sure you want to delete?]
+Ar esate įsitikinę, kad norite ištrinti?
+[Delete contact]
+Ištrinti kontaktą
+[Account or credentials not found.]
+Paskyra ar kredencialas nerastas
+[Please fill out all required fields.]
+Užpildykite visus privalomus laukus.
+[Change Account]
+Keisti sąskaitą
+[Dial Plan]
+Skambinimo planas
+[Disable Video]
+Išjungti vaizdo įrašą
+[Disable Messaging]
+Išjungti susirašinėjimą
+[Headphones]
+Ausinės
+[Are you sure you want to close the application?]
+Ar tikrai norite uždaryti programą?
+[Dashboard Access]
+Priėjimas prie informacijos suvestinės
+[Break]
+Pertrauka
+[Non-Telephone Work]
+Darbas ne telefonu
+[On Break]
+Dėl pertraukos
+[Telephone Work]
+Telefoninis darbas
+[Register]
+Registruotis
+[Unregister]
+Išregistruoti
+[Options]
+Galimybės
+[Delay]
+Delsimas
+[Caller Number]
+Skambintojo numeris
+[Purchase a Number]
+Įsigykite numerį
+[Line Number (4 digits)]
+Eilutės numeris (4 skaitmenys)
+[Line Password]
+Linijos slaptažodis
+[Set Password]
+Nustatyti slaptažodį
+[Reset Password]
+Atstatyti slaptažodį
+[Open]
+Atidaryti
+[Unable to find default audio device]
+Nerasta garso įrenginio
+[Network is unreachable]
+Tinklas nepasiekiamas
+[Allow access to the microphone in your antivirus settings.]
+Leiskite prieigą prie mikrofono antivirusinėse nuostatose.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Pataisykite mikrofono leidimą „Windows“ nustatymuose („Windows“ nustatymai =&gt; privatumas =&gt; mikrofonas).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Būtini garsiakalbiai ir mikrofonas. Norėdami skambinti, sistemoje turite turėti įvesties ir išvesties garso įrenginį.
+[Canceled]
+Atšauktas
+[Unknown format]
+Nežinomas formatas
+[Softphone is not initialized. Check your settings.]
+Programinis telefonas nėra inicializuotas. Patikrinkite nustatymus.
+[Unable to initialize network sockets.]
+Nepavyko inicijuoti tinklo lizdų.
+[Starred]
+Pažymėta žvaigždute
+[Run at System Startup]
+Vykdyti paleidžiant sistemą
+[Run Batch]
+Vykdykite partiją
+[Call URL]
+Skambinimo URL
+[Call All]
+Skambinti visiems
+[Custom]
+Pasirinktinis
+[Take Back]
+Atsiimti
+[Add Contact]
+Pridėti kontaktą
+[Incorrect dialing or non-existent number]
+Neteisingas rinkimas arba neegzistuojantis numeris
+[Profile]
+Profilis
+[Use Outbound Proxy]
+Naudokite Outbound Proxy
+[End]
+Baigti skambutį
+[Address Incomplete]
+Adresas neužbaigtas
+[Not acceptable here]
+Čia nepriimtina
+[Direct Transfer]
+Tiesioginis perkėlimas
+[Idle]
+Tuščia eiga
+[Toggle]
+Perjungti
+[Enter Password]
+Įvesti slaptažodį
+[Connection refused]
+Ryšio atsisakyta
+[Connection timed out]
+Baigėsi ryšio laikas
+[Cannot get IP address of the called host]
+Nepavyko gauti iškviesto pagrindinio kompiuterio IP adreso
+[Answered Elsewhere]
+Atsakyta kitur
+[Missed Call]
+Praleistas skambutis
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Ar norite ištrinti vartotojo duomenis ir programos nustatymus? Šio veiksmo anuliuoti negalima.
+[Unavailable]
+Nepasiekiamas
+[Call Limit]
+Skambučių limitas
+[Hide Caller ID]
+Slėpti skambintojo ID
+[External Program]
+Išorinė programa
+[]

@@ -1,0 +1,56 @@
+﻿  stdafx.cpp
+  AAOptionsDlg.cpp
+  AccountDlg.cpp
+  AddDlg.cpp
+  addons.cpp
+  BaseDialog.cpp
+  ButtonBottom.cpp
+  ButtonDialer.cpp
+  ButtonEx.cpp
+  Calls.cpp
+  CListCtrl_Sortable.cpp
+  CListCtrl_SortItemsEx.cpp
+  ClosableTabCtrl.cpp
+  Contacts.cpp
+  Dialer.cpp
+  global.cpp
+  IconButton.cpp
+  jumplist.cpp
+  CListCtrl_ToolTip.cpp
+  CMask.cpp
+  Crypto.cpp
+  CSVFile.cpp
+  Hid.cpp
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+c:\dev\microsip\pjsip_lib\microsip\resource.h(585): warning C4005: 'ID_CMD': redefinição de macro (compilando arquivo de origem jumplist.cpp)
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winioctl.h(3697): note: consulte a definição anterior de 'ID_CMD' (compilando arquivo de origem jumplist.cpp)
+  langpack.cpp
+  LevelsSliderCtrl.cpp
+  Markup.cpp
+  MessageBoxX.cpp
+  ModelessMessageBox.cpp
+  MSIP.cpp
+  StdioFileEx.cpp
+  utf.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winioctl.h(3697): warning C4005: 'ID_CMD': redefinição de macro (compilando arquivo de origem lib\Hid.cpp)
+  c:\dev\microsip\pjsip_lib\microsip\resource.h(585): note: consulte a definição anterior de 'ID_CMD' (compilando arquivo de origem lib\Hid.cpp)
+  VisualStylesXP.cpp
+  mainDlg.cpp
+  MessagesDlg.cpp
+  microsip.cpp
+  Preview.cpp
+  RinginDlg.cpp
+  settings.cpp
+  SettingsDlg.cpp
+  ShortcutsDlg.cpp
+  StatusBar.cpp
+  Transfer.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(1544): warning C4091: 'typedef ': ignorado à esquerda de '' quando nenhuma variável é declarada (compilando arquivo de origem microsip.cpp)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(3190): warning C4091: 'typedef ': ignorado à esquerda de '' quando nenhuma variável é declarada (compilando arquivo de origem microsip.cpp)
+     Criando biblioteca C:\dev\microsip\PJSIP_lib\Release\microsip.lib e objeto C:\dev\microsip\PJSIP_lib\Release\microsip.exp
+  Gerando código
+  Finalizada a geração de código
+  microsip.vcxproj -> C:\dev\microsip\PJSIP_lib\Release\microsip.exe
+  microsip.vcxproj -> C:\dev\microsip\PJSIP_lib\Release\microsip.pdb (Full PDB)

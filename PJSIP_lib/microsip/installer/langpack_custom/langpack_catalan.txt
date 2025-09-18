@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Trucada
+[End Call]
+Finalitzar trucada
+[Contacts]
+Contactes
+[Account]
+Compte
+[Settings]
+Opcions
+[Visit Website]
+Visita la web
+[Exit]
+Surt
+[Browse...]
+Examinar...
+[Default]
+Per defecte
+[Auto Answer]
+Resposta automàtica
+[Disable Local Account]
+Desactivar compte local
+[OK]
+D'acord
+[Save]
+Desa
+[Cancel]
+Cancel·la
+[SIP Server]
+Servidor SIP
+[SIP Proxy]
+Proxy SIP
+[Domain]
+Domini
+[Password]
+Clau
+[Connecting...]
+Connectant...
+[Online]
+Connectat
+[Local]
+Local
+[Message]
+Missatge
+[Edit]
+Edita
+[Delete]
+Esborra
+[Add]
+Afegir
+[Bad Gateway]
+Porta d'enllaç incorrecta
+[Request Timeout]
+Temps d'espera esgotat
+[Number]
+Número
+[Name]
+Nom
+[Contact]
+Contacte
+[Incoming Call]
+Trucada entrant
+[Answer]
+Contestar
+[Decline]
+Rebutja
+[Calling]
+Trucant
+[Connecting]
+Connectant
+[Connected]
+Connectat
+[Auto]
+Automàtic
+[Transport]
+Transport
+[Incorrect Password]
+Clau errònia
+[Public Address]
+Adreça pública
+[Media Encryption]
+Xifratge de suports
+[Disabled]
+Desactivat
+[Optional]
+Opcional
+[Mandatory]
+Obligatori
+[STUN Server]
+Servidor STUN
+[Presence Subscription]
+Subscripció Presencia
+[Ringing]
+Trucant
+[Call Ended]
+Trucada finalitzada
+[Declined]
+Rebutjat
+[No address found]
+Adreça no trobada
+[Request Terminated]
+Sol·licitud Finalitzada
+[Away]
+Absent
+[Publish Presence]
+Publicar presencia
+[Session Progress]
+Progrés de la sessió
+[Camera]
+Càmera
+[Video Call]
+Trucada de vídeo
+[Answer with Video]
+Contestar amb video
+[View Log File]
+Veure fitxer de log
+[Microphone]
+Micròfon
+[Speaker]
+Altaveu
+[Video Codec]
+Còdecs de vídeo
+[Check for Updates]
+Comprova actualitzacions
+[Daily]
+Diari
+[Weekly]
+Setmanal
+[Monthly]
+Mensual
+[Quarterly]
+Trimestral
+[Never]
+Mai
+[Update Available]
+Actualització disponible
+[Force Codec for Incoming]
+Forçar codec d'entrada
+[Invalid Number]
+URI invàlida
+[Offline]
+Desconnectat
+[Single Call Mode]
+Mode Trucada Simple
+[Local Video]
+Video local
+[Call Transfer]
+Transferir trucada
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Trucada transferida amb èxit, desconnectant trucada
+[Hold]
+Espera
+[Transfer]
+Transferència
+[Sound Events]
+Events sonors
+[Bitrate]
+Taxa de bits
+[Login]
+Iniciar Sessió
+[Enable Log File]
+Habilitar fitxer de registre
+[Duration]
+Duració
+[Info]
+Informacio
+[display password]
+mostra la clau
+[From]
+De
+[To]
+Per a
+[Ring Device]
+Dispositiu de trucada
+[Service Unavailable]
+Servei no disponible
+[Unable to connect to remote server.]
+No es pot connectar al servidor remot.
+[Busy Here]
+Ocupat
+[Trying]
+Intentant
+[Method Not Allowed]
+Mètode no permès
+[Not Found]
+No trobat
+[Always on Top]
+Sempre visible
+[Connect]
+Connectar
+[Last Call]
+Última trucada
+[Close All]
+Tancar-ho tot
+[Copy]
+Copia
+[Select All]
+Seleccionar tot
+[Display Name]
+El teu nom
+[Remember Details]
+Recordar detalls
+[PIN]
+PIN
+[No]
+No
+[All Calls]
+Totes les trucades
+[SIP Header]
+Capçalera SIP
+[Different User]
+Usuari diferent
+[Different Domain]
+Domini diferent
+[Different User or Domain]
+Usuari o Domini diferent
+[Different Remote Domain]
+Domini remot diferent
+[Deny Incoming]
+Negar entrants
+[Allow IP Rewrite]
+Permetre reescriptura de IP
+[Directory of Users]
+Directori de Usuaris
+[Call on Remote Hold]
+Trucada en espera remota
+[Call on Local Hold]
+Trucada en espera local
+[Call on Hold]
+Trucada en espera
+[Call is Active]
+Trucada activa
+[Menu]
+Menu
+[Edit Account]
+Editar compte
+[Add Account...]
+Afegir compte...
+[Remove Account]
+Eliminar Compte
+[Make Active]
+Activa
+[Are you sure you want to remove?]
+Estàs segur que vols eliminar?
+[Call Pickup]
+Recollida de trucades
+[Speaker Level]
+Nivell altaveus
+[Microphone Level]
+Nivell de micròfon
+[Mute Speaker]
+Silenciar altaveus
+[Mute Microphone]
+Silenciar micròfon
+[Balance]
+Equilibri
+[Custom INI Path]
+Personalitzeu aquest camí
+[Contact Us]
+Contacta amb nosaltres
+[Please fill out at least the required fields marked with *.]
+Ompliu com a mínim els camps obligatoris marcats amb *.
+[Ask your SIP provider how to configure the account correctly.]
+Pregunteu al vostre proveïdor SIP com configurar correctament el compte.
+[Time]
+Temps
+[Phone]
+Marcació
+[Ringtone]
+So de trucada
+[Username]
+Nom Usuari
+[Do you want to update now?]
+Vols actualitzar?
+[Available Codecs]
+Codecs disponibles
+[Enabled Codecs]
+Codecs habilitats
+[Logs]
+Registre
+[Random Popup Position]
+Posició emergent aleatòria
+[Attended Transfer]
+Transferència assistida
+[Launch URL on incoming call]
+Inicieu l&#39;URL a la trucada entrant
+[Enable Local Account]
+Habilitar compte local
+[Send Crash Report]
+Enviar informe d'errors
+[Account Name]
+Nom de compte
+[Invite to Conference]
+Invitar a conferencia
+[Merge]
+Ajuntar
+[Separate]
+Separar
+[Disconnect]
+Desconectar
+[DTMF Method]
+Mètode DTMF
+[Voicemail Number]
+Número de correu de veu
+[Disable Session Timers]
+Desactivar temporitzadors de sessió
+[Microphone Amplification]
+Amplificació de micròfon
+[Software Level Adjustment]
+Ajust de Nvell per Soft
+[Shortcuts]
+Dreceres
+[Enable]
+Habilitar
+[Label]
+Etiqueta
+[Type]
+Tipus
+[Bottom Position]
+Posició inferior
+[You need to restart application for the changes to take effect.]
+Necessiteu reiniciar l'aplicació perquè els canvis tinguin efecte.
+[Handle Media Buttons]
+Manejar els botons de suports
+[Bring to Front on Incoming Call]
+Porteu endavant a la trucada entrant
+[SIP account]
+Compte SIP
+[SIP password]
+Contrasenya SIP
+[Help]
+Ajuda
+[Video Bitrate]
+Taxa de bits de vídeo
+[Control Button]
+Botó de control
+[Do Not Disturb]
+No molestar
+[Source Port]
+Port d'origen
+[RTP Ports]
+Ports RTP
+[Unregister the account when the operator is Away]
+Cancel·lar el registre del compte quan l’operador es troba fora
+[Ask for the sip USER and SECRET everytime]
+Demaneu la SUSTRADORA USUARI i SECRET cada cop
+[Import]
+Importar
+[Server]
+Servidor
+[Attendant Transfer]
+Trasllat d’assistent
+[Blind Transfer]
+Transferència a cegues
+[Redial]
+Retrucada
+[Backspace]
+Retrocés
+[Clear]
+Netejar
+[Use Space key to enable selected codec]
+Utilitzeu la tecla Space per habilitar el còdec seleccionat
+[Use Delele key to disable selected codec]
+Utilitzeu la tecla Delele per desactivar el còdec seleccionat
+[Make Inactive]
+Fer inactiu
+[Conference]
+Conferencia
+[Dialing Prefix]
+Prefix de la trucada
+[Register Refresh]
+Actualitzar el registre
+[Keep-Alive]
+Mantenir amb vida
+[Ringtone Volume]
+Volum de to
+[Call Recording]
+Gravar la trucada
+[Nameserver]
+Nom del servidor
+[Default List Action]
+Llista de accions per defecte
+[Edit Local Account]
+Edició del compte local
+[Export]
+Exportar
+[Version]
+Versió
+[Call Waiting]
+Trucada en espera
+[Ready]
+Preparat
+[Not online]
+No en línia
+[On the phone]
+Al telèfon
+[First Name]
+Nom
+[Last Name]
+Cognom
+[Phone Number]
+Número de telèfon
+[Mobile Number]
+Número de mòbil
+[E-mail Address]
+Correu electrònic
+[Address]
+Adreça
+[City]
+Ciutat
+[State]
+Estat
+[Postal Code]
+Codi Postal
+[Comment]
+Comentar
+[Extension]
+Ampliació
+[Port]
+Port
+[User ID]
+ID d&#39;usuari
+[Authentication failed]
+L&#39;autenticació ha fallat
+[API URL is empty]
+L’URL de l’API està buit
+[API connection failed]
+La connexió de l&#39;API ha fallat
+[API request failed. Response code:]
+La sol·licitud de l&#39;API ha fallat. Codi de resposta:
+[API response is empty]
+La resposta de l&#39;API està buida
+[API response parse error]
+Error d’analitzador de resposta de l’API
+[API data type is wrong]
+El tipus de dades de l&#39;API no és correcte
+[Login failed]
+Error a l&#39;iniciar sessió
+[Request failed]
+La sol·licitud ha fallat
+[close window to ignore call]
+tanqueu la finestra per ignorar la trucada
+[Transfer Code]
+Codi de transferència
+[Headset Support]
+Suport d’auriculars
+[Privacy Policy]
+Política de privacitat
+[sec]
+seg
+[Call Forwarding]
+Desviament de trucades
+[Are you sure you want to delete?]
+Esteu segur que voleu suprimir-lo?
+[Delete contact]
+Suprimeix el contacte
+[Account or credentials not found.]
+Compte o credencials no trobades.
+[Please fill out all required fields.]
+Empleneu tots els camps obligatoris.
+[Change Account]
+Canvia de compte
+[Dial Plan]
+Marqueu el pla
+[Disable Video]
+Desactiva el vídeo
+[Disable Messaging]
+Desactiva la missatgeria
+[Headphones]
+Auriculars
+[Are you sure you want to close the application?]
+Esteu segur que voleu tancar l&#39;aplicació?
+[Dashboard Access]
+Accés al tauler
+[Break]
+Trencar
+[Non-Telephone Work]
+Treball no telefònic
+[On Break]
+On Break
+[Telephone Work]
+Treball telefònic
+[Register]
+Registra&#39;t
+[Unregister]
+Donar de baixa
+[Options]
+Opcions
+[Delay]
+Retard
+[Caller Number]
+Número de trucada
+[Purchase a Number]
+Compreu un número
+[Line Number (4 digits)]
+Número de línia (4 dígits)
+[Line Password]
+Contrasenya de línia
+[Set Password]
+Estableix la contrasenya
+[Reset Password]
+Restablir la contrasenya
+[Open]
+Obrir
+[Unable to find default audio device]
+No s&#39;ha trobat cap dispositiu d&#39;àudio
+[Network is unreachable]
+La xarxa no és accessible
+[Allow access to the microphone in your antivirus settings.]
+Permet accés al micròfon a la configuració de l'antivirus.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Corregiu el permís del micròfon a la configuració de Windows (Configuració de Windows =&gt; Privadesa =&gt; Micròfon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Calen altaveus i micròfon. Per fer trucades, heu de tenir un dispositiu de so d’entrada i sortida al sistema.
+[Canceled]
+Cancel·lat
+[Unknown format]
+Format desconegut
+[Softphone is not initialized. Check your settings.]
+El telèfon mòbil no està inicialitzat. Comproveu la configuració.
+[Unable to initialize network sockets.]
+No es poden inicialitzar els sockets de xarxa.
+[Starred]
+Destacat
+[Run at System Startup]
+Executeu-lo a l’inici del sistema
+[Run Batch]
+Executar el lot
+[Call URL]
+URL de trucada
+[Call All]
+Truqueu a tots
+[Custom]
+Personalitzat
+[Take Back]
+Tornar
+[Add Contact]
+Afegeix contacte
+[Incorrect dialing or non-existent number]
+Marcació incorrecta o número inexistent
+[Profile]
+Perfil
+[Use Outbound Proxy]
+Utilitzeu el servidor intermediari de sortida
+[End]
+Finalitzar trucada
+[Address Incomplete]
+Adreça incompleta
+[Not acceptable here]
+No és acceptable aquí
+[Direct Transfer]
+Transferència directa
+[Idle]
+Ociós
+[Toggle]
+Commuta
+[Enter Password]
+Introduir la contrasenya
+[Connection refused]
+Connexió rebutjada
+[Connection timed out]
+Temps de connexió esgotat
+[Cannot get IP address of the called host]
+No es pot obtenir l&#39;adreça IP de l&#39;amfitrió cridat
+[Answered Elsewhere]
+Resposta en un altre lloc
+[Missed Call]
+Trucada perduda
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Voleu suprimir les dades d&#39;usuari i la configuració del programa? Aquesta acció no es pot desfer.
+[Unavailable]
+No disponible
+[Call Limit]
+Límit de trucades
+[Hide Caller ID]
+Amaga l&#39;identificador de trucada
+[External Program]
+Programa Extern
+[]

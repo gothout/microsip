@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Κλήση
+[End Call]
+Τερματισμός κλήσης
+[Contacts]
+Επαφές
+[Account]
+Λογαριασμός
+[Settings]
+Ρυθμίσεις
+[Visit Website]
+Επίσκεψη στην ιστοσελίδα
+[Exit]
+Έξοδος
+[Browse...]
+Εύρεση...
+[Default]
+Προεπιλογή
+[Auto Answer]
+Αυτόματη απάντηση
+[Disable Local Account]
+Απενεργοποίηση τοπικού λογαριασμού
+[OK]
+Εντάξει
+[Save]
+Αποθήκευση
+[Cancel]
+Ακύρωση
+[SIP Server]
+Διακομιστής SIP
+[SIP Proxy]
+Διαμεσολαβητής SIP
+[Domain]
+Τομέας
+[Password]
+Kωδικός πρόσβασης
+[Connecting...]
+Σύνδεση...
+[Online]
+Σε σύνδεση
+[Local]
+Τοπική
+[Message]
+Μήνυμα
+[Edit]
+Επεξεργασία
+[Delete]
+Διαγραφή
+[Add]
+Προσθήκη
+[Bad Gateway]
+Εσφαλμένη πύλη
+[Request Timeout]
+Λήξη χρονικού ορίου
+[Number]
+Νούμερο
+[Name]
+Όνομα
+[Contact]
+Επαφή
+[Incoming Call]
+Εισερχόμενη κλήση
+[Answer]
+Απάντηση
+[Decline]
+Απόρριψη
+[Calling]
+Κλήση
+[Connecting]
+Σύνδεση
+[Connected]
+Συνδέθηκε
+[Auto]
+Αυτόματα
+[Transport]
+Μεταφορά
+[Incorrect Password]
+Εσφαλμένος κωδικός πρόσβασης
+[Public Address]
+Δημόσια διεύθυνση
+[Media Encryption]
+Κρυπτογράφηση πολυμέσων
+[Disabled]
+Απενεργοποιημένη
+[Optional]
+Προαιρετικά
+[Mandatory]
+Υποχρεωτικά
+[STUN Server]
+Διακομιστής STUN
+[Presence Subscription]
+Συνδρομή παρουσίας
+[Ringing]
+Κουδούνισμα
+[Call Ended]
+Η κλήση τερματίστηκε
+[Declined]
+Απορρίφθηκε
+[No address found]
+Δεν βρέθηκε η διεύθυνση
+[Request Terminated]
+Το αίτημα τερματίστηκε
+[Away]
+Απουσιάζω
+[Publish Presence]
+Δημοσίευση παρουσίας
+[Session Progress]
+Πρόοδος Συνεδρίας
+[Camera]
+Κάμερα
+[Video Call]
+Βιντεοκλήση
+[Answer with Video]
+Απάντηση με βίντεο
+[View Log File]
+Προβολή αρχείου καταγραφής
+[Microphone]
+Μικρόφωνο
+[Speaker]
+Ηχείο
+[Video Codec]
+Κωδικοποιητής βίντεο
+[Check for Updates]
+Έλεγχος για ενημερώσεις
+[Daily]
+Καθημερινά
+[Weekly]
+Κάθε εβδομάδα
+[Monthly]
+Κάθε μήνα
+[Quarterly]
+Κάθε τρίμηνο
+[Never]
+Ποτέ
+[Update Available]
+Διαθέσιμη Ενημέρωση
+[Force Codec for Incoming]
+Εξαναγκασμός κωδικοποιητή για εισερχόμενες
+[Invalid Number]
+Μη Έγκυρος Αριθμός
+[Offline]
+Εκτός σύνδεσης
+[Single Call Mode]
+Ενιαίος τρόπος κλήσης
+[Local Video]
+Τοπικό βίντεο
+[Call Transfer]
+Μεταφορά κλήσης
+[final]
+τελικό
+[Call transfered successfully, disconnecting call]
+Η κλήση μεταφέρθηκε επιτυχώς. Αποσύνδεση κλήσης
+[Hold]
+Αναμονή
+[Transfer]
+Μεταφορά
+[Sound Events]
+Αναπαραγωγή τοπικών DTMF
+[Bitrate]
+Ρυθμός bit
+[Login]
+Σύνδεση
+[Enable Log File]
+Ενεργοποίηση αρχείου καταγραφής
+[Duration]
+Διάρκεια
+[Info]
+Πληροφορίες
+[display password]
+Εμφάνιση κωδικού
+[From]
+Από
+[To]
+Σε
+[Ring Device]
+Κουδούνισμα συσκευής
+[Service Unavailable]
+Η υπηρεσία δεν είναι διαθέσιμη
+[Unable to connect to remote server.]
+Δεν είναι δυνατή η σύνδεση σε απομακρυσμένο διακομιστή.
+[Busy Here]
+Απασχολημένο
+[Trying]
+Προσπάθεια
+[Method Not Allowed]
+Η μέθοδος δεν επιτρέπεται
+[Not Found]
+Δεν βρέθηκε
+[Always on Top]
+Πάντα στην κορυφή
+[Connect]
+Σύνδεση
+[Last Call]
+Τελευταία κλήση
+[Close All]
+Κλείσιμο όλων
+[Copy]
+Αντιγραφή
+[Select All]
+Επιλογή όλων
+[Display Name]
+Το όνομά σου
+[Remember Details]
+Απομνημόνευση λεπτομεριών
+[PIN]
+ΚΑΡΦΙΤΣΑ
+[No]
+Όχι
+[All Calls]
+Όλες οι κλήσεις
+[SIP Header]
+Κεφαλίδα SIP
+[Different User]
+Διαφορετικός χρήστης
+[Different Domain]
+Διαφορετικός τομέας
+[Different User or Domain]
+Διαφορετικός χρήστης ή τομέας
+[Different Remote Domain]
+Διαφορετικός απομακρυσμένος τομέας
+[Deny Incoming]
+Φραγή εισερχομένων
+[Allow IP Rewrite]
+Να επιτρέπεται η επανεγγραφή IP
+[Directory of Users]
+Λίστα χρηστών
+[Call on Remote Hold]
+Κλήση σε απομακρυσμένη αναμονή
+[Call on Local Hold]
+Κλήση σε τοπική αναμονή
+[Call on Hold]
+Κλήση σε αναμονή
+[Call is Active]
+Η κλήση είναι ενεργή
+[Menu]
+Μενού
+[Edit Account]
+Επεξεργασία λογαριασμού
+[Add Account...]
+Προσθήκη λογαριασμού...
+[Remove Account]
+Αφαίρεση λογαριασμού
+[Make Active]
+Ενεργοποίηση
+[Are you sure you want to remove?]
+Είστε σίγουροι ότι θέλετε να αφαιρεθεί;
+[Call Pickup]
+Συλλογή κλήσης
+[Speaker Level]
+Ένταση ηχείου
+[Microphone Level]
+Ένταση μικροφώνου
+[Mute Speaker]
+Σίγαση ηχείου
+[Mute Microphone]
+Σίγαση μικροφώνου
+[Balance]
+Ισορροπία
+[Custom INI Path]
+Προσαρμογή αυτής της διαδρομής
+[Contact Us]
+Επικοινωνήστε μαζί μας
+[Please fill out at least the required fields marked with *.]
+Συμπληρώστε τα υποχρεωτικά πεδία που είναι σημειωμένα με *.
+[Ask your SIP provider how to configure the account correctly.]
+Ρωτήστε τον πάροχο SIP τηλεφωνίας για την σωστή ρύθμιση του λογαριασμού.
+[Time]
+Χρόνος
+[Phone]
+Πληκτρολόγιο
+[Ringtone]
+Ήχος κουδουνίσματος
+[Username]
+Όνομα Χρήστη
+[Do you want to update now?]
+Θέλετε να ενημερώσετε τώρα;
+[Available Codecs]
+Διαθέσιμοι Κωδικοποιητές
+[Enabled Codecs]
+Ενεργοποιημένοι Κωδικοποιητές
+[Logs]
+Κλήσεις
+[Random Popup Position]
+Τυχαία θέση αναδυόμενου παραθύρου
+[Attended Transfer]
+Μεταφορά κατόπιν συνομιλίας
+[Launch URL on incoming call]
+Εκκινήστε τη διεύθυνση URL στην εισερχόμενη κλήση
+[Enable Local Account]
+Ενεργοποίηση τοπικού λογαριασμού
+[Send Crash Report]
+Αποστολή αναφοράς προβλήματος
+[Account Name]
+Όνομα λογαριασμού
+[Invite to Conference]
+Πρόσκληση σε Συνδιάσκεψη
+[Merge]
+Συγχώνευση
+[Separate]
+Διαχωρισμός
+[Disconnect]
+Αποσύνδεση
+[DTMF Method]
+Μέθοδος DTMF
+[Voicemail Number]
+Αριθμός Αυτόματου Τηλεφωνητή
+[Disable Session Timers]
+Απενεργοποίηση χρονομέτρων συνεδρίας
+[Microphone Amplification]
+Ενίσχυση Μικροφώνου
+[Software Level Adjustment]
+Επίπεδο προσαρμογής λογισμικού
+[Shortcuts]
+Συντομεύσεις
+[Enable]
+Ενεργοποίηση
+[Label]
+Ετικέτα
+[Type]
+Τύπος
+[Bottom Position]
+Κάτω Θέση
+[You need to restart application for the changes to take effect.]
+Θα πρέπει να επανεκκινήσετε την εφαρμογή για να εφαρμοστούν οι αλλαγές.
+[Handle Media Buttons]
+Διαχείριση πλήκτρων Μέσων Ενημέρωσης
+[Bring to Front on Incoming Call]
+Μεταφορά προς τα εμπρός για εισερχόμενη κλήση
+[SIP account]
+Λογαριασμός SIP
+[SIP password]
+SIP κωδικό πρόσβασης
+[Help]
+Βοήθεια
+[Video Bitrate]
+Bitrate των βίντεο
+[Control Button]
+Πλήκτρο Ελέγχου
+[Do Not Disturb]
+Μην Ενοχλείτε
+[Source Port]
+Πυγαία θύρα
+[RTP Ports]
+Θύρα RTP
+[Unregister the account when the operator is Away]
+Καταργήστε την καταχώριση του λογαριασμού όταν ο χειριστής είναι εκτός λειτουργίας
+[Ask for the sip USER and SECRET everytime]
+Ζητήστε τη γουλιά USER και SECRET κάθε φορά
+[Import]
+Εισαγωγη
+[Server]
+Υπηρέτης
+[Attendant Transfer]
+Μεταφορά του συνοδού
+[Blind Transfer]
+Μεταφορά τυφλών
+[Redial]
+Επανάκληση
+[Backspace]
+Πίσω
+[Clear]
+Εκκαθάριση
+[Use Space key to enable selected codec]
+Χρησιμοποιήστε το πλήκτρο "Space" για να ενεργοποιήσετε τον επιλεγμένο κωδικοποιητή
+[Use Delele key to disable selected codec]
+Χρησιμοποιήστε το πλήκτρο "Delete" για να απενεργοποιήσετε τον επιλεγμένο κωδικοποιητή
+[Make Inactive]
+Αδρανοποίηση
+[Conference]
+Συνδιάσκεψη
+[Dialing Prefix]
+Πρόθεμα κλήσης
+[Register Refresh]
+Ανανέωση εγγραφής
+[Keep-Alive]
+Διατήρηση
+[Ringtone Volume]
+Ένταση ήχου κλήσης
+[Call Recording]
+Ηχογράφηση κλήσης
+[Nameserver]
+Nameserver
+[Default List Action]
+Προεπιλεγμένη Ενέργεια Λίστας
+[Edit Local Account]
+Επεξεργασία τοπικού λογαριασμού
+[Export]
+Εξαγωγή
+[Version]
+Εκδοχή
+[Call Waiting]
+Αναμονή κλήσης
+[Ready]
+Έτοιμο
+[Not online]
+Χωρίς σύνδεση
+[On the phone]
+Στο τηλέφωνο
+[First Name]
+Ονομα
+[Last Name]
+Επίθετο
+[Phone Number]
+Τηλεφωνικό νούμερο
+[Mobile Number]
+Αριθμός κινητού
+[E-mail Address]
+Διεύθυνση E-mail
+[Address]
+Διεύθυνση
+[City]
+Πόλη
+[State]
+Kατάσταση
+[Postal Code]
+Ταχυδρομικός Κώδικας
+[Comment]
+Σχόλιο
+[Extension]
+Επέκταση
+[Port]
+Λιμάνι
+[User ID]
+ταυτότητα χρήστη
+[Authentication failed]
+Η ταυτοποίηση απέτυχε
+[API URL is empty]
+Το URL API είναι κενό
+[API connection failed]
+Η σύνδεση API απέτυχε
+[API request failed. Response code:]
+Το αίτημα API απέτυχε. Κωδικός απάντησης:
+[API response is empty]
+Η απόκριση API είναι κενή
+[API response parse error]
+Σφάλμα ανάλυσης απόκρισης API
+[API data type is wrong]
+Ο τύπος δεδομένων API είναι λάθος
+[Login failed]
+Η σύνδεση απέτυχε
+[Request failed]
+Αίτημα απέτυχε
+[close window to ignore call]
+κλείσιμο παραθύρου για να αγνοήσετε την κλήση
+[Transfer Code]
+Κωδικός μεταφοράς
+[Headset Support]
+Υποστήριξη ακουστικών
+[Privacy Policy]
+Πολιτική απορρήτου
+[sec]
+δευτ
+[Call Forwarding]
+Προώθηση κλήσεων
+[Are you sure you want to delete?]
+Είστε βέβαιοι ότι θέλετε να διαγράψετε;
+[Delete contact]
+Διαγραφή επαφής
+[Account or credentials not found.]
+Δεν βρέθηκε λογαριασμός ή διαπιστευτήρια.
+[Please fill out all required fields.]
+Συμπληρώστε όλα τα απαιτούμενα πεδία.
+[Change Account]
+Αλλαγή λογαριασμού
+[Dial Plan]
+Πρόγραμμα κλήσης
+[Disable Video]
+Απενεργοποίηση βίντεο
+[Disable Messaging]
+Απενεργοποίηση μηνυμάτων
+[Headphones]
+Ακουστικά
+[Are you sure you want to close the application?]
+Είστε βέβαιοι ότι θέλετε να κλείσετε την εφαρμογή;
+[Dashboard Access]
+Πρόσβαση στο ταμπλό
+[Break]
+Διακοπή
+[Non-Telephone Work]
+Μη τηλεφωνική εργασία
+[On Break]
+Σε διάλειμμα
+[Telephone Work]
+Τηλεφωνική εργασία
+[Register]
+Εγγραφή
+[Unregister]
+Κατάργηση εγγραφής
+[Options]
+Επιλογές
+[Delay]
+Καθυστέρηση
+[Caller Number]
+Αριθμός καλούντος
+[Purchase a Number]
+Αγοράστε έναν αριθμό
+[Line Number (4 digits)]
+Αριθμός γραμμής (4 ψηφία)
+[Line Password]
+Κωδικός γραμμής
+[Set Password]
+Ορίστε κωδικό
+[Reset Password]
+Επαναφέρετε τον κωδικό πρόσβασης
+[Open]
+Για να ανοίξω
+[Unable to find default audio device]
+Δεν βρέθηκε συσκευή ήχου
+[Network is unreachable]
+το δίκτυο είναι μη προσβάσιμο
+[Allow access to the microphone in your antivirus settings.]
+Επιτρέψτε την πρόσβαση στο μικρόφωνο στις ρυθμίσεις προστασίας από ιούς.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Διορθώστε την άδεια μικροφώνου στις ρυθμίσεις των Windows (Ρυθμίσεις Windows =&gt; Απόρρητο =&gt; Μικρόφωνο).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Απαιτούνται ηχεία και μικρόφωνο. Για να πραγματοποιήσετε κλήσεις πρέπει να έχετε συσκευή ήχου εισόδου και εξόδου στο σύστημά σας.
+[Canceled]
+Ακυρώθηκε
+[Unknown format]
+Άγνωστη μορφή
+[Softphone is not initialized. Check your settings.]
+Το Softphone δεν έχει αρχικοποιηθεί. Ελέγξτε τις ρυθμίσεις σας.
+[Unable to initialize network sockets.]
+Δεν ήταν δυνατή η προετοιμασία sockets δικτύου.
+[Starred]
+Με αστέρι
+[Run at System Startup]
+Εκτέλεση κατά την εκκίνηση συστήματος
+[Run Batch]
+Εκτέλεση παρτίδας
+[Call URL]
+URL κλήσης
+[Call All]
+Καλέστε όλους
+[Custom]
+Προσαρμοσμένο
+[Take Back]
+Πάρε πίσω
+[Add Contact]
+Προσθήκη επαφής
+[Incorrect dialing or non-existent number]
+Λανθασμένη κλήση ή ανύπαρκτος αριθμός
+[Profile]
+Προφίλ
+[Use Outbound Proxy]
+Χρησιμοποιήστε Outbound Proxy
+[End]
+Τερματισμός
+[Address Incomplete]
+Η διεύθυνση δεν είναι ολοκληρωμένη
+[Not acceptable here]
+Δεν είναι αποδεκτό εδώ
+[Direct Transfer]
+Απευθείας Μεταφορά
+[Idle]
+Αδρανής
+[Toggle]
+Μεταβάλλω
+[Enter Password]
+Εισάγετε τον κωδικό πρόσβασης
+[Connection refused]
+Η σύνδεση απορρίφθηκε
+[Connection timed out]
+Λήξη χρονικού ορίου σύνδεσης
+[Cannot get IP address of the called host]
+Δεν είναι δυνατή η λήψη της διεύθυνσης IP του καλούμενου κεντρικού υπολογιστή
+[Answered Elsewhere]
+Απάντησε αλλού
+[Missed Call]
+Αναπάντητη κλήση
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Θέλετε να διαγράψετε τα δεδομένα χρήστη και τις ρυθμίσεις προγράμματος; Αυτή η πράξη δε μπορεί να αναιρεθεί.
+[Unavailable]
+Μη διαθέσιμο
+[Call Limit]
+Όριο κλήσεων
+[Hide Caller ID]
+Απόκρυψη ταυτότητας καλούντος
+[External Program]
+Εξωτερικό πρόγραμμα
+[]

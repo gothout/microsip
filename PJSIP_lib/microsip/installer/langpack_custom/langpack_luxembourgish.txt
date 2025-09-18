@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Rufft un
+[End Call]
+End Call
+[Contacts]
+Kontakter
+[Account]
+Kont
+[Settings]
+Astellungen
+[Visit Website]
+Besicht Websäit
+[Exit]
+Sortie
+[Browse...]
+Duerchsichen ...
+[Default]
+Standardastellen
+[Auto Answer]
+Auto Äntwert
+[Disable Local Account]
+Desaktivéiere Lokale Kont
+[OK]
+ok
+[Save]
+Späicheren
+[Cancel]
+Ofbriechen
+[SIP Server]
+SIP Server
+[SIP Proxy]
+SIP Proxy
+[Domain]
+Domain
+[Password]
+Passwuert
+[Connecting...]
+Verbannen ...
+[Online]
+Online
+[Local]
+Lokal
+[Message]
+Message
+[Edit]
+Ännerung
+[Delete]
+Läschen
+[Add]
+Füügt
+[Bad Gateway]
+Schlecht Gateway
+[Request Timeout]
+Ufro Timeout
+[Number]
+Zuel
+[Name]
+Numm
+[Contact]
+Kontaktéiert
+[Incoming Call]
+Inkommende Uruff
+[Answer]
+Äntwert
+[Decline]
+Ënnergang
+[Calling]
+Uruff
+[Connecting]
+Verbindung
+[Connected]
+Verbonne
+[Auto]
+Auto
+[Transport]
+Transport
+[Incorrect Password]
+Falscht Passwuert
+[Public Address]
+Ëffentlech Adress
+[Media Encryption]
+Media Verschlësselung
+[Disabled]
+Behënnert
+[Optional]
+Fakultativ
+[Mandatory]
+Obligatoresch
+[STUN Server]
+STUN Server
+[Presence Subscription]
+Präsenz Abonnement
+[Ringing]
+Belsch
+[Call Ended]
+Rufft ofgeschloss
+[Declined]
+Ofgeleent
+[No address found]
+Keng Adress fonnt
+[Request Terminated]
+Ufro ofgeschloss
+[Away]
+Auswee
+[Publish Presence]
+Präsenz verëffentlechen
+[Session Progress]
+Sessiouns Fortschrëtter
+[Camera]
+Kamera
+[Video Call]
+Video Call
+[Answer with Video]
+Äntwert mat Video
+[View Log File]
+View Log Datei
+[Microphone]
+Mikrofon
+[Speaker]
+Spriecher
+[Video Codec]
+Video Codec
+[Check for Updates]
+Préift fir Updates
+[Daily]
+Deeglech
+[Weekly]
+Deeglech
+[Monthly]
+Mount
+[Quarterly]
+Véierel
+[Never]
+Nie
+[Update Available]
+Update verfügbar
+[Force Codec for Incoming]
+Force Codec fir Inkommende
+[Invalid Number]
+Ongëlteg URI
+[Offline]
+Offline
+[Single Call Mode]
+Single Call Mode
+[Local Video]
+Lokale Video
+[Call Transfer]
+Call Transfer
+[final]
+endgülteg
+[Call transfered successfully, disconnecting call]
+Ruff erfollegräich iwwerdroe, trennt d&#39;App un
+[Hold]
+Stoe bleiwen
+[Transfer]
+Iwwerweisung
+[Sound Events]
+Toun Evenementer
+[Bitrate]
+Bitrate
+[Login]
+Login
+[Enable Log File]
+Aktivéiert Log Datei
+[Duration]
+Dauer
+[Info]
+Info
+[display password]
+Passwuert uweisen
+[From]
+Vun
+[To]
+Zu
+[Ring Device]
+Ring Gerät
+[Service Unavailable]
+Service net erreechbar
+[Unable to connect to remote server.]
+Kann net mam Remote Server verbannen.
+[Busy Here]
+Beschäftegt Hei
+[Trying]
+Probéieren
+[Method Not Allowed]
+Method net erlaabt
+[Not Found]
+Net fonnt
+[Always on Top]
+Ëmmer uewen
+[Connect]
+Konnektéieren
+[Last Call]
+Leschte Uruff
+[Close All]
+Zoumaachen All
+[Copy]
+Kopie
+[Select All]
+Alles auswielen
+[Display Name]
+Unzeigenumm
+[Remember Details]
+Erënnert Detailer
+[PIN]
+PIN
+[No]
+Nee
+[All Calls]
+All Uruff
+[SIP Header]
+SIP Header
+[Different User]
+Verschidde User
+[Different Domain]
+Verschidde Domain
+[Different User or Domain]
+Verschidde User oder Domain
+[Different Remote Domain]
+Verschidde Remote Domain
+[Deny Incoming]
+Incomer ofleenen
+[Allow IP Rewrite]
+Erlaabt d&#39;IP iwwerschreiwe
+[Directory of Users]
+Verzeechnes vun de Benotzer
+[Call on Remote Hold]
+Call op Remote Hold
+[Call on Local Hold]
+Call op Lokal Hold
+[Call on Hold]
+Call um Hold
+[Call is Active]
+Call ass aktiv
+[Menu]
+Menu
+[Edit Account]
+Kont änneren
+[Add Account...]
+Füügt e Kont op ...
+[Remove Account]
+Ewechzehuelen Kont
+[Make Active]
+Maacht Aktiv
+[Are you sure you want to remove?]
+Sidd Dir sécher, datt Dir wëllt ewechhuelen?
+[Call Pickup]
+Call Pickup
+[Speaker Level]
+Speaker Level
+[Microphone Level]
+Mikrofon Niveau
+[Mute Speaker]
+Mute Speaker
+[Mute Microphone]
+Mute Mikrofon
+[Balance]
+Gläichgewiicht
+[Custom INI Path]
+Custom Dëst Path
+[Contact Us]
+Kontaktéiert eis
+[Please fill out at least the required fields marked with *.]
+Fëllt d&#39;mannst déi erfuerderlech Felder mat * un.
+[Ask your SIP provider how to configure the account correctly.]
+Frot Äre SIP Provider wéi Dir de Kont korrekt konfiguréiert.
+[Time]
+Zäit
+[Phone]
+Telefon
+[Ringtone]
+Ringtone
+[Username]
+Benotzernumm
+[Do you want to update now?]
+Wëllt Dir Iech elo aktualiséieren?
+[Available Codecs]
+Verfügbar Codecs
+[Enabled Codecs]
+Aktivéiert Codecs
+[Logs]
+Logbicher
+[Random Popup Position]
+Random Popup Positioun
+[Attended Transfer]
+Opgeholl Transfer
+[Launch URL on incoming call]
+Start URL op en Opruff
+[Enable Local Account]
+Aktivéiert Lokal Kont
+[Send Crash Report]
+Schéckt Crash Report
+[Account Name]
+Benotzernumm
+[Invite to Conference]
+Invitéieren op Konferenz
+[Merge]
+goen
+[Separate]
+Separat
+[Disconnect]
+Trennen
+[DTMF Method]
+DTMF Method
+[Voicemail Number]
+Voicemail Zuel
+[Disable Session Timers]
+Desaktivéiere Sessioun Timer
+[Microphone Amplification]
+Mikrofon Amplifikatioun
+[Software Level Adjustment]
+Software Niveau Upassung
+[Shortcuts]
+Ofkiirzungen
+[Enable]
+Aktivéiert
+[Label]
+Label
+[Type]
+Aart
+[Bottom Position]
+Drënner Positioun
+[You need to restart application for the changes to take effect.]
+Dir musst d&#39;Applikatioun nei starten fir datt d&#39;Ännerungen a Kraaft triede.
+[Handle Media Buttons]
+Handelen Medien Knäppchen
+[Bring to Front on Incoming Call]
+Bréngt op Front op Inkommende Call
+[SIP account]
+SIP Kont
+[SIP password]
+SIP Passwuert
+[Help]
+Hëllef
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Kontroll Knäppchen
+[Do Not Disturb]
+Net stéieren
+[Source Port]
+Quelltext Port
+[RTP Ports]
+RTP Häfen
+[Unregister the account when the operator is Away]
+Spär de Kont un wann de Bedreiwer fort ass
+[Ask for the sip USER and SECRET everytime]
+Bitt de Schlupp USER a SECRET all Kéier
+[Import]
+Importéieren
+[Server]
+Server
+[Attendant Transfer]
+Begleetpersoun Transfer
+[Blind Transfer]
+Blind Transfer
+[Redial]
+Résidentschaft
+[Backspace]
+Réckruff
+[Clear]
+Kloer
+[Use Space key to enable selected codec]
+Benotzt Space Schlëssel fir gewielte Codec z&#39;aktivéieren
+[Use Delele key to disable selected codec]
+Benotzt Delele Schlëssel fir gewielte Codec auszeschalten
+[Make Inactive]
+Maacht inaktiv
+[Conference]
+Konferenz
+[Dialing Prefix]
+Wielt Präfix
+[Register Refresh]
+Registréiert Iech nei
+[Keep-Alive]
+Keep-Alive
+[Ringtone Volume]
+Ringtone Volumen
+[Call Recording]
+Call Opname
+[Nameserver]
+Namenserver
+[Default List Action]
+Standard Lëscht Action
+[Edit Local Account]
+Lokal Kont änneren
+[Export]
+Export
+[Version]
+Versioun
+[Call Waiting]
+Rufft waart
+[Ready]
+Prett
+[Not online]
+Net online
+[On the phone]
+Op der Telefon
+[First Name]
+Virnumm
+[Last Name]
+Familljennumm
+[Phone Number]
+Telefonsnummer
+[Mobile Number]
+Handysnummer
+[E-mail Address]
+E-Mailadress
+[Address]
+Adress
+[City]
+Stad
+[State]
+Staat
+[Postal Code]
+Postleitzuel
+[Comment]
+Kommentéiert
+[Extension]
+Extensioun
+[Port]
+Hafen
+[User ID]
+Benotzer ID
+[Authentication failed]
+Authentificatioun huet net gescheitert
+[API URL is empty]
+API URL ass eidel
+[API connection failed]
+API Verbindung net
+[API request failed. Response code:]
+API Ufro ausgefall. Äntwert Code:
+[API response is empty]
+API Äntwert ass eidel
+[API response parse error]
+API Äntwert Parse Feeler
+[API data type is wrong]
+API Daten Typ ass falsch
+[Login failed]
+Login net gescheitert
+[Request failed]
+Ufro ausgefall
+[close window to ignore call]
+Fënster zoumaachen fir Uriff ze ignoréieren
+[Transfer Code]
+Transfermaart Code
+[Headset Support]
+Headset Support
+[Privacy Policy]
+Privatsphär Politik
+[sec]
+sec
+[Call Forwarding]
+Call Forwarding
+[Are you sure you want to delete?]
+Sidd Dir sécher datt Dir wëllt läschen?
+[Delete contact]
+Kontakt läschen
+[Account or credentials not found.]
+Kont oder Umeldungsinformatioun net fonnt
+[Please fill out all required fields.]
+Fëllt w.e.g. all erfuerderlech Felder aus.
+[Change Account]
+Kont änneren
+[Dial Plan]
+Dial Plang
+[Disable Video]
+Auszeschalten Video
+[Disable Messaging]
+Desaktivéiere Messagerie
+[Headphones]
+Kopfhörer
+[Are you sure you want to close the application?]
+Sidd Dir sécher datt Dir d&#39;Applikatioun wëllt zoumaachen?
+[Dashboard Access]
+Dashboard Zougang
+[Break]
+Break
+[Non-Telephone Work]
+Net-Telefon Aarbecht
+[On Break]
+Op Break
+[Telephone Work]
+Telefon Aarbecht
+[Register]
+Registréiert
+[Unregister]
+Enregistréieren
+[Options]
+Optiounen
+[Delay]
+Verzögerung
+[Caller Number]
+Uruff Nummer
+[Purchase a Number]
+Kaaft eng Nummer
+[Line Number (4 digits)]
+Linnennummer (4 Zifferen)
+[Line Password]
+Linn Passwuert
+[Set Password]
+Setzt Passwuert
+[Reset Password]
+Passwuert zrécksetzen
+[Open]
+Op maachen
+[Unable to find default audio device]
+Keen Audioapparat fonnt
+[Network is unreachable]
+Netz ass net erreechbar
+[Allow access to the microphone in your antivirus settings.]
+Erlaabt Zougang zum Mikrofon an Ären Antivirus Astellungen.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Fix Mikrofon Erlaabnis an de Windows Astellungen (Windows Parameteren =&gt; Privatsphär =&gt; Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Spriecher a Mikro sinn allenzwee erfuerderlech. Fir Uriff ze maachen musst Dir Input an Output Soundapparat an Ärem System hunn.
+[Canceled]
+Annuléiert
+[Unknown format]
+Onbekannt Format
+[Softphone is not initialized. Check your settings.]
+Softphone ass net initialiséiert. Kontrolléiert Är Astellungen.
+[Unable to initialize network sockets.]
+Kann net Netzwierksockets initialiséieren.
+[Starred]
+Stär
+[Run at System Startup]
+Run beim System Startup
+[Run Batch]
+Run Batch
+[Call URL]
+Call URL
+[Call All]
+Call All
+[Custom]
+Benotzerdefinéiert
+[Take Back]
+Zeréck huelen
+[Add Contact]
+Kontakt dobäisetzen
+[Incorrect dialing or non-existent number]
+Falsch Uruff oder keng Nummer
+[Profile]
+Profil
+[Use Outbound Proxy]
+Benotzt Outbound Proxy
+[End]
+End Call
+[Address Incomplete]
+Adress Onkomplett
+[Not acceptable here]
+Net akzeptabel hei
+[Direct Transfer]
+Direkt Transfer
+[Idle]
+Idle
+[Toggle]
+Toggle
+[Enter Password]
+Gitt Passwuert
+[Connection refused]
+Verbindung refuséiert
+[Connection timed out]
+D&#39;Verbindung ass ausgeschloss
+[Cannot get IP address of the called host]
+Kann d&#39;IP Adress vum genannten Host net kréien
+[Answered Elsewhere]
+Anzwousch anescht geäntwert
+[Missed Call]
+Verpasst Uruff
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Wëllt Dir Benotzerdaten a Programmastellungen läschen? Dës Aktioun kann net réckgängeg gemaach ginn.
+[Unavailable]
+Net verfügbar
+[Call Limit]
+Call Limit
+[Hide Caller ID]
+Verstoppen Uruffer ID
+[External Program]
+Extern Programm
+[]

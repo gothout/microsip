@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Gọi Ngay
+[End Call]
+Kết thúc
+[Contacts]
+Danh bạ
+[Account]
+Tài khoản
+[Settings]
+Cài đặt
+[Visit Website]
+Truy cập trang web
+[Exit]
+Thoát
+[Browse...]
+Chọn ...
+[Default]
+Mặc định
+[Auto Answer]
+Tự động trả lời
+[Disable Local Account]
+Vô hiệu hóa tài khoản nội bộ
+[OK]
+Đồng ý
+[Save]
+Lưu
+[Cancel]
+Đóng/Hủy
+[SIP Server]
+Máy chủ SIP
+[SIP Proxy]
+SIP Proxy
+[Domain]
+Domain
+[Password]
+Mật khẩu
+[Connecting...]
+Đang kết nối...
+[Online]
+Trực tuyến
+[Local]
+Nội bộ
+[Message]
+Tin nhắn
+[Edit]
+Chỉnh sửa
+[Delete]
+Xóa
+[Add]
+Thêm
+[Bad Gateway]
+Cổng bị lỗi
+[Request Timeout]
+Request timeout
+[Number]
+Số
+[Name]
+Tên
+[Contact]
+Liên hệ
+[Incoming Call]
+Cuộc gọi đến
+[Answer]
+Trả lời
+[Decline]
+Từ chối
+[Calling]
+Đang gọi
+[Connecting]
+Đang kết nối
+[Connected]
+Đã kết nối
+[Auto]
+Tự động
+[Transport]
+Transport
+[Incorrect Password]
+Sai mật khẩu
+[Public Address]
+Public Address
+[Media Encryption]
+Mã hóa phương tiện
+[Disabled]
+Vô hiệu hóa
+[Optional]
+Không bắt buộc
+[Mandatory]
+Bắt buộc
+[STUN Server]
+Máy chủ STUN
+[Presence Subscription]
+Đăng ký
+[Ringing]
+Đang reo
+[Call Ended]
+Cuộc gọi kết thúc
+[Declined]
+Từ chối
+[No address found]
+Không tìm thấy địa chỉ
+[Request Terminated]
+Yêu cầu chấm dứt
+[Away]
+Đi khỏi
+[Publish Presence]
+Publish Presence
+[Session Progress]
+Tiến độ phiên xử lý
+[Camera]
+Máy ảnh
+[Video Call]
+Cuộc gọi video
+[Answer with Video]
+Trả lời cuộc gọi video
+[View Log File]
+Xem file log
+[Microphone]
+Mic
+[Speaker]
+Loa ngoài
+[Video Codec]
+Mã hóa video
+[Check for Updates]
+Kiểm tra bản cập nhật
+[Daily]
+Hàng ngày
+[Weekly]
+Hàng tuần
+[Monthly]
+Hàng tháng
+[Quarterly]
+Hàng quý
+[Never]
+Không bao giờ
+[Update Available]
+Cập nhật khả dụng
+[Force Codec for Incoming]
+Bắt buộc giải mã cuộc gọi đến
+[Invalid Number]
+URI không hợp lệ
+[Offline]
+Ngoại tuyến
+[Single Call Mode]
+Chế độ cuộc gọi đơn
+[Local Video]
+Video nội bộ
+[Call Transfer]
+Chuyển cuộc gọi
+[final]
+Cuối cùng
+[Call transfered successfully, disconnecting call]
+Chuyển cuộc gọi thành công, ngắt hết kết nối
+[Hold]
+Giữ máy
+[Transfer]
+Chuyển máy
+[Sound Events]
+Sự kiện âm thanh
+[Bitrate]
+Tốc độ bit
+[Login]
+Đăng nhập
+[Enable Log File]
+Kích hoạt file log
+[Duration]
+Thời lượng
+[Info]
+Thông tin
+[display password]
+Hiển thị mật khẩu
+[From]
+Từ
+[To]
+Đến
+[Ring Device]
+Thiết bị reo chuông
+[Service Unavailable]
+Dịch vụ không sẵn sàng
+[Unable to connect to remote server.]
+Không thể kết nối với máy chủ từ xa.
+[Busy Here]
+Đang bận
+[Trying]
+Đang thử
+[Method Not Allowed]
+Phương pháp không được phép
+[Not Found]
+Không tìm thấy
+[Always on Top]
+Luôn hiện trên cùng
+[Connect]
+Kết nối
+[Last Call]
+Cuộc gọi cuối
+[Close All]
+Đóng tất cả
+[Copy]
+Sao chép
+[Select All]
+Chọn tất cả
+[Display Name]
+Tên hiển thị
+[Remember Details]
+Nhớ chi tiết
+[PIN]
+GHIM
+[No]
+Không
+[All Calls]
+Tất cả cuộc gọi
+[SIP Header]
+SIP Header
+[Different User]
+Người dùng khác
+[Different Domain]
+Domain khác
+[Different User or Domain]
+Người dùng hoặc domain khác
+[Different Remote Domain]
+Domain từ xa khác
+[Deny Incoming]
+Từ chối cuộc gọi đến
+[Allow IP Rewrite]
+Cho phép ghi đè IP
+[Directory of Users]
+Danh mục người dùng
+[Call on Remote Hold]
+Đang giữ cuộc gọi từ xa
+[Call on Local Hold]
+Đang giữ cuộc gọi nội bộ
+[Call on Hold]
+Đang giữ cuộc gọi
+[Call is Active]
+Cuộc gọi đang diễn ra
+[Menu]
+Danh mục
+[Edit Account]
+Sửa tài khoản
+[Add Account...]
+Thêm tài khoản
+[Remove Account]
+Xóa tài khoản
+[Make Active]
+Hoạt động
+[Are you sure you want to remove?]
+Bạn có chắc muốn xóa?
+[Call Pickup]
+Nhận cuộc gọi
+[Speaker Level]
+Mức độ loa
+[Microphone Level]
+Mức độ mic
+[Mute Speaker]
+Tắt loa
+[Mute Microphone]
+Tắt mic
+[Balance]
+Thăng bằng
+[Custom INI Path]
+Đường dẫn NÀY tùy chỉnh
+[Contact Us]
+Liên hệ chúng tôi
+[Please fill out at least the required fields marked with *.]
+Vui lòng điền thông tin vào các trường bắt buộc được đánh dấu *
+[Ask your SIP provider how to configure the account correctly.]
+Hỏi nhà cung cấp dịch vụ của bạn để cấu hình tài khoản một cách chính xác
+[Time]
+Thời gian
+[Phone]
+Điện thoại
+[Ringtone]
+Nhạc chuông
+[Username]
+Tên người dùng
+[Do you want to update now?]
+Bạn có muốn cập nhật ngay bây giờ?
+[Available Codecs]
+Bộ codec có sẵn
+[Enabled Codecs]
+Bộ codec được kích hoạt
+[Logs]
+Lịch sử gọi
+[Random Popup Position]
+Vị trí bật ngẫu nhiên
+[Attended Transfer]
+Chuyển cuộc gọi
+[Launch URL on incoming call]
+Khởi chạy URL khi có cuộc gọi đến
+[Enable Local Account]
+Kích hoạt tài khoản nội bộ
+[Send Crash Report]
+Báo cáo sự cố
+[Account Name]
+Tên tài khoản
+[Invite to Conference]
+Mời gọi hội nghị
+[Merge]
+Hợp nhất
+[Separate]
+Tách
+[Disconnect]
+Ngắt kết nối
+[DTMF Method]
+Phương pháp DTMF
+[Voicemail Number]
+Số hộp thư thoại
+[Disable Session Timers]
+Vô hiệu hóa bộ đếm thời gian
+[Microphone Amplification]
+Khuếch đại micro
+[Software Level Adjustment]
+Điều chỉnh phần mềm
+[Shortcuts]
+Phím tắt
+[Enable]
+Kích hoạt
+[Label]
+Nhãn
+[Type]
+Loại
+[Bottom Position]
+Vị trí dưới
+[You need to restart application for the changes to take effect.]
+Bạn cần phải khởi động lại ứng dụng để các thay đổi có hiệu lực
+[Handle Media Buttons]
+Xử lý nút phương tiện
+[Bring to Front on Incoming Call]
+Đưa lên trước khi có cuộc gọi đến
+[SIP account]
+Tài khoản SIP
+[SIP password]
+Mật khẩu SIP
+[Help]
+Giúp đỡ
+[Video Bitrate]
+Tộc độ (bit) của video
+[Control Button]
+Nút điều khiển
+[Do Not Disturb]
+Đừng làm phiền
+[Source Port]
+Cổng nguồn
+[RTP Ports]
+Cổng RTP
+[Unregister the account when the operator is Away]
+Hủy đăng ký tài khoản khi nhà điều hành vắng mặt
+[Ask for the sip USER and SECRET everytime]
+Yêu cầu nhấm nháp NGƯỜI DÙNG và BÍ MẬT mọi lúc
+[Import]
+Nhập
+[Server]
+Người phục vụ
+[Attendant Transfer]
+Chuyển tiếp viên
+[Blind Transfer]
+Chuyển mù
+[Redial]
+Gọi lại
+[Backspace]
+Xóa
+[Clear]
+Xóa hết
+[Use Space key to enable selected codec]
+Bấm “Phím dấu cách” để kích hoạt mã hóa được chọn
+[Use Delele key to disable selected codec]
+Bấm “Phím xóa” để vô hiệu mã hóa được chọn
+[Make Inactive]
+Không hoạt động
+[Conference]
+Gọi hội nghị
+[Dialing Prefix]
+Mã gọi
+[Register Refresh]
+Đăng ký Làm mới
+[Keep-Alive]
+Cố sống đi
+[Ringtone Volume]
+Âm lượng nhạc chuông
+[Call Recording]
+Thu âm cuộc gọi
+[Nameserver]
+Tên máy chủ
+[Default List Action]
+Danh sách hành động mặc định
+[Edit Local Account]
+Chỉnh sửa tài khoản cục bộ
+[Export]
+Xuất khẩu
+[Version]
+Phiên bản
+[Call Waiting]
+Chờ cuộc gọi
+[Ready]
+Sẵn sàng
+[Not online]
+Cấu hình sai tài khoản
+[On the phone]
+Trên điện thoại
+[First Name]
+Tên đầu tiên
+[Last Name]
+Họ
+[Phone Number]
+Số điện thoại
+[Mobile Number]
+Số điện thoại
+[E-mail Address]
+Địa chỉ email
+[Address]
+Địa chỉ
+[City]
+Thành phố
+[State]
+Tiểu bang
+[Postal Code]
+Mã bưu điện
+[Comment]
+Bình luận
+[Extension]
+Sự mở rộng
+[Port]
+Hải cảng
+[User ID]
+Tên người dùng
+[Authentication failed]
+Quá trình xác thực đã thất bại
+[API URL is empty]
+URL API trống
+[API connection failed]
+Kết nối API không thành công
+[API request failed. Response code:]
+Yêu cầu API không thành công. Mã phản hồi:
+[API response is empty]
+Phản hồi API trống
+[API response parse error]
+Lỗi phân tích phản hồi API
+[API data type is wrong]
+Kiểu dữ liệu API sai
+[Login failed]
+Đăng nhập thất bại
+[Request failed]
+Yêu cầu thất bại
+[close window to ignore call]
+đóng cửa sổ để bỏ qua cuộc gọi
+[Transfer Code]
+Mã chuyển khoản
+[Headset Support]
+Hỗ trợ tai nghe
+[Privacy Policy]
+Chính sách bảo mật
+[sec]
+giây
+[Call Forwarding]
+Chuyển hướng cuộc gọi
+[Are you sure you want to delete?]
+Bạn có chắc chắn muốn xóa?
+[Delete contact]
+Xóa liên lạc
+[Account or credentials not found.]
+Không tìm thấy tài GDFGDFGDFGDFGDFGDFGDFhoặc thông tin đăng nhập
+[Please fill out all required fields.]
+Vui lòng điền vào tất cả các trường bắt buộc.
+[Change Account]
+Thay đổi tài khoản
+[Dial Plan]
+Quay số kế hoạch
+[Disable Video]
+Tắt video
+[Disable Messaging]
+Tắt Nhắn tin
+[Headphones]
+Tai nghe
+[Are you sure you want to close the application?]
+Bạn có chắc chắn muốn đóng ứng dụng không?
+[Dashboard Access]
+Quyền truy cập trang tổng quan
+[Break]
+Phá vỡ
+[Non-Telephone Work]
+Công việc không qua điện thoại
+[On Break]
+Đang nghỉ
+[Telephone Work]
+Điện thoại Công việc
+[Register]
+Đăng ký
+[Unregister]
+Hủy đăng ký
+[Options]
+Tùy chọn
+[Delay]
+Sự chậm trễ
+[Caller Number]
+Số người gọi
+[Purchase a Number]
+Mua một số
+[Line Number (4 digits)]
+Số dòng (4 chữ số)
+[Line Password]
+Mật khẩu dòng
+[Set Password]
+Đặt mật khẩu
+[Reset Password]
+Đặt lại mật khẩu
+[Open]
+Mở
+[Unable to find default audio device]
+Không tìm thấy thiết bị âm thanh
+[Network is unreachable]
+Mạng là unreachable
+[Allow access to the microphone in your antivirus settings.]
+Cho phép truy DFGDFGcập vào micrô trong cài đặt chống vi-rút của bạn.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Sửa quyền đối với micrô trong cài đặt Windows (Cài đặt Windows =&gt; Quyền riêng tư =&gt; Micrô).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Loa và micrô đều được yêu cầu. Để thực hiện cuộc gọi, bạn phải có thiết bị âm thanh đầu vào và đầu ra trong hệ thống của mình.
+[Canceled]
+Đã hủy
+[Unknown format]
+Định dạng không xác định
+[Softphone is not initialized. Check your settings.]
+Softphone không được khởi tạo. Kiểm tra cài đặt của bạn.
+[Unable to initialize network sockets.]
+Không thể khởi tạo ổ cắm mạng.
+[Starred]
+Có gắn dấu sao
+[Run at System Startup]
+Chạy khi khởi động hệ thống
+[Run Batch]
+Chạy hàng loạt
+[Call URL]
+URL cuộc gọi
+[Call All]
+Gọi tất cả
+[Custom]
+Tập quán
+[Take Back]
+Lấy lại
+[Add Contact]
+Thêm liên hệ
+[Incorrect dialing or non-existent number]
+Quay số không chính xác hoặc số không tồn tại
+[Profile]
+Hồ sơ
+[Use Outbound Proxy]
+Sử dụng Proxy gửi đi
+[End]
+Kết thúc
+[Address Incomplete]
+Địa chỉ không đầyGDFGDFG đủ
+[Not acceptable here]
+Không được chấp nhận ở đây
+[Direct Transfer]
+Chuyển trực tiếp
+[Idle]
+Nhàn rỗi
+[Toggle]
+Chuyển đổi
+[Enter Password]
+Nhập mật khẩu
+[Connection refused]
+Kết nối bị từ chối
+[Connection timed out]
+Kết nối quá hạn
+[Cannot get IP address of the called host]
+Không thể lấy địa chỉ IP của máy chủ được gọi
+[Answered Elsewhere]
+Đã trả lời ở nơi khác
+[Missed Call]
+Cuộc gọi nhỡ
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Bạn có muốn xóa dữ liệu người dùng và cài đặt chương trình không? Hành động này không thể được hoàn tác.
+[Unavailable]
+Không có sẵn
+[Call Limit]
+Giới hạn cuộc gọi
+[Hide Caller ID]
+Ẩn ID người gọi
+[External Program]
+Chương trình bên ngoài
+[]

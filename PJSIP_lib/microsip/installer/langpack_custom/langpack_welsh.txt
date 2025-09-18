@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Ffoniwch
+[End Call]
+Galwad Diwedd
+[Contacts]
+Cysylltiadau
+[Account]
+Cyfrif
+[Settings]
+Gosodiadau
+[Visit Website]
+Ewch i&#39;r Wefan
+[Exit]
+Allanfa
+[Browse...]
+Porwch ...
+[Default]
+Yn ddiofyn
+[Auto Answer]
+Ateb Auto
+[Disable Local Account]
+Analluoga Gyfrif Lleol
+[OK]
+iawn
+[Save]
+Arbedwch
+[Cancel]
+Canslo
+[SIP Server]
+Gweinydd SIP
+[SIP Proxy]
+Dirprwy SIP
+[Domain]
+Parth
+[Password]
+Cyfrinair
+[Connecting...]
+Cysylltu ...
+[Online]
+Ar-lein
+[Local]
+Lleol
+[Message]
+Neges
+[Edit]
+Golygu
+[Delete]
+Dileu
+[Add]
+Ychwanegu
+[Bad Gateway]
+Porth Gwael
+[Request Timeout]
+Gofynnwch am Amser
+[Number]
+Rhif
+[Name]
+Enw
+[Contact]
+wssdggg
+[Incoming Call]
+Galwad sy&#39;n dod i mewn
+[Answer]
+Ateb
+[Decline]
+Dirywiad
+[Calling]
+Yn galw
+[Connecting]
+Cysylltu
+[Connected]
+Cysylltiedig
+[Auto]
+Auto
+[Transport]
+Trafnidiaeth
+[Incorrect Password]
+Cyfrinair anghywir
+[Public Address]
+Anerchiad Cyhoeddus
+[Media Encryption]
+Amgryptio Cyfryngau
+[Disabled]
+Anabl
+[Optional]
+Dewisol
+[Mandatory]
+Gorfodol
+[STUN Server]
+Gweinydd STUN
+[Presence Subscription]
+Tanysgrifiad Presenoldeb
+[Ringing]
+Canu
+[Call Ended]
+Galwad i ben
+[Declined]
+Dirywio
+[No address found]
+Ni chafwyd hyd i gyfeiriad
+[Request Terminated]
+Cais wedi&#39;i Derfynu
+[Away]
+I ffwrdd
+[Publish Presence]
+Cyhoeddi Presenoldeb
+[Session Progress]
+Cynnydd y Sesiwn
+[Camera]
+Camera
+[Video Call]
+Galwad Fideo
+[Answer with Video]
+Ateb gyda Fideo
+[View Log File]
+Gweld Ffeil Log
+[Microphone]
+Meicroffon
+[Speaker]
+Llefarydd
+[Video Codec]
+Codec Fideo
+[Check for Updates]
+Gwiriwch am Ddiweddariadau
+[Daily]
+Yn ddyddiol
+[Weekly]
+Wythnosol
+[Monthly]
+Yn fisol
+[Quarterly]
+Chwarterol
+[Never]
+Peidiwch byth
+[Update Available]
+Diweddariad Ar Gael
+[Force Codec for Incoming]
+Codec yr Heddlu ar gyfer dod i mewn
+[Invalid Number]
+URI annilys
+[Offline]
+All-lein
+[Single Call Mode]
+Modd Galwad Sengl
+[Local Video]
+Fideo Lleol
+[Call Transfer]
+Trosglwyddo Galwad
+[final]
+Diwedd
+[Call transfered successfully, disconnecting call]
+Trosglwyddwyd yr alwad yn llwyddiannus, gan ddatgysylltu&#39;r alwad
+[Hold]
+Daliwch
+[Transfer]
+Trosglwyddo
+[Sound Events]
+Digwyddiadau Sain
+[Bitrate]
+Bitrate
+[Login]
+Mewngofnodi
+[Enable Log File]
+Galluogi Ffeil Log
+[Duration]
+Hyd
+[Info]
+Gwybodaeth
+[display password]
+arddangos cyfrinair
+[From]
+O
+[To]
+I
+[Ring Device]
+Dyfais Ffon
+[Service Unavailable]
+Gwasanaeth Ddim ar gael
+[Unable to connect to remote server.]
+Methu cysylltu â gweinydd anghysbell.
+[Busy Here]
+Prysur Yma
+[Trying]
+Yn ceisio
+[Method Not Allowed]
+Dull Ni chaniateir
+[Not Found]
+Heb ei ddarganfod
+[Always on Top]
+Bob amser ar ben
+[Connect]
+Cysylltu
+[Last Call]
+Galwad Olaf
+[Close All]
+Caewch Bawb
+[Copy]
+Copi
+[Select All]
+Dewiswch Bawb
+[Display Name]
+Enw Arddangos
+[Remember Details]
+Cofiwch y Manylion
+[PIN]
+PIN
+[No]
+Na
+[All Calls]
+Pob Galwad
+[SIP Header]
+Pennawd SIP
+[Different User]
+Defnyddiwr gwahanol
+[Different Domain]
+Parth gwahanol
+[Different User or Domain]
+Defnyddiwr neu Barth gwahanol
+[Different Remote Domain]
+Parth o Bell gwahanol
+[Deny Incoming]
+Gwadu Dod i Mewn
+[Allow IP Rewrite]
+Caniatáu Ailysgrifennu IP
+[Directory of Users]
+Cyfeiriadur Defnyddwyr
+[Call on Remote Hold]
+Galwch ar Dal o Bell
+[Call on Local Hold]
+Galwad ar Daliad Lleol
+[Call on Hold]
+Galwch ar Dal
+[Call is Active]
+Mae Galwad yn Egnïol
+[Menu]
+Dewislen
+[Edit Account]
+Golygu Cyfrif
+[Add Account...]
+Ychwanegu Cyfrif ...
+[Remove Account]
+Dileu Cyfrif
+[Make Active]
+Gwneud yn Egnïol
+[Are you sure you want to remove?]
+Ydych chi&#39;n siŵr eich bod chi am gael gwared?
+[Call Pickup]
+Ffoniwch Pickup
+[Speaker Level]
+Lefel y Llefarydd
+[Microphone Level]
+Lefel Meicroffon
+[Mute Speaker]
+Llefarydd Mute
+[Mute Microphone]
+Meicroffon Mute
+[Balance]
+Balans
+[Custom INI Path]
+Custom Y Llwybr HWN
+[Contact Us]
+Cysylltwch â Ni
+[Please fill out at least the required fields marked with *.]
+Llenwch o leiaf y meysydd gofynnol sydd wedi&#39;u marcio â *.
+[Ask your SIP provider how to configure the account correctly.]
+Gofynnwch i&#39;ch darparwr SIP sut i ffurfweddu&#39;r cyfrif yn gywir.
+[Time]
+Amser
+[Phone]
+Ffôn
+[Ringtone]
+Tôn ffôn
+[Username]
+Enw defnyddiwr
+[Do you want to update now?]
+Ydych chi am ddiweddaru nawr?
+[Available Codecs]
+Codecau Ar Gael
+[Enabled Codecs]
+Codecau Galluogedig
+[Logs]
+Logiau
+[Random Popup Position]
+Sefyllfa Popup ar Hap
+[Attended Transfer]
+Mynychu Trosglwyddo
+[Launch URL on incoming call]
+Lansio URL ar alwad sy&#39;n dod i mewn
+[Enable Local Account]
+Galluogi Cyfrif Lleol
+[Send Crash Report]
+Anfon Adroddiad Crash
+[Account Name]
+Enw cyfrif
+[Invite to Conference]
+Gwahodd i&#39;r Gynhadledd
+[Merge]
+Rhowch gynnig
+[Separate]
+Ar wahân
+[Disconnect]
+Datgysylltwch
+[DTMF Method]
+Dull DTMF
+[Voicemail Number]
+Rhif Post Llais
+[Disable Session Timers]
+Analluoga Amseryddion Sesiwn
+[Microphone Amplification]
+Ymhelaethiad Meicroffon
+[Software Level Adjustment]
+Addasiad Lefel Meddalwedd
+[Shortcuts]
+Llwybrau byr
+[Enable]
+Galluogi
+[Label]
+Label
+[Type]
+Math
+[Bottom Position]
+Sefyllfa Gwaelod
+[You need to restart application for the changes to take effect.]
+Mae angen i chi ailgychwyn cais er mwyn i&#39;r newidiadau ddod i rym.
+[Handle Media Buttons]
+Ymdrin â Botymau Cyfryngau
+[Bring to Front on Incoming Call]
+Dewch i&#39;r Blaen ar Alwad sy&#39;n Dod i Mewn
+[SIP account]
+Cyfrif SIP
+[SIP password]
+Cyfrinair SIP
+[Help]
+Help
+[Video Bitrate]
+Fideo Bitrate
+[Control Button]
+Botwm Rheoli
+[Do Not Disturb]
+Peidiwch â Tharfu
+[Source Port]
+Port Ffynhonnell
+[RTP Ports]
+Porthladdoedd CTRh
+[Unregister the account when the operator is Away]
+Dadgofrestrwch y cyfrif pan fydd y gweithredwr i ffwrdd
+[Ask for the sip USER and SECRET everytime]
+Gofynnwch am y sip DEFNYDDWYR a SECRET bob amser
+[Import]
+Mewnforio
+[Server]
+Gweinydd
+[Attendant Transfer]
+Trosglwyddo Mynychwyr
+[Blind Transfer]
+Trosglwyddo Dall
+[Redial]
+Redial
+[Backspace]
+Backspace
+[Clear]
+Clir
+[Use Space key to enable selected codec]
+Defnyddiwch Allwedd Gofod i alluogi codec dethol
+[Use Delele key to disable selected codec]
+Defnyddiwch Allwedd Delele i analluogi codec dethol
+[Make Inactive]
+Gwneud Anactif
+[Conference]
+Cynhadledd
+[Dialing Prefix]
+Rhagddodiad Deialu
+[Register Refresh]
+Adnewyddu Cofrestr
+[Keep-Alive]
+Cadwch-Fyw
+[Ringtone Volume]
+Cyfrol Ringtone
+[Call Recording]
+Cofnodi Galwadau
+[Nameserver]
+Nameserver
+[Default List Action]
+Gweithredu Rhestr Ddiffyg
+[Edit Local Account]
+Golygu Cyfrif Lleol
+[Export]
+Allforio
+[Version]
+Fersiwn
+[Call Waiting]
+Galwad yn disgwyl
+[Ready]
+Yn barod
+[Not online]
+Ddim ar-lein
+[On the phone]
+Ar y ffon
+[First Name]
+Enw cyntaf
+[Last Name]
+Enw olaf
+[Phone Number]
+Rhif ffôn
+[Mobile Number]
+Rhif ffôn Symudol
+[E-mail Address]
+Cyfeiriad ebost
+[Address]
+Cyfeiriad
+[City]
+Dinas
+[State]
+Nodwch
+[Postal Code]
+Côd Post
+[Comment]
+Sylw
+[Extension]
+Estyniad
+[Port]
+Porthladd
+[User ID]
+ID Defnyddiwr
+[Authentication failed]
+Methodd y dilysu
+[API URL is empty]
+Mae URL API yn wag
+[API connection failed]
+Methodd cysylltiad API
+[API request failed. Response code:]
+Methodd cais API. Cod ymateb:
+[API response is empty]
+Mae ymateb API yn wag
+[API response parse error]
+Gwall dosrannu ymateb API
+[API data type is wrong]
+Mae&#39;r math o ddata API yn anghywir
+[Login failed]
+Methodd mewngofnodi
+[Request failed]
+Cais wedi methu
+[close window to ignore call]
+cau ffenestr i anwybyddu galwad
+[Transfer Code]
+Cod Trosglwyddo
+[Headset Support]
+Cymorth Headset
+[Privacy Policy]
+Polisi Preifatrwydd
+[sec]
+eiliad
+[Call Forwarding]
+Ffoniwch Ymlaen
+[Are you sure you want to delete?]
+Ydych chi&#39;n siŵr eich bod chi am ddileu?
+[Delete contact]
+Dileu cyswllt
+[Account or credentials not found.]
+Ni ddaethpwyd o hyd i gyfrif neu gredadwyedd
+[Please fill out all required fields.]
+Llenwch yr holl feysydd gofynnol.
+[Change Account]
+Newid Cyfrif
+[Dial Plan]
+Cynllun Deialu
+[Disable Video]
+Analluogi Fideo
+[Disable Messaging]
+Analluoga Negeseuon
+[Headphones]
+Clustffonau
+[Are you sure you want to close the application?]
+Ydych chi&#39;n siŵr eich bod chi am gau&#39;r cais?
+[Dashboard Access]
+Mynediad i&#39;r Dangosfwrdd
+[Break]
+Egwyl
+[Non-Telephone Work]
+Gwaith heblaw Ffôn
+[On Break]
+Ar Egwyl
+[Telephone Work]
+Gwaith Ffôn
+[Register]
+Cofrestrwch
+[Unregister]
+Dadgofrestru
+[Options]
+Opsiynau
+[Delay]
+Oedi
+[Caller Number]
+Rhif Galwr
+[Purchase a Number]
+Prynu Rhif
+[Line Number (4 digits)]
+Rhif Llinell (4 digid)
+[Line Password]
+Cyfrinair Llinell
+[Set Password]
+Gosod Cyfrinair
+[Reset Password]
+Ailosod cyfrinair
+[Open]
+I agor
+[Unable to find default audio device]
+Ni ddarganfuwyd dyfais sain
+[Network is unreachable]
+Rhwydwaith yn anghyraeddadwy
+[Allow access to the microphone in your antivirus settings.]
+Caniatáu mynediad i&#39;r meicroffon yn eich gosodiadau gwrthfeirws.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Trwsiwch ganiatâd meicroffon yn y gosodiadau Windows (Gosodiadau Windows =&gt; Preifatrwydd =&gt; Meicroffon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Mae angen siaradwyr a meicroffon. I wneud galwadau mae&#39;n rhaid bod gennych ddyfais sain mewnbwn ac allbwn yn eich system.
+[Canceled]
+Wedi&#39;i ganslo
+[Unknown format]
+Fformat anhysbys
+[Softphone is not initialized. Check your settings.]
+Ni chaiff ffôn meddal ei gychwyn. Gwiriwch eich gosodiadau.
+[Unable to initialize network sockets.]
+Methu cychwyn socedi rhwydwaith.
+[Starred]
+Wedi serennu
+[Run at System Startup]
+Rhedeg yn Startup System
+[Run Batch]
+Rhedeg Swp
+[Call URL]
+Ffoniwch URL
+[Call All]
+Ffoniwch Bawb
+[Custom]
+Custom
+[Take Back]
+Ewch yn Ôl
+[Add Contact]
+Ychwanegu Cyswllt
+[Incorrect dialing or non-existent number]
+Deialu anghywir neu rif nad yw&#39;n bodoli
+[Profile]
+Proffil
+[Use Outbound Proxy]
+Defnyddiwch Outbound Proxy
+[End]
+Galwad Diwedd
+[Address Incomplete]
+Cyfeiriad Anghyflawn
+[Not acceptable here]
+Ddim yn dderbyniol yma
+[Direct Transfer]
+Trosglwyddo Uniongyrchol
+[Idle]
+Diog
+[Toggle]
+Toglo
+[Enter Password]
+Rhowch Gyfrinair
+[Connection refused]
+Gwrthodwyd y cysylltiad
+[Connection timed out]
+Cysylltiad wedi dod i ben
+[Cannot get IP address of the called host]
+Methu â chael cyfeiriad IP y gwesteiwr a elwir
+[Answered Elsewhere]
+Atebwyd yn Man arall
+[Missed Call]
+Galwad a gollwyd
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Ydych chi am ddileu data defnyddwyr a gosodiadau rhaglen? Ni ellir dadwneud y weithred hon.
+[Unavailable]
+Ddim ar gael
+[Call Limit]
+Terfyn Galwadau
+[Hide Caller ID]
+Cuddio Rhif Adnabod y Galwr
+[External Program]
+Rhaglen Allanol
+[]

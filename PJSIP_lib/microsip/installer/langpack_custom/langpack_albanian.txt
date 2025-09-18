@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Thirrja
+[End Call]
+Mbaro thirrjen
+[Contacts]
+Kontaktet
+[Account]
+Llogaria
+[Settings]
+Konfigurimet
+[Visit Website]
+Vizito webfaqen
+[Exit]
+Dil
+[Browse...]
+Shfleto...
+[Default]
+Parazgjedhur
+[Auto Answer]
+Përgjigju automatikisht
+[Disable Local Account]
+Paaftëso llogarinë lokale
+[OK]
+OK
+[Save]
+Ruaj
+[Cancel]
+Anulo
+[SIP Server]
+SIP serveri
+[SIP Proxy]
+SIP proxy
+[Domain]
+Domeni
+[Password]
+Fjalëkalimi
+[Connecting...]
+Duke u lidhur...
+[Online]
+Në linjë
+[Local]
+Lokal
+[Message]
+Porosia
+[Edit]
+Redakto
+[Delete]
+Fshij
+[Add]
+Shto
+[Bad Gateway]
+Gateway i gabuar
+[Request Timeout]
+Tejkalim i kohës së kërkesës
+[Number]
+Numri
+[Name]
+Emri
+[Contact]
+Kontakto
+[Incoming Call]
+Thirrja hyrëse
+[Answer]
+Përgjigju
+[Decline]
+Refuzo
+[Calling]
+Duke thirrur
+[Connecting]
+Duke u lidhur
+[Connected]
+I lidhur
+[Auto]
+Auto
+[Transport]
+Transporti
+[Incorrect Password]
+Fjalëkalim i gabuar
+[Public Address]
+Adresa publike
+[Media Encryption]
+Shifrim i medias
+[Disabled]
+Paaftësuar
+[Optional]
+Jo i detyrueshëm
+[Mandatory]
+Detyrueshme
+[STUN Server]
+STUN serveri
+[Presence Subscription]
+Abonim i pranisë
+[Ringing]
+Duke cingërruar
+[Call Ended]
+Thirrja mbaroi
+[Declined]
+Refuzuar
+[No address found]
+Adresa nuk u gjet
+[Request Terminated]
+Kërkesa perfundoi
+[Away]
+Larg
+[Publish Presence]
+Publiko praninë
+[Session Progress]
+Përparimi i sesionit
+[Camera]
+Kamera
+[Video Call]
+Video thirrja
+[Answer with Video]
+Përgjigju me video
+[View Log File]
+Shiko log fajllin
+[Microphone]
+Mikrofoni
+[Speaker]
+Alltoparlanti
+[Video Codec]
+Video codec-u
+[Check for Updates]
+Kontrollo përditësimet
+[Daily]
+Ditor
+[Weekly]
+Javor
+[Monthly]
+Mujor
+[Quarterly]
+Tremujor
+[Never]
+Asnjëherë
+[Update Available]
+Përditësim i mundshëm
+[Force Codec for Incoming]
+Force Codec për hyrje
+[Invalid Number]
+URI jokorrekt
+[Offline]
+Jashtë linjës
+[Single Call Mode]
+Modusi për thirrje të vetme
+[Local Video]
+Video lokale
+[Call Transfer]
+Transferim i thirrjes
+[final]
+finale
+[Call transfered successfully, disconnecting call]
+Thirrja u transferua me sukses, duke shkëputur thirrjen
+[Hold]
+Mbaj
+[Transfer]
+Transfero
+[Sound Events]
+Tingujt
+[Bitrate]
+Bitrate
+[Login]
+Hyr
+[Enable Log File]
+Lësho log fajllin
+[Duration]
+Kohëzgjatja
+[Info]
+Info
+[display password]
+shfaq fjalëkalimin
+[From]
+Nga
+[To]
+Drejt
+[Ring Device]
+Cingërro pajisjen
+[Service Unavailable]
+Shërbimi
+[Unable to connect to remote server.]
+Nuk mund të lidhet me serverin e largët.
+[Busy Here]
+I nxënë
+[Trying]
+Duke provuar
+[Method Not Allowed]
+Metodë e palejueshme
+[Not Found]
+Nuk u gjet
+[Always on Top]
+Gjithnjë në maje
+[Connect]
+Lidhu
+[Last Call]
+Thirrja e fundit
+[Close All]
+Mbyll të gjithat
+[Copy]
+Kopjo
+[Select All]
+Zgjedh të gjitha
+[Display Name]
+Emri yt
+[Remember Details]
+Kujto detajet
+[PIN]
+GJILPERE
+[No]
+jo
+[All Calls]
+Të gjitha thirrjet
+[SIP Header]
+Head SIP
+[Different User]
+Përdorues të ndryshëm
+[Different Domain]
+Domen i ndryshëm
+[Different User or Domain]
+Përdorues ose domain i ndryshëm
+[Different Remote Domain]
+Domain i ndryshëm në distancë
+[Deny Incoming]
+Refuzoni hyrjen
+[Allow IP Rewrite]
+Lejo rishkruaj IP
+[Directory of Users]
+Drejtoria e Përdoruesve
+[Call on Remote Hold]
+Thirrni në Remote Hold
+[Call on Local Hold]
+Thirrni në Hold Hold
+[Call on Hold]
+Thirrni në pritje
+[Call is Active]
+Thirrja është aktive
+[Menu]
+Menu
+[Edit Account]
+Ndrysho llogarinë
+[Add Account...]
+Shtoni Llogari...
+[Remove Account]
+Hiq Llogarinë
+[Make Active]
+Bëni aktiv
+[Are you sure you want to remove?]
+Jeni i sigurt që doni të hiqni?
+[Call Pickup]
+Marrë thirrjen
+[Speaker Level]
+Niveli i folësit
+[Microphone Level]
+Niveli i mikrofonit
+[Mute Speaker]
+Folësi i heshtur
+[Mute Microphone]
+Heshtni mikrofonin
+[Balance]
+ekuilibër
+[Custom INI Path]
+RRETH KJO Rrugë
+[Contact Us]
+Na kontaktoni
+[Please fill out at least the required fields marked with *.]
+Ju lutemi plotësoni të paktën fushat e kërkuara të shënuara me *.
+[Ask your SIP provider how to configure the account correctly.]
+Pyesni ofruesin tuaj SIP si të konfiguroni saktë llogarinë.
+[Time]
+kohë
+[Phone]
+Numratori
+[Ringtone]
+Zëri cingërrues
+[Username]
+Përdoruesi
+[Do you want to update now?]
+A doni t'a përditësoni?
+[Available Codecs]
+Në dispozicion
+[Enabled Codecs]
+I lëshuar
+[Logs]
+Thirrjet
+[Random Popup Position]
+Pozicioni i rastësishëm në popup
+[Attended Transfer]
+Mori pjesë në transferim
+[Launch URL on incoming call]
+Nisni URL-në në thirrjen hyrëse
+[Enable Local Account]
+Aktivizo llogarinë lokale
+[Send Crash Report]
+Dërgoni Raportin e Rrëzimit
+[Account Name]
+Emri i llogarise
+[Invite to Conference]
+Ftoni në Konferencë
+[Merge]
+Shko
+[Separate]
+i veçantë
+[Disconnect]
+shqit
+[DTMF Method]
+Metoda DTMF
+[Voicemail Number]
+Numri i postës zanore
+[Disable Session Timers]
+Ableaktivizoni kohëmatësit e sesioneve
+[Microphone Amplification]
+Amplifikimi i mikrofonit
+[Software Level Adjustment]
+Rregullimi i nivelit të softuerit
+[Shortcuts]
+Shortcuts
+[Enable]
+mundësoj
+[Label]
+etiketë
+[Type]
+lloj
+[Bottom Position]
+Pozicioni i poshtëm
+[You need to restart application for the changes to take effect.]
+Ju duhet të rindizni aplikacionin për ndryshimet në fuqi.
+[Handle Media Buttons]
+Trajtoni butonat e mediave
+[Bring to Front on Incoming Call]
+Sillni përpara në Thirrjen hyrëse
+[SIP account]
+Llogari SIP
+[SIP password]
+Fjalëkalimi SIP
+[Help]
+Ndihmë
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Butoni i kontrollit
+[Do Not Disturb]
+Mos shqeteso
+[Source Port]
+Burimi Port
+[RTP Ports]
+Portet RTP
+[Unregister the account when the operator is Away]
+Regregjistrohni llogarinë kur operatori është larg
+[Ask for the sip USER and SECRET everytime]
+Kërkoni P USRDORIMIN E SHPIRTSIS SEC dhe sekretin kurdoherë
+[Import]
+import
+[Server]
+server
+[Attendant Transfer]
+Transferimi i pjesëmarrësve
+[Blind Transfer]
+Transferimi i verbër
+[Redial]
+redial
+[Backspace]
+Backspace
+[Clear]
+Qartë
+[Use Space key to enable selected codec]
+Përdorni tastin Hapësirë për të mundësuar kodifikimin e zgjedhur
+[Use Delele key to disable selected codec]
+Përdorni tastin Delele për të çaktivizuar kodikun e zgjedhur
+[Make Inactive]
+Bëni joaktiv
+[Conference]
+konferencë
+[Dialing Prefix]
+Parashtesa e thirrjes
+[Register Refresh]
+Regjistrohu Refresh
+[Keep-Alive]
+Mbani-Alive
+[Ringtone Volume]
+Vëllimi i ziles
+[Call Recording]
+Regjistrimi i thirrjeve
+[Nameserver]
+nameserver
+[Default List Action]
+Veprimi i listës së paracaktuar
+[Edit Local Account]
+Ndryshoni Llogarinë Lokale
+[Export]
+eksport
+[Version]
+Version
+[Call Waiting]
+Thirrje në pritje
+[Ready]
+gati
+[Not online]
+Jo në internet
+[On the phone]
+Në telefon
+[First Name]
+Emri
+[Last Name]
+Mbiemri
+[Phone Number]
+Numri i telefonit
+[Mobile Number]
+Numri celular
+[E-mail Address]
+Adresa e postës elektronike
+[Address]
+Adresë
+[City]
+qytet
+[State]
+shtet
+[Postal Code]
+Kodi Postar
+[Comment]
+koment
+[Extension]
+Zgjerim
+[Port]
+port
+[User ID]
+ID e përdoruesit
+[Authentication failed]
+Autentifikimi dështoi
+[API URL is empty]
+URL e API është bosh
+[API connection failed]
+Lidhja API dështoi
+[API request failed. Response code:]
+Kërkesa e API dështoi. Kodi i përgjigjes:
+[API response is empty]
+Përgjigja API është bosh
+[API response parse error]
+Përgjigja e API gabon
+[API data type is wrong]
+Lloji i të dhënave API është i gabuar
+[Login failed]
+Hyrja dështoi
+[Request failed]
+Kërkesa dështoi
+[close window to ignore call]
+mbyll dritaren për të injoruar thirrjen
+[Transfer Code]
+Kodi i Transferimit
+[Headset Support]
+Mbështetja e kufjeve
+[Privacy Policy]
+Politika e privatësisë
+[sec]
+sek
+[Call Forwarding]
+Përcjellja e thirrjes
+[Are you sure you want to delete?]
+Je i sigurt që dëshiron të fshish?
+[Delete contact]
+Fshi kontaktin
+[Account or credentials not found.]
+Llogaria ose kredenciali nuk u gjet
+[Please fill out all required fields.]
+Ju lutemi plotësoni të gjitha fushat e kërkuara.
+[Change Account]
+Ndrysho llogarinë
+[Dial Plan]
+Plani i thirrjes
+[Disable Video]
+Çaktivizo videon
+[Disable Messaging]
+Çaktivizo mesazhet
+[Headphones]
+Kufje
+[Are you sure you want to close the application?]
+Je i sigurt që dëshiron ta mbyllësh aplikacionin?
+[Dashboard Access]
+Aksesi në panelin e kontrollit
+[Break]
+Pushim
+[Non-Telephone Work]
+Punë jo-telefonike
+[On Break]
+Në pushim
+[Telephone Work]
+Puna telefonike
+[Register]
+Regjistrohuni
+[Unregister]
+Çregjistrohu
+[Options]
+Opsione
+[Delay]
+Vonesa
+[Caller Number]
+Numri i Telefonuesit
+[Purchase a Number]
+Bleni një numër
+[Line Number (4 digits)]
+Numri i linjës (4 shifra)
+[Line Password]
+Fjalëkalimi i linjës
+[Set Password]
+Vendosni fjalëkalimin
+[Reset Password]
+Rivendosni fjalëkalimin
+[Open]
+Për të hapur
+[Unable to find default audio device]
+Nuk u gjet asnjë pajisje audio
+[Network is unreachable]
+Rrjeti është i paarritshëm
+[Allow access to the microphone in your antivirus settings.]
+Lejoni hyrjen në mikrofon në cilësimet tuaja antivirus.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Rregulloni lejen e mikrofonit në cilësimet e Windows (Cilësimet e Windows =&gt; Privatësia =&gt; Mikrofoni).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Kërkohen altoparlantë dhe mikrofon. Për të bërë thirrje duhet të keni në sistemin tuaj pajisje zanore hyrëse dhe dalëse.
+[Canceled]
+Anulohet
+[Unknown format]
+Formati i panjohur
+[Softphone is not initialized. Check your settings.]
+Softphone nuk është inicializuar. Kontrolloni cilësimet tuaja.
+[Unable to initialize network sockets.]
+Nuk mund të inicioj bazat e rrjetit.
+[Starred]
+Luajti
+[Run at System Startup]
+Drejtoni në fillimin e sistemit
+[Run Batch]
+Run Batch
+[Call URL]
+URL-ja e thirrjes
+[Call All]
+Thirrni të gjithë
+[Custom]
+Me porosi
+[Take Back]
+Merr prapa
+[Add Contact]
+Shto Kontakt
+[Incorrect dialing or non-existent number]
+Telefonim i gabuar ose numër joekzistent
+[Profile]
+Profili
+[Use Outbound Proxy]
+Përdorni Proxy Outbound
+[End]
+Mbaro thirrjen
+[Address Incomplete]
+Adresa e paplotësuar
+[Not acceptable here]
+Nuk pranohet këtu
+[Direct Transfer]
+Transferimi i drejtpërdrejtë
+[Idle]
+I papunë
+[Toggle]
+Ndrysho
+[Enter Password]
+Shkruani fjalëkalimin
+[Connection refused]
+Lidhja u refuzua
+[Connection timed out]
+Koha e lidhjes mbaroi
+[Cannot get IP address of the called host]
+Nuk mund të merret adresa IP e hostit të thirrur
+[Answered Elsewhere]
+U përgjigj diku tjetër
+[Missed Call]
+Thirrje e humbur
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Dëshiron të fshish të dhënat e përdoruesit dhe cilësimet e programit? Ky veprim nuk mund të zhbëhet.
+[Unavailable]
+I padisponueshëm
+[Call Limit]
+Kufiri i thirrjeve
+[Hide Caller ID]
+Fshih ID-në e telefonuesit
+[External Program]
+Programi i jashtëm
+[]

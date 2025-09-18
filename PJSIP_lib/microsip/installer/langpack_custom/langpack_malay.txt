@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Panggil
+[End Call]
+Tamat panggilan
+[Contacts]
+Kenalan
+[Account]
+Akaun
+[Settings]
+Tetapan
+[Visit Website]
+Melawat laman web
+[Exit]
+Keluar
+[Browse...]
+Semak imbas ...
+[Default]
+Asal
+[Auto Answer]
+Jawapan automatik
+[Disable Local Account]
+Lumpuhkan Akaun Lokal
+[OK]
+OK
+[Save]
+Simpan
+[Cancel]
+Batal
+[SIP Server]
+SIP Server
+[SIP Proxy]
+Proksi SIP
+[Domain]
+Domain
+[Password]
+Kata Laluan
+[Connecting...]
+Menyambung...
+[Online]
+Online
+[Local]
+Tempatan
+[Message]
+Mesej
+[Edit]
+Ubah
+[Delete]
+Padam
+[Add]
+Tambah
+[Bad Gateway]
+Gerbang Bad
+[Request Timeout]
+Permintaan tamat masa
+[Number]
+Nombor
+[Name]
+Nama
+[Contact]
+Hubungi
+[Incoming Call]
+Panggilan masuk
+[Answer]
+Jawab
+[Decline]
+Tolak
+[Calling]
+Memanggil
+[Connecting]
+Menyambung
+[Connected]
+Disambungkan
+[Auto]
+Auto
+[Transport]
+Pengangkutan
+[Incorrect Password]
+Kata laluan salah
+[Public Address]
+Alamat awam
+[Media Encryption]
+Penyulitan Media
+[Disabled]
+Dinyahdayakan
+[Optional]
+Pilihan
+[Mandatory]
+Mandatori
+[STUN Server]
+Stun Server
+[Presence Subscription]
+Langganan Kehadiran
+[Ringing]
+Ringing
+[Call Ended]
+Panggilan Tamat
+[Declined]
+Ditolak
+[No address found]
+Tiada alamat dijumpai
+[Request Terminated]
+Permintaan Dihentikan
+[Away]
+Tiada
+[Publish Presence]
+Terbitkan Kehadiran
+[Session Progress]
+Kemajuan Sesi
+[Camera]
+Kamera
+[Video Call]
+Panggilan Video
+[Answer with Video]
+Jawab dengan video
+[View Log File]
+Lihat Fail Log
+[Microphone]
+Mikrofon
+[Speaker]
+Speaker
+[Video Codec]
+Codec Video
+[Check for Updates]
+Menyemak kemas kini
+[Daily]
+Harian
+[Weekly]
+Mingguan
+[Monthly]
+Bulanan
+[Quarterly]
+Suku Tahunan
+[Never]
+Tidak sama sekali
+[Update Available]
+Kemaskini ada
+[Force Codec for Incoming]
+Force Codec for Incoming
+[Invalid Number]
+URI tidak sah
+[Offline]
+Luar talian
+[Single Call Mode]
+Mod Panggilan Tunggal
+[Local Video]
+Video Tempatan
+[Call Transfer]
+Sambung Panggilan
+[final]
+akhir
+[Call transfered successfully, disconnecting call]
+Panggilan disambung berjaya, memutuskan panggilan
+[Hold]
+Menunggu
+[Transfer]
+Pemindahan
+[Sound Events]
+Peristiwa Bunyi
+[Bitrate]
+Bitrate
+[Login]
+Log masuk
+[Enable Log File]
+Dayakan Fail Log
+[Duration]
+Durasi
+[Info]
+Maklumat
+[display password]
+memaparkan kata laluan
+[From]
+Daripada
+[To]
+Kepada
+[Ring Device]
+Peranti Cincin
+[Service Unavailable]
+Perkhidmatan tidak tersedia
+[Unable to connect to remote server.]
+Tidak dapat menyambung ke pelayan jauh.
+[Busy Here]
+Sedang Sibuk
+[Trying]
+Mencuba
+[Method Not Allowed]
+Kaedah Tidak Dibenarkan
+[Not Found]
+Tidak Dijumpai
+[Always on Top]
+Sentiasa di atas
+[Connect]
+Sambungkan
+[Last Call]
+Panggilan terakhir
+[Close All]
+Tutup Semua
+[Copy]
+Salin
+[Select All]
+Simpan Semua
+[Display Name]
+Nama anda
+[Remember Details]
+Ingat Butiran
+[PIN]
+PIN
+[No]
+Tidak
+[All Calls]
+Semua Panggilan
+[SIP Header]
+Header SIP
+[Different User]
+Pengguna yang berbeza
+[Different Domain]
+Domain yang berbeza
+[Different User or Domain]
+Pengguna atau Domain yang berbeza
+[Different Remote Domain]
+Domain Jauh yang berbeza
+[Deny Incoming]
+Menafi Masuk
+[Allow IP Rewrite]
+Benarkan tulis semula IP
+[Directory of Users]
+Direktori Pengguna
+[Call on Remote Hold]
+Hubungi Pemegang Jauh
+[Call on Local Hold]
+Hubungi Pemegang Tempatan
+[Call on Hold]
+Panggil terus
+[Call is Active]
+Panggilan Aktif
+[Menu]
+Menu
+[Edit Account]
+Edit Akaun
+[Add Account...]
+Tambah akaun...
+[Remove Account]
+Keluarkan Akaun
+[Make Active]
+Buat Aktif
+[Are you sure you want to remove?]
+Adakah anda pasti mahu mengeluarkannya?
+[Call Pickup]
+Pengambilan Panggilan
+[Speaker Level]
+Tahap Pembesar Suara
+[Microphone Level]
+Tahap mikrofon
+[Mute Speaker]
+Tolak speaker
+[Mute Microphone]
+Mute Microphone
+[Balance]
+Seimbang
+[Custom INI Path]
+Custom INI Path
+[Contact Us]
+Hubungi Kami
+[Please fill out at least the required fields marked with *.]
+Sila lengkapkan sekurang-kurangnya medan yang diperlukan ditandai dengan *.
+[Ask your SIP provider how to configure the account correctly.]
+Tanya pembekal SIP anda bagaimana untuk mengkonfigurasi akaun dengan betul.
+[Time]
+Masa
+[Phone]
+Telefon
+[Ringtone]
+Ringtone
+[Username]
+Nama pengguna
+[Do you want to update now?]
+Adakah anda ingin mengemas kini sekarang?
+[Available Codecs]
+Codesc sediaada
+[Enabled Codecs]
+Codec diaktifkan
+[Logs]
+Log
+[Random Popup Position]
+Kedudukan Popup Rawak
+[Attended Transfer]
+Menghadiri Pemindahan
+[Launch URL on incoming call]
+Lancarkan URL pada panggilan masuk
+[Enable Local Account]
+Dayakan Akaun Lokal
+[Send Crash Report]
+Hantar Laporan Kemalangan
+[Account Name]
+Nama akaun
+[Invite to Conference]
+Jemput ke Persidangan
+[Merge]
+go
+[Separate]
+Pisahkan
+[Disconnect]
+Putuskan sambungan
+[DTMF Method]
+Kaedah DTMF
+[Voicemail Number]
+Nombor Suara Mel suara
+[Disable Session Timers]
+Lumpuhkan Pemasa Sesi
+[Microphone Amplification]
+Amplifikasi Mikrofon
+[Software Level Adjustment]
+Pelarasan Tahap Perisian
+[Shortcuts]
+Pintasan
+[Enable]
+Membolehkan
+[Label]
+Label
+[Type]
+Taipkan
+[Bottom Position]
+Kedudukan Bawah
+[You need to restart application for the changes to take effect.]
+Anda perlu memulakan semula permohonan untuk perubahan yang berlaku.
+[Handle Media Buttons]
+Mengendalikan Butang Media
+[Bring to Front on Incoming Call]
+Bawa ke Depan pada Panggilan Masuk
+[SIP account]
+Akaun SIP
+[SIP password]
+Kata laluan SIP
+[Help]
+Bantuan
+[Video Bitrate]
+Bitrate Video
+[Control Button]
+Butang Kawalan
+[Do Not Disturb]
+Jangan ganggu
+[Source Port]
+Pelabuhan Sumber
+[RTP Ports]
+Pelabuhan RTP
+[Unregister the account when the operator is Away]
+Membatalkan pendaftaran akaun apabila pengendali berada di Away
+[Ask for the sip USER and SECRET everytime]
+Minta SEMUA PENGGUNA dan RAHSIA setiap kali
+[Import]
+Import
+[Server]
+Pelayan
+[Attendant Transfer]
+Pemindahan ke Attendant
+[Blind Transfer]
+Pemindahan Buta
+[Redial]
+Redial
+[Backspace]
+Backspace
+[Clear]
+Kosongkan
+[Use Space key to enable selected codec]
+Gunakan kekunci Ruang untuk membolehkan codec terpilih
+[Use Delele key to disable selected codec]
+Gunakan kekunci Delele untuk melumpuhkan codec terpilih
+[Make Inactive]
+Buat Tidak Aktif
+[Conference]
+Persidangan
+[Dialing Prefix]
+Awalan Dialing
+[Register Refresh]
+Daftar Refresh
+[Keep-Alive]
+Keep-Alive
+[Ringtone Volume]
+Dering Ringtone
+[Call Recording]
+Rakaman Panggilan
+[Nameserver]
+Nameerver
+[Default List Action]
+Tindakan Senarai Asal
+[Edit Local Account]
+Edit Akaun Lokal
+[Export]
+Eksport
+[Version]
+Versi
+[Call Waiting]
+Menunggu Panggilan
+[Ready]
+Sedia
+[Not online]
+Tidak dalam talian
+[On the phone]
+Di telefon
+[First Name]
+Nama pertama
+[Last Name]
+Nama terakhir
+[Phone Number]
+Nombor telefon
+[Mobile Number]
+Nombor telefon
+[E-mail Address]
+Alamat emel
+[Address]
+Alamat
+[City]
+Bandar
+[State]
+Negeri
+[Postal Code]
+Poskod
+[Comment]
+Komen
+[Extension]
+Sambungan
+[Port]
+Pelabuhan
+[User ID]
+ID Pengguna
+[Authentication failed]
+Pengesahan gagal
+[API URL is empty]
+URL API kosong
+[API connection failed]
+Sambungan API gagal
+[API request failed. Response code:]
+Permintaan API gagal. Kod jawapan:
+[API response is empty]
+Respons API kosong
+[API response parse error]
+Ralat menguraikan tindak balas API
+[API data type is wrong]
+Jenis data API salah
+[Login failed]
+Daftar masuk gagal
+[Request failed]
+Permintaan gagal
+[close window to ignore call]
+Tutup tetingkap untuk mengabaikan panggilan
+[Transfer Code]
+Pindahkan Kod
+[Headset Support]
+Sokongan Alat dengar
+[Privacy Policy]
+Dasar Privasi
+[sec]
+sek
+[Call Forwarding]
+Alihan panggilan
+[Are you sure you want to delete?]
+Adakah anda pasti ingin memadam?
+[Delete contact]
+Padamkan kenalan
+[Account or credentials not found.]
+Akaun atau kelayakan tidak dijumpai
+[Please fill out all required fields.]
+Sila isi semua bidang yang diperlukan.
+[Change Account]
+Tukar Akaun
+[Dial Plan]
+Rancangan Dail
+[Disable Video]
+Lumpuhkan Video
+[Disable Messaging]
+Lumpuhkan Pemesejan
+[Headphones]
+Fon kepala
+[Are you sure you want to close the application?]
+Adakah anda pasti mahu menutup aplikasi?
+[Dashboard Access]
+Akses Papan Pemuka
+[Break]
+Rehat
+[Non-Telephone Work]
+Kerja Bukan Telefon
+[On Break]
+Pada Waktu Rehat
+[Telephone Work]
+Kerja Telefon
+[Register]
+Daftar
+[Unregister]
+Nyah daftar
+[Options]
+Pilihan
+[Delay]
+Kelewatan
+[Caller Number]
+Nombor Pemanggil
+[Purchase a Number]
+Beli Nombor
+[Line Number (4 digits)]
+Nombor Garis (4 digit)
+[Line Password]
+Kata Laluan Garis
+[Set Password]
+Tetapkan kata laluan
+[Reset Password]
+Menetapkan semula kata laluan
+[Open]
+Untuk membuka
+[Unable to find default audio device]
+Tiada peranti audio dijumpai
+[Network is unreachable]
+Rangkaian tidak dapat dicapai
+[Allow access to the microphone in your antivirus settings.]
+Benarkan akses ke mikrofon dalam tetapan antivirus anda.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Perbaiki kebenaran mikrofon dalam tetapan Windows (Tetapan Windows =&gt; Privasi =&gt; Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Pembesar suara dan mikrofon diperlukan. Untuk membuat panggilan, anda mesti mempunyai peranti suara input dan output dalam sistem anda.
+[Canceled]
+Dibatalkan
+[Unknown format]
+Format tidak diketahui
+[Softphone is not initialized. Check your settings.]
+Telefon bimbit tidak dimulakan. Periksa tetapan anda.
+[Unable to initialize network sockets.]
+Tidak dapat memulakan soket rangkaian.
+[Starred]
+Dibintangi
+[Run at System Startup]
+Jalankan pada Permulaan Sistem
+[Run Batch]
+Run Batch
+[Call URL]
+URL panggilan
+[Call All]
+Panggil Semua
+[Custom]
+Adat
+[Take Back]
+Ambil semula
+[Add Contact]
+Tambah Kenalan
+[Incorrect dialing or non-existent number]
+Dail salah atau nombor tidak wujud
+[Profile]
+Profil
+[Use Outbound Proxy]
+Gunakan Proksi Keluar
+[End]
+Tamat panggilan
+[Address Incomplete]
+Alamat Tidak Lengkap
+[Not acceptable here]
+Tidak boleh diterima di sini
+[Direct Transfer]
+Pemindahan Langsung
+[Idle]
+terbiar
+[Toggle]
+Togol
+[Enter Password]
+Masukkan kata laluan
+[Connection refused]
+Sambungan ditolak
+[Connection timed out]
+Sambungan tamat masa
+[Cannot get IP address of the called host]
+Tidak boleh mendapatkan alamat IP hos yang dipanggil
+[Answered Elsewhere]
+Dijawab Di Tempat Lain
+[Missed Call]
+Panggilan tidak dijawab
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Adakah anda mahu memadamkan data pengguna dan tetapan program? Tindakan ini tidak boleh dibuat asal.
+[Unavailable]
+Tidak ada
+[Call Limit]
+Had Panggilan
+[Hide Caller ID]
+Sembunyikan ID Pemanggil
+[External Program]
+Program Luar
+[]

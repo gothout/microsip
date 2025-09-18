@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Ring
+[End Call]
+Afslut opkald
+[Contacts]
+Kontakter
+[Account]
+Konto
+[Settings]
+Indstillinger
+[Visit Website]
+Besøg hjemmeside
+[Exit]
+Afslut softphone
+[Browse...]
+Gennemse...
+[Default]
+Standard
+[Auto Answer]
+Besvar automatisk
+[Disable Local Account]
+Deaktiver lokal konto
+[OK]
+OK
+[Save]
+Gem
+[Cancel]
+Annuller
+[SIP Server]
+SIP-server
+[SIP Proxy]
+SIP-proxy
+[Domain]
+Domæne
+[Password]
+Adgangskode
+[Connecting...]
+Forbinder...
+[Online]
+Online
+[Local]
+Lokal
+[Message]
+Besked
+[Edit]
+Rediger
+[Delete]
+Slet
+[Add]
+Tilføj
+[Bad Gateway]
+"Bad Gateway"-fejl
+[Request Timeout]
+Forespørgsel tidsudløbet
+[Number]
+Nummer
+[Name]
+Navn
+[Contact]
+Kontakt
+[Incoming Call]
+Indkommende opkald
+[Answer]
+Tag telefonen
+[Decline]
+Afvis
+[Calling]
+Ringer
+[Connecting]
+Forbinder
+[Connected]
+Forbundet
+[Auto]
+Automatisk
+[Transport]
+Transport
+[Incorrect Password]
+Forkert adgangskode
+[Public Address]
+Offentlig adresse
+[Media Encryption]
+Mediekryptering
+[Disabled]
+Deaktiveret
+[Optional]
+Valgfri
+[Mandatory]
+Påkrævet
+[STUN Server]
+STUN-server
+[Presence Subscription]
+Vis min tilstedeværelse
+[Ringing]
+Ringer
+[Call Ended]
+Opkald afsluttet
+[Declined]
+Afvist
+[No address found]
+Ingen adresse fundet
+[Request Terminated]
+Forespørgsel afbrudt
+[Away]
+Ikke til Stede
+[Publish Presence]
+Offentliggør min tilstedeværelse
+[Session Progress]
+Etablerer forbindelse
+[Camera]
+Kamera
+[Video Call]
+Videopkald
+[Answer with Video]
+Svar med video
+[View Log File]
+Vis logfil
+[Microphone]
+Mikrofon
+[Speaker]
+Højttaler
+[Video Codec]
+Video-codec
+[Check for Updates]
+Kontrollér for opdateringer
+[Daily]
+Daglig
+[Weekly]
+Ugentligt
+[Monthly]
+Månedlig
+[Quarterly]
+Kvartalsvis
+[Never]
+Aldrig
+[Update Available]
+Opdatering tilgængelig
+[Force Codec for Incoming]
+Kræv codec for indgående opkald
+[Invalid Number]
+Ugyldig adresse ("Invalid URI")
+[Offline]
+Offline
+[Single Call Mode]
+Enkeltkald-tilstand
+[Local Video]
+Lokal video
+[Call Transfer]
+Viderestilling
+[final]
+endelig
+[Call transfered successfully, disconnecting call]
+Opkald overført korrekt, afbryder opkald
+[Hold]
+Parkér
+[Transfer]
+Overfør opkald
+[Sound Events]
+Lydhændelser
+[Bitrate]
+Bithastighed
+[Login]
+Login
+[Enable Log File]
+Vis logfil
+[Duration]
+Varighed
+[Info]
+Information
+[display password]
+Vis adgangskode
+[From]
+Fra
+[To]
+Til
+[Ring Device]
+Ringeenhed
+[Service Unavailable]
+Tjeneste ikke tilgængelig
+[Unable to connect to remote server.]
+Kan ikke oprette forbindelse til fjernserver.
+[Busy Here]
+Optaget ("Busy Here")
+[Trying]
+Forsøger
+[Method Not Allowed]
+Metode ikke tilladt ("Method Not Allowed")
+[Not Found]
+Ikke fundet
+[Always on Top]
+Altid øverst
+[Connect]
+Forbind
+[Last Call]
+Seneste opkald
+[Close All]
+Luk alle
+[Copy]
+Kopier
+[Select All]
+Vælg alt/alle
+[Display Name]
+Dit navn
+[Remember Details]
+Husk detaljer
+[PIN]
+PIN
+[No]
+Nej
+[All Calls]
+Alle opkald
+[SIP Header]
+SIP-header
+[Different User]
+Anden bruger
+[Different Domain]
+Andet domæne
+[Different User or Domain]
+Anden bruger eller domæne
+[Different Remote Domain]
+Andet fjerndomæne
+[Deny Incoming]
+Afvis indkommende opkald
+[Allow IP Rewrite]
+Tillad "IP rewrite"
+[Directory of Users]
+Kontaktpersonliste
+[Call on Remote Hold]
+Opkald sat på fjern hold
+[Call on Local Hold]
+Opkald sat på lokal hold
+[Call on Hold]
+Opkald sat på hold
+[Call is Active]
+Opkald i gang
+[Menu]
+Menu
+[Edit Account]
+Redigér konto
+[Add Account...]
+Tilføj konto...
+[Remove Account]
+Slet konto
+[Make Active]
+Gør aktiv
+[Are you sure you want to remove?]
+Er du sikker på at du vil slette?
+[Call Pickup]
+Ring pickup
+[Speaker Level]
+Højtaler lydstyrke
+[Microphone Level]
+Mikrofon lydstyke
+[Mute Speaker]
+Mute højtaler
+[Mute Microphone]
+Mute mikrofon
+[Balance]
+Balance
+[Custom INI Path]
+Tilpasset DENNE sti
+[Contact Us]
+Kontakt os
+[Please fill out at least the required fields marked with *.]
+Udfyld please least de krævede filter, Markeret med *.
+[Ask your SIP provider how to configure the account correctly.]
+Spørg din SIP-udbyder, hvordan du konfigurerer kontoen korrekt.
+[Time]
+Tid
+[Phone]
+Tastatur
+[Ringtone]
+Ringelyd
+[Username]
+Bruger
+[Do you want to update now?]
+Ønsker du at opdatere?
+[Available Codecs]
+Valgfrie Codecs
+[Enabled Codecs]
+Aktiveret
+[Logs]
+Opkald
+[Random Popup Position]
+Tilfældig position af indgående opkald box
+[Attended Transfer]
+Ledsaget Viderestilling
+[Launch URL on incoming call]
+Start URL på indgående opkald
+[Enable Local Account]
+Aktivere lokal konto
+[Send Crash Report]
+Send Crash-rapport
+[Account Name]
+Kontoname
+[Invite to Conference]
+Inviter til konference
+[Merge]
+Go
+[Separate]
+Adskille
+[Disconnect]
+Koble fra
+[DTMF Method]
+DTMF-metode
+[Voicemail Number]
+Voicemail-nummer
+[Disable Session Timers]
+Deaktiver sessionstimere
+[Microphone Amplification]
+Mikrofonforstærkning
+[Software Level Adjustment]
+Justering af softwareniveau
+[Shortcuts]
+Genveje
+[Enable]
+Aktiver
+[Label]
+Etiket
+[Type]
+Type
+[Bottom Position]
+Nederste position
+[You need to restart application for the changes to take effect.]
+Du skal genstarte ansøgningen for at ændringerne får virkning.
+[Handle Media Buttons]
+Håndter medieknapper
+[Bring to Front on Incoming Call]
+Bringe foran på det indgående opkald
+[SIP account]
+SIP-konto
+[SIP password]
+SIP-adgangskode
+[Help]
+Hjælp
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Kontrolknap
+[Do Not Disturb]
+Forstyr ikke
+[Source Port]
+Kilde Port
+[RTP Ports]
+RTP-porte
+[Unregister the account when the operator is Away]
+Afregistrer kontoen, når operatøren er væk
+[Ask for the sip USER and SECRET everytime]
+Spørg om sluk USER og HEMMELIG hver gang
+[Import]
+Importere
+[Server]
+Server
+[Attendant Transfer]
+Attendant overførsel
+[Blind Transfer]
+Blind overførsel
+[Redial]
+Genkald
+[Backspace]
+Backspace
+[Clear]
+Klar
+[Use Space key to enable selected codec]
+Brug mellemrumstasten for at aktivere valgt codec
+[Use Delele key to disable selected codec]
+Brug Delele-tasten til at deaktivere valgt codec
+[Make Inactive]
+Gør inaktiv
+[Conference]
+Konference
+[Dialing Prefix]
+Opkaldspræfiks
+[Register Refresh]
+Registrer opdater
+[Keep-Alive]
+Holde i live
+[Ringtone Volume]
+Ringetonevolumen
+[Call Recording]
+Opkald til optagelse
+[Nameserver]
+Navneserver (DNS)
+[Default List Action]
+Standardliste Handling
+[Edit Local Account]
+Rediger lokal konto
+[Export]
+Eksport
+[Version]
+Version
+[Call Waiting]
+Opkald venter
+[Ready]
+Parat
+[Not online]
+Ikke online
+[On the phone]
+I telefonen
+[First Name]
+Fornavn
+[Last Name]
+Efternavn
+[Phone Number]
+Telefonnummer
+[Mobile Number]
+Mobilnummer
+[E-mail Address]
+Email adresse
+[Address]
+Adresse
+[City]
+By
+[State]
+Stat
+[Postal Code]
+Postnummer
+[Comment]
+Kommentar
+[Extension]
+Udvidelse
+[Port]
+Havn
+[User ID]
+bruger ID
+[Authentication failed]
+Godkendelse mislykkedes
+[API URL is empty]
+API-URL er tom
+[API connection failed]
+API-forbindelse mislykkedes
+[API request failed. Response code:]
+API-anmodning mislykkedes. Svarskode:
+[API response is empty]
+API-svaret er tomt
+[API response parse error]
+API-responsparse-fejl
+[API data type is wrong]
+API-datatype er forkert
+[Login failed]
+Login mislykkedes
+[Request failed]
+Anmodningen mislykkedes
+[close window to ignore call]
+luk vindue for at ignorere opkald
+[Transfer Code]
+Overfør kode
+[Headset Support]
+Headset Support
+[Privacy Policy]
+Fortrolighedspolitik
+[sec]
+sek
+[Call Forwarding]
+Viderestilling
+[Are you sure you want to delete?]
+Er du sikker på, at du vil slette?
+[Delete contact]
+Slet kontakt
+[Account or credentials not found.]
+Konto eller legitimationsoplysninger blev ikke fundet
+[Please fill out all required fields.]
+Udfyld venligst alle obligatoriske felter.
+[Change Account]
+Skift konto
+[Dial Plan]
+Opkaldsplan
+[Disable Video]
+Deaktiver video
+[Disable Messaging]
+Deaktiver beskeder
+[Headphones]
+Hovedtelefoner
+[Are you sure you want to close the application?]
+Er du sikker på, at du vil lukke applikationen?
+[Dashboard Access]
+Adgang til dashboard
+[Break]
+Pause
+[Non-Telephone Work]
+Ikke-telefonarbejde
+[On Break]
+På pause
+[Telephone Work]
+Telefonarbejde
+[Register]
+Tilmeld
+[Unregister]
+Afmeld
+[Options]
+Muligheder
+[Delay]
+Forsinke
+[Caller Number]
+Opkaldsnummer
+[Purchase a Number]
+Køb et nummer
+[Line Number (4 digits)]
+Linjenummer (4 cifre)
+[Line Password]
+Linieadgangskode
+[Set Password]
+Indstil adgangskode
+[Reset Password]
+Nulstille kodeord
+[Open]
+At åbne
+[Unable to find default audio device]
+Ingen lydenhed fundet
+[Network is unreachable]
+Netværket er ikke tilgængeligt
+[Allow access to the microphone in your antivirus settings.]
+Tillad adgang til mikrofonen i dine antivirusindstillinger.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Ret mikrofontilladelse i Windows-indstillingerne (Windows-indstillinger =&gt; Privatliv =&gt; Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Højttalere og mikrofon er begge påkrævet. For at foretage opkald skal du have input- og outputlydenhed i dit system.
+[Canceled]
+Annulleret
+[Unknown format]
+Ukendt format
+[Softphone is not initialized. Check your settings.]
+Softphone initialiseres ikke. Kontroller dine indstillinger.
+[Unable to initialize network sockets.]
+Kunne ikke initialisere netværksstik.
+[Starred]
+Stjernemærket
+[Run at System Startup]
+Kør ved systemstart
+[Run Batch]
+Kør batch
+[Call URL]
+Ring til URL
+[Call All]
+Ring til alle
+[Custom]
+Brugerdefinerede
+[Take Back]
+Tage tilbage
+[Add Contact]
+Tilføj kontakt
+[Incorrect dialing or non-existent number]
+Forkert opkald eller ikke-eksisterende nummer
+[Profile]
+Profil
+[Use Outbound Proxy]
+Brug udgående proxy
+[End]
+Afslut opkald
+[Address Incomplete]
+Adresse ufuldstændig
+[Not acceptable here]
+Ikke acceptabelt her
+[Direct Transfer]
+Direkte overførsel
+[Idle]
+Ledig
+[Toggle]
+Skift
+[Enter Password]
+Indtast adgangskode
+[Connection refused]
+Tilslutning afvist
+[Connection timed out]
+Forbindelsen fik timeout
+[Cannot get IP address of the called host]
+Kan ikke få IP-adressen på den kaldte vært
+[Answered Elsewhere]
+Besvaret andetsteds
+[Missed Call]
+Ubesvaret opkald
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Vil du slette brugerdata og programindstillinger? Denne handling kan ikke fortrydes.
+[Unavailable]
+Ikke tilgængelig
+[Call Limit]
+Opkaldsgrænse
+[Hide Caller ID]
+Skjul opkalds-id
+[External Program]
+Eksternt program
+[]

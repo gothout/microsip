@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Конгирок
+[End Call]
+Qo'ng'iroqni tugatish
+[Contacts]
+Контактлар
+[Account]
+Хисоб
+[Settings]
+Sozlamalar
+[Visit Website]
+Veb-saytga tashrif buyuring
+[Exit]
+Чикиш
+[Browse...]
+Танлаш
+[Default]
+Стандарт
+[Auto Answer]
+Автоматик тарзда жавоб бериш
+[Disable Local Account]
+Махаллий хисобни учириш
+[OK]
+OK
+[Save]
+Saqlash
+[Cancel]
+Бекор килиш
+[SIP Server]
+SIP-server
+[SIP Proxy]
+SIP proksi-serveri
+[Domain]
+Domen
+[Password]
+Parol
+[Connecting...]
+Богланилмокда ...
+[Online]
+Onlayn
+[Local]
+Махаллий
+[Message]
+Хабар
+[Edit]
+Узгартириш
+[Delete]
+Учириш
+[Add]
+Qo'shish
+[Bad Gateway]
+Нотогри шлюз
+[Request Timeout]
+Vaqtni talab qilish
+[Number]
+Ракам
+[Name]
+Исм
+[Contact]
+Контакт
+[Incoming Call]
+Kiruvchi qo'ng'iroq
+[Answer]
+Жавоб бериш
+[Decline]
+Бекор килиш
+[Calling]
+Чакирилмокда
+[Connecting]
+Богланилмокда
+[Connected]
+Богланилди
+[Auto]
+Авто
+[Transport]
+Transport
+[Incorrect Password]
+Нотогри пароль
+[Public Address]
+Jamoat manzili
+[Media Encryption]
+Media shifrlash
+[Disabled]
+Учирилган
+[Optional]
+Ixtiyoriy
+[Mandatory]
+Мажбурий
+[STUN Server]
+STUN serveri
+[Presence Subscription]
+Mavjud obuna
+[Ringing]
+Jiringlash
+[Call Ended]
+Конгирокни тугатиш
+[Declined]
+Бекор килинди
+[No address found]
+Манзил топилмади
+[Request Terminated]
+So‘rov bekor qilindi
+[Away]
+Joyida emas
+[Publish Presence]
+Mavjudlikni e'lon qilish
+[Session Progress]
+Seansning borishi
+[Camera]
+Камера
+[Video Call]
+Video qo'ng'iroq
+[Answer with Video]
+Видеоблан жавоб беришт
+[View Log File]
+Jurnal faylini ko'rish
+[Microphone]
+Микрофон
+[Speaker]
+Karnay
+[Video Codec]
+Video kodek
+[Check for Updates]
+Yangilanishlarni tekshiring
+[Daily]
+Кунлик
+[Weekly]
+Haftada
+[Monthly]
+Oylik
+[Quarterly]
+Har chorakda
+[Never]
+Hech qachon
+[Update Available]
+Yangilanish mavjud
+[Force Codec for Incoming]
+Kiruvchi uchun kodekni majburlash
+[Invalid Number]
+Нотогри ракам
+[Offline]
+Оффлайн
+[Single Call Mode]
+Yagona qo'ng'iroq rejimi
+[Local Video]
+Махаллий видео
+[Call Transfer]
+Конгирокни утказиш
+[final]
+Якун
+[Call transfered successfully, disconnecting call]
+Конгирок утказилди, конгирок якунланди
+[Hold]
+Tutmoq
+[Transfer]
+Transfer
+[Sound Events]
+Ovozli voqealar
+[Bitrate]
+Битрейд
+[Login]
+Кириш
+[Enable Log File]
+Журнал файлини йокиш
+[Duration]
+Davomiyligi
+[Info]
+Малумот
+[display password]
+Паролни курсатиш
+[From]
+Каердан
+[To]
+Kimga
+[Ring Device]
+Jiringlash qurilmasi
+[Service Unavailable]
+Xizmat ish faoliyatida emas
+[Unable to connect to remote server.]
+Masofaviy serverga ulanib bo'lmadi.
+[Busy Here]
+Банд
+[Trying]
+Urinmoqda
+[Method Not Allowed]
+Usul ruxsat etilmagan
+[Not Found]
+Topilmadi
+[Always on Top]
+Доимо олдида
+[Connect]
+Богланиш
+[Last Call]
+Сунги конгирок
+[Close All]
+Барчасини йопиш
+[Copy]
+Нусха олиш
+[Select All]
+Hammasini belgilash
+[Display Name]
+Исмни курсатиш
+[Remember Details]
+Tafsilotlarni eslab qoling
+[PIN]
+PIN-kod
+[No]
+Йок
+[All Calls]
+Барча конгироклар
+[SIP Header]
+SIP sarlavhasi
+[Different User]
+Boshqa foydalanuvchi
+[Different Domain]
+Бошка домен
+[Different User or Domain]
+Boshqa foydalanuvchi yoki domen
+[Different Remote Domain]
+Masofadagi boshqa domen
+[Deny Incoming]
+Kirishni rad etish
+[Allow IP Rewrite]
+IP-ни узгартиришга рухсат
+[Directory of Users]
+Foydalanuvchilar katalogi
+[Call on Remote Hold]
+Masofadan ushlab turishga qo'ng'iroq qiling
+[Call on Local Hold]
+Когирок махаллий кутиш холида
+[Call on Hold]
+Конгирок кутиш холда
+[Call is Active]
+Конгирок актив холда
+[Menu]
+Меню
+[Edit Account]
+Хисобни узгартириш
+[Add Account...]
+Аккаунт кушиш
+[Remove Account]
+Hisobni o'chirish
+[Make Active]
+Фаоллаштириш
+[Are you sure you want to remove?]
+Haqiqatan ham olib tashlamoqchimisiz?
+[Call Pickup]
+Qo'ng'iroqni tutib olish
+[Speaker Level]
+Karnay darajasi
+[Microphone Level]
+Mikrofon darajasi
+[Mute Speaker]
+овозни учириш
+[Mute Microphone]
+Mikrofonni o'chirish
+[Balance]
+Balans
+[Custom INI Path]
+BU YOZNING shaxsiy yo&#39;llari
+[Contact Us]
+Biz bilan bog&#39;lanish
+[Please fill out at least the required fields marked with *.]
+Iltimos, barcha * bilan belgilangan maydonlarni to'ldiring.
+[Ask your SIP provider how to configure the account correctly.]
+Созламаларни Сип провайдерингиздан аниклаштиринг.
+[Time]
+вакт
+[Phone]
+Telefon
+[Ringtone]
+Rington
+[Username]
+Foydalanuvchi logini
+[Do you want to update now?]
+Hozir yangilamoqchimisiz?
+[Available Codecs]
+Мавжуд кодеклар
+[Enabled Codecs]
+Yoqilgan kodeklar
+[Logs]
+Руйхат журнали
+[Random Popup Position]
+Tasodifiy qalqib chiqadigan joy
+[Attended Transfer]
+Ishtirok etish
+[Launch URL on incoming call]
+Kirish qo&#39;ng&#39;irog&#39;ida URL-ni ishga tushiring
+[Enable Local Account]
+Махаллий хисобни йокиш
+[Send Crash Report]
+Ishdan chiqish hisobotini yuboring
+[Account Name]
+Хисоб номи
+[Invite to Conference]
+Йигилишга таклиф килиш
+[Merge]
+go
+[Separate]
+Alohida
+[Disconnect]
+Учирилди
+[DTMF Method]
+DTMF usuli
+[Voicemail Number]
+Овозли хааабар номери
+[Disable Session Timers]
+Sessiya taymerlarini o'chirib qo'yish
+[Microphone Amplification]
+Mikrofonni kuchaytirish
+[Software Level Adjustment]
+Dastur darajasini sozlash
+[Shortcuts]
+Yorliqlar
+[Enable]
+Йокиш
+[Label]
+Yorliq
+[Type]
+Turi
+[Bottom Position]
+Pastki joylashuv
+[You need to restart application for the changes to take effect.]
+O'zgartirishlar kuchga kirishi uchun ilovani qayta ishga tushirishingiz kerak.
+[Handle Media Buttons]
+Media tugmalaridan foydalanish
+[Bring to Front on Incoming Call]
+Кириш конгирокларини иловалар устида курсатиш
+[SIP account]
+SIP hisobi
+[SIP password]
+SIP parol
+[Help]
+Yordam bering
+[Video Bitrate]
+Video Bitreyt
+[Control Button]
+Бошкариш тугмаси
+[Do Not Disturb]
+Безовта килманг
+[Source Port]
+Manba porti
+[RTP Ports]
+RTP portlari
+[Unregister the account when the operator is Away]
+Operator yo&#39;q bo&#39;lib ketganda hisobni ro&#39;yxatdan o&#39;chiring
+[Ask for the sip USER and SECRET everytime]
+Har safar SIP va SECRET so&#39;rovlarini so&#39;rang
+[Import]
+Import
+[Server]
+Server
+[Attendant Transfer]
+Xizmatkorni o&#39;tkazish
+[Blind Transfer]
+Ko&#39;zi ojiz
+[Redial]
+Qayta terish
+[Backspace]
+Учириш
+[Clear]
+Тозаламок
+[Use Space key to enable selected codec]
+Tanlangan kodeklarni yoqish uchun space tugmasidan foydalaning
+[Use Delele key to disable selected codec]
+Tanlangan kodeklarni o'chirish uchun Delele tugmasidan foydalaning
+[Make Inactive]
+Nofaol holatga o&#39;tkazing
+[Conference]
+Конференция
+[Dialing Prefix]
+Raqamni kiritish prefiksi
+[Register Refresh]
+Ro'yxatdan o'tishni yangilang
+[Keep-Alive]
+Tirik qoling
+[Ringtone Volume]
+Qo'ng'iroq tovush balandligi
+[Call Recording]
+Конгирокни йозиб олиш
+[Nameserver]
+Nameserver
+[Default List Action]
+Одатий амаллар руйхати
+[Edit Local Account]
+Махаллий хисобни узгартириш
+[Export]
+Eksport qilish
+[Version]
+Versiya
+[Call Waiting]
+Конгирокни кутиш
+[Ready]
+Tayyor
+[Not online]
+Тармокда эмас
+[On the phone]
+Telefonda
+[First Name]
+Исм
+[Last Name]
+Фамилия
+[Phone Number]
+Telefon raqami
+[Mobile Number]
+Uyali telefon raqami
+[E-mail Address]
+Elektron pochta manzili
+[Address]
+Манзил
+[City]
+Шахар
+[State]
+Davlat
+[Postal Code]
+Pochta Indeksi
+[Comment]
+Изох
+[Extension]
+Kengaytma
+[Port]
+Port
+[User ID]
+foydalanuvchi IDsi
+[Authentication failed]
+Haqiqiylikni tekshirib bo&#39;lmadi
+[API URL is empty]
+API URL manzili bo‘sh
+[API connection failed]
+API ulanishi amalga oshmadi
+[API request failed. Response code:]
+API so‘rovi bajarilmadi. Javob kodi:
+[API response is empty]
+API javobi bo&#39;sh
+[API response parse error]
+API javoblarini tahlil qilishda xato
+[API data type is wrong]
+API ma’lumot turi noto‘g‘ri
+[Login failed]
+tizimga kirishda xatolik yuz berdi
+[Request failed]
+So‘rov bajarilmadi
+[close window to ignore call]
+Конгирокни этиборсиз колдириш учун ойнани йопинг
+[Transfer Code]
+Transfer kodi
+[Headset Support]
+Eshitish vositasini qo'llab-quvvatlash
+[Privacy Policy]
+Maxfiylik siyosati
+[sec]
+soniya
+[Call Forwarding]
+Конгирокни бошка операторга йуналтириш
+[Are you sure you want to delete?]
+Хакикатдан хам учиришни хохлайсизми?
+[Delete contact]
+Контактни учириш
+[Account or credentials not found.]
+Hisob qaydnomasi yoki hisobga olish ma'lumotlari topilmadi
+[Please fill out all required fields.]
+Iltimos, barcha kerakli maydonlarni to'ldiring.
+[Change Account]
+Hisobni o&#39;zgartirish
+[Dial Plan]
+Ракам тугмалари
+[Disable Video]
+Videoni o'chirib qo'yish
+[Disable Messaging]
+Xabarlar funksiyasini o'chirish
+[Headphones]
+Eshitish vositasi
+[Are you sure you want to close the application?]
+Ilovani yopishni xohlaysizmi?
+[Dashboard Access]
+Dashboard-ga kirish
+[Break]
+Tanaffus
+[Non-Telephone Work]
+Telefondan tashqari ish
+[On Break]
+Tanaffusda
+[Telephone Work]
+Telefon bilan ishlash
+[Register]
+Ro'yxatdan o'tish
+[Unregister]
+Ro'yxatdan o'tish
+[Options]
+Tanlovlar
+[Delay]
+Kechiktirish
+[Caller Number]
+Конгирок килувчи раками
+[Purchase a Number]
+Raqamni sotib oling
+[Line Number (4 digits)]
+Qator raqami (4 ta raqam)
+[Line Password]
+Line parol
+[Set Password]
+Parolni o&#39;rnating
+[Reset Password]
+Parolni tiklash
+[Open]
+Ochish uchun
+[Unable to find default audio device]
+Hech qanday audio qurilma topilmadi
+[Network is unreachable]
+Tarmoqqa ulanish imkonsiz
+[Allow access to the microphone in your antivirus settings.]
+Antivirus sozlamalarida mikrofonga kirishga ruxsat bering.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Windows sozlamalarida mikrofon ruxsatini to'rilang (Windows sozlamalari => Maxfiylik => Mikrofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Dinamiklar va mikrofon ikkalasi ham talab qilinadi. Qo'ng'iroq qilish uchun tizimingizda kirish va chiqish ovoz qurilmasi bo'lishi kerak.
+[Canceled]
+Бекор килинди
+[Unknown format]
+Noma'lum format
+[Softphone is not initialized. Check your settings.]
+Softphone ishga tushirilmagan. Sozlamalarni tekshiring.
+[Unable to initialize network sockets.]
+Tarmoq rozetkalarini ishga tushirib bo'lmadi.
+[Starred]
+Yulduzli
+[Run at System Startup]
+Tizimni ishga tushirishda ishga tushiring
+[Run Batch]
+To'plamni ishga tushirish
+[Call URL]
+Конгирок URL и
+[Call All]
+Хаммага конгирок килиш
+[Custom]
+Махсус
+[Take Back]
+Qaytarib ol
+[Add Contact]
+Контакт кушиш
+[Incorrect dialing or non-existent number]
+Noto&#39;g&#39;ri terish yoki mavjud bo&#39;lmagan raqam
+[Profile]
+Profil
+[Use Outbound Proxy]
+Chiquvchi proksi-serverdan foydalaning
+[End]
+Qo'ng'iroqni tugatish
+[Address Incomplete]
+Manzil tugallanmagan
+[Not acceptable here]
+Bu erda qabul qilinishi mumkin emas
+[Direct Transfer]
+To&#39;g&#39;ridan-to&#39;g&#39;ri uzatish
+[Idle]
+Bo&#39;sh
+[Toggle]
+Oʻchirish
+[Enter Password]
+Parolni kiriting
+[Connection refused]
+Ulanishga ruxsat berilmadi
+[Connection timed out]
+Ulanish vaqti tugadi
+[Cannot get IP address of the called host]
+Chaqirilayotgan xostning IP manzilini ololmadi
+[Answered Elsewhere]
+Boshqa joyda javob berdi
+[Missed Call]
+O&#39;tkazib yuborilgan qo&#39;ng&#39;iroq
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Foydalanuvchi ma&#39;lumotlari va dastur sozlamalarini o&#39;chirib tashlamoqchimisiz? Bu amalni ortga qaytarib bo‘lmaydi.
+[Unavailable]
+Mavjud emas
+[Call Limit]
+Qo&#39;ng&#39;iroq chegarasi
+[Hide Caller ID]
+Qo&#39;ng&#39;iroq qiluvchining identifikatorini yashirish
+[External Program]
+Tashqi dastur
+[]

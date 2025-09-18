@@ -1,0 +1,587 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+اتصل
+[End Call]
+إنهاء المكالمة
+[Contacts]
+ارقام الاتصال
+[Account]
+الحساب
+[Settings]
+الإعدادات
+[Visit Website]
+زر الموقع
+[Exit]
+الخروج
+[Browse...]
+تصفح...
+تصفح...
+[Default]
+الافتراضي
+[Auto Answer]
+الرد آليا
+[Disable Local Account]
+الغاء تنشيط الحساب المحلي
+[OK]
+حسنا
+[Save]
+حفظ
+[Cancel]
+الغاء
+[SIP Server]
+SIP عنوان خادم
+[SIP Proxy]
+SIP بروكسي
+[Domain]
+النطاق
+[Password]
+كلمة السر
+[Connecting...]
+جاري التوصيل ...
+[Online]
+متصل
+[Local]
+محلي
+[Message]
+رسالة
+[Edit]
+تعديل
+[Delete]
+حذف
+[Add]
+إضافة
+[Bad Gateway]
+بوابة غير صالحة
+[Request Timeout]
+انتهت مهلة الطلب
+[Number]
+الرقم
+[Name]
+الاسم
+[Contact]
+رقم اتصال
+[Incoming Call]
+مكالمة واردة
+[Answer]
+رد
+[Decline]
+الرفض
+[Calling]
+جاري الاتصال
+[Connecting]
+جاري التوصيل
+[Connected]
+متصل
+[Auto]
+آلي
+[Transport]
+وسيلة النقل
+[Incorrect Password]
+كلمة المرور غير صحيحة
+[Public Address]
+العنوان العمومي
+[Media Encryption]
+تشفير الميديا
+[Disabled]
+معطل
+[Optional]
+اختياري
+[Mandatory]
+إجباري
+[STUN Server]
+خادم STUN
+[Presence Subscription]
+اشتراك الحضور
+[Ringing]
+يرن
+[Call Ended]
+إنتهت المكالمة
+[Declined]
+تم الرفض
+[No address found]
+لم يتم العثور على العنوان
+[Request Terminated]
+تم الغاء الطلب
+[Away]
+غائب
+[Publish Presence]
+إعلان الحضور
+[Session Progress]
+تفاصيل الجلسة
+[Camera]
+كاميرا
+[Video Call]
+اتصال فيديو
+[Answer with Video]
+الرد مع الفيديو
+[View Log File]
+عرض ملف السجل
+[Microphone]
+مايكروفون
+[Speaker]
+مكبر الصوت
+[Video Codec]
+ترميز الفيديو
+[Check for Updates]
+البحث عن تحديث
+[Daily]
+يومي
+[Weekly]
+أسبوعي
+[Monthly]
+شهري
+[Quarterly]
+ربع سنوي
+[Never]
+ابدا
+[Update Available]
+تحديث متوفر
+[Force Codec for Incoming]
+فرض الترميز للمكالمات للوارد
+[Invalid Number]
+الرابط  غير صالح
+[Offline]
+غير متصل
+[Single Call Mode]
+وضعية الإتصال الواحد
+[Local Video]
+فيديوا محلي
+[Call Transfer]
+تحويل المكالمة
+[final]
+نهائي
+[Call transfered successfully, disconnecting call]
+حُولت المكالمة بنجاح، جاري فصل المكالمة
+[Hold]
+تعليق المكالمة
+[Transfer]
+نقل المكالمة
+[Sound Events]
+أحداث الصوت
+[Bitrate]
+معدل البت
+[Login]
+تسجيل الدخول
+[Enable Log File]
+فعّل ملف السجل
+[Duration]
+الفترة
+[Info]
+المعلومات
+[display password]
+إظهار كلمة المرور
+[From]
+من
+[To]
+إلى
+[Ring Device]
+جهاز الرنين
+[Service Unavailable]
+الخدمة غير متوفرة
+[Unable to connect to remote server.]
+تعذر الاتصال بالخادم البعيد.
+[Busy Here]
+الخط مشغول
+[Trying]
+يحاول
+[Method Not Allowed]
+الطريقة غير مسموحة
+[Not Found]
+غير موجود
+[Always on Top]
+دائما فى الأعلى
+[Connect]
+اتصل
+[Last Call]
+آخر مكالمة
+[Close All]
+أغلق الكل
+[Copy]
+نسخ
+[Select All]
+اختر الجميع
+[Display Name]
+الاسم
+[Remember Details]
+تذكر التفاصيل
+[PIN]
+دبوس
+[No]
+لا
+[All Calls]
+جميع المكالمات
+[SIP Header]
+ترويسة SIP
+[Different User]
+مستخدم مختلف
+[Different Domain]
+نطاق مختلف
+[Different User or Domain]
+مستخدم أو نطاق مختلف
+[Different Remote Domain]
+نطاق مختلف بعيد
+[Deny Incoming]
+ارفض المكالمة الواردة
+[Allow IP Rewrite]
+IP السماح بإعادة كتابة ال
+[Directory of Users]
+دليل أرقام المستخدمين
+[Call on Remote Hold]
+المكالمة معلقة لدى المتصَل به
+[Call on Local Hold]
+المكالمة معلقة لدي
+[Call on Hold]
+المكالمة معلقة
+[Call is Active]
+المكالمة جارية
+[Menu]
+القائمة
+[Edit Account]
+تعديل الحساب
+[Add Account...]
+إضافة حساب...
+[Remove Account]
+امسح الحساب
+[Make Active]
+تنشيط
+[Are you sure you want to remove?]
+هل أنت متأكد أنك تريد الحذف؟
+[Call Pickup]
+التقاط المكالمة
+[Speaker Level]
+مستوى مكبر الصوت
+[Microphone Level]
+درجة صوت المايكرفون
+[Mute Speaker]
+كتم السماعات
+[Mute Microphone]
+كتم المايكرفون
+[Balance]
+توازن
+[Custom INI Path]
+عرف هذا المسار
+[Contact Us]
+اتصل بنا
+[Please fill out at least the required fields marked with *.]
+من فضلك قم بملئ الحقول المطلوبة و المشار لها ب *
+[Ask your SIP provider how to configure the account correctly.]
+اسأل مزود خدمة SIP عن كيفية ضبط الحساب بشكل صحيح.
+[Time]
+الوقت
+[Phone]
+الهاتف
+[Ringtone]
+صوت الرنين
+[Username]
+اسم المستخدم
+[Do you want to update now?]
+هل تريد التحديث الآن؟
+[Available Codecs]
+خيارات الترميز المتوفرة
+[Enabled Codecs]
+خيارات الترميز المفعلة
+[Logs]
+سجل المكالمات
+[Random Popup Position]
+موقع نافذة إخطارعشوائي
+[Attended Transfer]
+نقل المكالمة مع الإخطار
+[Launch URL on incoming call]
+إطلاق URL على مكالمة واردة
+[Enable Local Account]
+تفعيل الحساب المحلي
+[Send Crash Report]
+إرسال تقرير عن خطأ
+[Account Name]
+اسم الحساب
+[Invite to Conference]
+دعوة للمؤتمر
+[Merge]
+دمج
+[Separate]
+منفصل
+[Disconnect]
+فصل الاتصال
+[DTMF Method]
+طريقة DTMF
+[Voicemail Number]
+رقم البريد الصوتي
+[Disable Session Timers]
+إلغاء مؤقتات الجلسة
+[Microphone Amplification]
+تضخيم صوت المايكروفون
+[Software Level Adjustment]
+درجة تحمل البرنامج
+[Shortcuts]
+اختصارات
+[Enable]
+تفعيل
+[Label]
+العلامة
+[Type]
+نوع
+[Bottom Position]
+الوضع السفلي
+[You need to restart application for the changes to take effect.]
+يجب عليك إعادة تشغيل البرنامج لتطبيق التعديلات الجديدة
+[Handle Media Buttons]
+التحكم بأزرار الميديا
+[Bring to Front on Incoming Call]
+جلب إلى الأمام عند ورود مكالمة
+[SIP account]
+حساب SIP
+[SIP password]
+SIP كلمة المرور
+[Help]
+المساعدة
+[Video Bitrate]
+معدل بت الفيديو
+[Control Button]
+زر التحكم
+[Do Not Disturb]
+عدم الإزعاج
+[Source Port]
+منفذ المصدر
+[RTP Ports]
+منافذ RTP
+[Unregister the account when the operator is Away]
+قم بإلغاء تسجيل الحساب عندما يكون المشغل بالخارج
+[Ask for the sip USER and SECRET everytime]
+اطلب استخدام sip و SECRET في كل مرة
+[Import]
+استيراد
+[Server]
+الخادم
+[Attendant Transfer]
+نقل المصاحبة
+[Blind Transfer]
+نقل المكفوفين
+[Redial]
+إعادة الاتصال
+[Backspace]
+للوراء
+[Clear]
+مسح
+[Use Space key to enable selected codec]
+انقر على زر المسافة لتفعيل الترميز المختار
+[Use Delele key to disable selected codec]
+انقر على زر المسح لإلغاء تفعيل الترميز المختار
+[Make Inactive]
+جعل غير نشط
+[Conference]
+مؤتمر
+[Dialing Prefix]
+بداية رقم الاتصال
+[Register Refresh]
+تحديث التسجيل
+[Keep-Alive]
+البقاء نشط
+[Ringtone Volume]
+صوت الرنين
+[Call Recording]
+تسجيل المكالمة
+[Nameserver]
+مخدم الاسم
+[Default List Action]
+عمل القائمة الافتراضية
+[Edit Local Account]
+تعديل الحساب المحلي
+[Export]
+تصدير
+[Version]
+الإصدار
+[Call Waiting]
+خدمة انتظار المكالمات
+[Ready]
+جاهز
+[Not online]
+غير متصل
+[On the phone]
+على الهاتف
+[First Name]
+الاسم الأول
+[Last Name]
+الكنية
+[Phone Number]
+رقم الهاتف
+[Mobile Number]
+رقم الهاتف المحمول
+[E-mail Address]
+عنوان البريد الإلكتروني
+[Address]
+العنوان
+[City]
+المدينة
+[State]
+الحالة
+[Postal Code]
+الكود البريدى
+[Comment]
+تعليق
+[Extension]
+تمديد
+[Port]
+ميناء
+[User ID]
+معرف المستخدم
+[Authentication failed]
+المصادقة فشلت
+[API URL is empty]
+عنوان URL لواجهة برمجة التطبيقات فارغ
+[API connection failed]
+فشل اتصال API
+[API request failed. Response code:]
+فشل طلب واجهة برمجة التطبيقات. رمز الاستجابة:
+[API response is empty]
+استجابة API فارغة
+[API response parse error]
+خطأ في تحليل استجابة واجهة برمجة التطبيقات
+[API data type is wrong]
+نوع بيانات API خاطئ
+[Login failed]
+فشل تسجيل الدخول
+[Request failed]
+الطلب فشل
+[close window to ignore call]
+أغلق النافذة لتجاهل المكالمة
+[Transfer Code]
+كود التحويل
+[Headset Support]
+دعم سماعة الرأس
+[Privacy Policy]
+سياسة خاصة
+[sec]
+ثانية
+[Call Forwarding]
+تحويل المكالمات
+[Are you sure you want to delete?]
+هل أنت متأكد أنك تريد الحذف؟
+[Delete contact]
+حذف رقم الاتصال
+[Account or credentials not found.]
+الحساب أو بيانات الاعتماد غير موجود
+[Please fill out all required fields.]
+يرجى ملئ جميع الحقول المطلوبة.
+[Change Account]
+تغير الحساب
+[Dial Plan]
+خطة الاتصال الهاتفي
+[Disable Video]
+تعطيل الفيديو
+[Disable Messaging]
+تعطيل المراسلة
+[Headphones]
+سماعات الرأس
+[Are you sure you want to close the application?]
+هل أنت متأكد أنك تريد إغلاق التطبيق؟
+[Dashboard Access]
+الوصول إلى لوحة القيادة
+[Break]
+استراحة
+[Non-Telephone Work]
+العمل خارج الهاتف
+[On Break]
+في استراحة
+[Telephone Work]
+العمل الهاتفي
+[Register]
+تسجيل
+[Unregister]
+غير مسجل
+[Options]
+الخيارات
+[Delay]
+تأخير
+[Caller Number]
+رقم المتصل
+[Purchase a Number]
+شراء رقم
+[Line Number (4 digits)]
+رقم الخط (4 أرقام)
+[Line Password]
+كلمة مرور الخط
+[Set Password]
+ضبط كلمة السر
+[Reset Password]
+إعادة تعيين كلمة المرور
+[Open]
+للفتح
+[Unable to find default audio device]
+لم يتم العثور على جهاز الصوت الافتراضي
+[Network is unreachable]
+الشبكة غير متاحة
+[Allow access to the microphone in your antivirus settings.]
+اسمح بالوصول إلى الميكروفون في إعدادات مكافحة الفيروسات.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+إصلاح إذن الميكروفون في إعدادات Windows (إعدادات Windows =&gt; الخصوصية =&gt; الميكروفون).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+مكبرات الصوت والميكروفون كلاهما مطلوب. لإجراء مكالمات ، يجب أن يكون لديك جهاز إدخال وإخراج الصوت في نظامك.
+[Canceled]
+ألغيت
+[Unknown format]
+تنسيق غير معروف
+[Softphone is not initialized. Check your settings.]
+لم تتم تهيئة الهاتف الذكي. تحقق من إعداداتك.
+[Unable to initialize network sockets.]
+غير قادر على تهيئة مآخذ الشبكة.
+[Starred]
+مميز بنجمة
+[Run at System Startup]
+تشغيل عند بدء تشغيل النظام
+[Run Batch]
+تشغيل الدفعة
+[Call URL]
+عنوان URL للاتصال
+[Call All]
+اتصل بالجميع
+[Custom]
+مخصص
+[Take Back]
+استرجع
+[Add Contact]
+إضافة جهة اتصال
+[Incorrect dialing or non-existent number]
+اتصال غير صحيح أو رقم غير موجود
+[Profile]
+الملف الشخصي
+[Use Outbound Proxy]
+استخدم الخادم الوكيل الصادر
+[End]
+إنهاء المكالمة
+[Address Incomplete]
+العنوان غير مكتمل
+[Not acceptable here]
+غير مقبول هنا
+[Direct Transfer]
+تحويل مباشر
+[Idle]
+عاطل
+[Toggle]
+تبديل
+[Enter Password]
+أدخل كلمة المرور
+[Connection refused]
+رفض اتصال
+[Connection timed out]
+انتهت مدة الاتصال
+[Cannot get IP address of the called host]
+لا يمكن الحصول على عنوان IP للمضيف الذي تم الاتصال به
+[Answered Elsewhere]
+تم الرد في مكان آخر
+[Missed Call]
+مكالمة فائتة
+[Do you want to delete user data and program settings? This action cannot be undone.]
+هل تريد حذف بيانات المستخدم وإعدادات البرنامج؟ لا يمكن التراجع عن هذا الإجراء.
+[Unavailable]
+غير متوفره
+[Call Limit]
+حد المكالمة
+[Hide Caller ID]
+إخفاء معرف المتصل
+[External Program]
+البرنامج الخارجي
+[]

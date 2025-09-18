@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Hringdu
+[End Call]
+Ljúka símtali
+[Contacts]
+Tengiliðir
+[Account]
+Reikningur
+[Settings]
+Stillingar
+[Visit Website]
+Heimsæktu vefsíðu
+[Exit]
+Hætta
+[Browse...]
+Fletta ...
+[Default]
+Sjálfgefið
+[Auto Answer]
+Sjálfvirkt svar
+[Disable Local Account]
+Slökkva á staðbundnum reikningi
+[OK]
+OK
+[Save]
+Vista
+[Cancel]
+Hætta við
+[SIP Server]
+SIP netþjónn
+[SIP Proxy]
+SIP umboð
+[Domain]
+Lén
+[Password]
+Lykilorð
+[Connecting...]
+Tengist ...
+[Online]
+Online
+[Local]
+Staðbundin
+[Message]
+Skilaboð
+[Edit]
+Breyta
+[Delete]
+Eyða
+[Add]
+Bæta við
+[Bad Gateway]
+Slæm hlið
+[Request Timeout]
+Biðja um tíma
+[Number]
+Fjöldi
+[Name]
+Nafn
+[Contact]
+Hafðu samband
+[Incoming Call]
+Móttekið símtal
+[Answer]
+Svarið
+[Decline]
+Hafna
+[Calling]
+Hringir
+[Connecting]
+Tengist
+[Connected]
+Tengt
+[Auto]
+Sjálfvirkt
+[Transport]
+Samgöngur
+[Incorrect Password]
+Rangt lykilorð
+[Public Address]
+Almenningur
+[Media Encryption]
+Dulkóðun fjölmiðla
+[Disabled]
+Fötluð
+[Optional]
+Valfrjálst
+[Mandatory]
+Skylda
+[STUN Server]
+STUN netþjónn
+[Presence Subscription]
+Viðveruáskrift
+[Ringing]
+Hringit
+[Call Ended]
+Hringingu lokið
+[Declined]
+Hafnað
+[No address found]
+Ekkert heimilisfang fannst
+[Request Terminated]
+Beiðni sagt upp
+[Away]
+Burt
+[Publish Presence]
+Birta viðveru
+[Session Progress]
+Þróun þingsins
+[Camera]
+Myndavél
+[Video Call]
+Myndsímtal
+[Answer with Video]
+Svaraðu með myndbandi
+[View Log File]
+Skoða annál
+[Microphone]
+Hljóðnemi
+[Speaker]
+Ræðumaður
+[Video Codec]
+Vídeó merkjamál
+[Check for Updates]
+Athugaðu með uppfærslur
+[Daily]
+Daglega
+[Weekly]
+Vikulega
+[Monthly]
+Mánaðarlega
+[Quarterly]
+Ársfjórðungslega
+[Never]
+Aldrei
+[Update Available]
+Uppfærsla í boði
+[Force Codec for Incoming]
+Þvinga merkjamál fyrir komandi
+[Invalid Number]
+Ógilt URI
+[Offline]
+Ótengdur
+[Single Call Mode]
+Stilling fyrir einn hringingu
+[Local Video]
+Local Video
+[Call Transfer]
+Hringiflutning
+[final]
+lokaleikur
+[Call transfered successfully, disconnecting call]
+Hægt var að flytja símtal með því að aftengja símtalið
+[Hold]
+Haltu
+[Transfer]
+Flytja
+[Sound Events]
+Hljóðviðburðir
+[Bitrate]
+Bitrate
+[Login]
+Skrá inn
+[Enable Log File]
+Virkja annáll
+[Duration]
+Lengd
+[Info]
+Upplýsingar
+[display password]
+sýna lykilorð
+[From]
+Frá
+[To]
+Að
+[Ring Device]
+Hringitæki
+[Service Unavailable]
+Þjónusta ekki tiltæk
+[Unable to connect to remote server.]
+Ekki er hægt að tengjast ytri netþjóni.
+[Busy Here]
+Upptekinn hér
+[Trying]
+Reynt
+[Method Not Allowed]
+Aðferð er ekki leyfð
+[Not Found]
+Ekki fundið
+[Always on Top]
+Alltaf á toppnum
+[Connect]
+Tengjast
+[Last Call]
+Seinasta hringing
+[Close All]
+Loka öllum
+[Copy]
+Afrita
+[Select All]
+Velja allt
+[Display Name]
+Skjánafn
+[Remember Details]
+Mundu smáatriði
+[PIN]
+PIN númer
+[No]
+Nei
+[All Calls]
+Öll símtöl
+[SIP Header]
+SIP haus
+[Different User]
+Mismunandi notandi
+[Different Domain]
+Mismunandi lén
+[Different User or Domain]
+Mismunandi notandi eða lén
+[Different Remote Domain]
+Mismunandi fjarlægur lén
+[Deny Incoming]
+Neita að koma
+[Allow IP Rewrite]
+Leyfa endurskrif IP
+[Directory of Users]
+Listi yfir notendur
+[Call on Remote Hold]
+Hringdu í fjarstopp
+[Call on Local Hold]
+Hringdu í staðbundna bið
+[Call on Hold]
+Hringdu í bið
+[Call is Active]
+Hringing er virk
+[Menu]
+Valmynd
+[Edit Account]
+Breyta reikningi
+[Add Account...]
+Bæta við aðgangi...
+[Remove Account]
+Fjarlægja reikning
+[Make Active]
+Gerðu virkan
+[Are you sure you want to remove?]
+Ertu viss um að þú viljir fjarlægja?
+[Call Pickup]
+Hringingu
+[Speaker Level]
+Ræðumaður stigi
+[Microphone Level]
+Hljóðnemastig
+[Mute Speaker]
+Þagga hátalara
+[Mute Microphone]
+Þagga hljóðnemann
+[Balance]
+Jafnvægi
+[Custom INI Path]
+Sérsniðin ÞETTA leið
+[Contact Us]
+Hafðu samband við okkur
+[Please fill out at least the required fields marked with *.]
+Vinsamlegast fylltu út amk nauðsynlega reiti merktir með *.
+[Ask your SIP provider how to configure the account correctly.]
+Spurðu SIP-veituna þína hvernig á að stilla reikninginn rétt.
+[Time]
+Tími
+[Phone]
+Sími
+[Ringtone]
+Hringitónn
+[Username]
+Notandanafn
+[Do you want to update now?]
+Viltu uppfæra núna?
+[Available Codecs]
+Í boði merkjamál
+[Enabled Codecs]
+Virkja merkjamál
+[Logs]
+Annálar
+[Random Popup Position]
+Handahófskennd sprettiglugga
+[Attended Transfer]
+Sótti flutning
+[Launch URL on incoming call]
+Ræstu slóðina á símtal
+[Enable Local Account]
+Virkja staðbundinn reikning
+[Send Crash Report]
+Senda árekstrarskýrslu
+[Account Name]
+Nafn reiknings
+[Invite to Conference]
+Bjóddu til ráðstefnu
+[Merge]
+Áfram
+[Separate]
+Aðskilja
+[Disconnect]
+Aftengdu
+[DTMF Method]
+DTMF aðferð
+[Voicemail Number]
+Talhólfsnúmer
+[Disable Session Timers]
+Slökkva á tímastillum setu
+[Microphone Amplification]
+Mögnun hljóðnemans
+[Software Level Adjustment]
+Aðlögun hugbúnaðarstigs
+[Shortcuts]
+Flýtileiðir
+[Enable]
+Virkja
+[Label]
+Merki
+[Type]
+Gerð
+[Bottom Position]
+Neðsta staða
+[You need to restart application for the changes to take effect.]
+Þú verður að endurræsa forritið til að breytingarnar geti tekið gildi.
+[Handle Media Buttons]
+Meðhöndla fjölmiðlahnappa
+[Bring to Front on Incoming Call]
+Komdu framan á hringingu
+[SIP account]
+SIP reikningur
+[SIP password]
+SIP lykilorð
+[Help]
+Hjálp
+[Video Bitrate]
+Hraða myndbands
+[Control Button]
+Stýrihnappur
+[Do Not Disturb]
+Ekki trufla
+[Source Port]
+Upprunahöfn
+[RTP Ports]
+RTP hafnir
+[Unregister the account when the operator is Away]
+Afskráðu reikninginn þegar rekstraraðili er í burtu
+[Ask for the sip USER and SECRET everytime]
+Biðjið um sopa USER og SECRET hvenær sem er
+[Import]
+Flytja inn
+[Server]
+Netþjónn
+[Attendant Transfer]
+Flutningur aðstoðarmanns
+[Blind Transfer]
+Blindur flutningur
+[Redial]
+Endurvalið
+[Backspace]
+Bakrými
+[Clear]
+Tær
+[Use Space key to enable selected codec]
+Notaðu Space takkann til að virkja valinn merkjamál
+[Use Delele key to disable selected codec]
+Notaðu Delele takkann til að slökkva á völdum merkjamálum
+[Make Inactive]
+Gerðu óvirk
+[Conference]
+Ráðstefna
+[Dialing Prefix]
+Forval fyrir hringingu
+[Register Refresh]
+Skráðu hressa
+[Keep-Alive]
+Halda á lífi
+[Ringtone Volume]
+Hringitón bindi
+[Call Recording]
+Upptaka símtala
+[Nameserver]
+Nafnserver
+[Default List Action]
+Sjálfgefin listi Aðgerð
+[Edit Local Account]
+Breyta staðbundnum reikningi
+[Export]
+Útflutningur
+[Version]
+Útgáfa
+[Call Waiting]
+Símtal bíður
+[Ready]
+Tilbúinn
+[Not online]
+Ekki á netinu
+[On the phone]
+Í símanum
+[First Name]
+Fyrsta nafn
+[Last Name]
+Eftirnafn
+[Phone Number]
+Símanúmer
+[Mobile Number]
+Farsímanúmer
+[E-mail Address]
+Netfang
+[Address]
+Heimilisfang
+[City]
+Borg
+[State]
+Ríki
+[Postal Code]
+póstnúmer
+[Comment]
+Athugasemd
+[Extension]
+Viðbygging
+[Port]
+Höfn
+[User ID]
+notandanafn
+[Authentication failed]
+Auðkenning mistókst
+[API URL is empty]
+API slóðin er tóm
+[API connection failed]
+API-tenging mistókst
+[API request failed. Response code:]
+API beiðni mistókst. Svarnúmer:
+[API response is empty]
+API svar er tómt
+[API response parse error]
+Villa við að svara API-svörun
+[API data type is wrong]
+Gerð API-gagna er röng
+[Login failed]
+Innskráning mistókst
+[Request failed]
+Beiðni mistókst
+[close window to ignore call]
+lokaðu glugga til að hunsa símtal
+[Transfer Code]
+Flutningskóði
+[Headset Support]
+Stuðningur við heyrnartól
+[Privacy Policy]
+Friðhelgisstefna
+[sec]
+sek
+[Call Forwarding]
+Áframsending símtala
+[Are you sure you want to delete?]
+Ertu viss um að þú viljir eyða?
+[Delete contact]
+Eyða tengilið
+[Account or credentials not found.]
+Reikningur eða skilríki fannst ekki
+[Please fill out all required fields.]
+Vinsamlegast fylltu út alla nauðsynlega reiti.
+[Change Account]
+Skiptu um reikning
+[Dial Plan]
+Dial Dial
+[Disable Video]
+Slökkva á myndskeiði
+[Disable Messaging]
+Slökkva á skilaboðum
+[Headphones]
+Heyrnartól
+[Are you sure you want to close the application?]
+Ertu viss um að þú viljir loka forritinu?
+[Dashboard Access]
+Aðgangur að mælaborði
+[Break]
+Brot
+[Non-Telephone Work]
+Vinna utan síma
+[On Break]
+Í hléi
+[Telephone Work]
+Símavinna
+[Register]
+Skráðu þig
+[Unregister]
+Afskráðu þig
+[Options]
+Valkostir
+[Delay]
+Seinkaðu
+[Caller Number]
+Númer hringjanda
+[Purchase a Number]
+Kauptu númer
+[Line Number (4 digits)]
+Línunúmer (4 tölustafir)
+[Line Password]
+Línulykilorð
+[Set Password]
+Stilltu lykilorð
+[Reset Password]
+Endur stilla lykilorð
+[Open]
+Að opna
+[Unable to find default audio device]
+Ekkert hljóðtæki fannst
+[Network is unreachable]
+Net er ekki náð
+[Allow access to the microphone in your antivirus settings.]
+Leyfðu aðgang að hljóðnemanum í vírusvarnarstillingunum þínum.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Lagaðu leyfi fyrir hljóðnema í Windows stillingum (Windows Settings =&gt; Privacy =&gt; Microphone).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Hátalarar og hljóðnemi eru báðir nauðsynlegir. Til að hringja þarftu að hafa inn- og úttakstæki í kerfinu þínu.
+[Canceled]
+Hætt við
+[Unknown format]
+Óþekkt snið
+[Softphone is not initialized. Check your settings.]
+Softphone er ekki frumstillt. Athugaðu stillingar þínar.
+[Unable to initialize network sockets.]
+Ekki er hægt að frumstilla netstengla.
+[Starred]
+Stjörnumerkt
+[Run at System Startup]
+Keyra við kerfisræsingu
+[Run Batch]
+Keyra Batch
+[Call URL]
+Hringja URL
+[Call All]
+Hringdu í alla
+[Custom]
+Sérsniðin
+[Take Back]
+Taka aftur
+[Add Contact]
+Bæta við tengilið
+[Incorrect dialing or non-existent number]
+Rangt hringing eða númer er ekki til
+[Profile]
+Prófíll
+[Use Outbound Proxy]
+Notaðu Outbound Proxy
+[End]
+Ljúka símtali
+[Address Incomplete]
+Heimilisfang ófullnægjandi
+[Not acceptable here]
+Ekki ásættanlegt hér
+[Direct Transfer]
+Bein millifærsla
+[Idle]
+Aðgerðarlaus
+[Toggle]
+Skipta
+[Enter Password]
+Sláðu inn lykilorð
+[Connection refused]
+Tengingu neitað
+[Connection timed out]
+Tengingin rann út
+[Cannot get IP address of the called host]
+Get ekki fengið IP tölu gestgjafans sem hringt er í
+[Answered Elsewhere]
+Svarað annars staðar
+[Missed Call]
+Ósvarað símtal
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Viltu eyða notendagögnum og forritastillingum? Ekki er hægt að afturkalla þessa aðgerð.
+[Unavailable]
+Ekki tiltækt
+[Call Limit]
+Símtalstakmörk
+[Hide Caller ID]
+Fela auðkenni hringingar
+[External Program]
+Ytri dagskrá
+[]

@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Zvaniet
+[End Call]
+Beigt sarunu
+[Contacts]
+Kontakti
+[Account]
+Konts
+[Settings]
+Iestatījumi
+[Visit Website]
+Apmeklējiet vietni
+[Exit]
+Izeja
+[Browse...]
+Pārlūkot ...
+[Default]
+Noklusējums
+[Auto Answer]
+Automātiskā atbilde
+[Disable Local Account]
+Atspējot vietējo kontu
+[OK]
+labi
+[Save]
+Saglabāt
+[Cancel]
+Atcelt
+[SIP Server]
+SIP serveris
+[SIP Proxy]
+SIP starpniekserveris
+[Domain]
+Domēns
+[Password]
+Parole
+[Connecting...]
+Notiek savienojuma izveidošana ...
+[Online]
+Tiešsaistē
+[Local]
+Vietējie
+[Message]
+Ziņa
+[Edit]
+Rediģēt
+[Delete]
+Dzēst
+[Add]
+Pievienot
+[Bad Gateway]
+Nederīga Vārteja
+[Request Timeout]
+Palūgt pārtraukumu
+[Number]
+Skaits
+[Name]
+Vārds
+[Contact]
+Sazinieties
+[Incoming Call]
+Ienākošo zvanu
+[Answer]
+Atbilde
+[Decline]
+Atteikties
+[Calling]
+Zvana
+[Connecting]
+Savienošana
+[Connected]
+Savienots
+[Auto]
+Automātiski
+[Transport]
+Transports
+[Incorrect Password]
+Nepareiza parole
+[Public Address]
+Publiskā uzruna
+[Media Encryption]
+Multivides šifrēšana
+[Disabled]
+Invalīds
+[Optional]
+Neobligāti
+[Mandatory]
+Obligāts
+[STUN Server]
+STUN serveris
+[Presence Subscription]
+Klātbūtnes abonements
+[Ringing]
+Zvana
+[Call Ended]
+Zvans beidzies
+[Declined]
+Atteicās
+[No address found]
+Netika atrasta adrese
+[Request Terminated]
+Pieprasījums izbeigts
+[Away]
+Prom
+[Publish Presence]
+Publicēt klātbūtni
+[Session Progress]
+Sesijas norise
+[Camera]
+Kamera
+[Video Call]
+Video zvans
+[Answer with Video]
+Atbilde ar video
+[View Log File]
+Skatīt žurnālfailu
+[Microphone]
+Mikrofons
+[Speaker]
+Runātājs
+[Video Codec]
+Video kodeks
+[Check for Updates]
+Meklēt atjauninājumus
+[Daily]
+Katru dienu
+[Weekly]
+Iknedēļas
+[Monthly]
+Mēnesī
+[Quarterly]
+Ceturkšņa laikā
+[Never]
+Nekad
+[Update Available]
+Pieejams atjauninājums
+[Force Codec for Incoming]
+Ienākošo spēku kodeks
+[Invalid Number]
+Nederīgs URI
+[Offline]
+Bezsaistē
+[Single Call Mode]
+Viena zvana režīms
+[Local Video]
+Vietējais video
+[Call Transfer]
+Zvana pārsūtīšana
+[final]
+fināls
+[Call transfered successfully, disconnecting call]
+Zvans tika veiksmīgi pārsūtīts, atvienojot zvanu
+[Hold]
+Turiet
+[Transfer]
+Pārskaitījums
+[Sound Events]
+Skaņu notikumi
+[Bitrate]
+Bitrate
+[Login]
+Pieslēgties
+[Enable Log File]
+Iespējot žurnālfailu
+[Duration]
+Ilgums
+[Info]
+Informācija
+[display password]
+parādīt paroli
+[From]
+No plkst
+[To]
+Uz
+[Ring Device]
+Zvana ierīce
+[Service Unavailable]
+Pakalpojums nav pieejams
+[Unable to connect to remote server.]
+Nevar izveidot savienojumu ar attālo serveri.
+[Busy Here]
+Aizņemts šeit
+[Trying]
+Mēģina
+[Method Not Allowed]
+Metode nav atļauta
+[Not Found]
+Nav atrasts
+[Always on Top]
+Vienmēr virsū
+[Connect]
+Pievienojieties
+[Last Call]
+Pēdējais zvans
+[Close All]
+Aizvērt visu
+[Copy]
+Kopēt
+[Select All]
+Izvēlēties visus
+[Display Name]
+Parādāmais vārds
+[Remember Details]
+Atcerieties detaļas
+[PIN]
+PIN
+[No]
+Nē
+[All Calls]
+Visi zvani
+[SIP Header]
+SIP galvene
+[Different User]
+Dažāds lietotājs
+[Different Domain]
+Dažāds domēns
+[Different User or Domain]
+Dažāds lietotājs vai domēns
+[Different Remote Domain]
+Dažāds attālais domēns
+[Deny Incoming]
+Liegt ienākošo
+[Allow IP Rewrite]
+Atļaut IP pārrakstīšanu
+[Directory of Users]
+Lietotāju katalogs
+[Call on Remote Hold]
+Zvaniet uz attālo aizturēšanu
+[Call on Local Hold]
+Zvaniet uz vietējo aizturēšanu
+[Call on Hold]
+Zvans aizturēts
+[Call is Active]
+Zvans ir aktīvs
+[Menu]
+Izvēlne
+[Edit Account]
+Rediģēt kontu
+[Add Account...]
+Pievienot kontu...
+[Remove Account]
+Noņemt kontu
+[Make Active]
+Padarīt aktīvu
+[Are you sure you want to remove?]
+Vai tiešām vēlaties noņemt?
+[Call Pickup]
+Zvanu saņemšana
+[Speaker Level]
+Runātāju līmenis
+[Microphone Level]
+Mikrofona līmenis
+[Mute Speaker]
+Izslēgt skaļruni
+[Mute Microphone]
+Izslēgt mikrofonu
+[Balance]
+Līdzsvars
+[Custom INI Path]
+Pielāgots šis ceļš
+[Contact Us]
+Sazinies ar mums
+[Please fill out at least the required fields marked with *.]
+Lūdzu, aizpildiet vismaz obligātos laukus, kas apzīmēti ar *.
+[Ask your SIP provider how to configure the account correctly.]
+Jautājiet savam SIP pakalpojumu sniedzējam, kā pareizi konfigurēt kontu.
+[Time]
+Laiks
+[Phone]
+Tālr
+[Ringtone]
+Zvana signāls
+[Username]
+Lietotājvārds
+[Do you want to update now?]
+Vai vēlaties atjaunināt tagad?
+[Available Codecs]
+Pieejamie kodeki
+[Enabled Codecs]
+Iespējotie kodeki
+[Logs]
+Vēsture
+[Random Popup Position]
+Nejauša uznirstošā vieta
+[Attended Transfer]
+Apmeklētā nodošana
+[Launch URL on incoming call]
+Palaidiet URL ienākošajam zvanam
+[Enable Local Account]
+Iespējot vietējo kontu
+[Send Crash Report]
+Sūtīt avārijas ziņojumu
+[Account Name]
+Konta vārds
+[Invite to Conference]
+Uzaicināt uz konferenci
+[Merge]
+aiziet
+[Separate]
+Atsevišķi
+[Disconnect]
+Atvienojiet
+[DTMF Method]
+DTMF metode
+[Voicemail Number]
+Balss pasta numurs
+[Disable Session Timers]
+Atspējot sesiju taimerus
+[Microphone Amplification]
+Mikrofona pastiprināšana
+[Software Level Adjustment]
+Programmatūras līmeņa pielāgošana
+[Shortcuts]
+Īsceļi
+[Enable]
+Iespējot
+[Label]
+Etiķete
+[Type]
+Veids
+[Bottom Position]
+Apakšējā pozīcija
+[You need to restart application for the changes to take effect.]
+Lai izmaiņas stātos spēkā, jums ir jārestartē programma.
+[Handle Media Buttons]
+Rokturu multivides pogas
+[Bring to Front on Incoming Call]
+Ienākošā zvana sākumā
+[SIP account]
+SIP konts
+[SIP password]
+SIP parole
+[Help]
+Palīdzība
+[Video Bitrate]
+Video bitrate
+[Control Button]
+Vadības poga
+[Do Not Disturb]
+Netraucēt
+[Source Port]
+Avota osta
+[RTP Ports]
+RTP ostas
+[Unregister the account when the operator is Away]
+Noņemiet konta reģistrāciju, kad operators ir prom
+[Ask for the sip USER and SECRET everytime]
+Katru reizi lūdziet malku LIETOTĀJAM un SLEPENI
+[Import]
+Importēt
+[Server]
+Serveris
+[Attendant Transfer]
+Dežuranta pārvešana
+[Blind Transfer]
+Neredzīgo pārnešana
+[Redial]
+Pārzvanīt
+[Backspace]
+Atpakaļatkāpe
+[Clear]
+Skaidrs
+[Use Space key to enable selected codec]
+Izmantojiet atstarpes taustiņu, lai iespējotu atlasīto kodeku
+[Use Delele key to disable selected codec]
+Izmantojiet taustiņu Delele, lai atspējotu atlasīto kodeku
+[Make Inactive]
+Padarīt neaktīvu
+[Conference]
+Konference
+[Dialing Prefix]
+Zvanīšanas prefikss
+[Register Refresh]
+Reģistrēties Refresh
+[Keep-Alive]
+Uzturēt dzīvu
+[Ringtone Volume]
+Zvana signāla skaļums
+[Call Recording]
+Zvana ierakstīšana
+[Nameserver]
+Vārdu serveris
+[Default List Action]
+Noklusējuma saraksta darbība
+[Edit Local Account]
+Rediģēt vietējo kontu
+[Export]
+Eksportēt
+[Version]
+Versija
+[Call Waiting]
+Zvana gaidīšana
+[Ready]
+Gatavs
+[Not online]
+Nav tiešsaistē
+[On the phone]
+Pa tālruni
+[First Name]
+Vārds
+[Last Name]
+Uzvārds
+[Phone Number]
+Telefona numurs
+[Mobile Number]
+Mobilā telefona numurs
+[E-mail Address]
+Epasta adrese
+[Address]
+Adrese
+[City]
+Pilsēta
+[State]
+Valsts
+[Postal Code]
+Pasta indekss
+[Comment]
+Komentārs
+[Extension]
+Pagarinājums
+[Port]
+Osta
+[User ID]
+Lietotāja ID
+[Authentication failed]
+Autentifikācija neizdevās
+[API URL is empty]
+API URL ir tukšs
+[API connection failed]
+Neizdevās izveidot savienojumu ar API
+[API request failed. Response code:]
+API pieprasījums neizdevās. Atbildes kods:
+[API response is empty]
+API atbilde ir tukša
+[API response parse error]
+API atbildes parsēšanas kļūda
+[API data type is wrong]
+API datu tips nav pareizs
+[Login failed]
+Pieslēgšanās neizdevās
+[Request failed]
+Pieprasījums neizdevās
+[close window to ignore call]
+aizveriet logu, lai ignorētu zvanu
+[Transfer Code]
+Pārsūtīšanas kods
+[Headset Support]
+Austiņu atbalsts
+[Privacy Policy]
+Privātuma politika
+[sec]
+sek
+[Call Forwarding]
+Zvanu pāradresācija
+[Are you sure you want to delete?]
+Vai tiešām vēlaties dzēst?
+[Delete contact]
+Dzēst kontaktu
+[Account or credentials not found.]
+Konts vai akreditācijas dati nav atrasts
+[Please fill out all required fields.]
+Lūdzu, aizpildiet visus obligātos laukus.
+[Change Account]
+Mainīt kontu
+[Dial Plan]
+Dial Plan
+[Disable Video]
+Atspējot video
+[Disable Messaging]
+Atspējot ziņojumapmaiņu
+[Headphones]
+Austiņas
+[Are you sure you want to close the application?]
+Vai tiešām vēlaties aizvērt lietojumprogrammu?
+[Dashboard Access]
+Piekļuve informācijas panelim
+[Break]
+Pārtraukums
+[Non-Telephone Work]
+Darbs bez tālruņa
+[On Break]
+Pārtraukumā
+[Telephone Work]
+Darbs pa tālruni
+[Register]
+Reģistrēties
+[Unregister]
+Atcelt reģistrāciju
+[Options]
+Iespējas
+[Delay]
+Kavēšanās
+[Caller Number]
+Zvanītāja numurs
+[Purchase a Number]
+Iegādājieties numuru
+[Line Number (4 digits)]
+Rindas numurs (4 cipari)
+[Line Password]
+Līnijas parole
+[Set Password]
+Uzstādīt paroli
+[Reset Password]
+Atiestatīt paroli
+[Open]
+Atvērt
+[Unable to find default audio device]
+Nav atrasta audio ierīce
+[Network is unreachable]
+Tīkls nav sasniedzams
+[Allow access to the microphone in your antivirus settings.]
+Atļaujiet piekļuvi mikrofonam antivīrusu iestatījumos.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Fiksējiet mikrofona atļauju Windows iestatījumos (Windows iestatījumi =&gt; Privātums =&gt; Mikrofons).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Nepieciešami abi skaļruņi un mikrofons. Lai zvanītu, sistēmā jābūt ievades un izvades skaņas ierīcei.
+[Canceled]
+Atcelts
+[Unknown format]
+Nezināms formāts
+[Softphone is not initialized. Check your settings.]
+Programmatūra nav inicializēta. Pārbaudiet iestatījumus.
+[Unable to initialize network sockets.]
+Nevar inicializēt tīkla kontaktligzdas.
+[Starred]
+Ar zvaigznīti
+[Run at System Startup]
+Palaist sistēmas startēšanas laikā
+[Run Batch]
+Palaist Batch
+[Call URL]
+Zvana URL
+[Call All]
+Zvaniet visiem
+[Custom]
+Pielāgots
+[Take Back]
+Ņemt atpakaļ
+[Add Contact]
+Pievienot kontaktu
+[Incorrect dialing or non-existent number]
+Nepareiza sastādīšana vai neesošs numurs
+[Profile]
+Profils
+[Use Outbound Proxy]
+Izmantojiet izejošo starpniekserveri
+[End]
+Beigt sarunu
+[Address Incomplete]
+Adrese nav pabeigta
+[Not acceptable here]
+Šeit nav pieņemams
+[Direct Transfer]
+Tiešā pārsūtīšana
+[Idle]
+Dīkstāvē
+[Toggle]
+Pārslēgt
+[Enter Password]
+Ievadi paroli
+[Connection refused]
+savienojums atteikts
+[Connection timed out]
+Savienojuma noildze
+[Cannot get IP address of the called host]
+Nevar iegūt izsauktā saimniekdatora IP adresi
+[Answered Elsewhere]
+Atbildēts citur
+[Missed Call]
+Neatbildēts zvans
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Vai vēlaties dzēst lietotāja datus un programmas iestatījumus? Šo darbību nevar atsaukt.
+[Unavailable]
+Nav pieejams
+[Call Limit]
+Zvanu limits
+[Hide Caller ID]
+Slēpt zvanītāja ID
+[External Program]
+Ārējā programma
+[]

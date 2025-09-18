@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Bellen
+[End Call]
+Beëindig gesprek
+[Contacts]
+Contacten
+[Account]
+Account
+[Settings]
+Instellingen
+[Visit Website]
+Bezoek website
+[Exit]
+Sluit af
+[Browse...]
+Bladeren...
+[Default]
+Standaard
+[Auto Answer]
+Automatisch opnemen
+[Disable Local Account]
+Schakel lokaal account uit
+[OK]
+Oké
+[Save]
+Opslaan
+[Cancel]
+Annuleren
+[SIP Server]
+SIP-server
+[SIP Proxy]
+SIP-proxy
+[Domain]
+Domein
+[Password]
+Wachtwoord
+[Connecting...]
+Verbinden...
+[Online]
+Online
+[Local]
+Lokaal
+[Message]
+Bericht
+[Edit]
+Bewerk
+[Delete]
+Verwijderen
+[Add]
+Voeg toe
+[Bad Gateway]
+Onjuiste Gateway
+[Request Timeout]
+Verzoek time-out
+[Number]
+Nummer
+[Name]
+Naam
+[Contact]
+Contact
+[Incoming Call]
+Inkomend gesprek
+[Answer]
+Neem op
+[Decline]
+Weigeren
+[Calling]
+Bellen
+[Connecting]
+Verbinden
+[Connected]
+Verbonden
+[Auto]
+Automatisch
+[Transport]
+Transport
+[Incorrect Password]
+Wachtwoord onjuist
+[Public Address]
+Publiekelijk adres
+[Media Encryption]
+Mediaversleuteling
+[Disabled]
+Uitgeschakeld
+[Optional]
+Optioneel
+[Mandatory]
+Verplicht
+[STUN Server]
+STUN-server
+[Presence Subscription]
+Aanwezigheids-abonnement
+[Ringing]
+Gaat over
+[Call Ended]
+Gesprek beëindigd
+[Declined]
+Afgewezen
+[No address found]
+Geen adres gevonden
+[Request Terminated]
+Verzoek beëindigd
+[Away]
+Afwezig
+[Publish Presence]
+Publiceer aanwezigheid
+[Session Progress]
+Sessievoortgang
+[Camera]
+Camera
+[Video Call]
+Videogesprek
+[Answer with Video]
+Neem op met video
+[View Log File]
+Bekijk logbestand
+[Microphone]
+Microfoon
+[Speaker]
+Speaker
+[Video Codec]
+Videocodec
+[Check for Updates]
+Controleer op updates
+[Daily]
+Dagelijks
+[Weekly]
+Wekelijks
+[Monthly]
+Maandelijks
+[Quarterly]
+Per kwartaal
+[Never]
+Nooit
+[Update Available]
+Update beschikbaar
+[Force Codec for Incoming]
+Forceer codec voor inkomend
+[Invalid Number]
+Ongeldige nummer
+[Offline]
+Offline
+[Single Call Mode]
+Enkele belmodus
+[Local Video]
+Lokale video
+[Call Transfer]
+Oproep doorschakelen
+[final]
+laatste
+[Call transfered successfully, disconnecting call]
+Oproep succesvol doorgeschakeld, opgehangen
+[Hold]
+Wacht
+[Transfer]
+Doorverbinden
+[Sound Events]
+Geluidseffecten
+[Bitrate]
+Bitsnelheid
+[Login]
+Aanmelden
+[Enable Log File]
+Logbestand activeren
+[Duration]
+Duur
+[Info]
+Informatie
+[display password]
+Wachtwoord weergeven
+[From]
+Van
+[To]
+Naar
+[Ring Device]
+Uitvoerapparaat
+[Service Unavailable]
+Dienst onbeschikbaar
+[Unable to connect to remote server.]
+Kan geen verbinding maken met externe server.
+[Busy Here]
+Bezet
+[Trying]
+Proberen
+[Method Not Allowed]
+Methode niet toegestaan
+[Not Found]
+Niet gevonden
+[Always on Top]
+Altijd bovenaan
+[Connect]
+Verbind
+[Last Call]
+Laatste gesprek
+[Close All]
+Alles sluiten
+[Copy]
+Kopiëren
+[Select All]
+Alles selecteren
+[Display Name]
+Naam weergeven
+[Remember Details]
+Onthoud details
+[PIN]
+PIN
+[No]
+Nee
+[All Calls]
+Alle gesprekken
+[SIP Header]
+SIP-header
+[Different User]
+Andere gebruiker
+[Different Domain]
+Ander domein
+[Different User or Domain]
+Andere gebruiker of domein
+[Different Remote Domain]
+Ander extern domein
+[Deny Incoming]
+Weiger inkomend
+[Allow IP Rewrite]
+IP adres overschrijven toestaan
+[Directory of Users]
+Gebruikerslijst
+[Call on Remote Hold]
+Gesprek op afstand in de wacht
+[Call on Local Hold]
+Gesprek lokaal in de wacht
+[Call on Hold]
+Gesprek in de wacht
+[Call is Active]
+Gesprek is actief
+[Menu]
+Menu
+[Edit Account]
+Bewerk account
+[Add Account...]
+Account toevoegen...
+[Remove Account]
+Verwijder account
+[Make Active]
+Activeer
+[Are you sure you want to remove?]
+Weet je zeker dat je wilt verwijderen?
+[Call Pickup]
+Gesprek beantwoorden
+[Speaker Level]
+Speaker volume
+[Microphone Level]
+Microfoon volume
+[Mute Speaker]
+Demp speaker
+[Mute Microphone]
+Demp microfoon
+[Balance]
+Balans
+[Custom INI Path]
+Aangepast DIT pad
+[Contact Us]
+Neem contact op
+[Please fill out at least the required fields marked with *.]
+Vul minstens de verplichte velden in gemarkeerd met *.
+[Ask your SIP provider how to configure the account correctly.]
+Vraag uw SIP-aanbieder hoe het account correct moet worden ingesteld.
+[Time]
+Tijd
+[Phone]
+Telefoon
+[Ringtone]
+Belgeluid
+[Username]
+Gebruikersnaam
+[Do you want to update now?]
+Nu updaten?
+[Available Codecs]
+Beschikbare Codecs
+[Enabled Codecs]
+Codecs geactiveerd
+[Logs]
+Logbestand
+[Random Popup Position]
+Willekeurige popup positie
+[Attended Transfer]
+Warm doorverbinden
+[Launch URL on incoming call]
+Start URL bij inkomende oproep
+[Enable Local Account]
+Lokaal account activeren
+[Send Crash Report]
+Verzend crash rapport
+[Account Name]
+Accountnaam
+[Invite to Conference]
+Uitnodigen tot groepsgesprek
+[Merge]
+Voeg samen
+[Separate]
+Afzonderlijk
+[Disconnect]
+Verbinding verbroken
+[DTMF Method]
+DTMF methode
+[Voicemail Number]
+Voicemail nummer
+[Disable Session Timers]
+Schakel sessie timers uit
+[Microphone Amplification]
+Microfoon versterking
+[Software Level Adjustment]
+Software niveau aanpassing
+[Shortcuts]
+Snelkoppelingen
+[Enable]
+Activeer
+[Label]
+Label
+[Type]
+Typen
+[Bottom Position]
+Positie onderaan
+[You need to restart application for the changes to take effect.]
+U moet de applicatie herstarten om de wijzigingen te activeren.
+[Handle Media Buttons]
+Beheer media knoppen
+[Bring to Front on Incoming Call]
+Naar voorgrond brengen bij een inkomende oproep.
+[SIP account]
+SIP-account
+[SIP password]
+SIP wachtwoord
+[Help]
+Help
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Controle knop
+[Do Not Disturb]
+Niet storen
+[Source Port]
+Source poort
+[RTP Ports]
+RTP Poorten
+[Unregister the account when the operator is Away]
+Maak de registratie van het account ongedaan als de operator afwezig is
+[Ask for the sip USER and SECRET everytime]
+Vraag elke keer om een slok USER en SECRET
+[Import]
+Importeren
+[Server]
+Server
+[Attendant Transfer]
+Doorverbinden
+[Blind Transfer]
+Blinde overdracht
+[Redial]
+Bel opnieuw
+[Backspace]
+Backspace
+[Clear]
+Wissen
+[Use Space key to enable selected codec]
+Gebruik de spatiebalk om de geselecteerde codec te activeren
+[Use Delele key to disable selected codec]
+Gebruik de delete-toets om de geselecteerde codec te deactiveren
+[Make Inactive]
+Maak inactief
+[Conference]
+Vergadering
+[Dialing Prefix]
+Nummeringsprefix
+[Register Refresh]
+Registratie verversen
+[Keep-Alive]
+Houd-Actief
+[Ringtone Volume]
+Beltoon volume
+[Call Recording]
+Gespreksopname
+[Nameserver]
+Naamserver
+[Default List Action]
+Standaard lijst actie
+[Edit Local Account]
+Bewerk lokaal account
+[Export]
+Exporteer
+[Version]
+Versie
+[Call Waiting]
+Gesprek in de wacht
+[Ready]
+Klaar
+[Not online]
+Niet online
+[On the phone]
+Aan de telefoon
+[First Name]
+Voornaam
+[Last Name]
+Achternaam
+[Phone Number]
+Telefoonnummer
+[Mobile Number]
+Mobiele telefoonnummer
+[E-mail Address]
+E-mailadres
+[Address]
+Adres
+[City]
+Stad
+[State]
+Staat
+[Postal Code]
+Postcode
+[Comment]
+Opmerking
+[Extension]
+Uitbreiding
+[Port]
+Haven
+[User ID]
+gebruikersnaam
+[Authentication failed]
+Verificatie mislukt
+[API URL is empty]
+API-URL is leeg
+[API connection failed]
+API-verbinding mislukt
+[API request failed. Response code:]
+API-verzoek is mislukt. Reactiecode:
+[API response is empty]
+API-reactie is leeg
+[API response parse error]
+Parseerfout in API-reactie
+[API data type is wrong]
+API-gegevenstype is onjuist
+[Login failed]
+Inloggen mislukt
+[Request failed]
+Verzoek mislukt
+[close window to ignore call]
+sluit venster om oproep te negeren
+[Transfer Code]
+Overdrachtscode
+[Headset Support]
+Headset-ondersteuning
+[Privacy Policy]
+Privacybeleid
+[sec]
+sec
+[Call Forwarding]
+Gesprek doorverbinden
+[Are you sure you want to delete?]
+Weet je zeker dat je wilt verwijderen?
+[Delete contact]
+Verwijder contact
+[Account or credentials not found.]
+Account of inloggegevens niet gevonden
+[Please fill out all required fields.]
+Gelieve alle verplichte velden in te vullen.
+[Change Account]
+Verander van account
+[Dial Plan]
+Kiesplan
+[Disable Video]
+Schakel video uit
+[Disable Messaging]
+Schakel Berichten uit
+[Headphones]
+Koptelefoon
+[Are you sure you want to close the application?]
+Weet u zeker dat u de applicatie wilt sluiten?
+[Dashboard Access]
+Dashboardtoegang
+[Break]
+Breken
+[Non-Telephone Work]
+Niet-telefonisch werk
+[On Break]
+Op pauze
+[Telephone Work]
+Telefoon werk
+[Register]
+Registreer
+[Unregister]
+Deregistreren
+[Options]
+Opties
+[Delay]
+Vertraging
+[Caller Number]
+Nummer beller
+[Purchase a Number]
+Koop een nummer
+[Line Number (4 digits)]
+Regelnummer (4 cijfers)
+[Line Password]
+Lijnwachtwoord
+[Set Password]
+Stel een wachtwoord in
+[Reset Password]
+Wachtwoord opnieuw instellen
+[Open]
+Openen
+[Unable to find default audio device]
+Geen standaard audioapparaat gevonden
+[Network is unreachable]
+Netwerk is onbereikbaar
+[Allow access to the microphone in your antivirus settings.]
+Sta toe om de microfoon te gebruiken in uw antivirusinstellingen.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Herstel microfoontoestemming in de Windows-instellingen (Windows-instellingen => Privacy => Microfoon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Speakers en microfoon zijn beide vereist. Om te kunnen bellen moet u een invoer- en uitvoergeluidsapparaat in uw systeem hebben.
+[Canceled]
+Geannuleerd
+[Unknown format]
+Onbekend format
+[Softphone is not initialized. Check your settings.]
+Softphone is niet geïnitialiseerd. Controleer uw instellingen.
+[Unable to initialize network sockets.]
+Kan netwerksockets niet initialiseren.
+[Starred]
+Met ster
+[Run at System Startup]
+Uitvoeren bij opstarten van systeem
+[Run Batch]
+Batch uitvoeren
+[Call URL]
+Bel URL
+[Call All]
+Alles bellen
+[Custom]
+Aangepast
+[Take Back]
+Terugnemen
+[Add Contact]
+Contactpersoon toevoegen
+[Incorrect dialing or non-existent number]
+Verkeerd gekozen nummer of niet-bestaand nummer
+[Profile]
+Profiel
+[Use Outbound Proxy]
+Uitgaande proxy gebruiken
+[End]
+Beëindig
+[Address Incomplete]
+Onvolledig adres
+[Not acceptable here]
+Hier niet geaccepteerd
+[Direct Transfer]
+Directe overdracht
+[Idle]
+Inactief
+[Toggle]
+Schakelaar
+[Enter Password]
+Voer wachtwoord in
+[Connection refused]
+Verbinding geweigerd
+[Connection timed out]
+Connectie time-out
+[Cannot get IP address of the called host]
+Kan het IP-adres van de gebelde host niet verkrijgen
+[Answered Elsewhere]
+Elders beantwoord
+[Missed Call]
+Gemiste oproep
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Wilt u gebruikersgegevens en programma-instellingen verwijderen? Deze actie kan niet ongedaan gemaakt worden.
+[Unavailable]
+Niet beschikbaar
+[Call Limit]
+Bellimiet
+[Hide Caller ID]
+Beller-ID verbergen
+[External Program]
+Extern programma
+[]

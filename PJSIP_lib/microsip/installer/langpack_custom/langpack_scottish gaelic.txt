@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Cuir fòn
+[End Call]
+Cuir crìoch air a ’ghairm
+[Contacts]
+Cuir fios
+[Account]
+Cunntas
+[Settings]
+Suidhichidhean
+[Visit Website]
+Tadhail air an làrach-lìn
+[Exit]
+Ar-a-mach
+[Browse...]
+Dèan brobhsadh ...
+[Default]
+Default
+[Auto Answer]
+Freagairt Auto
+[Disable Local Account]
+Cuir à comas cunntas ionadail
+[OK]
+Ceart gu leòr
+[Save]
+Sàbhail
+[Cancel]
+Sguir dheth
+[SIP Server]
+Frithealaiche SIP
+[SIP Proxy]
+SIP Proxy
+[Domain]
+Fearann
+[Password]
+Facal-faire
+[Connecting...]
+A ’ceangal ...
+[Online]
+Air-loidhne
+[Local]
+Ionadail
+[Message]
+Teachdaireachd
+[Edit]
+Deasaich
+[Delete]
+Cuir às
+[Add]
+Cuir ris
+[Bad Gateway]
+Geata dona
+[Request Timeout]
+Iarr ùine
+[Number]
+Àireamh
+[Name]
+Ainm
+[Contact]
+Cuir fios gu
+[Incoming Call]
+Call a-steach
+[Answer]
+Freagair
+[Decline]
+Crìonadh
+[Calling]
+A ’gairm
+[Connecting]
+A ’ceangal
+[Connected]
+Ceangailte
+[Auto]
+Auto
+[Transport]
+Còmhdhail
+[Incorrect Password]
+Facal-faire ceàrr
+[Public Address]
+Seòladh Poblach
+[Media Encryption]
+Encryption nam meadhanan
+[Disabled]
+Ciorramach
+[Optional]
+Roghainneil
+[Mandatory]
+Riatanach
+[STUN Server]
+Frithealaiche STUN
+[Presence Subscription]
+Fo-sgrìobhadh Ceannas
+[Ringing]
+A ’bualadh
+[Call Ended]
+Call Crìochnaichte
+[Declined]
+Air ìsleachadh
+[No address found]
+Cha deach seòladh a lorg
+[Request Terminated]
+Iarrtas crìochnaichte
+[Away]
+Air falbh
+[Publish Presence]
+Foillsich Ceannas
+[Session Progress]
+Adhartas seisean
+[Camera]
+Camara
+[Video Call]
+Call bhidio
+[Answer with Video]
+Freagair le Bhidio
+[View Log File]
+Faic am faidhle log
+[Microphone]
+Micreofon
+[Speaker]
+Labhraiche
+[Video Codec]
+Codec bhidio
+[Check for Updates]
+Thoir sùil airson ùrachaidhean
+[Daily]
+Gach latha
+[Weekly]
+Gach seachdain
+[Monthly]
+Mìos
+[Quarterly]
+Gach ràithe
+[Never]
+Na bi a-riamh
+[Update Available]
+Ùrachadh ri fhaighinn
+[Force Codec for Incoming]
+Codec na Feachd airson a thighinn a-steach
+[Invalid Number]
+URI mì-dhligheach
+[Offline]
+Far-loidhne
+[Single Call Mode]
+Modh gairm singilte
+[Local Video]
+Bhidio ionadail
+[Call Transfer]
+Cuir fòn gu gluasad
+[final]
+deireannach
+[Call transfered successfully, disconnecting call]
+Call air a ghluasad gu soirbheachail, a ’dì-cheangal gairm
+[Hold]
+Cùm
+[Transfer]
+Gluasad
+[Sound Events]
+Tachartasan fuaim
+[Bitrate]
+Bitrate
+[Login]
+Log a-steach
+[Enable Log File]
+Dèan comas air faidhle log
+[Duration]
+Faid
+[Info]
+Fiosrachadh
+[display password]
+facal-faire taisbeanaidh
+[From]
+Bho
+[To]
+Gu
+[Ring Device]
+Inneal fàinne
+[Service Unavailable]
+Seirbheis ri fhaighinn
+[Unable to connect to remote server.]
+Cha ghabh ceangal a dhèanamh ri frithealaiche iomallach.
+[Busy Here]
+Cho trang an seo
+[Trying]
+A ’feuchainn
+[Method Not Allowed]
+Modh nach eil ceadaichte
+[Not Found]
+Gun a lorg
+[Always on Top]
+An-còmhnaidh air mullach
+[Connect]
+Ceangail
+[Last Call]
+Call mu dheireadh
+[Close All]
+Dùin na h-uile
+[Copy]
+Leth-bhreac
+[Select All]
+Tagh Uile
+[Display Name]
+Ainm Taisbeanaidh
+[Remember Details]
+Cuimhnich air mion-fhiosrachadh
+[PIN]
+PIN
+[No]
+Chan eil
+[All Calls]
+Gach gairm
+[SIP Header]
+Ceannard SIP
+[Different User]
+Cleachdaiche eadar-dhealaichte
+[Different Domain]
+Fearann eadar-dhealaichte
+[Different User or Domain]
+Cleachdaiche no Fearann eadar-dhealaichte
+[Different Remote Domain]
+Fearann iomallach eadar-dhealaichte
+[Deny Incoming]
+Deny a ’tighinn a-steach
+[Allow IP Rewrite]
+Ceadaich ath-sgrìobhadh IP
+[Directory of Users]
+Directory de luchd-cleachdaidh
+[Call on Remote Hold]
+Cuir fòn gu grèim iomallach
+[Call on Local Hold]
+Cuir fòn gu grèim ionadail
+[Call on Hold]
+Call air Hold
+[Call is Active]
+Tha Call Gnìomhach
+[Menu]
+Clàr
+[Edit Account]
+Deasaich cunntas
+[Add Account...]
+Cuir cunntas ris ...
+[Remove Account]
+Thoir air falbh cunntas
+[Make Active]
+Dèan Gnìomhach
+[Are you sure you want to remove?]
+A bheil thu cinnteach gu bheil thu airson a thoirt air falbh?
+[Call Pickup]
+Cuir fòn gu Pickup
+[Speaker Level]
+Ìre neach-labhairt
+[Microphone Level]
+Ìre microfòn
+[Mute Speaker]
+Labhraiche Mute
+[Mute Microphone]
+Micreofon Mute
+[Balance]
+Cothromachadh
+[Custom INI Path]
+Custom SEO Path
+[Contact Us]
+Cuir fios thugainn
+[Please fill out at least the required fields marked with *.]
+Feuch an lìon thu co-dhiù na raointean a tha a dhìth air an comharrachadh le *.
+[Ask your SIP provider how to configure the account correctly.]
+Faighnich don t-solaraiche SIP agad mar a chuireas tu an cunntas air dòigh gu ceart.
+[Time]
+Ùine
+[Phone]
+Fòn
+[Ringtone]
+Ringtone
+[Username]
+Ainm-cleachdaidh
+[Do you want to update now?]
+A bheil thu airson ùrachadh a-nis?
+[Available Codecs]
+Codecs a tha rim faighinn
+[Enabled Codecs]
+Codecs comasach
+[Logs]
+Logaichean
+[Random Popup Position]
+Suidheachadh popup air thuaiream
+[Attended Transfer]
+Frithealadh tar-chuir
+[Launch URL on incoming call]
+Cuir air bhog URL air a ’ghairm a tha a’ tighinn a-steach
+[Enable Local Account]
+Dèan comas air cunntas ionadail
+[Send Crash Report]
+Cuir Aithisg Crash
+[Account Name]
+Ainm A &#39;chunntais
+[Invite to Conference]
+Cuireadh gu co-labhairt
+[Merge]
+Rach
+[Separate]
+Air leth
+[Disconnect]
+Disconnect
+[DTMF Method]
+Modh DTMF
+[Voicemail Number]
+Àireamh post-gutha
+[Disable Session Timers]
+Cuir à comas timers seisean
+[Microphone Amplification]
+Meudachadh micreofon
+[Software Level Adjustment]
+Atharrachadh Ìre Bathar-bog
+[Shortcuts]
+Ath-ghoirid
+[Enable]
+Dèan comas
+[Label]
+Label
+[Type]
+Seòrsa
+[Bottom Position]
+Suidheachadh bun
+[You need to restart application for the changes to take effect.]
+Feumaidh tu tagradh ath-thòiseachadh airson na h-atharrachaidhean a thoirt gu buil.
+[Handle Media Buttons]
+Làimhseachadh putanan meadhanan
+[Bring to Front on Incoming Call]
+Thoir air beulaibh an gairm a thig a-steach
+[SIP account]
+Cunntas SIP
+[SIP password]
+Facal-faire SIP
+[Help]
+Cuideachadh
+[Video Bitrate]
+Bhidio Bitrate
+[Control Button]
+Putan Smachd
+[Do Not Disturb]
+Na cuir dragh ort
+[Source Port]
+Port stòr
+[RTP Ports]
+Puirt RTP
+[Unregister the account when the operator is Away]
+Unregister an cunntas nuair a tha an gnìomhaiche air falbh
+[Ask for the sip USER and SECRET everytime]
+Faighnich airson an sip USER agus SECRET gach uair
+[Import]
+Import
+[Server]
+Frithealaiche
+[Attendant Transfer]
+Gluasad frithealaidh
+[Blind Transfer]
+Gluasad dall
+[Redial]
+Redial
+[Backspace]
+Backspace
+[Clear]
+Soilleir
+[Use Space key to enable selected codec]
+Cleachd iuchair Space gus codec taghte a chomasachadh
+[Use Delele key to disable selected codec]
+Cleachd iuchair Delele gus codec taghte a dhì-cheadachadh
+[Make Inactive]
+Dèan neo-ghnìomhach
+[Conference]
+Co-labhairt
+[Dialing Prefix]
+Dial Prefix
+[Register Refresh]
+Ùrachadh a ’chlàir
+[Keep-Alive]
+Cùm-Beò
+[Ringtone Volume]
+Volume Ringtone
+[Call Recording]
+Clàrachadh gairmean
+[Nameserver]
+Ainm-ainmear
+[Default List Action]
+Gnìomh liosta bunaiteach
+[Edit Local Account]
+Deasaich cunntas ionadail
+[Export]
+Às-mhalairt
+[Version]
+Tionndadh
+[Call Waiting]
+Cuir fòn gu feitheamh
+[Ready]
+Deiseil
+[Not online]
+No air-loidhne
+[On the phone]
+Air a ’fòn
+[First Name]
+A &#39;chiad ainm
+[Last Name]
+Ainm deireannach
+[Phone Number]
+Àireamh fòn
+[Mobile Number]
+Aireamh fon-laimhe
+[E-mail Address]
+Seòladh puist-d
+[Address]
+Seòladh
+[City]
+Cathair-bhaile
+[State]
+Stàite
+[Postal Code]
+Còd-puist
+[Comment]
+Thoir beachd
+[Extension]
+Leudachadh
+[Port]
+Port
+[User ID]
+ID cleachdaiche
+[Authentication failed]
+Dh&#39;fhàillig an dearbhadh
+[API URL is empty]
+Tha URL API falamh
+[API connection failed]
+Dh&#39;fhàillig an ceangal API
+[API request failed. Response code:]
+Dh&#39;fhàillig iarrtas API. Còd freagairt:
+[API response is empty]
+Tha freagairt API falamh
+[API response parse error]
+Mearachd parse freagairt API
+[API data type is wrong]
+Tha an seòrsa dàta API ceàrr
+[Login failed]
+Dh&#39;fhàillig logadh a-steach
+[Request failed]
+Dh&#39;fhàillig an t-iarrtas
+[close window to ignore call]
+uinneag dlùth gus dearmad a dhèanamh air gairm
+[Transfer Code]
+Còd gluasaid
+[Headset Support]
+Taic Headset
+[Privacy Policy]
+Poileasaidh Dìomhaireachd
+[sec]
+sec
+[Call Forwarding]
+Cuir fòn air adhart
+[Are you sure you want to delete?]
+A bheil thu cinnteach gu bheil thu airson cuir às?
+[Delete contact]
+Cuir às do chonaltradh
+[Account or credentials not found.]
+Cha deach cunntas no creideas a lorg
+[Please fill out all required fields.]
+Feuch an lìon thu na raointean riatanach.
+[Change Account]
+Cunntas Atharrachaidh
+[Dial Plan]
+Plana Dial
+[Disable Video]
+Cuir à comas bhidio
+[Disable Messaging]
+Cuir dheth teachdaireachdan
+[Headphones]
+Fòn-cluaise
+[Are you sure you want to close the application?]
+A bheil thu cinnteach gu bheil thu airson an tagradh a dhùnadh?
+[Dashboard Access]
+Ruigsinneachd deas-bhòrd
+[Break]
+Briseadh
+[Non-Telephone Work]
+Obair neo-fhòn
+[On Break]
+Air briseadh
+[Telephone Work]
+Obair fòn
+[Register]
+Clàr
+[Unregister]
+Neo-chlàraichte
+[Options]
+Roghainnean
+[Delay]
+Dàil
+[Caller Number]
+Àireamh fòn
+[Purchase a Number]
+Ceannach àireamh
+[Line Number (4 digits)]
+Àireamh loidhne (4 meatairean)
+[Line Password]
+Facal-faire loidhne
+[Set Password]
+Suidhich facal-faire
+[Reset Password]
+Ath-shuidheachadh facal-faire
+[Open]
+Gus fosgladh
+[Unable to find default audio device]
+Cha deach inneal claisneachd a lorg
+[Network is unreachable]
+Tha lìonra neo-ruigsinneach
+[Allow access to the microphone in your antivirus settings.]
+Leig le ruigsinneachd air a ’mhaicreafòn anns na roghainnean antivirus agad.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Fix cead microfòn ann an roghainnean Windows (Roghainnean Windows =&gt; Prìobhaideachd =&gt; Micreofon).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Tha feum air luchd-labhairt agus microfòn le chèile. Gus gairmean a dhèanamh feumaidh inneal fuaim cuir a-steach agus toradh a bhith agad san t-siostam agad.
+[Canceled]
+Air a chur dheth
+[Unknown format]
+Cruth neo-aithnichte
+[Softphone is not initialized. Check your settings.]
+Chan eil fòn bog air a thòiseachadh. Thoir sùil air na roghainnean agad.
+[Unable to initialize network sockets.]
+Cha ghabh socaidean lìonra a thòiseachadh.
+[Starred]
+Rionnag
+[Run at System Startup]
+Ruith aig Start System
+[Run Batch]
+Ruith Baisc
+[Call URL]
+Cuir fòn gu URL
+[Call All]
+Call All
+[Custom]
+Custom
+[Take Back]
+Gabh air ais
+[Add Contact]
+Cuir Fios
+[Incorrect dialing or non-existent number]
+Dialaireachd ceàrr no àireamh nach eil ann
+[Profile]
+Pròifil
+[Use Outbound Proxy]
+Cleachd Proxy Outbound
+[End]
+Cuir crìoch air a ’ghairm
+[Address Incomplete]
+Seòladh Neo-choileanta
+[Not acceptable here]
+Chan eil e ceadaichte an seo
+[Direct Transfer]
+Gluasad dìreach
+[Idle]
+dìomhanach
+[Toggle]
+Tog suas
+[Enter Password]
+Cuir a-steach Facal-faire
+[Connection refused]
+Ceangal air a dhiùltadh
+[Connection timed out]
+Dh’ fhalbh an ùine ceangail
+[Cannot get IP address of the called host]
+Chan urrainn dhuinn seòladh IP an òstair ris an canar fhaighinn
+[Answered Elsewhere]
+Fhreagair an àite eile
+[Missed Call]
+Call air chall
+[Do you want to delete user data and program settings? This action cannot be undone.]
+A bheil thu airson dàta cleachdaiche is roghainnean prògram a sguabadh às? Chan urrainnear an gnìomh seo a chuir dheth.
+[Unavailable]
+Chan eil ri fhaighinn
+[Call Limit]
+Call Limit
+[Hide Caller ID]
+Falaich ID an neach-fios
+[External Program]
+Prògram taobh a-muigh
+[]

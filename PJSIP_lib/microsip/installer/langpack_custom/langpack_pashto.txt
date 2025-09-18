@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+زنګ ووهه
+[End Call]
+د زنګ پای
+[Contacts]
+اړیکې
+[Account]
+ګ .ون
+[Settings]
+امستنې
+[Visit Website]
+ویب پا Visitه وګورئ
+[Exit]
+وتون
+[Browse...]
+لټون کول ...
+[Default]
+اصلي
+[Auto Answer]
+اتومات ځواب
+[Disable Local Account]
+سیمه ایز حساب ناتوان کړئ
+[OK]
+سمه ده
+[Save]
+خوندي کړئ
+[Cancel]
+لغوه کول
+[SIP Server]
+SIP پالنګر
+[SIP Proxy]
+د SIP پراکسي
+[Domain]
+ډومین
+[Password]
+رمز
+[Connecting...]
+نښلول ...
+[Online]
+آنلاین
+[Local]
+ځایی
+[Message]
+پیغام
+[Edit]
+سمول
+[Delete]
+ړنګول
+[Add]
+اضافه کول
+[Bad Gateway]
+خراب دروازه
+[Request Timeout]
+د مهالویش غوښتنه
+[Number]
+شمیره
+[Name]
+نوم
+[Contact]
+اړیکه
+[Incoming Call]
+راتلونکی زنګ
+[Answer]
+ځواب
+[Decline]
+ردول
+[Calling]
+زنګ وهل
+[Connecting]
+نښلول
+[Connected]
+پیوست شو
+[Auto]
+ګاډی
+[Transport]
+ټرانسپورټ
+[Incorrect Password]
+غلط شفر
+[Public Address]
+عامه پته
+[Media Encryption]
+د رسنۍ کوډول
+[Disabled]
+ناتوان شوی
+[Optional]
+اختیاري
+[Mandatory]
+لازمي
+[STUN Server]
+سټونټ سرور
+[Presence Subscription]
+د شتون غړیتوب
+[Ringing]
+زنګ وهل
+[Call Ended]
+زنګ ووهه
+[Declined]
+رد شوی
+[No address found]
+پته ونه موندل شوه
+[Request Terminated]
+غوښتنه ختمه شوه
+[Away]
+لرې
+[Publish Presence]
+شتون خپور کړئ
+[Session Progress]
+د ناستې پرمختګ
+[Camera]
+کیمره
+[Video Call]
+ویډیویې اړیکه
+[Answer with Video]
+ځواب د ویډیو سره
+[View Log File]
+د خبرتیا دوتنه
+[Microphone]
+مايکروفون
+[Speaker]
+سپیکر
+[Video Codec]
+ویډیو کوډیک
+[Check for Updates]
+د اوسمهالونو لپاره چیک کړئ
+[Daily]
+ورځنۍ
+[Weekly]
+اونيزه
+[Monthly]
+میاشتنی
+[Quarterly]
+درې میاشتنۍ
+[Never]
+هیڅکله نه
+[Update Available]
+اوسمهال ترلاسه کېدل
+[Force Codec for Incoming]
+د راتلو لپاره د ځواک کوډ
+[Invalid Number]
+ناباوره URI
+[Offline]
+نښې
+[Single Call Mode]
+د کال زنګ واحد حالت
+[Local Video]
+ځایی ویډیو
+[Call Transfer]
+د اړیکې لیږد
+[final]
+نهایی
+[Call transfered successfully, disconnecting call]
+زنګ په بریالیتوب سره لیږدول شوی ، د زنګ اړیکه بندول
+[Hold]
+نیول
+[Transfer]
+لیږدول
+[Sound Events]
+غږیزې پیښې
+[Bitrate]
+بایټریټ
+[Login]
+د ننه کیدل
+[Enable Log File]
+د خبرتیا دوتنه فعال کړه
+[Duration]
+دوره
+[Info]
+معلومات
+[display password]
+تېرنويى
+[From]
+له
+[To]
+ته
+[Ring Device]
+د زنګ وزله
+[Service Unavailable]
+خدمت نشته
+[Unable to connect to remote server.]
+د لیرې سرور سره پیوستون ونشو.
+[Busy Here]
+دلته بوخت دي
+[Trying]
+هڅه کوي
+[Method Not Allowed]
+میتود ته اجازه نشته
+[Not Found]
+پیدا نشو
+[Always on Top]
+تل په سر
+[Connect]
+نښلول
+[Last Call]
+وروستی زنګ
+[Close All]
+ټول بندول
+[Copy]
+کاپي
+[Select All]
+ټول وټاکئ
+[Display Name]
+نوم څرګند کړه
+[Remember Details]
+توضیحات په یاد ولرئ
+[PIN]
+پن
+[No]
+نه
+[All Calls]
+ټولې زنګونه
+[SIP Header]
+د SIP سرلیک
+[Different User]
+مختلف کارن
+[Different Domain]
+مختلف ډومین
+[Different User or Domain]
+مختلف کارن یا ډومین
+[Different Remote Domain]
+مختلف لیرې ډومین
+[Deny Incoming]
+راتلل رد کړئ
+[Allow IP Rewrite]
+د IP بیا لیکلو ته اجازه ورکړئ
+[Directory of Users]
+د کاروونکو لارښود
+[Call on Remote Hold]
+په ریموټ هولډ زنګ ووهئ
+[Call on Local Hold]
+په سیمه ایز هولډ کې زنګ ووهئ
+[Call on Hold]
+زنګ ووهه
+[Call is Active]
+زنګ فعال دی
+[Menu]
+مینو
+[Edit Account]
+ګ Editون
+[Add Account...]
+حساب اضافه کړئ ...
+[Remove Account]
+ګ Removeون لرې کړئ
+[Make Active]
+چارنده کړئ
+[Are you sure you want to remove?]
+ایا ته باوري یې چې لرې کول غواړې؟
+[Call Pickup]
+زنګ ووهئ
+[Speaker Level]
+د سپیکر کچه
+[Microphone Level]
+د مایکروفون کچه
+[Mute Speaker]
+غږیز غږونکی
+[Mute Microphone]
+مایکروفون خاموش کړئ
+[Balance]
+توازن
+[Custom INI Path]
+دودیز دا لاره
+[Contact Us]
+موږ سره اړیکه ونیسئ
+[Please fill out at least the required fields marked with *.]
+مهرباني وکړئ لږترلږه اړین برخې ډکې کړئ *
+[Ask your SIP provider how to configure the account correctly.]
+خپل د SIP چمتو کونکي څخه وپوښتئ چې حساب څنګه تنظیم کړئ.
+[Time]
+وخت
+[Phone]
+تلیفون
+[Ringtone]
+حلقه
+[Username]
+کارن نوم
+[Do you want to update now?]
+ایا تاسو اوس تازه کول غواړئ؟
+[Available Codecs]
+موجود کوډونه
+[Enabled Codecs]
+فعال کوډونه
+[Logs]
+لوګو
+[Random Popup Position]
+ناڅاپي پاپ اپ موقعیت
+[Attended Transfer]
+د لیږد ګډون شوی
+[Launch URL on incoming call]
+په راتلوونکي زنګ کې URL پیل کړئ
+[Enable Local Account]
+ځایی حساب فعال کړئ
+[Send Crash Report]
+د کریش راپور ولیږئ
+[Account Name]
+د حساب نوم
+[Invite to Conference]
+کنفرانس ته بلنه ورکړئ
+[Merge]
+لاړ شه
+[Separate]
+جلا کول
+[Disconnect]
+منقول
+[DTMF Method]
+د DTMF میتود
+[Voicemail Number]
+غږیز شمیره
+[Disable Session Timers]
+د ناستې ټیمرونه ناتوان کړئ
+[Microphone Amplification]
+د مایکروفون پراخه کول
+[Software Level Adjustment]
+د ساوتري کچې سمون
+[Shortcuts]
+لنډلارې
+[Enable]
+وړول
+[Label]
+لیبل
+[Type]
+ډول
+[Bottom Position]
+لاندې ځای
+[You need to restart application for the changes to take effect.]
+تاسو اړتیا لرئ د بدلونونو د اغیزمن کیدو لپاره غوښتنلیک بیا پیل کړئ.
+[Handle Media Buttons]
+د میډیا تtۍ اداره کړئ
+[Bring to Front on Incoming Call]
+په راتلوونکي کال کې مخ ته راشئ
+[SIP account]
+SIP حساب
+[SIP password]
+د SIP شفر
+[Help]
+مرسته
+[Video Bitrate]
+ویډیو بایټریټ
+[Control Button]
+د کنټرول تtonۍ
+[Do Not Disturb]
+تنګول مه کوه
+[Source Port]
+سرچینه درشل
+[RTP Ports]
+د RTP درشلونه
+[Unregister the account when the operator is Away]
+اکاونټ ثبت کړئ کله چې آپریټر لرې
+[Ask for the sip USER and SECRET everytime]
+د SIP USER او هر وخت لپاره پټ کړئ
+[Import]
+واردول
+[Server]
+سرور
+[Attendant Transfer]
+د ګډون کوونکی لیږد
+[Blind Transfer]
+ړوند لېږد
+[Redial]
+سرخیل
+[Backspace]
+د بیکس ځای
+[Clear]
+پاک
+[Use Space key to enable selected codec]
+د ټاکل شوي کوډیک وړولو لپاره د ځای کلي وکاروئ
+[Use Delele key to disable selected codec]
+د ټاکل شوي کوډیک غیر فعالولو لپاره د ډیلي کیلي وکاروئ
+[Make Inactive]
+غیر فعال کړئ
+[Conference]
+کنفرانس
+[Dialing Prefix]
+د ډیل کولو مختاړی
+[Register Refresh]
+ځان ثبت کړئ
+[Keep-Alive]
+ژوندي وساتئ
+[Ringtone Volume]
+د زنګون حجم
+[Call Recording]
+د زنګ ثبتول
+[Nameserver]
+نوم لیکونکی
+[Default List Action]
+د تلوالیز لیست عمل
+[Edit Local Account]
+ځایی حساب
+[Export]
+صادرول
+[Version]
+نسخه
+[Call Waiting]
+د زنګ انتظار
+[Ready]
+چمتو دی
+[Not online]
+آنلاین نه
+[On the phone]
+په ټیلیفون کې
+[First Name]
+اول نوم
+[Last Name]
+تخلص
+[Phone Number]
+د تلیفون شمیره
+[Mobile Number]
+ګرځنده شمیره
+[E-mail Address]
+بریښنالیک
+[Address]
+پته
+[City]
+ښار
+[State]
+دولت
+[Postal Code]
+د ډاګ کوډ
+[Comment]
+څرګندونه
+[Extension]
+غځول
+[Port]
+درشل
+[User ID]
+کارن نوم
+[Authentication failed]
+اعتبارول ونشول
+[API URL is empty]
+د API URL تش دی
+[API connection failed]
+د API پیوستون ونشو
+[API request failed. Response code:]
+د API غوښتنه ناکامه شوه. د ځواب کوډ:
+[API response is empty]
+د API ځواب تش دی
+[API response parse error]
+د API ځواب پارس غلطي
+[API data type is wrong]
+د API معلوماتو ډول غلط دی
+[Login failed]
+ننوتل ونشول
+[Request failed]
+غوښتنه ناکامه شوه
+[close window to ignore call]
+د زنګ وهلو لپاره کړکۍ وتړئ
+[Transfer Code]
+د لیږد کوډ
+[Headset Support]
+د سرۍ ملاتړ
+[Privacy Policy]
+د پټتیا تګلاره
+[sec]
+ثانیې
+[Call Forwarding]
+فارورډینګ زنګ وواهه
+[Are you sure you want to delete?]
+ایا ته باوري یې چې ړنګول غواړې؟
+[Delete contact]
+اړیکې حذف کړئ
+[Account or credentials not found.]
+حساب یا باورلیک ونه موندل شو
+[Please fill out all required fields.]
+مهرباني وکړئ ټول اړین ځایونه ډک کړئ.
+[Change Account]
+ګ Changeون بدل کړئ
+[Dial Plan]
+ډایل پلان
+[Disable Video]
+ویډیو ناتوان کړئ
+[Disable Messaging]
+استوزه بندول
+[Headphones]
+هیډفونونه
+[Are you sure you want to close the application?]
+ایا تاسو باوري یاست چې غوښتنلیک بندول غواړئ؟
+[Dashboard Access]
+ډشبورډ لاسرسی
+[Break]
+ماتول
+[Non-Telephone Work]
+د ټلیفون غیر کار کول
+[On Break]
+په وقفه کې
+[Telephone Work]
+د تلیفون کار
+[Register]
+ثبت کړئ
+[Unregister]
+ثبت نه کول
+[Options]
+غوراوي
+[Delay]
+ځنډ
+[Caller Number]
+زنګ وهونکی شمیره
+[Purchase a Number]
+یوه شمیره واخلئ
+[Line Number (4 digits)]
+د کرښې شمیره (digit ګsې)
+[Line Password]
+کرښه رمز
+[Set Password]
+شفر ټاکل
+[Reset Password]
+شفر بیا جوړول
+[Open]
+پرانیستل
+[Unable to find default audio device]
+هیڅ آډیو ونه موندل شو
+[Network is unreachable]
+شبکه د لاسرسي وړ نه ده
+[Allow access to the microphone in your antivirus settings.]
+مایکروفون ته ستاسو د انټي ویروس تنظیماتو کې د لاسرسي اجازه ورکړئ.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+د وینډوز تنظیماتو کې د مایکروفون اجازه تنظیم کړئ (د وینډوز ترتیبات =&gt; رازداری =&gt; مایکروفون).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+سپیکرې او مایکروفون دواړه اړین دي. د زنګ وهلو لپاره تاسو باید په خپل سیسټم کې د ننوتلو او وتلو غږ آله لرئ.
+[Canceled]
+لغوه شوی
+[Unknown format]
+نامعلوم ب formatه
+[Softphone is not initialized. Check your settings.]
+سافټ فون پیل نه دی شوی. خپل امستنې چیک کړئ.
+[Unable to initialize network sockets.]
+د شبکې ساکټونه په پیل کولو کې پاتې راغلي.
+[Starred]
+ستوری شوی
+[Run at System Startup]
+د سیسټم په پیل کې چالان کړئ
+[Run Batch]
+بیچ چلول
+[Call URL]
+URL ته زنګ ووهئ
+[Call All]
+ټولو ته زنګ ووهئ
+[Custom]
+ګمرک
+[Take Back]
+بېرته اخستل
+[Add Contact]
+اړیکه اضافه کړئ
+[Incorrect dialing or non-existent number]
+غلط ډایل کول یا شتون نلري
+[Profile]
+پروفایل
+[Use Outbound Proxy]
+د بهر څخه پراکسي وکاروئ
+[End]
+د زنګ پای
+[Address Incomplete]
+ادرس نیمګړی دی
+[Not acceptable here]
+دلته د منلو وړ نه ده
+[Direct Transfer]
+مستقیم لیږد
+[Idle]
+بې کاره
+[Toggle]
+ټګ
+[Enter Password]
+پاسورډ دننه کړئ
+[Connection refused]
+اړیکه رد شوه
+[Connection timed out]
+پیوستون وخت تېر شو
+[Cannot get IP address of the called host]
+د ویل شوي کوربه IP پته نشي ترلاسه کولی
+[Answered Elsewhere]
+بل ځای ځواب ورکړ
+[Missed Call]
+یاد شوی کال
+[Do you want to delete user data and program settings? This action cannot be undone.]
+ایا تاسو غواړئ د کارونکي ډیټا او د برنامې تنظیمات حذف کړئ؟ دا کړنه نه شي ختمولی.
+[Unavailable]
+نه شته
+[Call Limit]
+د کال محدودیت
+[Hide Caller ID]
+د زنګ وهونکي ID پټ کړئ
+[External Program]
+بهرنی پروګرام
+[]

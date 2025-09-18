@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Զանգահարեք
+[End Call]
+Վերջ զանգը
+[Contacts]
+Կոնտակտներ
+[Account]
+Հաշիվ
+[Settings]
+Կարգավորումներ
+[Visit Website]
+Այցելեք կայք
+[Exit]
+Ելք
+[Browse...]
+Նայեք ...
+[Default]
+Կանխադրված
+[Auto Answer]
+Auto պատասխան
+[Disable Local Account]
+Անջատեք տեղական հաշիվը
+[OK]
+լավ
+[Save]
+Խնայել
+[Cancel]
+Չեղարկել
+[SIP Server]
+SIP սերվեր
+[SIP Proxy]
+SIP վստահված անձ
+[Domain]
+Տիրույթ
+[Password]
+Գաղտնաբառ
+[Connecting...]
+Կապակցելով ...
+[Online]
+Առցանց
+[Local]
+Տեղական
+[Message]
+Հաղորդագրություն
+[Edit]
+Խմբագրել
+[Delete]
+Նջել
+[Add]
+Ավելացնել
+[Bad Gateway]
+Վատ դարպաս
+[Request Timeout]
+Հայցեք ժամանակի դադարեցում
+[Number]
+Թիվ
+[Name]
+Անուն
+[Contact]
+Կապ
+[Incoming Call]
+Մուտքային զանգերի
+[Answer]
+Պատասխան
+[Decline]
+Անկում
+[Calling]
+Զանգահարելով
+[Connecting]
+Կապող
+[Connected]
+Կապված
+[Auto]
+Ավտո
+[Transport]
+Տրանսպորտ
+[Incorrect Password]
+Սխալ գաղտնաբառ
+[Public Address]
+Հասարակական հասցե
+[Media Encryption]
+Մեդիա կոդավորումը
+[Disabled]
+Անաշխատունակ
+[Optional]
+Կամընտիր
+[Mandatory]
+Պարտադիր է
+[STUN Server]
+STUN սերվեր
+[Presence Subscription]
+Ներկայության բաժանորդագրություն
+[Ringing]
+Զանգահարելով
+[Call Ended]
+Զանգն ավարտվեց
+[Declined]
+Մերժվեց
+[No address found]
+Ոչ մի հասցե չի գտնվել
+[Request Terminated]
+Հայցը դադարեցված է
+[Away]
+Հեռու
+[Publish Presence]
+Հրապարակել ներկայությունը
+[Session Progress]
+Նիստի առաջընթաց
+[Camera]
+Տեսախցիկ
+[Video Call]
+Տեսազանգ
+[Answer with Video]
+Պատասխան ՝ տեսանյութով
+[View Log File]
+Դիտեք տեղեկամատյան ֆայլը
+[Microphone]
+Խոսափող
+[Speaker]
+Խոսնակ
+[Video Codec]
+Տեսանյութերի կոդեկ
+[Check for Updates]
+Ստուգել թարմացումները
+[Daily]
+Ամեն օր
+[Weekly]
+Շաբաթական
+[Monthly]
+Ամսական
+[Quarterly]
+Եռամսյակային
+[Never]
+Երբեք
+[Update Available]
+Առկա է թարմացում
+[Force Codec for Incoming]
+Ստիպեք կոդեկին մուտքի համար
+[Invalid Number]
+Սխալ URI
+[Offline]
+Անցանց
+[Single Call Mode]
+Միակ զանգի ռեժիմ
+[Local Video]
+Տեղական տեսանյութ
+[Call Transfer]
+Զանգի փոխանցում
+[final]
+վերջնական
+[Call transfered successfully, disconnecting call]
+Զանգը հաջողությամբ փոխանցվում է ՝ անջատելով զանգը
+[Hold]
+Պահիր
+[Transfer]
+Փոխանցում
+[Sound Events]
+Ձայնային իրադարձություններ
+[Bitrate]
+Bitrate
+[Login]
+Մուտք
+[Enable Log File]
+Միացնել գրանցման ֆայլը
+[Duration]
+Տեւողությունը
+[Info]
+Տեղեկատվություն
+[display password]
+ցուցադրել գաղտնաբառ
+[From]
+Ից
+[To]
+Դեպի
+[Ring Device]
+Օղակների սարք
+[Service Unavailable]
+Ծառայությունն անհասանելի է
+[Unable to connect to remote server.]
+Հնարավոր չէ միանալ հեռավոր սերվերին:
+[Busy Here]
+Զբաղված է այստեղ
+[Trying]
+Փորձելով
+[Method Not Allowed]
+Չի թույլատրվում մեթոդ
+[Not Found]
+Չի գտնվել
+[Always on Top]
+Միշտ վերևում
+[Connect]
+Միացնել
+[Last Call]
+Վերջին զանգ
+[Close All]
+Փակել բոլորը
+[Copy]
+Պատճենել
+[Select All]
+Ընտրել բոլորը
+[Display Name]
+Displayուցադրել անունը
+[Remember Details]
+Հիշեք մանրամասները
+[PIN]
+PIN
+[No]
+Ոչ
+[All Calls]
+Բոլոր զանգերը
+[SIP Header]
+SIP վերնագիր
+[Different User]
+Տարբեր օգտագործող
+[Different Domain]
+Տարբեր տիրույթ
+[Different User or Domain]
+Տարբեր օգտվող կամ տիրույթ
+[Different Remote Domain]
+Տարբեր հեռավոր տիրույթ
+[Deny Incoming]
+Մերժիր մուտքային
+[Allow IP Rewrite]
+Թույլատրել IP վերաշարադրել
+[Directory of Users]
+Օգտագործողների տեղեկատու
+[Call on Remote Hold]
+Զանգահարեք Remote Hold- ին
+[Call on Local Hold]
+Զանգահարեք տեղական Hold- ին
+[Call on Hold]
+Զանգահարեք սպասում
+[Call is Active]
+Զանգը ակտիվ է
+[Menu]
+Menuաշացանկ
+[Edit Account]
+Փոփոխել հաշիվը
+[Add Account...]
+Ավելացնել հաշիվ...
+[Remove Account]
+Հեռացրեք հաշիվը
+[Make Active]
+Ակտիվացնել
+[Are you sure you want to remove?]
+Համոզվա՞ծ եք, որ ցանկանում եք հեռացնել:
+[Call Pickup]
+Զանգահարեք պիկապ
+[Speaker Level]
+Բարձրախոսի մակարդակ
+[Microphone Level]
+Խոսափողի մակարդակը
+[Mute Speaker]
+Կլռ խոսնակը
+[Mute Microphone]
+Անջատել խոսափողը
+[Balance]
+Մնացորդը
+[Custom INI Path]
+Հատուկ այս ուղին
+[Contact Us]
+Կապ մեզ հետ
+[Please fill out at least the required fields marked with *.]
+Լրացրեք * առնվազն պահանջվող դաշտերը:
+[Ask your SIP provider how to configure the account correctly.]
+Հարցրեք ձեր SIP մատակարարին, թե ինչպես ճիշտ կարգաբերել հաշիվը:
+[Time]
+Ժամանակը
+[Phone]
+Հեռախոս
+[Ringtone]
+Զանգի ձայնը
+[Username]
+Օգտագործողի անունը
+[Do you want to update now?]
+Youանկանու՞մ եք այժմ թարմացնել:
+[Available Codecs]
+Առկա կոդեկներ
+[Enabled Codecs]
+Միացված կոդեկներ
+[Logs]
+Տեղեկամատյանները
+[Random Popup Position]
+Պատահական թռուցիկ դիրք
+[Attended Transfer]
+Մասնակցեց փոխանցմանը
+[Launch URL on incoming call]
+Գործարկել URL մուտքային զանգի վրա
+[Enable Local Account]
+Միացնել տեղական հաշիվը
+[Send Crash Report]
+Ուղարկեք վթարի մասին հաղորդում
+[Account Name]
+Հաշվեհամար
+[Invite to Conference]
+Հրավիրեք խորհրդաժողով
+[Merge]
+Go
+[Separate]
+Առանձնացված
+[Disconnect]
+Անջատեք
+[DTMF Method]
+DTMF մեթոդը
+[Voicemail Number]
+Ձայնային փոստի համարը
+[Disable Session Timers]
+Անջատեք նստաշրջանի ժամանակաչափերը
+[Microphone Amplification]
+Խոսափողի ուժեղացում
+[Software Level Adjustment]
+Ծրագրային ապահովման մակարդակի ճշգրտում
+[Shortcuts]
+Դյուրանցումներ
+[Enable]
+Միացնել
+[Label]
+Պիտակ
+[Type]
+Տիպ
+[Bottom Position]
+Ստորին դիրքը
+[You need to restart application for the changes to take effect.]
+Փոփոխություններն ուժի մեջ մտնելու համար անհրաժեշտ է վերագործարկել դիմումը:
+[Handle Media Buttons]
+Կարգավորել մեդիա կոճակները
+[Bring to Front on Incoming Call]
+Մոտեցեք դիմային զանգին
+[SIP account]
+SIP հաշիվ
+[SIP password]
+SIP գաղտնաբառ
+[Help]
+Օգնություն
+[Video Bitrate]
+Видео Bitrate
+[Control Button]
+Կառավարման կոճակ
+[Do Not Disturb]
+Չխանգարել
+[Source Port]
+Աղբյուրի նավահանգիստ
+[RTP Ports]
+RTP նավահանգիստներ
+[Unregister the account when the operator is Away]
+Ապամոնտաժեք հաշիվը, երբ օպերատորը հեռու է
+[Ask for the sip USER and SECRET everytime]
+Ամեն անգամ խնդրեք «ՕԳՏԱԳՈՐԾՎԵԼ ՈՒՂԻՂ» և «Գաղտնիք» համար
+[Import]
+Ներմուծում
+[Server]
+Սերվեր
+[Attendant Transfer]
+Հաճախորդի փոխանցում
+[Blind Transfer]
+Կույր փոխանցում
+[Redial]
+Վերահղումը
+[Backspace]
+Backspace
+[Clear]
+Մաքրել
+[Use Space key to enable selected codec]
+Ընտրեք կոդեկը միացնելու համար օգտագործեք Space ստեղնը
+[Use Delele key to disable selected codec]
+Ընտրեք կոդեկը անջատելու համար օգտագործեք Delele ստեղնը
+[Make Inactive]
+Անգործություն դարձրեք
+[Conference]
+Գիտաժողով
+[Dialing Prefix]
+Զանգահարման նախածանց
+[Register Refresh]
+Գրանցվել Թարմացնել
+[Keep-Alive]
+Պահել կենդանի
+[Ringtone Volume]
+Զանգի ձայնը
+[Call Recording]
+Զանգի ձայնագրում
+[Nameserver]
+Անուններ
+[Default List Action]
+Լռելյայն ցուցակի գործողություն
+[Edit Local Account]
+Խմբագրել Տեղական հաշիվը
+[Export]
+Արտահանում
+[Version]
+Վարկած
+[Call Waiting]
+Զանգի սպասում
+[Ready]
+Պատրաստ է
+[Not online]
+Ոչ առցանց
+[On the phone]
+Հեռախոսով
+[First Name]
+Անուն
+[Last Name]
+Ազգանուն
+[Phone Number]
+Հեռախոսահամար
+[Mobile Number]
+Բջջայինի համար
+[E-mail Address]
+Էլեկտրոնային հասցե
+[Address]
+Հասցե
+[City]
+Քաղաք
+[State]
+Պետություն
+[Postal Code]
+փոստային ինդեքս
+[Comment]
+Մեկնաբանություն
+[Extension]
+Երկարացում
+[Port]
+Նավահանգիստ
+[User ID]
+օգտագործողի այ - Դի
+[Authentication failed]
+Նույնականացումը չհաջողվեց
+[API URL is empty]
+API URL- ը դատարկ է
+[API connection failed]
+API կապը ձախողվեց
+[API request failed. Response code:]
+API հարցումը ձախողվեց: Արձագանքման ծածկագիրը.
+[API response is empty]
+API պատասխանը դատարկ է
+[API response parse error]
+API պատասխանը վերլուծել է սխալը
+[API data type is wrong]
+API տվյալների տեսակը սխալ է
+[Login failed]
+Մուտքը ձախողվեց
+[Request failed]
+Հայցը ձախողվեց
+[close window to ignore call]
+փակել պատուհանը ՝ զանգն անտեսելու համար
+[Transfer Code]
+Փոխանցման ծածկագիր
+[Headset Support]
+Ականջակալների աջակցում
+[Privacy Policy]
+Գաղտնիության քաղաքականություն
+[sec]
+վրկ
+[Call Forwarding]
+Callանգի վերահասցեավորում
+[Are you sure you want to delete?]
+Վստա՞հ եք, որ ուզում եք ջնջել:
+[Delete contact]
+Deleteնջել կոնտակտը
+[Account or credentials not found.]
+Հաշիվը կամ հավատարմագիրը չի գտնվել
+[Please fill out all required fields.]
+Լրացրեք բոլոր պահանջվող դաշտերը:
+[Change Account]
+Փոխել հաշիվը
+[Dial Plan]
+Ialանգահարման պլան
+[Disable Video]
+Անջատել տեսանյութը
+[Disable Messaging]
+Անջատել հաղորդագրությունը
+[Headphones]
+Ականջակալներ
+[Are you sure you want to close the application?]
+Վստա՞հ եք, որ ցանկանում եք փակել ծրագիրը:
+[Dashboard Access]
+Վահանակի մուտք
+[Break]
+Ընդմիջում
+[Non-Telephone Work]
+Ոչ հեռախոսային աշխատանք
+[On Break]
+Ընդմիջման ժամանակ
+[Telephone Work]
+Հեռախոսային աշխատանք
+[Register]
+Գրանցվել
+[Unregister]
+Չեղարկել գրանցումը
+[Options]
+Ընտրանքներ
+[Delay]
+Հետաձգում
+[Caller Number]
+Lerանգահարողի համարը
+[Purchase a Number]
+Գնեք համար
+[Line Number (4 digits)]
+Գծի համարը (4 նիշ)
+[Line Password]
+Line գաղտնաբառ
+[Set Password]
+Սահմանեք գաղտնաբառը
+[Reset Password]
+Վերականգնել գաղտնաբառը
+[Open]
+Բացել
+[Unable to find default audio device]
+Ոչ մի աուդիո սարք չի գտնվել
+[Network is unreachable]
+Networkանցն անհասանելի է
+[Allow access to the microphone in your antivirus settings.]
+Թույլատրեք խոսափողի մուտքը ձեր հակավիրուսային կարգավորումներում:
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Միկրոֆոնի թույլտվությունը շտկեք Windows- ի կարգավորումներում (Windows Settings =&gt; Գաղտնիություն =&gt; Խոսափող):
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Բարձրախոսներն ու խոսափողը պարտադիր են: Callsանգեր կատարելու համար ձեր համակարգում պետք է ունենաք մուտքային և ելքային ձայնային սարք:
+[Canceled]
+Չեղյալ է հայտարարվել
+[Unknown format]
+Անհայտ ձևաչափ
+[Softphone is not initialized. Check your settings.]
+Softphone- ը նախնականացված չէ: Ստուգեք ձեր կարգավորումները:
+[Unable to initialize network sockets.]
+Հնարավոր չէ նախնական նախադրել ցանցային վարդակները:
+[Starred]
+Աստղանշված
+[Run at System Startup]
+Գործարկել համակարգի գործարկման ժամանակ
+[Run Batch]
+Գործարկել փաթեթը
+[Call URL]
+Զանգի URL
+[Call All]
+Զանգահարեք բոլորին
+[Custom]
+Պատվերով
+[Take Back]
+Հետ վերցնել
+[Add Contact]
+Ավելացնել կոնտակտ
+[Incorrect dialing or non-existent number]
+Սխալ հավաքում կամ գոյություն չունեցող համար
+[Profile]
+Անձնագիր
+[Use Outbound Proxy]
+Օգտագործեք ելքային վստահված անձ
+[End]
+Վերջ զանգը
+[Address Incomplete]
+Հասցեն թերի է
+[Not acceptable here]
+Այստեղ ընդունելի չէ
+[Direct Transfer]
+Ուղիղ փոխանցում
+[Idle]
+Պարապ
+[Toggle]
+Փոխարկել
+[Enter Password]
+Մուտքագրեք գաղտնաբառը
+[Connection refused]
+Միացումը մերժվեց
+[Connection timed out]
+Միացման ժամանակը սպառվել է
+[Cannot get IP address of the called host]
+Հնարավոր չէ ստանալ կանչված հոսթի IP հասցեն
+[Answered Elsewhere]
+Պատասխանել է մեկ այլ տեղ
+[Missed Call]
+Բաց թողնված զանգ
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Ցանկանու՞մ եք ջնջել օգտվողի տվյալները և ծրագրի կարգավորումները: Այս գործողությունը հնարավոր չէ հետարկել:
+[Unavailable]
+Անհասանելի է
+[Call Limit]
+Զանգի սահմանաչափ
+[Hide Caller ID]
+Թաքցնել զանգահարողի ID-ն
+[External Program]
+Արտաքին ծրագիր
+[]

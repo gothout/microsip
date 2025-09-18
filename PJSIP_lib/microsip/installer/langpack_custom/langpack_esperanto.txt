@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Alvoki
+[End Call]
+Fini alvokon
+[Contacts]
+Adresaro
+[Account]
+Konto
+[Settings]
+Agordoj
+[Visit Website]
+Viziti retejon
+[Exit]
+Eliri
+[Browse...]
+Esplori...
+[Default]
+Defaŭlta
+[Auto Answer]
+Aŭtomata respondo
+[Disable Local Account]
+Malaktivigi lokan konton
+[OK]
+Bone
+[Save]
+Konservi
+[Cancel]
+Nuligi
+[SIP Server]
+Servilo SIP
+[SIP Proxy]
+SIP Proxy
+[Domain]
+Domajno
+[Password]
+Pasvorto
+[Connecting...]
+Konektiĝanta...
+[Online]
+Enreta
+[Local]
+Loka
+[Message]
+Mesaĝi
+[Edit]
+Redakti
+[Delete]
+Forigi
+[Add]
+Aldoni
+[Bad Gateway]
+Malĝusta kluzo
+[Request Timeout]
+Petu ellasadon
+[Number]
+Numero
+[Name]
+Nomo
+[Contact]
+Kontakto
+[Incoming Call]
+Envena alvoko
+[Answer]
+Respondo
+[Decline]
+Malakcepti
+[Calling]
+Alvokanta
+[Connecting]
+Konektiĝanta
+[Connected]
+Konektita
+[Auto]
+Aŭtomata
+[Transport]
+Transporto
+[Incorrect Password]
+Malĝusta pasvorto
+[Public Address]
+Publika adreso
+[Media Encryption]
+Aŭdvida ĉifrado
+[Disabled]
+Malaktiva
+[Optional]
+Nedeviga
+[Mandatory]
+Deviga
+[STUN Server]
+Servilo STUN
+[Presence Subscription]
+Ĉeesto-Abono
+[Ringing]
+Sonoranta
+[Call Ended]
+Fino de la alvoko
+[Declined]
+Malakceptita
+[No address found]
+Neniu adreso trovita
+[Request Terminated]
+Peto Finita
+[Away]
+For
+[Publish Presence]
+Publikigi Ĉeeston
+[Session Progress]
+Sesa Progreso
+[Camera]
+Kamerao
+[Video Call]
+Video-alvoki
+[Answer with Video]
+Respondi kun video
+[View Log File]
+Vidi protokolan dosieron
+[Microphone]
+Mikrofono
+[Speaker]
+Laŭtparolilo
+[Video Codec]
+Video-kodeko
+[Check for Updates]
+Kontroli ĉu estas ĝisdatigo
+[Daily]
+Ĉiutage
+[Weekly]
+Ĉiusemajne
+[Monthly]
+Ĉiumonate
+[Quarterly]
+Ĉiun trian monaton
+[Never]
+Neniam
+[Update Available]
+Ĝisdatigo haveblas
+[Force Codec for Incoming]
+Devigi kodekon por envenaj alvokoj
+[Invalid Number]
+Nevalida URI
+[Offline]
+Eksterreta
+[Single Call Mode]
+Ununura Voĉreĝimo
+[Local Video]
+Loka video
+[Call Transfer]
+Alvoko Transfer
+[final]
+fina
+[Call transfered successfully, disconnecting call]
+Alvoko trapasis sukcese, malkonektante vokon
+[Hold]
+Deteni
+[Transfer]
+Transdono
+[Sound Events]
+Sonaj Eventoj
+[Bitrate]
+Bitrapido
+[Login]
+Aŭtentiga nomo
+[Enable Log File]
+Aktivigi protokolan dosieron
+[Duration]
+Daŭro
+[Info]
+Detaloj
+[display password]
+montri pasvorton
+[From]
+De
+[To]
+Al
+[Ring Device]
+Alvoksonorilo
+[Service Unavailable]
+Servo Ne havebla
+[Unable to connect to remote server.]
+Ne eblas konekti al fora servilo.
+[Busy Here]
+Okupita
+[Trying]
+Provante
+[Method Not Allowed]
+Metodo Ne Permesita
+[Not Found]
+Ne trovita
+[Always on Top]
+Ĉiam supre
+[Connect]
+Konektiĝi
+[Last Call]
+Lasta alvoko
+[Close All]
+Fermi ĉion
+[Copy]
+Kopii
+[Select All]
+Elekti ĉion
+[Display Name]
+Vidiga nomo
+[Remember Details]
+Memoru detalojn
+[PIN]
+PIN
+[No]
+Ne
+[All Calls]
+Ĉiuj vokoj
+[SIP Header]
+SIP-Kapo
+[Different User]
+Malsama uzanto
+[Different Domain]
+Malsama domajno
+[Different User or Domain]
+Malsama uzanto aŭ domajno
+[Different Remote Domain]
+Malsama fora domajno
+[Deny Incoming]
+Malakcepti envenajn alvokojn
+[Allow IP Rewrite]
+Permesi IP-anstataŭigon
+[Directory of Users]
+Adresaro
+[Call on Remote Hold]
+Alvoku Remote Hold
+[Call on Local Hold]
+Alvoku Lokan Holdon
+[Call on Hold]
+Alvoku Atendu
+[Call is Active]
+Alvoko estas aktiva
+[Menu]
+Menuo
+[Edit Account]
+Redakti konton
+[Add Account...]
+Aldoni konton...
+[Remove Account]
+Forigu konton
+[Make Active]
+Aktivigi
+[Are you sure you want to remove?]
+Ĉu vi certas, ke vi volas forigi?
+[Call Pickup]
+Voki Bildlokon
+[Speaker Level]
+Laŭtparolila nivelo
+[Microphone Level]
+Mikrofona nivelo
+[Mute Speaker]
+Silentigi laŭtparolilon
+[Mute Microphone]
+Silentigi mikrofonon
+[Balance]
+Ekvilibro
+[Custom INI Path]
+Propra TIA Pado
+[Contact Us]
+Kontaktu Nin
+[Please fill out at least the required fields marked with *.]
+Plenigu almenaŭ la devigajn kampojn markitajn per steleto (*).
+[Ask your SIP provider how to configure the account correctly.]
+Demandu vian SIP-provizanton, kiel ĝuste agordi la konton.
+[Time]
+Horo
+[Phone]
+Telefono
+[Ringtone]
+Alvoksono
+[Username]
+Uzulnomo
+[Do you want to update now?]
+Ĉu vi volas ĝisdatigi nun?
+[Available Codecs]
+Haveblaj kodekoj
+[Enabled Codecs]
+Aktivaj sonkodekoj
+[Logs]
+Protokolo
+[Random Popup Position]
+Hazarda ŝprucfenestra pozicio
+[Attended Transfer]
+Atestita Translokigo
+[Launch URL on incoming call]
+Lanĉu URL pri envenanta voko
+[Enable Local Account]
+Aktivigi lokan konton
+[Send Crash Report]
+Sendi prikraŝajn datumojn
+[Account Name]
+Kontonomo
+[Invite to Conference]
+Invito al Konferenco
+[Merge]
+Kunigu
+[Separate]
+Disigi
+[Disconnect]
+Malkonekti
+[DTMF Method]
+DTMF-Metodo
+[Voicemail Number]
+Voĉmesaĝejo
+[Disable Session Timers]
+Malŝalti Sesajn Tempigilojn
+[Microphone Amplification]
+Mikrofona amplifo
+[Software Level Adjustment]
+Programaro Nivela Ĝustigo
+[Shortcuts]
+Fulmoklavoj
+[Enable]
+Aktivigi
+[Label]
+Etikedo
+[Type]
+Tipo
+[Bottom Position]
+Malsupra pozicio
+[You need to restart application for the changes to take effect.]
+Necesas restartigi la aplikaĵon por efektivigi ŝanĝojn.
+[Handle Media Buttons]
+Handle Media Butonoj
+[Bring to Front on Incoming Call]
+Porti malfonen je envena alvoko
+[SIP account]
+SIP-konto
+[SIP password]
+SIP pasvorto
+[Help]
+Helpo
+[Video Bitrate]
+Video-bitrapido
+[Control Button]
+Kontrola Butono
+[Do Not Disturb]
+Ne ĝenu min
+[Source Port]
+Fonto Haveno
+[RTP Ports]
+RTP Havenoj
+[Unregister the account when the operator is Away]
+Malregistri la konton kiam la telefonisto restas
+[Ask for the sip USER and SECRET everytime]
+Petu la ŝaŭman USONON kaj SEKRETON ĉiufoje
+[Import]
+Importi
+[Server]
+Servilo
+[Attendant Transfer]
+Partoprenanto
+[Blind Transfer]
+Transiga Blinda
+[Redial]
+Realvoki
+[Backspace]
+Retropaŝa klavo
+[Clear]
+Vakigi
+[Use Space key to enable selected codec]
+Uzu la spacostangon por aktivigi la elektitan kodekon
+[Use Delele key to disable selected codec]
+Uzu la forigan klavon por malaktivigi la elektitan kodekon
+[Make Inactive]
+Malaktivi
+[Conference]
+Konferenco
+[Dialing Prefix]
+Prefiksado
+[Register Refresh]
+Registri Ĝisdatigu
+[Keep-Alive]
+Gardu-Vivu
+[Ringtone Volume]
+Ringtona Volumo
+[Call Recording]
+Voko Registrado
+[Nameserver]
+Nomumilo
+[Default List Action]
+Defaŭlta Listo-Ago
+[Edit Local Account]
+Redakti Lokan Konton
+[Export]
+Eksportado
+[Version]
+Versio
+[Call Waiting]
+Voki Atendante
+[Ready]
+Preta
+[Not online]
+Ne interrete
+[On the phone]
+En la telefono
+[First Name]
+Familinomo
+[Last Name]
+Familia nomo
+[Phone Number]
+Telefonnumero
+[Mobile Number]
+Poŝtelefona numero
+[E-mail Address]
+Retpoŝta adreso
+[Address]
+Adreso
+[City]
+Urbo
+[State]
+Ŝtato
+[Postal Code]
+Poŝtkodo
+[Comment]
+Komento
+[Extension]
+Pligrandigo
+[Port]
+Haveno
+[User ID]
+Uzanto-ID
+[Authentication failed]
+Aŭtentigo malsukcesis
+[API URL is empty]
+API-URL estas malplena
+[API connection failed]
+API rilato malsukcesis
+[API request failed. Response code:]
+API peto malsukcesis. Respondkodo:
+[API response is empty]
+API respondo estas malplena
+[API response parse error]
+Eraro de API-respondo
+[API data type is wrong]
+API datumtipo estas malĝusta
+[Login failed]
+Ensaluto malsukcesis
+[Request failed]
+Peto malsukcesis
+[close window to ignore call]
+fermi fenestron por ignori vokon
+[Transfer Code]
+Transiga Kodo
+[Headset Support]
+Subaŭskultila Subteno
+[Privacy Policy]
+Privateca Politiko
+[sec]
+sek
+[Call Forwarding]
+Telefonvokado
+[Are you sure you want to delete?]
+Ĉu vi certe volas forigi?
+[Delete contact]
+Forigi kontakton
+[Account or credentials not found.]
+Konto aŭ atestilo ne trovita
+[Please fill out all required fields.]
+Bonvolu plenigi ĉiujn bezonatajn kampojn.
+[Change Account]
+Ŝanĝi Konton
+[Dial Plan]
+Diski Planon
+[Disable Video]
+Malŝalti Video
+[Disable Messaging]
+Malŝalti Mesaĝadon
+[Headphones]
+Aŭdiloj
+[Are you sure you want to close the application?]
+Ĉu vi certas, ke vi volas fermi la programon?
+[Dashboard Access]
+Alirpanelo
+[Break]
+Paŭzo
+[Non-Telephone Work]
+Ne-Telefona Laboro
+[On Break]
+Sur Paŭzo
+[Telephone Work]
+Telefona Laboro
+[Register]
+Registriĝi
+[Unregister]
+Neregistri
+[Options]
+Opcioj
+[Delay]
+Prokrasto
+[Caller Number]
+Nomumanto
+[Purchase a Number]
+Aĉetu Numeron
+[Line Number (4 digits)]
+Linia Numero (4 ciferoj)
+[Line Password]
+Linia Pasvorto
+[Set Password]
+Agordi Pasvorton
+[Reset Password]
+Restarigi Pasvorton
+[Open]
+Malfermi
+[Unable to find default audio device]
+Neniu sonaparato trovita
+[Network is unreachable]
+Reto estas neatingebla
+[Allow access to the microphone in your antivirus settings.]
+Permesu aliron al la mikrofono en viaj antivirusaj agordoj.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+Ripari permeson pri mikrofono en la Vindozaj agordoj (Vindozaj Agordoj =&gt; Privateco =&gt; Mikrofono).
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+Parolantoj kaj mikrofono ambaŭ necesas. Por telefoni, vi devas havi enigan kaj eligan sonaparaton en via sistemo.
+[Canceled]
+Nuligita
+[Unknown format]
+Nekonata formato
+[Softphone is not initialized. Check your settings.]
+Softfono ne estas pravalorizita. Kontrolu viajn agordojn.
+[Unable to initialize network sockets.]
+Ne eblas pravalorizi retajn ingojn.
+[Starred]
+Ĉefrolita
+[Run at System Startup]
+Kuru ĉe Sistemo-Lanĉo
+[Run Batch]
+Kuru Batch
+[Call URL]
+Voku URL
+[Call All]
+Voku Ĉiujn
+[Custom]
+Kutimo
+[Take Back]
+Repreni
+[Add Contact]
+Aldonu Kontakton
+[Incorrect dialing or non-existent number]
+Malĝusta diskado aŭ neekzistanta numero
+[Profile]
+Profilo
+[Use Outbound Proxy]
+Uzu Eliran Prokurilon
+[End]
+Fini alvokon
+[Address Incomplete]
+Adreso Nekompleta
+[Not acceptable here]
+Ne akceptebla ĉi tie
+[Direct Transfer]
+Rekta Transdono
+[Idle]
+Senlabore
+[Toggle]
+Baskuligi
+[Enter Password]
+Enigu Pasvorton
+[Connection refused]
+Konekto rifuzita
+[Connection timed out]
+Konekto elĉerpita
+[Cannot get IP address of the called host]
+Ne povas ricevi IP-adreson de la nomita gastiganto
+[Answered Elsewhere]
+Respondis Aliloke
+[Missed Call]
+Maltrafita Voko
+[Do you want to delete user data and program settings? This action cannot be undone.]
+Ĉu vi volas forigi uzantajn datumojn kaj programajn agordojn? Ĉi tiu ago ne povas esti malfarita.
+[Unavailable]
+Nedisponebla
+[Call Limit]
+Voka Limo
+[Hide Caller ID]
+Kaŝi alvokanton
+[External Program]
+Ekstera Programo
+[]

@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+تماس
+[End Call]
+پایان تماس
+[Contacts]
+دفترچه تلفن
+[Account]
+حساب کاربری
+[Settings]
+تنظیمات
+[Visit Website]
+بازدید از وب سایت
+[Exit]
+خروج
+[Browse...]
+مرور...
+[Default]
+پیش فرض
+[Auto Answer]
+پاسخ اتوماتیک
+[Disable Local Account]
+غیر فعال کردن اکانت محلی
+[OK]
+اوکی
+[Save]
+ذخیره
+[Cancel]
+انصراف
+[SIP Server]
+سرور SIP
+[SIP Proxy]
+پروکسی SIP
+[Domain]
+دامین
+[Password]
+کلمه عبور
+[Connecting...]
+در حال اتصال ...
+[Online]
+آنلاین
+[Local]
+محلی
+[Message]
+پیغام
+[Edit]
+ویرایش
+[Delete]
+حذف
+[Add]
+افزودن
+[Bad Gateway]
+گذرگاه اشتباه
+[Request Timeout]
+انقضای زمان درخواست
+[Number]
+تعداد
+[Name]
+نام
+[Contact]
+مخاطب
+[Incoming Call]
+تماس وارده
+[Answer]
+پاسخ
+[Decline]
+رد کردن
+[Calling]
+در حال تماس
+[Connecting]
+در حال اتصال
+[Connected]
+متصل شده
+[Auto]
+اتوماتیک
+[Transport]
+ترابری
+[Incorrect Password]
+رمز عبور نامعتبر
+[Public Address]
+آدرس عمومی
+[Media Encryption]
+رمزگذاری مدیا
+[Disabled]
+غیر فعال شد
+[Optional]
+اختیاری
+[Mandatory]
+اجباری
+[STUN Server]
+سرور STUN
+[Presence Subscription]
+اشتراک وضعیت
+[Ringing]
+در حال زنگ خوردن
+[Call Ended]
+پایان تماس
+[Declined]
+کاهش یافته
+[No address found]
+آدرس یافت نشد
+[Request Terminated]
+درخواست پایان یافته
+[Away]
+دور
+[Publish Presence]
+انتشار وضعیت
+[Session Progress]
+پیشرفت نشست
+[Camera]
+دوربین
+[Video Call]
+تماس ویدئویی
+[Answer with Video]
+پاسخ توسط ویدئو
+[View Log File]
+نمایش فایل گزارش
+[Microphone]
+میکروفون
+[Speaker]
+بلندگو
+[Video Codec]
+کدک تصویر
+[Check for Updates]
+چک کردن برای بروز رسانی
+[Daily]
+روزانه
+[Weekly]
+هفتگی
+[Monthly]
+ماهیانه
+[Quarterly]
+فصلی
+[Never]
+هرگز
+[Update Available]
+بروزرسانی موجود است
+[Force Codec for Incoming]
+اجبار کدک برای تماس ورودی
+[Invalid Number]
+آدرس نامعتبر
+[Offline]
+آفلاین
+[Single Call Mode]
+حالت تک تماس
+[Local Video]
+ویدئو محلی
+[Call Transfer]
+انتقال تماس
+[final]
+نهایی
+[Call transfered successfully, disconnecting call]
+انتقال تماس موفق، قطع تماس
+[Hold]
+نگه داشتن
+[Transfer]
+انتقال
+[Sound Events]
+رویدادهای صوتی
+[Bitrate]
+نرخ انتقال بیت
+[Login]
+لاگین
+[Enable Log File]
+فعالسازی فایل گزارش
+[Duration]
+مدت
+[Info]
+اطلاعات
+[display password]
+نمایش رمز عبور
+[From]
+از
+[To]
+به
+[Ring Device]
+ابزار زنگ
+[Service Unavailable]
+سرویس در دسترس نیست
+[Unable to connect to remote server.]
+اتصال به سرور از راه دور امکان پذیر نیست.
+[Busy Here]
+مشغول
+[Trying]
+درحال تلاش
+[Method Not Allowed]
+این متد اجازه ندارد
+[Not Found]
+یافت نشد
+[Always on Top]
+همیشه در بالا
+[Connect]
+اتصال
+[Last Call]
+آخرین تماس
+[Close All]
+بستن همه
+[Copy]
+کپی
+[Select All]
+انتخاب همه
+[Display Name]
+نام شما
+[Remember Details]
+یادآوری جزئیات
+[PIN]
+پین
+[No]
+خیر
+[All Calls]
+تمام تماس ها
+[SIP Header]
+SIP هدر
+[Different User]
+کاربری دیگر
+[Different Domain]
+دامنه ای دیگر
+[Different User or Domain]
+کاربر یا دامنه متفاوت
+[Different Remote Domain]
+دامنه متفاوت
+[Deny Incoming]
+انسداد ورودی
+[Allow IP Rewrite]
+اجازه تغییر آی پی
+[Directory of Users]
+پوشه کاربران
+[Call on Remote Hold]
+تماس در حال انتظار خارجی
+[Call on Local Hold]
+تماس در حال انتظار داخلی
+[Call on Hold]
+تماس در حال انتظار
+[Call is Active]
+تماس فعال است
+[Menu]
+منو
+[Edit Account]
+ویرایش حساب
+[Add Account...]
+افزودن حساب کاربری
+[Remove Account]
+حذف حساب
+[Make Active]
+فعالسازی
+[Are you sure you want to remove?]
+آیا می خواهید حذف نمایید؟
+[Call Pickup]
+برداشتن تماس
+[Speaker Level]
+صدای اسپیکر
+[Microphone Level]
+صدای میکروفن
+[Mute Speaker]
+قطع صدا
+[Mute Microphone]
+قطع میکروفن
+[Balance]
+تعادل
+[Custom INI Path]
+این مسیر را سفارشی کنید
+[Contact Us]
+با ما تماس بگیرید
+[Please fill out at least the required fields marked with *.]
+لطفا حداقل زمینه های مورد نیاز که با * مشخص شده اند را پر کنید.
+[Ask your SIP provider how to configure the account correctly.]
+چگونگی  پیکربندی صحیح حساب کاربری را از ارائه کننده SIP خود بپرسید.
+[Time]
+زمان
+[Phone]
+شماره گیری
+[Ringtone]
+صدای زنگ
+[Username]
+کاربر
+[Do you want to update now?]
+آیا میخواهید نرم افزار به روز شود؟
+[Available Codecs]
+در دسترس
+[Enabled Codecs]
+فعال شده
+[Logs]
+تماس‌ها
+[Random Popup Position]
+موقعیت تصادفی از جعبه تماس های دریافتی
+[Attended Transfer]
+انتقال با نظارت
+[Launch URL on incoming call]
+URL را در تماس دریافتی راه اندازی کنید
+[Enable Local Account]
+فعالسازی حساب محلی
+[Send Crash Report]
+ارسال گزارش خرابی
+[Account Name]
+نام حساب
+[Invite to Conference]
+دعوت به کنفرانس
+[Merge]
+ادغام
+[Separate]
+جدا
+[Disconnect]
+قطع اتصال
+[DTMF Method]
+روش DTMF
+[Voicemail Number]
+شماره صندوق صوتی
+[Disable Session Timers]
+از کار انداختن timer
+[Microphone Amplification]
+تقویت میکروفن
+[Software Level Adjustment]
+تنظیم سطح برنامه
+[Shortcuts]
+میانبرها
+[Enable]
+فعال
+[Label]
+برچسب
+[Type]
+نوع
+[Bottom Position]
+موقعیت پایین
+[You need to restart application for the changes to take effect.]
+برای اعمال تغییرات لازم است نرم افزار را مجددا راه اندازی کنید.
+[Handle Media Buttons]
+دکمه های رسانه ای را کنترل کنید
+[Bring to Front on Incoming Call]
+جلو آمدن برنامه هنگام تماس ورودی
+[SIP account]
+حساب SIP
+[SIP password]
+رمز عبور SIP
+[Help]
+راهنما
+[Video Bitrate]
+بیت ریت ویدئو
+[Control Button]
+دکمه کنترل
+[Do Not Disturb]
+مزاحم نشو
+[Source Port]
+پورت امن
+[RTP Ports]
+پورت های RTP
+[Unregister the account when the operator is Away]
+وقتی اپراتور دور است ، حساب را حذف کنید
+[Ask for the sip USER and SECRET everytime]
+هر زمان که بخواهید از USER و Secret استفاده کنید
+[Import]
+وارد کردن
+[Server]
+سرور
+[Attendant Transfer]
+انتقال حضار
+[Blind Transfer]
+انتقال کور
+[Redial]
+دوباره گرفتن
+[Backspace]
+عقب بر
+[Clear]
+پاک کردن
+[Use Space key to enable selected codec]
+برای فعال کردن کدک انتخاب شده از کلید Space استفاده کنید
+[Use Delele key to disable selected codec]
+برای غیرفعال کردن کدک انتخاب شده از کلید Delele استفاده کنید
+[Make Inactive]
+غیرفعال شوید
+[Conference]
+کنفرانس
+[Dialing Prefix]
+پیشوند شماره گیری
+[Register Refresh]
+ثبت تازه کردن
+[Keep-Alive]
+زنده نگه داشتن
+[Ringtone Volume]
+درجه آهنگ زنگ صدا
+[Call Recording]
+ضبط مکالمه
+[Nameserver]
+نام سرور
+[Default List Action]
+عملکرد لیست پیش فرض
+[Edit Local Account]
+ویرایش حساب کاربری محلی
+[Export]
+گرفتن خروجی
+[Version]
+نسخه
+[Call Waiting]
+انتظار تماس
+[Ready]
+آماده
+[Not online]
+برخط نشدن
+[On the phone]
+در حال مکالمه
+[First Name]
+نام کوچک
+[Last Name]
+نام خانوادگی
+[Phone Number]
+شماره تلفن
+[Mobile Number]
+شماره موبایل
+[E-mail Address]
+آدرس ایمیل
+[Address]
+نشانی
+[City]
+شهر
+[State]
+دولت
+[Postal Code]
+کد پستی
+[Comment]
+اظهار نظر
+[Extension]
+افزونه
+[Port]
+بندر
+[User ID]
+شناسه کاربری
+[Authentication failed]
+تأیید اعتبار انجام نشد
+[API URL is empty]
+URL API خالی است
+[API connection failed]
+اتصال API انجام نشد
+[API request failed. Response code:]
+درخواست API انجام نشد. کد پاسخ:
+[API response is empty]
+پاسخ API خالی است
+[API response parse error]
+پاسخ خطای تجزیه API
+[API data type is wrong]
+نوع داده API اشتباه است
+[Login failed]
+ورود ناموفق بود
+[Request failed]
+درخواست انجام نشد
+[close window to ignore call]
+بستن پنجره برای نادیده گرفتن تماس
+[Transfer Code]
+کد انتقال
+[Headset Support]
+پشتیبانی از هدست
+[Privacy Policy]
+سیاست حفظ حریم خصوصی
+[sec]
+ثانیه
+[Call Forwarding]
+تماس با حمل و نقل
+[Are you sure you want to delete?]
+آیا مطمئنید که می خواهید حذف کنید؟
+[Delete contact]
+مخاطب را حذف کنید
+[Account or credentials not found.]
+حساب یا اعتبار یافت نشد.
+[Please fill out all required fields.]
+لطفاً تمام قسمت های مورد نیاز را پر کنید
+[Change Account]
+تغییر حساب
+[Dial Plan]
+طرح شماره گیری
+[Disable Video]
+ویدئو را غیرفعال کنید
+[Disable Messaging]
+پیام رسانی را غیرفعال کنید
+[Headphones]
+هدفون
+[Are you sure you want to close the application?]
+آیا مطمئن هستید که می خواهید برنامه را ببندید؟
+[Dashboard Access]
+دسترسی به داشبورد
+[Break]
+زنگ تفريح
+[Non-Telephone Work]
+کار غیر تلفنی
+[On Break]
+در استراحت
+[Telephone Work]
+کار تلفنی
+[Register]
+ثبت نام
+[Unregister]
+لغو ثبت نام
+[Options]
+گزینه ها
+[Delay]
+تاخیر انداختن
+[Caller Number]
+شماره تماس گیرنده
+[Purchase a Number]
+یک شماره خریداری کنید
+[Line Number (4 digits)]
+شماره خط (4 رقم)
+[Line Password]
+رمز عبور خط
+[Set Password]
+گذاشتن رمز عبور
+[Reset Password]
+بازنشانی گذرواژه
+[Open]
+بازکردن
+[Unable to find default audio device]
+دستگاه صوتی یافت نشد
+[Network is unreachable]
+شبکه غیر قابل دسترسی است
+[Allow access to the microphone in your antivirus settings.]
+در تنظیمات آنتی ویروس خود اجازه دسترسی به میکروفن را بدهید.
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+اجازه میکروفن را در تنظیمات ویندوز (تنظیمات Windows =&gt; حریم خصوصی =&gt; میکروفون) برطرف کنید.
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+بلندگو و میکروفون هر دو مورد نیاز است. برای برقراری تماس باید دستگاه صوتی ورودی و خروجی در سیستم خود داشته باشید.
+[Canceled]
+لغو شد
+[Unknown format]
+قالب ناشناخته
+[Softphone is not initialized. Check your settings.]
+تلفن نرم افزاری اولیه نیست. تنظیمات خود را بررسی کنید.
+[Unable to initialize network sockets.]
+مقداردهی اولیه سوکتهای شبکه امکان پذیر نیست.
+[Starred]
+ستاره دار
+[Run at System Startup]
+در هنگام راه اندازی سیستم اجرا کنید
+[Run Batch]
+دسته را اجرا کنید
+[Call URL]
+URL تماس بگیرید
+[Call All]
+با همه تماس بگیرید
+[Custom]
+سفارشی
+[Take Back]
+پس بگیر
+[Add Contact]
+افزودن مخاطب
+[Incorrect dialing or non-existent number]
+شماره گیری نادرست یا عدم وجود شماره
+[Profile]
+مشخصات
+[Use Outbound Proxy]
+از پروکسی خروجی استفاده کنید
+[End]
+پایان تماس
+[Address Incomplete]
+آدرس ناقص
+[Not acceptable here]
+اینجا قابل قبول نیست
+[Direct Transfer]
+انتقال مستقیم
+[Idle]
+بیکار
+[Toggle]
+تغییر وضعیت
+[Enter Password]
+رمز عبور را وارد کنید
+[Connection refused]
+ارتباط رد شد
+[Connection timed out]
+ارتباط منقضی شد
+[Cannot get IP address of the called host]
+نمی توان آدرس IP میزبان فراخوانی شده را دریافت کرد
+[Answered Elsewhere]
+در جای دیگر پاسخ داده شد
+[Missed Call]
+تماس از دست رفته
+[Do you want to delete user data and program settings? This action cannot be undone.]
+آیا می خواهید داده های کاربر و تنظیمات برنامه را حذف کنید؟ این عمل قابل لغو نیست.
+[Unavailable]
+غیر قابل دسترسی
+[Call Limit]
+محدودیت تماس
+[Hide Caller ID]
+پنهان کردن شناسه تماس گیرنده
+[External Program]
+برنامه خارجی
+[]

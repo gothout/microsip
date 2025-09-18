@@ -1,0 +1,586 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+โทร
+[End Call]
+วางสาย
+[Contacts]
+รายชื่อ
+[Account]
+บัญชี
+[Settings]
+ตั้งค่า
+[Visit Website]
+เยี่ยมชมเว็บไซต์
+[Exit]
+ออกจากโปรแกรม
+[Browse...]
+เลือกไฟล์
+[Default]
+ค่าเริ่มต้น
+[Auto Answer]
+ตอบรับอัตโนมัติ
+[Disable Local Account]
+ปิดใช้งานบัญชี
+[OK]
+ตกลง
+[Save]
+บันทึก
+[Cancel]
+ยกเลิก
+[SIP Server]
+เซิร์ฟเวอร์ SIP
+[SIP Proxy]
+พร็อกซี SIP
+[Domain]
+โดเมน
+[Password]
+รหัสผ่าน
+[Connecting...]
+กำลังโทรออก..
+[Online]
+ระบบพร้อมใช้งาน
+[Local]
+ภายใน
+[Message]
+ข้อความ
+[Edit]
+แก้ไข
+[Delete]
+ลบ
+[Add]
+เพิ่ม
+[Bad Gateway]
+การเชื่อมต่อมีปัญหา
+[Request Timeout]
+การเชื่อมต่อหมดเวลา
+[Number]
+หมายเลข
+[Name]
+ชื่อ
+[Contact]
+ติดต่อ
+[Incoming Call]
+สายโทรเข้า
+[Answer]
+รับสาย
+[Decline]
+ไม่รับ
+[Calling]
+กำลังโทรออก...
+[Connecting]
+กำลังเชื่อมต่อสาย...
+[Connected]
+ยกเลิก
+[Auto]
+อัตโนมัติ
+[Transport]
+ขนส่ง
+[Incorrect Password]
+รหัสผ่านไม่ถูกต้อง
+[Public Address]
+ที่อยู่สาธารณะ
+[Media Encryption]
+การเข้ารหัสมีเดีย
+[Disabled]
+ปิดการใช้งานแล้ว
+[Optional]
+ตัวเลือก
+[Mandatory]
+บังคับ
+[STUN Server]
+เซิร์ฟเวอร์ STUN
+[Presence Subscription]
+สมัครสมาชิกการแสดงตน
+[Ringing]
+สายเรียกเข้า
+[Call Ended]
+วางสาย
+[Declined]
+ปฏิเสธสาย
+[No address found]
+ไม่พบที่อยู่
+[Request Terminated]
+คำขอถูกปฏิเสธ
+[Away]
+ไม่อยู่
+[Publish Presence]
+เผยแพร่การแสดงตน
+[Session Progress]
+ความคืบหน้าเซสชัน
+[Camera]
+กล้อง
+[Video Call]
+วิดีโอคอล
+[Answer with Video]
+ตอบรับด้วยวีดีโอ
+[View Log File]
+ดู log file
+[Microphone]
+ไมโครโฟน
+[Speaker]
+ลำโพง
+[Video Codec]
+รหัสสัญญาณภาพ
+[Check for Updates]
+ตรวจสอบอัพเดทโปรแกรม
+[Daily]
+ทุกวัน
+[Weekly]
+ทุกสัปดาห์
+[Monthly]
+ทุกเดือน
+[Quarterly]
+ทุก 3 เดือน
+[Never]
+ไม่เคย
+[Update Available]
+อัปเดตพร้อมใช้งาน
+[Force Codec for Incoming]
+ตั้งค่า ​Codec สำหรับสายเรียกเข้า
+[Invalid Number]
+URI ไม่ถูกต้อง
+[Offline]
+ออฟไลน์
+[Single Call Mode]
+โหมดใช้งานสายเดียว
+[Local Video]
+วิดีโอท้องถิ่น
+[Call Transfer]
+โอนสาย
+[final]
+สุดท้าย
+[Call transfered successfully, disconnecting call]
+โอนสายเรียบร้อย, กำลังวางสาย
+[Hold]
+พักสาย
+[Transfer]
+โอนสาย
+[Sound Events]
+เหตุการณ์เสียง
+[Bitrate]
+ความเร็ว
+[Login]
+เข้าระบบ
+[Enable Log File]
+เปิดล็อคไฟล์
+[Duration]
+ระหว่าง
+[Info]
+เกี่ยวกับ
+[display password]
+แสดงรหัสผ่าน
+[From]
+จาก
+[To]
+ถึง
+[Ring Device]
+อุปกรณ์เสียง
+[Service Unavailable]
+ไม่สามารถให้บริการได้
+[Unable to connect to remote server.]
+ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ระยะไกล
+[Busy Here]
+ไม่ว่าง
+[Trying]
+ทำอีกครั้ง
+[Method Not Allowed]
+วิธีการไม่ได้รับอนุญาต
+[Not Found]
+ไม่เจอ
+[Always on Top]
+อยู่บนหน้าจอตลอดเวลา
+[Connect]
+ต่อสาย
+[Last Call]
+สายล่าสุด
+[Close All]
+ปิดทั้งหมด
+[Copy]
+คัดลอก
+[Select All]
+เลือกทั้งหมด
+[Display Name]
+ชื่อคุณ
+[Remember Details]
+จำรายละเอียด
+[PIN]
+PIN
+[No]
+ไม่
+[All Calls]
+เบอร์โทรทั้งหมด
+[SIP Header]
+ส่วนหัว SIP
+[Different User]
+ผู้ใช้งานที่ต่างกัน
+[Different Domain]
+โดเมนที่ต่างกัน
+[Different User or Domain]
+ผู้ใช้งานหรือโดเมนที่ต่างกัน
+[Different Remote Domain]
+รีโมทโดเมนที่ต่างกัน
+[Deny Incoming]
+ปฏิเสธสายโทรเข้า
+[Allow IP Rewrite]
+เรียกใช้ IP เดิม
+[Directory of Users]
+ไดเรกทอรีของผู้ใช้
+[Call on Remote Hold]
+โทรทางไกลเพื่อพักสาย
+[Call on Local Hold]
+โทรในท้องถิ่น
+[Call on Hold]
+พักสาย
+[Call is Active]
+การโทรทำงานอยู่
+[Menu]
+เมนู
+[Edit Account]
+แก้ไขบัญชี
+[Add Account...]
+เพิ่มบัญชี
+[Remove Account]
+ลบบัญชีออก
+[Make Active]
+ใช้งาน
+[Are you sure you want to remove?]
+คุณแน่ใจว่าต้องการลบ?
+[Call Pickup]
+สายเรียกเข้า
+[Speaker Level]
+ระดับเสียงลำโพง
+[Microphone Level]
+ระดับเสียงไมโครโฟน
+[Mute Speaker]
+ปิดเสียงลำโพง
+[Mute Microphone]
+ปิดเสียงไมโครโฟน
+[Balance]
+สมดุล
+[Custom INI Path]
+กำหนดเส้นทางนี้
+[Contact Us]
+ติดต่อเรา
+[Please fill out at least the required fields marked with *.]
+โปรดกรอกอย่างน้อยฟิลด์ที่จำเป็นที่มีเครื่องหมาย *
+[Ask your SIP provider how to configure the account correctly.]
+ติดต่อผู้ให้บริการ สำหรับการตั้งค่าที่ถูกต้อง
+[Time]
+เวลา
+[Phone]
+ปุ่มโทร
+[Ringtone]
+เสียงเรียกเข้า
+[Username]
+ผู้ใช้
+[Do you want to update now?]
+คุณต้องการอัพเดท หรือไม่?
+[Available Codecs]
+ว่าง
+[Enabled Codecs]
+ใช้งาน
+[Logs]
+เรียก
+[Random Popup Position]
+ตำแหน่งป๊อปอัพแบบสุ่ม
+[Attended Transfer]
+เข้าร่วมการถ่ายโอน
+[Launch URL on incoming call]
+เรียกใช้ URL เมื่อมีสายเรียกเข้า
+[Enable Local Account]
+เปิดใช้งานบัญชีท้องถิ่น
+[Send Crash Report]
+ส่งรายงานข้อผิดพลาด
+[Account Name]
+ชื่อบัญชี
+[Invite to Conference]
+เชิญเข้าร่วมการประชุมสาย
+[Merge]
+ควบสาย
+[Separate]
+แยก
+[Disconnect]
+ตัดการเชื่อมต่อ
+[DTMF Method]
+วิธี DTMF
+[Voicemail Number]
+หมายเลขข้อความเสียง
+[Disable Session Timers]
+ปิดใช้งานตัวจับเวลาเซสชัน
+[Microphone Amplification]
+เร่งเสียงไมโครโฟน
+[Software Level Adjustment]
+การปรับระดับซอฟต์แวร์
+[Shortcuts]
+ทางลัด
+[Enable]
+เปิดการใช้งาน
+[Label]
+ฉลาก
+[Type]
+ชนิด
+[Bottom Position]
+ตำแหน่งด้านล่าง
+[You need to restart application for the changes to take effect.]
+คุณต้องรีสตาร์ทแอปพลิเคชันเพื่อให้การเปลี่ยนแปลงมีผล
+[Handle Media Buttons]
+จัดการปุ่มสื่อ
+[Bring to Front on Incoming Call]
+นำมาไว้ข้างหน้ากับสายเรียกเข้า
+[SIP account]
+บัญชี SIP
+[SIP password]
+รหัสผ่าน SIP
+[Help]
+วิธีการช่วยเหลือ
+[Video Bitrate]
+บิตเรตวิดีโอ
+[Control Button]
+ปุ่มควบคุม
+[Do Not Disturb]
+ห้ามรบกวน
+[Source Port]
+พอร์ตต้นทาง
+[RTP Ports]
+พอร์ต RTP
+[Unregister the account when the operator is Away]
+ยกเลิกการลงทะเบียนบัญชีเมื่อผู้ประกอบการไม่อยู่
+[Ask for the sip USER and SECRET everytime]
+ขอจิบ USER และ SECRET ทุกครั้ง
+[Import]
+นำเข้า
+[Server]
+เซิร์ฟเวอร์
+[Attendant Transfer]
+การโอนผู้ดูแล
+[Blind Transfer]
+การถ่ายโอนคนตาบอด
+[Redial]
+ลองโทรซ้ำ
+[Backspace]
+Backspace
+[Clear]
+เคลียร์
+[Use Space key to enable selected codec]
+ใช้ปุ่ม Space เพื่อเปิดใช้งานตัวแปลงสัญญาณที่เลือก
+[Use Delele key to disable selected codec]
+ใช้ปุ่ม Delele เพื่อปิดการใช้งานตัวแปลงสัญญาณที่เลือก
+[Make Inactive]
+ทำให้ไม่ใช้งาน
+[Conference]
+การประชุม
+[Dialing Prefix]
+คำนำหน้าการหมุนหมายเลข
+[Register Refresh]
+ลงทะเบียนใหม่
+[Keep-Alive]
+ให้มีชีวิตอยู่
+[Ringtone Volume]
+ระดับเสียงเรียกเข้า
+[Call Recording]
+กำลังบันทึกการโทร
+[Nameserver]
+ชื่อเซิร์ฟเวอร์
+[Default List Action]
+รายการการกระทำเริ่มต้น
+[Edit Local Account]
+แก้ไขบัญชีท้องถิ่น
+[Export]
+ส่งออก
+[Version]
+รุ่น
+[Call Waiting]
+รอสาย
+[Ready]
+พร้อม
+[Not online]
+ไม่ออนไลน์
+[On the phone]
+อยู่ในสาย
+[First Name]
+ชื่อจริง
+[Last Name]
+นามสกุล
+[Phone Number]
+หมายเลขโทรศัพท์
+[Mobile Number]
+เบอร์มือถือ
+[E-mail Address]
+ที่อยู่อีเมล
+[Address]
+ที่อยู่
+[City]
+เมือง
+[State]
+สถานะ
+[Postal Code]
+รหัสไปรษณีย์
+[Comment]
+คิดเห็น
+[Extension]
+ส่วนขยาย
+[Port]
+ท่าเรือ
+[User ID]
+ID ผู้ใช้
+[Authentication failed]
+รับรองความถูกต้องล้มเหลว
+[API URL is empty]
+URL API ว่างเปล่า
+[API connection failed]
+การเชื่อมต่อ API ล้มเหลว
+[API request failed. Response code:]
+คำขอ API ล้มเหลว รหัสตอบกลับ:
+[API response is empty]
+การตอบกลับ API ว่างเปล่า
+[API response parse error]
+ข้อผิดพลาดในการแยกวิเคราะห์การตอบสนอง API
+[API data type is wrong]
+ชนิดข้อมูล API ไม่ถูกต้อง
+[Login failed]
+การเข้าสู่ระบบล้มเหลว
+[Request failed]
+คำขอล้มเหลว
+[close window to ignore call]
+ปิดหน้าต่างเพื่อละเว้นการโทร
+[Transfer Code]
+รหัสการโอน
+[Headset Support]
+การสนับสนุนชุดหูฟัง
+[Privacy Policy]
+นโยบายความเป็นส่วนตัว
+[sec]
+วินาที
+[Call Forwarding]
+การโอนสาย
+[Are you sure you want to delete?]
+คุณแน่ใจหรือว่าต้องการลบ?
+[Delete contact]
+ลบผู้ติดต่อ
+[Account or credentials not found.]
+ไม่พบบัญชีหรือข้อมูลรับรอง
+[Please fill out all required fields.]
+กรุณากรอกข้อมูลในฟิลด์ที่จำเป็นทั้งหมด
+[Change Account]
+เปลี่ยนบัญชี
+[Dial Plan]
+แผนโทร
+[Disable Video]
+ปิดการใช้งานวิดีโอ
+[Disable Messaging]
+ปิดการรับส่งข้อความ
+[Headphones]
+หูฟัง
+[Are you sure you want to close the application?]
+แน่ใจไหมว่าต้องการปิดแอปพลิเคชัน
+[Dashboard Access]
+การเข้าถึงแดชบอร์ด
+[Break]
+หยุดพัก
+[Non-Telephone Work]
+งานไม่ใช้โทรศัพท์
+[On Break]
+ในช่วงพัก
+[Telephone Work]
+งานโทรศัพท์
+[Register]
+ลงทะเบียน
+[Unregister]
+ยกเลิกการลงทะเบียน
+[Options]
+ตัวเลือก
+[Delay]
+ล่าช้า
+[Caller Number]
+หมายเลขผู้โทร
+[Purchase a Number]
+ซื้อหมายเลข
+[Line Number (4 digits)]
+หมายเลขบรรทัด (4 หลัก)
+[Line Password]
+รหัสผ่านบรรทัด
+[Set Password]
+ตั้งรหัสผ่าน
+[Reset Password]
+รีเซ็ตรหัสผ่าน
+[Open]
+เพื่อเปิด
+[Unable to find default audio device]
+ไม่พบอุปกรณ์เสียง
+[Network is unreachable]
+ไม่สามารถเข้าถึงเครือข่ายได้
+[Allow access to the microphone in your antivirus settings.]
+อนุญาตให้เข้าถึงไมโครโฟนในการตั้งค่าโปรแกรมป้องกันไวรัสของคุณ
+[Fix microphone permission in the Windows settings (Windows Settings => Privacy => Microphone).]
+แก้ไขการอนุญาตไมโครโฟนในการตั้งค่า Windows (การตั้งค่า Windows =&gt; ความเป็นส่วนตัว =&gt; ไมโครโฟน)
+[Speakers and microphone both are required. To make calls you must have input and output sound device in your system.]
+ต้องใช้ทั้งลำโพงและไมโครโฟน ในการโทรออก คุณต้องมีอุปกรณ์เสียงอินพุตและเอาต์พุตในระบบของคุณ
+[Canceled]
+ยกเลิก
+[Unknown format]
+รูปแบบที่ไม่รู้จัก
+[Softphone is not initialized. Check your settings.]
+การตั้งค่าWindowsไม่ถูกต้อง ตรวจสอบการตั้งค่าของคุณ
+[Unable to initialize network sockets.]
+ไม่สามารถเริ่มต้นซ็อกเก็ตเครือข่าย
+[Starred]
+ติดดาว
+[Run at System Startup]
+เปิดโปรแกรมเมื่อเปิดเครื่อง
+[Run Batch]
+รันแบทช์
+[Call URL]
+URL การโทร
+[Call All]
+โทรทั้งหมด
+[Custom]
+กำหนดเอง
+[Take Back]
+เอาคืนไป
+[Add Contact]
+เพิ่มผู้ติดต่อ
+[Incorrect dialing or non-existent number]
+โทรออกไม่ถูกต้องหรือไม่มีหมายเลข
+[Profile]
+ประวัติโดยย่อ
+[Use Outbound Proxy]
+ใช้พร็อกซีขาออก
+[End]
+วางสาย
+[Address Incomplete]
+ที่อยู่ไม่สมบูรณ์
+[Not acceptable here]
+ที่นี่รับไม่ได้
+[Direct Transfer]
+โอนตรง
+[Idle]
+ไม่ได้ใช้งาน
+[Toggle]
+สลับ
+[Enter Password]
+ใส่รหัสผ่าน
+[Connection refused]
+การเชื่อมต่อถูกปฏิเสธ
+[Connection timed out]
+หมดเวลาการเชื่อมต่อ
+[Cannot get IP address of the called host]
+ไม่สามารถรับที่อยู่ IP ของโฮสต์ที่เรียกได้
+[Answered Elsewhere]
+ตอบที่อื่น.
+[Missed Call]
+สายที่ไม่ได้รับ
+[Do you want to delete user data and program settings? This action cannot be undone.]
+คุณต้องการลบข้อมูลผู้ใช้และการตั้งค่าโปรแกรมหรือไม่? การดำเนินการนี้ไม่สามารถยกเลิกได้
+[Unavailable]
+ไม่พร้อมใช้งาน
+[Call Limit]
+จำกัดการโทร
+[Hide Caller ID]
+ซ่อนหมายเลขผู้โทร
+[External Program]
+โปรแกรมภายนอก
+[]
