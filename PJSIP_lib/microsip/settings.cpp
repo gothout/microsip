@@ -37,42 +37,76 @@ namespace {
 static LPCTSTR const kWonitUsersDirectoryTemplate = _T("http://{domain}/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
 static LPCTSTR const kWonitUsersDirectorySuffix = _T("/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
 
+
 CString NormalizeUsersDirectory(const CString &value)
 {
 	CString directory = value;
 	directory.Trim();
+  
+	CString domain = accountDomain;
+	domain.Trim();
 
 	if (directory.IsEmpty()) {
-		return CString(kWonitUsersDirectoryTemplate);
-	}
-	if (directory.Find(_T("%s")) != -1 || directory.Find(_T("{")) != -1) {
-		return directory;
+		if (domain.IsEmpty()) {
+			return CString(kWonitUsersDirectoryTemplate);
+		}
+		CString url;
+		url.Format(_T("http://%s%s"), domain, kWonitUsersDirectorySuffix);
+		url.Trim();
+		return url;
 	}
 
-	CString directoryLower(directory);
-	directoryLower.MakeLower();
-	CString suffixLower(kWonitUsersDirectorySuffix);
-	suffixLower.MakeLower();
+	if (!domain.IsEmpty()) {
+		if (directory.Find(_T("{domain}")) != -1) {
+			CString normalized = directory;
+			normalized.Replace(_T("{domain}"), domain);
+			normalized.Trim();
+			return normalized;
+		}
 
-	if (directoryLower.Right(suffixLower.GetLength()) == suffixLower) {
-		CString prefixLower = directoryLower.Left(directoryLower.GetLength() - suffixLower.GetLength());
-		CString scheme;
-		if (prefixLower.Left(8) == _T("https://")) {
-			scheme = _T("https://");
-		}
-		else if (prefixLower.Left(7) == _T("http://")) {
-			scheme = _T("http://");
-		}
-		if (!scheme.IsEmpty()) {
-			CString templateValue;
-			templateValue.Format(_T("%s{domain}%s"), scheme, kWonitUsersDirectorySuffix);
-			return templateValue;
+		CString suffix(kWonitUsersDirectorySuffix);
+		CString suffixLower(suffix);
+		suffixLower.MakeLower();
+
+		CString directoryLower(directory);
+		directoryLower.MakeLower();
+
+		if (directoryLower.Right(suffixLower.GetLength()) == suffixLower) {
+			int suffixPos = directory.GetLength() - suffix.GetLength();
+			CString prefix = directory.Left(suffixPos);
+			CString prefixLower = directoryLower.Left(suffixPos);
+
+			int schemeLength = 0;
+			if (prefixLower.Left(8) == _T("https://")) {
+				schemeLength = 8;
+			}
+			else if (prefixLower.Left(7) == _T("http://")) {
+				schemeLength = 7;
+			}
+
+			int domainStart = schemeLength;
+			int atPos = prefix.ReverseFind(_T('@'));
+			if (atPos != -1 && atPos + 1 > domainStart) {
+				domainStart = atPos + 1;
+			}
+
+			CString currentDomain = prefix.Mid(domainStart);
+			CString currentDomainLower = currentDomain;
+			currentDomainLower.MakeLower();
+			CString desiredDomainLower = domain;
+			desiredDomainLower.MakeLower();
+
+			if (currentDomain.IsEmpty() || currentDomainLower != desiredDomainLower) {
+				CString beforeDomain = prefix.Left(domainStart);
+				CString updated = beforeDomain + domain + suffix;
+				updated.Trim();
+				return updated;
+			}
 		}
 	}
 
 	return directory;
 }
-
 } // namespace
 
 static LONGLONG FileSize(const wchar_t* name)
@@ -829,6 +863,7 @@ void AccountSettings::Init()
 			}
 		}
 	}
+	EnsureUsersDirectoryTemplate();
 	AccountLoad(0, &accountLocal);
 }
 
@@ -1236,7 +1271,7 @@ void AccountSettings::SettingsSave()
 
 void AccountSettings::EnsureUsersDirectoryTemplate()
 {
-	usersDirectory = NormalizeUsersDirectory(usersDirectory);
+	usersDirectory = NormalizeUsersDirectory(usersDirectory, account.domain);
 }
 
 CString ShortcutEncode(Shortcut *pShortcut)
