@@ -37,11 +37,12 @@ namespace {
 static LPCTSTR const kWonitUsersDirectoryTemplate = _T("http://{domain}/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
 static LPCTSTR const kWonitUsersDirectorySuffix = _T("/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
 
-CString NormalizeUsersDirectory(const CString &value, const CString &accountDomain)
+
+CString NormalizeUsersDirectory(const CString &value)
 {
 	CString directory = value;
 	directory.Trim();
-
+  
 	CString domain = accountDomain;
 	domain.Trim();
 
