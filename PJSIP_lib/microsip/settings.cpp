@@ -38,7 +38,7 @@ static LPCTSTR const kWonitUsersDirectoryTemplate = _T("http://{domain}/api/woni
 static LPCTSTR const kWonitUsersDirectorySuffix = _T("/api/wonit/agenda?token=oXg069kEHYugjb2wAbsUOc&favorito=true&status=true");
 
 
-CString NormalizeUsersDirectory(const CString &value)
+CString NormalizeUsersDirectory(const CString &value, const CString &accountDomain)
 {
 	CString directory = value;
 	directory.Trim();
