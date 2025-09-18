@@ -160,6 +160,7 @@ struct AccountSettings {
 	void AccountSave(int id, Account *account);
 	void AccountDelete(int id);
 	void SettingsSave();
+	void EnsureUsersDirectoryTemplate();
 };
 
 extern AccountSettings accountSettings;
